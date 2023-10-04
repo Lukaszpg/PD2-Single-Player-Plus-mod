@@ -1,0 +1,54 @@
+monster	oninit	level	item1	loc1	mod1	item2	loc2	mod2	item3	loc3	mod3	eol
+bloodraven	1	0	sbw	rarm	6							0
+flyingscimitar	1	0	scm	rarm	6							0
+valkyrie		27	ci2	head	6							0
+valkyrie		25	amu	neck	6							0
+valkyrie		23	uhc	belt	6							0
+valkyrie		21	uhb	feet	6							0
+valkyrie		19	utg	glov	6							0
+valkyrie		17	7p7	rarm	6							0
+valkyrie		16	uar	tors	6							0
+valkyrie		14	ci0	head	4							0
+valkyrie		13	amu	neck	4							0
+valkyrie		12	zhb	belt	4							0
+valkyrie		11	xhb	feet	4							0
+valkyrie		10	xhg	glov	4							0
+valkyrie		8	9p9	rarm	6							0
+valkyrie		7	xul	tors	6							0
+valkyrie		5	hbl	belt	4							0
+valkyrie		4	hbt	feet	4							0
+valkyrie		2	hgl	glov	4							0
+valkyrie		0	spr	rarm	6							0
+valkyrie		0	ful	tors	6							0
+shadowwarrior		20	7cs	rarm	6	7lw	rarm	6	7qr	rarm	6	0
+shadowwarrior		20	7tw	larm	6	7ar	larm	6	7wb	larm	6	0
+shadowwarrior		20	ulg	glov	6							0
+shadowwarrior		20	uth	tors	6	utp	tors	6				0
+shadowwarrior		20	usk	head	6	uhm	head	6				0
+shadowwarrior		20	uhb	feet	6							0
+shadowwarrior		12	9cs	rarm	4	9lw	rarm	6	9qr	rarm	6	0
+shadowwarrior		12	9tw	larm	4	9ar	larm	6	9wb	larm	6	0
+shadowwarrior		12	ulg	glov	4							0
+shadowwarrior		12	xth	tors	4	xtp	tors	4				0
+shadowwarrior		12	xsk	head	4	xhm	head	4				0
+shadowwarrior		12	xhb	feet	4							0
+shadowwarrior		0	ces	rarm	4	clw	rarm	4	skr	rarm	4	0
+shadowwarrior		0	btl	larm	4	ktr	larm	4	wrb	larm	4	0
+shadowwarrior		0	hbt	feet	4							0
+shadowmaster		20	7cs	rarm	6	7lw	rarm	6	7qr	rarm	6	0
+shadowmaster		20	7tw	larm	6	7ar	larm	6	7wb	larm	6	0
+shadowmaster		20	ulg	glov	6							0
+shadowmaster		20	uth	tors	6	utp	tors	6				0
+shadowmaster		20	usk	head	6	uhm	head	6				0
+shadowmaster		20	uhb	feet	6							0
+shadowmaster		12	9cs	rarm	4	9lw	rarm	6	9qr	rarm	6	0
+shadowmaster		12	9tw	larm	4	9ar	larm	6	9wb	larm	6	0
+shadowmaster		12	ulg	glov	4							0
+shadowmaster		12	xth	tors	4	xtp	tors	4				0
+shadowmaster		12	xsk	head	4	xhm	head	4				0
+shadowmaster		12	xhb	feet	4							0
+shadowmaster		0	ces	rarm	4	clw	rarm	4	skr	rarm	4	0
+shadowmaster		0	btl	larm	4	ktr	larm	4	wrb	larm	4	0
+shadowmaster		0	hbt	feet	4							0
+dopplezonnew		1	sbw	rarm	1							0
+*end*  do not remove												0
