@@ -14,7 +14,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
 5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder.
 6. Add -3dfx run parameter to your Plugy.exe shortcut.
-6. Use the recommended loot filter from "Releases" or adjust your personal loot filter (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder), using new items codes on the bottom of this page (loot filter knowledge required).
+6. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
 
 ## General loot table changes
 
