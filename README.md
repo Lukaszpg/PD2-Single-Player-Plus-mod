@@ -93,11 +93,11 @@ New unique small charm: Cain’s Wisdom - limited to one in inventory
 
 Stats:
 
-Level required: 80
-+1 to all skills
-75-100% to experience gained
-10-15% increased life
-10-15% increased mana
+* Level required: 80
+* +1 to all skills
+* 75-100% to experience gained
+* 10-15% increased life
+* 10-15% increased mana
 
 
 Created by combining 1 of each in the cube: 
