@@ -1,6 +1,6 @@
 # PD2-Single-player-mod
 
-Current version: 1.0.0
+Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v1.0.0
 
 ## About this mod
 
@@ -14,7 +14,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
 5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder.
 6. Add -3dfx run parameter to your Plugy.exe shortcut.
-6. Use the recommended loot filter from "Releases" or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
+6. Use the recommended loot filter from "Releases" or adjust your personal loot filter (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder), using new items codes on the bottom of this page (loot filter knowledge required).
 
 ## General loot table changes
 
@@ -83,7 +83,7 @@ Unique and set items drop limit has been removed - the items are now able to dro
 
 A couple of new orbs have been introduced to ease the hunt for perfect unique and set items. All below mentioned items drop (3% chance from “good drops” TC) in Hell difficulty:
 
-Mythic orb - allows normal/magic/rare armor/weapon to be transformed into a unique item of that base. Allows magic/rare rings and amulets to be transformed into unique. Items must be non-ethereal and non-corrupted. Cube with 25 jewel fragments to create a random rainbow facet. Sockets will be removed.
+Mythic orb - allows normal/magic/rare armor/weapon to be transformed into a unique item of that base. Allows magic/rare rings and amulets to be transformed into unique. Items must be non-corrupted and non-ethereal. Sockets will be removed. Cube with 25 jewel fragments to create a random rainbow facet.
 Divine orb - allows to reroll mod values on unique or set weapon/armor. Unique items must have no sockets, be non-corrupted. Set items must have no-sockets and be non-corrupted. IF USED ON BASE THAT HAS MORE THAN ONE UNIQUE ITEM BOUND TO IT, IT CAN REROLL THE UNIQUE ITEM, eg. Tyrael’s Might can be changed to Templar’s Might.
 Exalted orb - allows normal/magic/rare armor/weapon to be transformed into a set item of that base. Allows magic/rare rings and amulets to be transformed into set items. Items must be non-ethereal and non-corrupted. Sockets will be removed
 
