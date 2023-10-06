@@ -1,4 +1,4 @@
-# PD2-Single-player-mod
+# Project Diablo 2 Single Player Plus
 
 Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v1.0.0
 
@@ -8,24 +8,24 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 ## How to install
 
-1. Create a copy of your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
+1. Copy your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
 2. Install PD2 Plugy for SP by BetweenWalls: https://github.com/BetweenWalls/PD2-PlugY#pd2-plugy.
 3. Head to "Releases" and download most recent version of this mod.
 4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
 5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder.
 6. Add -3dfx run parameter to your Plugy.exe shortcut.
-6. Use the recommended loot filter from "Releases" or adjust your personal loot filter (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder), using new items codes on the bottom of this page (loot filter knowledge required).
+6. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
 
 ## General loot table changes
 
 * Rune drop rates increased by 500%. This means that when a rune drops it is 5 times less likely to downgrade to lower rune class. This change results in much more high and mid rune drops and much less lower rune drops
 * All act bosses in all difficulties are now permanently quest bugged
 * Chipped and normal gems removed from Hell “good drops” treasure class, resulting in more good drops (hard to estimate by how much %), also to make rooms in TC for custom items
-* Jewelry drop rates was decreased by 16%, allowing for higher chance of other drops
-* WSS drop rates increased by 500%
-* Perfect gems drop rates increased by 450%
+* Jewelry drop rates was decreased by 16% in Hell, allowing for higher chance of other drops
+* WSS drop rates increased by 500% in Hell
+* Perfect gems drop rates increased by 450% in Hell
 * Larzuk’s puzzle piece and Larzuk’s puzzle box were moved to a dedicated treasure class, which will result in more drops and won’t interfere with rune drops (in vanilla PD2, LPP was sharing treasure class with Mal and Ist, and LBOX with Gul and Vex)
-* Map drop rates outside of maps increased by 1100% and inside maps by 300%
+* Map drop rates outside of maps increased by 1100% in Hell and inside maps by 300%
 * Diablo’s Burning Essence of Terror drop rate set at 15% in Hell
 * Mephisto’s Charged Essence of Hatred drop rate set at 20% in Hell
 * Baal Festering Essence of Terror drop rate set at 15% in Hell
@@ -93,11 +93,11 @@ New unique small charm: Cain’s Wisdom - limited to one in inventory
 
 Stats:
 
-Level required: 80
-+1 to all skills
-75-100% to experience gained
-10-15% increased life
-10-15% increased mana
+* Level required: 80
+* +1 to all skills
+* 75-100% to experience gained
+* 10-15% increased life
+* 10-15% increased mana
 
 
 Created by combining 1 of each in the cube: 
