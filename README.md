@@ -128,3 +128,21 @@ A stack of shards can be transformed in the cube for the item. Below are the sha
 * “Dawn” - stack of 3 - Rising Sun
 * “Dark Alchemist” - stack of 5 - Vial of Lightsong
 * “Hatred’s Reflection” - stack of 5 - Lilith’s Mirror
+
+## New item codes
+
+Below item codes are assigned to new items that this mod introduced. 
+
+* Divine orb - dvo
+* Mythic orb - mfo
+* Exalted orb - exo
+* “Lawful Sentence” - fsls
+* “Luminescence” - fslu
+* “Ammuit Treasure” - fsat
+* “Untethered Soul” - fsus
+* “Rotting Bride” - fsrb 
+* “The Man from the High Castle” - fstm
+* “Dawn” - fsdn
+* “Dark Alchemist” - fsda
+* “Hatred’s Reflection” - fshr
+
