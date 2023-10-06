@@ -21,11 +21,11 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 * Rune drop rates increased by 500%. This means that when a rune drops it is 5 times less likely to downgrade to lower rune class. This change results in much more high and mid rune drops and much less lower rune drops
 * All act bosses in all difficulties are now permanently quest bugged
 * Chipped and normal gems removed from Hell “good drops” treasure class, resulting in more good drops (hard to estimate by how much %), also to make rooms in TC for custom items
-* Jewelry drop rates was decreased by 16%, allowing for higher chance of other drops
-* WSS drop rates increased by 500%
-* Perfect gems drop rates increased by 450%
+* Jewelry drop rates was decreased by 16% in Hell, allowing for higher chance of other drops
+* WSS drop rates increased by 500% in Hell
+* Perfect gems drop rates increased by 450% in Hell
 * Larzuk’s puzzle piece and Larzuk’s puzzle box were moved to a dedicated treasure class, which will result in more drops and won’t interfere with rune drops (in vanilla PD2, LPP was sharing treasure class with Mal and Ist, and LBOX with Gul and Vex)
-* Map drop rates outside of maps increased by 1100% and inside maps by 300%
+* Map drop rates outside of maps increased by 1100% in Hell and inside maps by 300%
 * Diablo’s Burning Essence of Terror drop rate set at 15% in Hell
 * Mephisto’s Charged Essence of Hatred drop rate set at 20% in Hell
 * Baal Festering Essence of Terror drop rate set at 15% in Hell
