@@ -12,7 +12,9 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 2. Install PD2 Plugy for SP by BetweenWalls: https://github.com/BetweenWalls/PD2-PlugY#pd2-plugy.
 3. Head to "Releases" and download most recent version of this mod.
 4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
-5. Use the recommended loot filter from "Releases" or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
+5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder.
+6. Add -3dfx run parameter to your Plugy.exe shortcut.
+6. Use the recommended loot filter from "Releases" or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
 
 ## General loot table changes
 
