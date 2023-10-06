@@ -1897,7 +1897,7 @@ orb of destruction + rare maps x13	1			100					14	"t3m,rar"	"scou,qty=13"						"
 orb of destruction + rare maps x12	1			100					13	"t3m,rar"	"scou,qty=12"						"usetype,nor,qty=12"			100																																																																																				0
 orb of destruction + rare maps x11	1			100					12	"t3m,rar"	"scou,qty=11"						"usetype,nor,qty=11"			100																																																																																				0
 orb of destruction + rare maps x10	1			100					11	"t3m,rar"	"scou,qty=10"						"usetype,nor,qty=10"			100																																																																																				0
-orb of destruction + rare maps x9	1			100					10	"t3m,rar"	"scou,qty=5"						"usetype,nor,qty=9"			100																																																																																				0
+"r26s,qty=1"	1			100					10	"t3m,rar"	"scou,qty=5"						"usetype,nor,qty=9"			100																																																																																				0
 orb of destruction + rare maps x8	1			100					9	"t3m,rar"	"scou,qty=4"						"usetype,nor,qty=8"			100																																																																																				0
 orb of destruction + rare maps x7	1			100					8	"t3m,rar"	"scou,qty=3"						"usetype,nor,qty=7"			100																																																																																				0
 orb of destruction + rare maps x6	1			100					7	"t3m,rar"	"scou,qty=6"						"usetype,nor,qty=6"			100																																																																																				0
@@ -1906,3 +1906,115 @@ orb of destruction + rare maps x4	1			100					5	"t3m,rar"	"scou,qty=4"						"use
 orb of destruction + rare maps x3	1			100					4	"t3m,rar"	"scou,qty=3"						"usetype,nor,qty=3"			100																																																																																				0
 orb of destruction + rare maps x2	1			100					3	"t3m,rar"	"scou,qty=2"						"usetype,nor,qty=2"			100																																																																																				0
 orb of destruction + rare maps x1	1			100					2	"t3m,rar"	"scou,qty=1"						"usetype,nor,qty=1"			100																																																																																				0
+																																																																																																								0
+DIVINE ORB																																																																																																								0
+																																																																																																								0
+Reroll unique non-ethereal no-socket armor values	1			100	18	361	0		2	armo,uni,noe,nos	"dvo,qty=1"						usetype,uni,noe			100																																																																																				0
+Reroll unique ethereal no-socket armor values	1			100	18	361	0		2	armo,uni,eth,nos	"dvo,qty=1"						usetype,uni,eth			100																																																																																				0
+Reroll unique non-ethereal no-socket weapon values	1			100	18	361	0		2	weap,uni,noe,nos	"dvo,qty=1"						usetype,uni,noe			100																																																																																				0
+Reroll unique ethereal no-socket weapon values	1			100	18	361	0		2	weap,uni,eth,nos	"dvo,qty=1"						usetype,uni,eth			100																																																																																				0
+Reroll set weapon no-socket values	1			100	18	361	0		2	weap,set,nos	"dvo,qty=1"						usetype,set			100																																																																																				0
+Reroll set armor no-socket values	1			100	18	361	0		2	armo,set,nos	"dvo,qty=1"						usetype,set			100																																																																																				0
+																																																																																																								0
+MYTHIC ORB																																																																																																								0
+																																																																																																								0
+Convert normal quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,nor	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert magic quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,mag	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert rare quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,rar	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert normal quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,nor	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert magic quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,mag	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert rare quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,rar	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert magic quality ring to unique	1			100	18	361	0		2	ring,mag	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert rare quality ring to unique	1			100	18	361	0		2	ring,rar	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert magic quality amulet to unique	1			100	18	361	0		2	amul,mag	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Convert rare quality amulet to unique	1			100	18	361	0		2	amul,rar	"mfo,qty=1"						usetype,uni,noe			100																																																																																				0
+Mythic orb+ 25 jewel fragments = random rainbow facet	1			100					2	"mfo,qty=1"	"jewf,qty=25"						jew,uni	85		100																																																																																				0
+																																																																																																								0
+EXALTED ORB																																																																																																								0
+																																																																																																								0
+Convert normal quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,nor	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert magic quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,mag	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert rare quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,rar	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert normal quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,nor	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert magic quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,mag	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert rare quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,rar	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert magic quality amulet to set piece	1			100	18	361	0		2	amul,mag	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert rare quality amulet to set piece	1			100	18	361	0		2	amul,rar	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert magic quality ring to set piece	1			100	18	361	0		2	ring,mag	"exo,qty=1"						usetype,set			100																																																																																				0
+Convert rare quality ring to set piece	1			100	18	361	0		2	ring,rar	"exo,qty=1"						usetype,set			100																																																																																				0
+																																																																																																								0
+																																																																																																								0
+EXCHANGES																																																																																																								0
+3x LPP + Mal = Larzuk's Puzzle Box	1			100					4	lpp,qty=3	r23s,qty=1						useitem			100																										lbox																																																										0
+Larzuk's Puzzle Box + Vex = 2x Larzuk's Puzzle Box	1			100					2	lbox,qty=1	"r26s,qty=1"						useitem			100																										lbox																													lbox																													0
+Larzuk's Puzzle Box + Key = Vex	1			100					2	lbox,qty=1	"key,qty=1"						"r26s,qty=1"			100																																																																																				0
+LPP + Key = Mal	1			100					2	lpp,qty=1	"key,qty=1"						"r23s,qty=1"			100																																																																																				0
+Catalyst Shard + mal = 2x catalyst shard	1			100					2	r23s,qty=1	"iwss,qty=1"						useitem			100																										iwss																													iwss																													0
+Lilith's Mirror + Key = 4x Ber	1			100					2	llmr	"key,qty=1"						r30s,qty=4			100																																																																																				0
+Vial of Lightsong + Key = 2x Ber	1			100					2	lsvl	"key,qty=1"						r30s,qty=2			100																																																																																				0
+																																																																																																								0
+RUNE DOWNGRADING																																																																																																								0
+																																																																																																								0
+r02 downgrade eld -> 2 el	1			100					2	"key,qty=1"	"r02,qty=1"						useitem			100																										"r01s,qty=2"																																																										0
+r03 downgrade tir -> 2 eld	1			100					2	"key,qty=1"	"r03,qty=1"						useitem			100																										"r02s,qty=2"																																																										0
+r04 downgrade nef -> 2 tir	1			100					2	"key,qty=1"	"r04,qty=1"						useitem			100																										"r03s,qty=2"																																																										0
+r05 downgrade eth -> 2 nef	1			100					2	"key,qty=1"	"r05,qty=1"						useitem			100																										"r04s,qty=2"																																																										0
+r06 downgrade ith -> 2 eth	1			100					2	"key,qty=1"	"r06,qty=1"						useitem			100																										"r05s,qty=2"																																																										0
+r07 downgrade tal -> 2 ith	1			100					2	"key,qty=1"	"r07,qty=1"						useitem			100																										"r06s,qty=2"																																																										0
+r08 downgrade ral -> 2 tal	1			100					2	"key,qty=1"	"r08,qty=1"						useitem			100																										"r07s,qty=2"																																																										0
+r09 downgrade ort -> 2 ral	1			100					2	"key,qty=1"	"r09,qty=1"						useitem			100																										"r08s,qty=2"																																																										0
+r10 downgrade thul -> 2 ort	1			100					2	"key,qty=1"	"r10,qty=1"						useitem			100																										"r09s,qty=2"																																																										0
+r11 downgrade amn -> 2 thul	1			100					2	"key,qty=1"	"r11,qty=1"						useitem			100																										"r10s,qty=2"																																																										0
+r12 downgrade sol -> 2 amn	1			100					2	"key,qty=1"	"r12,qty=1"						useitem			100																										"r11s,qty=2"																																																										0
+r13 downgrade shael -> 2 sol	1			100					2	"key,qty=1"	"r13,qty=1"						useitem			100																										"r12s,qty=2"																																																										0
+r14 downgrade dol -> 2 shael	1			100					2	"key,qty=1"	"r14,qty=1"						useitem			100																										"r13s,qty=2"																																																										0
+r15 downgrade hel -> 2 dol	1			100					2	"key,qty=1"	"r15,qty=1"						useitem			100																										"r14s,qty=2"																																																										0
+r16 downgrade io -> 2 hel	1			100					2	"key,qty=1"	"r16,qty=1"						useitem			100																										"r15s,qty=2"																																																										0
+r17 downgrade lum -> 2 io	1			100					2	"key,qty=1"	"r17,qty=1"						useitem			100																										"r16s,qty=2"																																																										0
+r18 downgrade ko -> 2 lum	1			100					2	"key,qty=1"	"r18,qty=1"						useitem			100																										"r17s,qty=2"																																																										0
+r19 downgrade fal -> 2 ko	1			100					2	"key,qty=1"	"r19,qty=1"						useitem			100																										"r18s,qty=2"																																																										0
+r20 downgrade lem -> 2 fal	1			100					2	"key,qty=1"	"r20,qty=1"						useitem			100																										"r19s,qty=2"																																																										0
+r21 downgrade pul -> 2 lem	1			100					2	"key,qty=1"	"r21,qty=1"						useitem			100																										"r20s,qty=2"																																																										0
+r22 downgrade um -> 2 pul	1			100					2	"key,qty=1"	"r22,qty=1"						useitem			100																										"r21s,qty=2"																																																										0
+r23 downgrade mal -> 2 um	1			100					2	"key,qty=1"	"r23,qty=1"						useitem			100																										"r22s,qty=2"																																																										0
+r24 downgrade ist -> 2 mal	1			100					2	"key,qty=1"	"r24,qty=1"						useitem			100																										"r23s,qty=2"																																																										0
+r25 downgrade gul -> Ist	1			100					2	"key,qty=1"	"r25,qty=1"						useitem			100																										r24s																																																										0
+r26 downgrade vex -> Gul	1			100					2	"key,qty=1"	"r26,qty=1"						useitem			100																										r25s																																																										0
+r27 downgrade ohm -> Vex	1			100					2	"key,qty=1"	"r27,qty=1"						useitem			100																										r26s																																																										0
+r28 downgrade lo -> Ohm	1			100					2	"key,qty=1"	"r28,qty=1"						useitem			100																										r27s																																																										0
+r29 downgrade sur -> Lo	1			100					2	"key,qty=1"	"r29,qty=1"						useitem			100																										r28s																																																										0
+r30 downgrade ber -> Sur	1			100					2	"key,qty=1"	"r30,qty=1"						useitem			100																										r29s																																																										0
+r31 downgrade jah -> Ber	1			100					2	"key,qty=1"	"r31,qty=1"						useitem			100																										r30s																																																										0
+r32 downgrade cham ->Jah	1			100					2	"key,qty=1"	"r32,qty=1"						useitem			100																										r31s																																																										0
+r33 downgrade zod -> Cham	1			100					2	"key,qty=1"	"r33,qty=1"						useitem			100																										r32s																																																										0
+																																																																																																								0
+CAIN'S WISDOM CREATION AND CORRUPTIONS																																																																																																								0
+																																																																																																								0
+Small Charm + TES + CEH + BET + FED = Cain's Wisdom	1			100					5	"tes,qty=1"	"ceh,qty=1"	"bet,qty=1"	"fed,qty=1"	cm1			Cain's Wisdom	80																																																																																						0
+																																																																																																								0
+# NORMAL WSS CORRUPTIONS																																																																																																								0
+																																																																																																								0
+Add corrupt factor to Cain's Wisdom	1	2		100	18	361	0		2	Cain's Wisdom	"wss,qty=1"						useitem			100	corruptnum	100		1	1000																					"wss,qty=1"																																																										0
+Cain's Wisdom -> destroyed (mag) (25%)	1			100	16	361	250		2	Cain's Wisdom	"wss,qty=1"						"cm1,mag"			100	corrupt	100		1	1	corruptnum	100		1001	1001	dye	100		4	4																																																																					0
+item -> added all skills +1	1			100	16	361	500		2	Cain's Wisdom	"wss,qty=1"						useitem			100	corrupt	100		27	27	corruptnum	100		1001	1001	allskills	100		1	1	dye	100		4	4																																																																0
+item -> added all res 	1			100	16	361	750		2	Cain's Wisdom	"wss,qty=1"						useitem			100	corrupt	100		90	90	corruptnum	100		1001	1001	res-all	100		5	10	dye	100		4	4																																																																0
+item -> added +xp	1			100	16	361	1000		2	Cain's Wisdom	"wss,qty=1"						useitem			100	corrupt	100		89	89	corruptnum	100		1001	1001	addxp	100		10	20	dye	100		4	4																																																																0
+																																																																																																								0
+																																																																																																								0
+# TAINTED WSS CORRUPTIONS																																																																																																								0
+																																																																																																								0
+Add corrupt factor to Cain's Wisdom	1	2		100	18	361	0		2	Cain's Wisdom	"cwss,qty=1"						useitem			100	corruptnum	100		1	999																					"cwss,qty=1"																																																										0
+item -> added all skills +1 and all res	1			100	16	361	333		2	Cain's Wisdom	"cwss,qty=1"						useitem			100	corrupt	100		27	27	corruptnum	100		1001	1001	allskills	100		1	1	res-all	100		5	10	dye	100		10	10																																																											0
+item -> added all skills +1 and +xp	1			100	16	361	666		2	Cain's Wisdom	"cwss,qty=1"						useitem			100	corrupt	100		90	90	corruptnum	100		1001	1001	res-all	100		5	10	addxp	100		10	20	dye	100		10	10																																																											0
+item -> added all res and +xp	1			100	16	361	999		2	Cain's Wisdom	"cwss,qty=1"						useitem			100	corrupt	100		89	89	corruptnum	100		1001	1001	res-all	100		5	10	addxp	100		10	20	dye	100		10	10																																																											0
+																																																																																																								0
+FATE SHARD EXCHANGE																																																																																																								0
+3 of Lawful Sentence -> Tal Rasha’s Adjudication	1			100					1	fsls,qty=3							Tal Rasha's Adjudication	100																																																																																						0
+3 of Luminescence -> Mara's Kaleidoscope	1			100					1	fslu,qty=3							Mara's Kaleidoscope	100																																																																																						0
+3 of Ammuit Treasure -> The Stone of Jordan	1			100					1	fsat,qty=3							The Stone of Jordan	100																																																																																						0
+3 of Untethered Soul -> Wisp Projector	1			100					1	fsus,qty=3							Wisp	100																																																																																						0
+3 of Rotting Bride -> Wisp Projector	1			100					1	fsrb,qty=3							Bul Katho's Wedding Band	100																																																																																						0
+3 of The Man from the High Castle -> Highlord's Wrath	1			100					1	fstm,qty=3							Highlord's Wrath	100																																																																																						0
+3 of Dawn -> Rising Sun	1			100					1	fsdn,qty=3							The Rising Sun	100																																																																																						0
+5 of Dark Alchemist -> Vial of Lightsong	1			100					1	fsda,qty=5							lsvl																																																																																							0
+5 of Hatred's Reflection -> Lilith's Mirror	1			100					1	fshr,qty=5							llmr																																																																																							0

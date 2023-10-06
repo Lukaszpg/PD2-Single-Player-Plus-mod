@@ -220,3 +220,5 @@ ImbueRare Ready	irra			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 RerollRare Ready	rrra			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 UpgradeMag Ready	urma			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 2H Sword	2hsw	swor	2han	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
+New Orbs	norb			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+Fate Shards	fash			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
