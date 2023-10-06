@@ -1,4 +1,4 @@
-# PD2-Single-player-mod
+# Project Diablo 2 Single Player Plus
 
 Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v1.0.0
 
