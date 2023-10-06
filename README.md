@@ -8,7 +8,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 ## How to install
 
-1. Create a copy of your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
+1. Copy your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
 2. Install PD2 Plugy for SP by BetweenWalls: https://github.com/BetweenWalls/PD2-PlugY#pd2-plugy.
 3. Head to "Releases" and download most recent version of this mod.
 4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
