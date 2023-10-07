@@ -14,7 +14,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
 5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder.
 6. Add -3dfx run parameter to your Plugy.exe shortcut.
-7. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
+7. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required). This loot filter is marvelous [Kryszard's](https://github.com/Kryszard-POD/Kryszard-s-PD2-Loot-Filter) loot filter with added new items.
 8. Launch the game through the Plugy shortcut.
 9. If the mod was installed correctly, Akara should sell an item that has graphics of Alkor's quest potion.
 
