@@ -19,7 +19,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 3. Head to "Releases" and download most recent version of this mod.
 
-4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
+4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step one.
 
 5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder.
 
