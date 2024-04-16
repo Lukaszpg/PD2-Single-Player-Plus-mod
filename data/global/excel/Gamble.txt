@@ -31,10 +31,6 @@ Giant Sword	gis
 Bastard Sword	bsw
 Flamberge	flb
 Great Sword	gsd
-Dagger	dgr
-Dirk	dir
-Kriss	kri
-Blade	bld
 Spear	spr
 Trident	tri
 Brandistock	brn

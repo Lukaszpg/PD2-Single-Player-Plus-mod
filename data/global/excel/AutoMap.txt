@@ -4218,3 +4218,153 @@ Expansion
 38	fl	51	48	51	hellcaves_base FloorCaveB_BackEdgeL	1513		-1		-1		-1
 38	fl	51	36	36	hellcaves_base FloorCaveB_BackEdgeNC	1511		-1		-1		-1
 38	fl	51	52	52	hellcaves_base FloorCaveB_BackEdgeNC	1511		-1		-1		-1
+39	wr	2	3	6	WR A	20		-1		-1		-1
+39	wr	2	12	12	WBR	25		-1		-1		-1
+39	wl	2	3	4	WL A	21		-1		-1		-1
+39	wl	2	10	11	WL A	21		-1		-1		-1
+39	wtr	2	2	2	WL A	21		-1		-1		-1
+39	wtlr	2	-1	-1	WTLL	24		-1		-1		-1
+39	wtll	2	-1	-1	WTLL	24		-1		-1		-1
+39	wbr	2	-1	-1	WBR	25		-1		-1		-1
+39	wtr	2	6	6	WTR	23		-1		-1		-1
+39	wbl	2	6	6	WBL	22		-1		-1		-1
+39	fl	10	0	0	trench owbr 10 0	1260		-1		-1		-1
+39	fl	10	4	4	trench owl 10 4	1261		-1		-1		-1
+39	fl	10	1	1	trench owtr 10 1	1262		-1		-1		-1
+39	fl	10	3	3	trench owbl 10 3	1263		-1		-1		-1
+39	fl	10	5	5	trench owr 10 5	1264		-1		-1		-1
+39	fl	10	6	6	trench bowl 10 6	1265		-1		-1		-1
+39	fl	10	7	7	trench bowr 10 7	1266		-1		-1		-1
+39	fl	10	2	2	trench owtll 10 2	1267		-1		-1		-1
+39	fl	10	11	11	trench iwbl 10 11	1268		-1		-1		-1
+39	fl	10	9	9	trench iwtr 10 9	1269		-1		-1		-1
+39	fl	10	8	8	trench iwbr 10 8	1270		-1		-1		-1
+39	fl	10	10	10	trench iwtll 10 12	1271		-1		-1		-1
+39	fl	10	15	15	trench wle 10 13	1272		-1		-1		-1
+39	fl	10	16	16	trench wle 10 14	1273		-1		-1		-1
+39	fl	10	17	17	trench wle 10 15	1274		-1		-1		-1
+39	fl	10	18	18	trench wle 10 16	1275		-1		-1		-1
+39	fl	10	19	19	trench wre 10 17	1276		-1		-1		-1
+39	fl	10	20	20	trench wre 10 18	1277		-1		-1		-1
+39	fl	10	21	21	trench wre 10 19	1278		-1		-1		-1
+39	fl	10	22	22	trench wre 10 20	1279		-1		-1		-1
+39	wr	3	-1	-1	C_WR a	46	C_WR b	47	C_WR c	48	C_WR d	49
+39	wl	3	-1	-1	C_WL a	51	C_WL b	52	C_WL c	53	C_WL d	54
+39	wtlr	3	-1	-1	C_WTLL	55		-1		-1		-1
+39	wtll	3	-1	-1	C_WTLL	55		-1		-1		-1
+39	wbr	3	-1	-1	C_WBR	50		-1		-1		-1
+39	fl	8	4	4	"trench2 bowl 8 4,6"	1280		-1		-1		-1
+39	fl	9	32	32	"trench2 bowr 8 8,9"	1281		-1		-1		-1
+39	fl	8	8	9	"trench2 bowr 8 8,9"	1281		-1		-1		-1
+39	fl	8	32	32	trench2 owtr 8 32	1282		-1		-1		-1
+39	fl	8	34	34	trench2 owtr 8 34	1283		-1		-1		-1
+39	fl	9	34	34	trench2 owtr 8 34	1283		-1		-1		-1
+39	fl	8	24	24	trench2 owbl 8 24	1284		-1		-1		-1
+39	fl	8	25	25	trench2 owbl 8 25	1285		-1		-1		-1
+39	fl	9	36	36	"trench2 owr 8 16,17,44,45"	1286		-1		-1		-1
+39	fl	8	16	17	"trench2 owr 8 16,17,44,45"	1286		-1		-1		-1
+39	fl	8	12	12	"trench2 owl 8 12,13,48"	1287		-1		-1		-1
+39	fl	8	28	28	trench2 owbr 8 28	1288		-1		-1		-1
+39	fl	8	45	45	trench2 wre 8 47	1289		-1		-1		-1
+39	fl	8	44	44	"trench2 owr 8 16,17,44,45"	1286		-1		-1		-1
+39	fl	8	48	48	trench2 wle 8 48	1294		-1		-1		-1
+39	fl	8	42	42	trench2 wle 8 42	1290		-1		-1		-1
+39	fl	8	36	36	trench2 wre 8 36	1291		-1		-1		-1
+39	fl	8	51	51	trench2 wle 8 50	1292		-1		-1		-1
+39	fl	8	6	6	"trench2 bowl 8 4,6"	1280		-1		-1		-1
+39	fl	9	30	30	"trench2 bowl 8 4,6"	1280		-1		-1		-1
+39	fl	8	40	40	"trench2 bowl 8 4,6"	1280		-1		-1		-1
+39	fl	9	25	25	trench2 wbr 9 25	1298		-1		-1		-1
+39	fl	8	22	22	"trench2 bowl 8 4,6"	1280		-1		-1		-1
+39	fl	8	21	21	"trench2 bowr 8 8,9"	1281		-1		-1		-1
+39	fl	8	37	37	"trench2 bowr 8 8,9"	1281		-1		-1		-1
+39	fl	8	20	20	trench2 wtlr 8 20	1293		-1		-1		-1
+39	fl	8	14	14	"trench2 owl 8 12,13,48"	1287		-1		-1		-1
+39	fl	9	15	15	"trench2 owl 8 12,13,48"	1287		-1		-1		-1
+39	fl	9	14	14	"trench2 owr 8 16,17,44,45"	1286		-1		-1		-1
+39	fl	9	19	19	trench2 wtr 9 19	1296		-1		-1		-1
+39	fl	9	22	22	trench2 wtr 9 22	1297		-1		-1		-1
+39	fl	3	1	1	clfedge ld	1303		-1		-1		-1
+39	fl	3	7	7	clfedge 3 7	1304		-1		-1		-1
+39	fl	33	0	0	clfedge 	1300		-1		-1		-1
+39	fl	3	2	2	clfedge 3 2	1301		-1		-1		-1
+39	fl	3	8	8	clfedge 3 8 	1302		-1		-1		-1
+39	fl	3	0	0	clfedge rd	1305		-1		-1		-1
+39	fl	3	9	9	clfedge 3 9	1306		-1		-1		-1
+39	fl	3	3	3	clfedge 3 3	1307		-1		-1		-1
+39	fl	3	6	6	clfedge 3 6	1308		-1		-1		-1
+39	fl	3	4	4	clfedge 3 4	1309		-1		-1		-1
+39	fl	3	5	5	clfedge 3 5	1310		-1		-1		-1
+39	fl	3	14	14	clfedge rd	1305		-1		-1		-1
+39	fl	3	13	13	clfedge 3 13	1312		-1		-1		-1
+39	fl	3	11	11	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	5	17	17	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	4	0	0	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	4	2	2	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	4	46	46	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	4	18	18	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	5	0	0	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	4	28	28	"lowwall 4 0,2"	1313		-1		-1		-1
+39	fl	4	34	34	lowwall 4 34	1314		-1		-1		-1
+39	fl	4	14	15	"lowwall 4 14,15,31"	1315		-1		-1		-1
+39	fl	4	31	31	"lowwall 4 14,15,31"	1315		-1		-1		-1
+39	fl	4	30	30	lowwall 4 30	1316		-1		-1		-1
+39	fl	5	24	24	"lowwall 4 14,15,31"	1315		-1		-1		-1
+39	fl	5	10	10	lowwall 5 10	1317		-1		-1		-1
+39	fl	5	8	8	lowwall 5  8	1318		-1		-1		-1
+39	fl	4	16	16	lowwall 4 16	1319		-1		-1		-1
+39	fl	4	4	5	lowwall 4 17	1320		-1		-1		-1
+39	fl	4	17	17	lowwall 4 17	1320		-1		-1		-1
+39	fl	5	19	19	lowwall 4 17	1320		-1		-1		-1
+39	fl	4	9	9	"lowwall 4 9,11,22"	1325		-1		-1		-1
+39	fl	4	11	11	"lowwall 4 9,11,22"	1325		-1		-1		-1
+39	fl	4	37	37	lowwall 4 37	1324		-1		-1		-1
+39	fl	4	53	53	lowwall 4 53	1323		-1		-1		-1
+39	fl	5	12	12	lowwall 5 12	1321		-1		-1		-1
+39	fl	5	13	13	lowwall 5 13	1322		-1		-1		-1
+39	fl	4	51	51	lowwall 4 20	1326		-1		-1		-1
+39	fl	32	21	23	"transition 32 21,23"	1338		-1		-1		-1
+39	fl	32	32	34	"transition 32 32,34"	1339		-1		-1		-1
+39	fl	32	58	60	"transition 32 21,23"	1338		-1		-1		-1
+39	fl	33	1	3	"transition 32 32,34"	1339		-1		-1		-1
+39	fl	33	9	12	trans rocks1	1360		-1		-1		-1
+39	fl	32	32	34	trans rocks1	1360		-1		-1		-1
+39	fl	33	33	43	trans rocks1	1360		-1		-1		-1
+39	fl	33	45	53	trans rocks1	1360		-1		-1		-1
+39	fl	32	62	63	trans rocks1	1360		-1		-1		-1
+39	fl	33	6	6	trans rocks1	1360		-1		-1		-1
+39	fl	33	0	0	trans rocks2	1361		-1		-1		-1
+39	fl	32	5	8	trans rocks2	1361		-1		-1		-1
+39	fl	32	16	17	trans rocks2	1361		-1		-1		-1
+39	fl	32	26	28	trans rocks2	1361		-1		-1		-1
+39	fl	32	37	40	trans rocks2	1361		-1		-1		-1
+39	fl	32	0	4	trans rocks1	1360		-1		-1		-1
+39	fl	32	43	45	trans rocks1	1360		-1		-1		-1
+39	fl	32	54	56	trans rocks2	1361		-1		-1		-1
+39	wr	30	2	2	trans rocks2	1361		-1		-1		-1
+39	wr	30	4	4	trans rocks2	1361		-1		-1		-1
+39	wr	30	3	3	trans rocks1	1360		-1		-1		-1
+39	wtll	30	4	4	trans rocks1	1360		-1		-1		-1
+39	wl	30	8	8	trans rocks3	1362		-1		-1		-1
+39	wl	2	20	23	fence wl	1256		-1		-1		-1
+39	wtr	2	20	23	fence wl	1256		-1		-1		-1
+39	wr	2	20	23	fence wr	1257		-1		-1		-1
+39	wbl	2	20	23	fence wr	1257		-1		-1		-1
+39	wtll	2	20	23	fence wtll	1255		-1		-1		-1
+39	wtlr	2	20	23	fence wtll	1255		-1		-1		-1
+39	wbl	20	0	0	tent1L wbl 20 0	1407		-1		-1		-1
+39	wl	20	0	0	tent1R wl 20 0	1408		-1		-1		-1
+39	wbl	20	1	1	tent2L wbl 20 1	1409		-1		-1		-1
+39	wtr	20	1	1	tent2R wbr 20 1	1410		-1		-1		-1
+39	fl	10	37	37	shenk pit 10 37	1492		-1		-1		-1
+39	fl	10	34	34	shenk pit 10 34	1493		-1		-1		-1
+39	wr	11	-1	-1	WR A	20		-1		-1		-1
+39	wl	11	0	10	WL A	21		-1		-1		-1
+39	wl	11	12	30	WL A	21		-1		-1		-1
+39	wtlr	11	-1	-1	WTLL	24		-1		-1		-1
+39	wtll	11	-1	-1	WTLL	24		-1		-1		-1
+39	wbr	11	-1	-1	WBR	25		-1		-1		-1
+39	wtr	11	-1	-1	WTR	23		-1		-1		-1
+39	wbl	11	-1	-1	WBL	22		-1		-1		-1
+39	fl	60	26	26	PD2 - Daken-Shar path	1360		-1		-1		-1
+39	fl	7	0	0	PD2 - Kanemith Water	6		-1		-1		-1

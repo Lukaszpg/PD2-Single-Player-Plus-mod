@@ -1106,7 +1106,7 @@ Jungle Map	1102	148	1	1	1	0	1	1	0	0	0	1	0	-4	3	Expansion/Map/Jungle1.ds1	Expansi
 Fortress Map	1103	149	1	1	1	0	1	1	0	0	0	1	0	-4	3	Expansion/Map/Fortress1.ds1	Expansion/Map/Fortress2.ds1	Expansion/Map/Fortress3.ds1	0	0	0	134217727	0	1
 Throne Map	1104	150	1	0	0	0	1	1	0	0	0	1	0	0	3	Expansion/Map/throne1.ds1	Expansion/Map/throne2.ds1	Expansion/Map/throne3.ds1	0	0	0	95	0	1
 Tomb Map	1105	151	1	0	0	0	1	1	0	0	0	1	0	0	4	Expansion/Map/Tomb1.ds1	Expansion/Map/Tomb2.ds1	Expansion/Map/Tomb3.ds1	Expansion/Map/Tomb4.ds1	0	0	2047	0	1
-Monastery Map	1106	152	1	1	0	0	0	1	0	0	0	1	0	-4	3	Expansion/Map/Monastery.ds1	Expansion/Map/MonasteryV1.ds1	Expansion/Map/MonasteryV2.ds1	0	0	0	2097151	0	1
+Monastery Map	1106	152	1	1	0	0	0	1	0	0	0	1	0	-4	1	Expansion/Map/Monastery.ds1	0	0	0	0	0	2097151	0	1
 Monastery Map Basement	1107	153	1	1	0	0	0	1	0	0	0	1	0	0	1	Expansion/Map/MonasteryBase.ds1	0	0	0	0	0	57	0	1
 Graveyard Map	1108	154	1	0	1	0	0	1	0	0	0	1	2	-4	3	Expansion/Map/TristMap.ds1	Expansion/Map/TristMapV2.ds1	Expansion/Map/TristMapV3.ds1	0	0	0	536870655	1	0
 Caldeum Map	1109	155	1	1	1	0	0	1	0	0	0	1	2	-4	3	Expansion/Map/Caldeum.ds1	Expansion/Map/Caldeum2.ds1	Expansion/Map/Caldeum3.ds1	0	0	0	32767	1	0
@@ -1134,9 +1134,12 @@ Zhar Main	1130	176	1	1	0	0	0	1	0	0	0	1	0	-4	1	Expansion/Map/ZharLibrary.ds1	0	0	
 Zhar 1 - Rivers	1131	177	1	1	1	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/ZharRivers.ds1	0	0	0	0	0	1048575	0	1
 Zhar 2 - Ice	1132	178	1	1	1	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/ZharIce.ds1	0	0	0	0	0	63	0	1
 Zhar 3 - Kurast	1133	179	1	1	1	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/ZharKurast.ds1	0	0	0	0	0	2097151	0	1
-Void Event Map	1134	180	1	0	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/VoidEventMap.ds1	0	0	0	0	0	16383	1	0
+Void Event Map	1134	180	1	1	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/VoidEventMap.ds1	0	0	0	0	0	16383	1	0
 Unused	1135	0	1	1	1	0	1	1	0	0	0	1	0	-4	1	Expansion/Map/hellcaves_palette.ds1	0	0	0	0	0	32767	0	0
 Hellcaves	1136	181	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/hellcaves.ds1	0	0	0	0	0	32767	1	0
 HellcaveFortress	1137	182	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/hellcavefortress.ds1	0	0	0	0	0	32767	1	0
 FallenGardens	1138	183	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/FallenGardens.ds1	0	0	0	0	0	32505859	1	0
 DiamondGates	1139	184	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/diamondgates.ds1	0	0	0	0	0	54784	1	0
+PD2 - Pandemonium Finale	1140	185	1	1	1	0	0	1	0	0	0	1	0	0	1	Act1/Tristram/pd2_ubertrist.ds1	0	0	0	0	0	63	0	0
+Kanemith Outside	1141	186	1	0	0	0	1	1	0	0	0	1	1	-4	1	Expansion/Map/dakenshar.ds1	0	0	0	0	0	1047423	0	1
+Kanemith Dungeon	1142	187	1	0	0	0	1	1	0	0	0	1	1	-4	1	Expansion/Map/tombsofkanemith.ds1	0	0	0	0	0	1920	0	1

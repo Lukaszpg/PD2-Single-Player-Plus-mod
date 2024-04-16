@@ -33,9 +33,9 @@ nextexp	30			32													1024																																			0
 armorclass	31		1	16											17	10	1024		10	10	11	10																	71	1	1	ModStr1i	ModStr1i									0
 armorclass_vs_missile	32		1	16											11	5	1024		8	0	9	0																	69	1	1	ModStr6a	ModStr6a									0
 armorclass_vs_hth	33		1	16											13	7	1024		8	0	8	0																	70	1	1	ModStr6b	ModStr6b									0
-normal_damage_reduction	34		1	10											188	200	1024		6	0	6	0																	22	3	2	ModStr2u	ModStr2u									0
-magic_damage_reduction	35		1	10											397	340	1024		6	0	6	0																	21	3	2	ModStr2t	ModStr2t									0
-damageresist	36		1	9											152	68	1024		8	0	8	0																	22	2	2	ModStr2u	ModStr2u									0
+normal_damage_reduction	34		1	10											188	200	1024		6	0	6	0																	22	3	2	ModStr2u_PD2	ModStr2u_PD2									0
+magic_damage_reduction	35		1	10											397	340	1024		6	0	6	0																	21	3	2	ModStr2t_PD2	ModStr2t_PD2									0
+damageresist	36		1	9											152	68	1024		8	0	8	0																	22	2	2	ModStr2u_PD2	ModStr2u_PD2									0
 magicresist	37		1	9											164	68	1024		8	0	8	0																	41	4	2	ModStr1m	ModStr1m									0
 maxmagicresist	38		1	9											1091	409	1024		5	0	5	0																	46	4	1	ModStr5x	ModStr5x									0
 fireresist	39		1	9											43	20	1024		8	0	8	50																	36	4	2	ModStr1j	ModStr1j		2	19		strModAllResistances	strModAllResistancesNeg			0
@@ -113,7 +113,7 @@ item_poisonlengthresist	110		1	9											27	10	1024		8	20	8	20																
 item_normaldamage	111		1	8											94	100	1024		7	20	9	20												1					122	1	2	ModStr5b	ModStr5b									0
 item_howl	112		1	8							1				55	10	1024		7	-1	7	-1												1	domeleedamage	8	domissiledamage	8	79	5	2	ModStr3u	ModStr3u									0
 item_stupidity	113		1	8							1				332	1024	1024		7	0	7	0												1	domeleedamage	9	domissiledamage	9	80	12	2	ModStr6d	ModStr6d									0
-item_damagetomana	114		1	7							1				43	20	1024		6	0	6	0													damagedinmelee	13	damagedbymissile	13	11	2	1	ModStr3w	ModStr3w									0
+item_damagetomana	114		1	7							1				43	20	1024		6	0	6	0													damagedinmelee	13	damagedbymissile	13	11	2	1	ModStr3w_PD2	ModStr3w_PD2									0
 item_ignoretargetac	115		1	2											1088	1024	1024		1	0	1	0												1					119	3	0	ModStr3y	ModStr3y									0
 item_fractionaltargetac	116		1	8											67	20	1024		7	0	7	0												1					118	20	1	ModStr5o	ModStr5o									0
 item_preventheal	117		1	8											48	50	1024		7	0	7	0												1					81	3	0	ModStr4a	ModStr4a									0
@@ -184,7 +184,7 @@ fade	181	1		7															14	0	3																															0
 armor_override_percent	182	1	1	8															14	0																																0
 equipped_eth	183		1	1													1024		7	0	1																															0
 missing_hp	184																		14	0																																0
-uber_difficulty	185			5													1024		5	0	5	0																	100	3	2	StrUberDifficulty	StrUberDifficulty									0
+uber_difficulty	185			5													1024		5	0	5	0																	100	3	2	MapTier	MapTier									0
 map_glob_boss_dropskillers	186			2											1065	72	2007		2	2	2	2																	208	3	0	MapBossSkillers	MapBossSkillers									0
 map_glob_boss_dropcorruptedunique	187			2											1065	72	2008		2	2	2	2																	208	3	0	MapBossCorruptedUnique	MapBossCorruptedUnique									0
 item_addskill_tab	188		1	3	6						1				11042	768	1024		10	0	3	0	16																151	14		StrSklTabItem1	StrSklTabItem1									0
@@ -199,7 +199,7 @@ item_skillonkill	196		1	7	16						1			2	85	19	1024		21	0	7	0	16											1	kill
 item_skillondeath	197		1	7	16						1			2	11	9	1024		21	0	7	0	16												killed	30			160	15		Moditemskondeath	Moditemskondeath									0
 item_skillonhit	198		1	7	16						1			2	190	256	1024		21	0	7	0	16											1	domeleedamage	20	domissiledamage	20	160	15		ItemExpansiveChanc1	ItemExpansiveChanc1									0
 item_skillonlevelup	199		1	7	16						1			2	7	6	1024		21	0	7	0	16												levelup	30			160	15		ModitemskonLevel	ModitemskonLevel									0
-item_skilloncast	200		1	7	16						1			2	190	256	1024		21	0	7	0	16												dospellcast	30			160	15		ModItemSkOnCast	ModItemSkOnCast									0
+item_skilloncast	200		1	7	16						1			2	190	256	1024		21	0	7	0	16												dospellcast	33			160	15		ModItemSkOnCast	ModItemSkOnCast									0
 item_skillongethit	201		1	7	16						1			2	190	256	1024		21	0	7	0	16												damagedinmelee	21	damagedbymissile	21	160	15		ItemExpansiveChanc2	ItemExpansiveChanc2									0
 unused202	202																1024		21	0																																0
 unused203	203																1024		21	0																																0
@@ -358,7 +358,7 @@ shortparam1	355			16													1024																																			0
 questitemdifficulty	356																1024				2	0																														0
 passive_mag_mastery	357		1	12											1211	431	1024		8	0	9	50																	88	4	1	ModitemdamMagisk	ModitemdamMagisk									0
 passive_mag_pierce	358		1	9												2812	1024		8	0	8	0																														0
-item_splashonhit	359		1	7	16						1			2	190	256	1024		21	0	7	0	16											1	domeleedamage	20			160	15	0	splash3	splash3									0
+item_splashonhit	359		1	7	16						1			2	190	256	1024		21	0	7	0	16											1	domeleedamage	20			245	15	0	splash3	splash3									0
 corrupted	360			10	10										54	204	1024		8	0	10	0	10																246	3	0	StrCorrupted	StrCorrupted									0
 corruptor	361			1	16											54	1024				12	0																	245	0	0	StrCorruptNum	StrCorruptNum									0
 item_elemskill_cold	362		1	3	3						1				76	1024	1024		4	0	3	0	3																157	1	1	ModStrColdskills	ModStrColdskills									0
@@ -455,7 +455,7 @@ map_play_fastercastrate	452	1	1	9											3876	156	1105		7	20	7	20												
 map_mon_skillondeath	453		1	7	16						1			2	11	9	0197		21	0	7	0	16												killed	30			160	15		Moditemskondeath	Moditemskondeath									0
 map_play_maxhp_percent	454		1	16											32093	204	1076		6	10	6	10			11			maxhp											58	7	2	MapPlayHave	MapPlayHave	ModStr2g								0
 map_play_maxmana_percent	455		1	16											56452	204	1077		6	10	6	10			11			maxmana											54	7	2	MapPlayHave	MapPlayHave	ModStr2h								0
-map_play_damageresist	456		1	9											152	68	1036		8	0	8	0																	22	7	2	MapPlayHave	MapPlayHave	ModStr2u								0
+map_play_damageresist	456		1	9											152	68	1036		8	0	8	0																	22	7	2	MapPlayHave	MapPlayHave	ModStr2u_PD2								0
 map_play_velocitypercent	457	1	1	10		1											1067		7	30	7	30																		7	2	MapPlayHave	MapPlayHave	ModVelocity								0
 heroic	458			3											54	204	1024		8	0	3	0																	249	3	0	StrHeroic	StrHeroic									0
 extra_spirits	459		1	5													1024		5		5																		68	9	2	StrExtraRevives	StrExtraRevives	StrExtraSpirits								0
@@ -506,3 +506,4 @@ map_glob_dropcorrupted	503		1	9											1065	72	2006		7	20	7	20															
 curse_effectiveness	504		1	9											103	40	1024		8	0	8	50																	38	4	2	StrCurseEffectiveness	StrCurseEffectiveness									0
 map_glob_boss_dropfacet	505			2											1065	72	2009		2	2	2	2																	208	3	0	MapBossFacet	MapBossFacet									0
 map_mon_dropjewels	506		1	9											1065	72	0506		7	20	7	20																	205	8	2	MapMonHave	MapMonHave	MapMonIncreasedJewels								0
+es_efficiency	507		1	7													1024		5		5																															0

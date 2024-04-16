@@ -219,7 +219,7 @@ blinddimvision	216						1																																					cursedimvision				
 butchermap	217					1																																						aura_magicgoldfind																			paladin_aura_purification								0
 rathmaset	218																																											rathma_aura																											0
 vengeance	219																																																vengeance_hit														paladin_sacrifice								0
-black	220																														1	1			1																							101	99												0
+black	220																														1	1			1																							101	115												0
 inferno_debuff	221																								1																			inferno_debuff																											0
 arcticblast_debuff	222																										1																	arcticblast_debuff																											0
 sacrifice_explosion	223																																																cast_undead																						0
@@ -235,3 +235,5 @@ tpotlight_debuff	232																									1																		tpotltng_debuff	
 holysword	233	4																																																					Holy Sword	weap	bwht														0
 toppvpset	234																																											toppvp_aura																											0
 rakanoth_steal	235																																					1										rakanoth_steal_1			progressive_steal	1	1																		0
+poison_strike	236																																																																						0
+maxlevel8set	237																																											maxlevel_aura	maxlevel_t8_aura																										0
