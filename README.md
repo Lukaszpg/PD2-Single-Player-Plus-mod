@@ -145,12 +145,9 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 	-   Catalyst shard + Coin = 2x Catalyst Shard
 -   New recipes:
 	-   Any perfect gem in NOT STACKED FORM + Coin = 50 x of that perfect gem
+	-   You can downgrade runes 1:1 with recipe Rune + Key. This works up to Ist rune.
 -   Removed recipes:
 	-   Larzuk’s Puzzle Box + Vex = 2x Larzuk’s Puzzle Box - with the introduction of Eternal Coin, it was too easy to print Larzuk’s Puzzle Boxes
-
-## New rune recipes
-
--   You can downgrade runes 1:1 with recipe Rune + Key. This works up to Ist rune.
 
 ## Charms changes
 
