@@ -1,13 +1,9 @@
 
 # Project Diablo 2 Single Player Plus
 
-<<<<<<< Updated upstream
-Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v1.0.1
-=======
   
 
 Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v9.0.0
->>>>>>> Stashed changes
 
 ## About this mod
 
@@ -28,11 +24,6 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder.
 
 6. Add -3dfx run parameter to your Plugy.exe shortcut.
-<<<<<<< Updated upstream
-7. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required). Ready to use loot filter is marvelous [Kryszard's](https://github.com/Kryszard-POD/Kryszard-s-PD2-Loot-Filter) loot filter with added new items.
-8. Launch the game through the Plugy shortcut.
-9. If the mod was installed correctly, Akara should sell an item that has graphics of Alkor's quest potion.
-=======
 
 7. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
 8. Head to Akara and look for an item with Alkor's quest potion icon. If it's there, mod was installed successfully.
@@ -51,11 +42,10 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 * Version 9.0.0 is INCOMPATIBLE with characters and stash contents from Season 8 - you have to start fresh!
 
->>>>>>> Stashed changes
 
 ## General loot table changes
 
-* Lilith's Mirror drop rate increased from 1:25 000 000 to 1: 500 000 across all difficulties
+* Lilith’s Mirror drop rate increased from 1:25 000 000 to 1: 500 000 across all difficulties
 
 * Vial of the Lightsong drop rate increased from 1:7 500 000 to 1:120 000 across all difficulties
 
@@ -65,7 +55,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 	* From bosses from 1:6000 to 1:1000
 
-* Rathma's Jawbone drop rate increased:
+* Rathma’s Jawbone drop rate increased:
 
 	* Normal: From 1:200 000 to 1:50 000
 
@@ -73,7 +63,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 	* Hell: From 1:22 500 to 1:4500
 
-* Larzuk's Puzzle Piece drop rate increased:
+* Larzuk’s Puzzle Piece drop rate increased:
 
 	* Normal: From 1:450 000 to 1:45 000
 
@@ -81,7 +71,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 	* Hell: From 1:100 000 to 1:10 000
 
-* Larzuk's Puzzle Box drop rate increased:
+* Larzuk’s Puzzle Box drop rate increased:
 
 	* Nightmare: From 1:450 000 to 1:45 000
 
@@ -97,9 +87,9 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 * Map bosses drop Pure Demonic Essence at 20% rate
 
-* Diablo's Burning Essence of Terror drop rate set at 15% in Hell
+* Diablo’s Burning Essence of Terror drop rate set at 15% in Hell
 
-* Mephisto's Charged Essence of Hatred drop rate set at 15% in Hell
+* Mephisto’s Charged Essence of Hatred drop rate set at 15% in Hell
 
 * Baal Festering Essence of Terror drop rate set at 15% in Hell
 
@@ -111,7 +101,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 * Jewelry drop rates are back to PD2 vanilla levels
 
-* Map drop rates outside of maps lowered to 400% increase from 1100% - it's plenty of maps still and makes more room for the good drops
+* Map drop rates outside of maps lowered to 400% increase from 1100% - it’s plenty of maps still and makes more room for the good drops
 
 * Bosses are no longer quest bugged
 
@@ -123,9 +113,9 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 ## Fate shards
 
-* Because Lilith's Mirror and Vial of the lightsong drop rates were moved from hardcoded to softcoded, I've decided to remove fate shards for those items and increase the drop rates
+* Because Lilith’s Mirror and Vial of the lightsong drop rates were moved from hardcoded to softcoded, I’ve decided to remove fate shards for those items and increase the drop rates
     
-* New Fate Shard - "Heritage" - stack of 2 - Gheed's Fortune
+* New Fate Shard - “Heritage” - stack of 2 - Gheed’s Fortune
 * Changed fate shard icon
 
 ## Divine orb changes
@@ -139,16 +129,16 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 ## New orbs
 
--   Eternal Coin (Coin in short) - its only purpose is to serve as an ingredient in exchange cube recipes, so you don't have to sacrifice your Mal and Vex runes anymore. It's also serving as a gold sink, as these don't drop, but can be purchased for **500k** from a vendor.
+-   Eternal Coin (Coin in short) - its only purpose is to serve as an ingredient in exchange cube recipes, so you don’t have to sacrifice your Mal and Vex runes anymore. It’s also serving as a gold sink, as these don’t drop, but can be purchased for **500k** from a vendor.
     
 -   As a result, the exchange recipes are as follows -
-	-   3x Larzuk's Puzzle Piece + Coin = Larzuk's Puzzle Box
+	-   3x Larzuk’s Puzzle Piece + Coin = Larzuk’s Puzzle Box
     
-	-   Larzuk's Puzzle Box + Coin = Vex
+	-   Larzuk’s Puzzle Box + Coin = Vex
     
-	-   Larzuk's Puzzle Piece + Coin = Mal
+	-   Larzuk’s Puzzle Piece + Coin = Mal
     
-	-   Lilith's Mirror + 4x Coin = 4x Ber
+	-   Lilith’s Mirror + 4x Coin = 4x Ber
     
 	-   Vial of Lightsong + 2x Coin = 2x Ber
     
@@ -158,7 +148,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 -   New recipes:
 	-   Any perfect gem in NOT STACKED FORM + Coin = 50 x of that perfect gem
 -   Removed recipes:
-	-   Larzuk's Puzzle Box + Vex = 2x Larzuk's Puzzle Box - with the introduction of Eternal Coin, it was too easy to print Larzuk's Puzzle Boxes
+	-   Larzuk’s Puzzle Box + Vex = 2x Larzuk’s Puzzle Box - with the introduction of Eternal Coin, it was too easy to print Larzuk’s Puzzle Boxes
 
 ## Charms changes
 
@@ -167,11 +157,11 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
     
 	-   increased Large Charm chance to roll +% to damage type was decreased from 400% to 200%
 
-## Cain's wisdom changes
+## Cain’s wisdom changes
 
--   The main reason of introducing this item was to give a significant single player experience boost at high levels, in its current form it's too much of a balance change - I've decided to remove +1 to all skills, 10-15% increased life and 10-15% increased mana, but the XP boost now rolls 150-200%. The recipe to create this item stays the same and it's still limited to 1.
+-   The main reason of introducing this item was to give a significant single player experience boost at high levels, in its current form it’s too much of a balance change - I’ve decided to remove +1 to all skills, 10-15% increased life and 10-15% increased mana, but the XP boost now rolls 150-200%. The recipe to create this item stays the same and it’s still limited to 1.
     
--   Can't be corrupted by Tainted Worldstone Shard or regular Worldstone Shard anymore
+-   Can’t be corrupted by Tainted Worldstone Shard or regular Worldstone Shard anymore
 
 # Changes from Version 1.0.0
 
@@ -203,33 +193,33 @@ Unique and set items drop limit has been removed - the items are now able to dro
 
 ## New orbs
 
-A couple of new orbs have been introduced to ease the hunt for perfect unique and set items. All below mentioned items drop (~3% chance from "good drops" TC) in Hell difficulty:
+A couple of new orbs have been introduced to ease the hunt for perfect unique and set items. All below mentioned items drop (~3% chance from “good drops” TC) in Hell difficulty:
 
 -   **Mythic orb** - allows normal/magic/rare armor/weapon to be transformed into a unique item of that base. Allows magic/rare rings and amulets to be transformed into unique. Items must be non-corrupted and non-ethereal. Sockets will be removed. Cube with 15 jewel fragments to create a random rainbow facet.
     
--  **Divine orb** - allows to reroll mod values on unique or set weapon/armor. Unique items must have no sockets, be non-corrupted. Set items must have no-sockets and be non-corrupted. IF USED ON BASE THAT HAS MORE THAN ONE UNIQUE ITEM BOUND TO IT, IT CAN REROLL THE UNIQUE ITEM, eg. Tyrael's Might can be changed to Templar's Might.
+-  **Divine orb** - allows to reroll mod values on unique or set weapon/armor. Unique items must have no sockets, be non-corrupted. Set items must have no-sockets and be non-corrupted. IF USED ON BASE THAT HAS MORE THAN ONE UNIQUE ITEM BOUND TO IT, IT CAN REROLL THE UNIQUE ITEM, eg. Tyrael’s Might can be changed to Templar’s Might.
     
 -  **Exalted orb** - allows normal/magic/rare armor/weapon to be transformed into a set item of that base. Allows magic/rare rings and amulets to be transformed into set items. Item must be non-ethereal and non-corrupted. Sockets will be removed
 
 ## Fate shards
 
-To ease the hunt for hardest to get items that can't be deterministically obtained with Mythic Orb, like rings and amulets, a system called "Fate shards" was introduced. These shards are an uncommon drop from anywhere in hell (1.27% chance from "good drops" TC). All of the shards have the same weighting, but the better items require more shards.  
+To ease the hunt for hardest to get items that can’t be deterministically obtained with Mythic Orb, like rings and amulets, a system called “Fate shards” was introduced. These shards are an uncommon drop from anywhere in hell (1.27% chance from “good drops” TC). All of the shards have the same weighting, but the better items require more shards.  
   
 A stack of shards can be transformed in the cube for the item. Below are the shards that are in the game at the moment - name of the shard, how many of shard is required to get the item and what item it gives:
 
--   "Lawful Sentence" - stack of 3 - Tal Rasha's Adjudication
+-   “Lawful Sentence” - stack of 3 - Tal Rasha’s Adjudication
     
--   "Luminescence" - stack of 3 - Mara's Kaleidoscope
+-   “Luminescence” - stack of 3 - Mara’s Kaleidoscope
     
--   "Ammuit Treasure" - stack of 3 - Stone of Jordan
+-   “Ammuit Treasure” - stack of 3 - Stone of Jordan
     
--   "Untethered Soul" - stack of 3 - Wisp projector
+-   “Untethered Soul” - stack of 3 - Wisp projector
     
--   "Rotting Bride" - stack of 3 - Bul-Kathos' wedding band
+-   “Rotting Bride” - stack of 3 - Bul-Kathos’ wedding band
     
--   "The Man from the High Castle" - stack of 3 - Highlord's Wrath
+-   “The Man from the High Castle” - stack of 3 - Highlord’s Wrath
     
--   "Dawn" - stack of 3 - Rising Sun
+-   “Dawn” - stack of 3 - Rising Sun
   
 ## New item codes
 
