@@ -161,6 +161,7 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 -   The main reason of introducing this item was to give a significant single player experience boost at high levels, in its current form it’s too much of a balance change - I’ve decided to remove +1 to all skills, 10-15% increased life and 10-15% increased mana, but the XP boost now rolls 150-200%. The recipe to create this item stays the same and it’s still limited to 1.
     
 -   Can’t be corrupted by Tainted Worldstone Shard or regular Worldstone Shard anymore
+-   Recipe: Twisted Essence of Suffering + Charged Essence of Hatred +  Burning Essence of Terror + Festering Essence of Destruction + Small Magic Charm
 
 # Changes from Version 1.0.0
 
