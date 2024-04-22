@@ -3,7 +3,7 @@
 
   
 
-Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v9.0.0
+Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v9.0.1a
 
 ## About this mod
 
@@ -27,6 +27,22 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 7. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
 8. Head to Akara and look for an item with Alkor's quest potion icon. If it's there, mod was installed successfully.
+
+
+# Version 9.0.1a changelog
+
+To get this update to work: 
+
+1. Launch PD2Launcher.exe on your **SINGLE PLAYER PLUGY MODDED CLIENT**
+2. Launch the game
+3. Exit the game
+4. Overwrite the vanilla pd2data.mpq with the PD2 Single Player Plus pd2data.mpq file for this release
+
+## General loot table changes
+
+* Lowered the chance for the essences to drop from Andariel, Mephisto, Diablo and Baal so these don’t drop in multiple numbers from single kill anymore and should not take so much space in loot explosion anymore (more room for other loot) - it’s still common, but not THAT common
+* Lowered the chance for the Prime Evil Soul drop from Diablo and Baal so these don’t drop in multiple numbers from single kill anymore and should not take so much space in loot explosion anymore (more room for other loot) - it’s still common, but not THAT common
+
 
 # Version 9.0.1 changelog
 
