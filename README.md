@@ -30,6 +30,13 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 
 # Version 9.0.1 changelog
 
+To get this update to work: 
+
+1. Launch PD2Launcher.exe on your **SINGLE PLAYER PLUGY MODDED CLIENT**
+2. Launch the game
+3. Exit the game
+4. Overwrite the vanilla pd2data.mpq with the PD2 Single Player Plus pd2data.mpq file for this release
+
 ## General changes
 
 * Updated the mod to Season 9 patch #1
