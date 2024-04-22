@@ -721,10 +721,10 @@ Map Swarm t2	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t2	23	Act 3 (H) Ma
 Map Swarm t3	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t3	23	Act 3 (H) Magic A	143																0
 Andariel			7	983	983	983	1024	1	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62																0
 Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	20														0
-Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	70	tes	180														0
+Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	70	tes	35														0
 Andarielq			7	995	995	1024	1024	1	Act 2 Equip A	845	Act 2 Good	133																				0
 Andarielq (N)			7	995	995	1024	1024	1	Act 2 (N) Equip A	845	Act 2 (N) Good	133	tes	42																		0
-Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	810	Act 4 (H) Good	145	tes	170																		0
+Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	810	Act 4 (H) Good	145	tes	40																		0
 Duriel - Base			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 3 Equip A	395	Act 3 Junk	311	Act 3 Good	62																0
 Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62	tes	20														0
 Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	tes	15														0
@@ -739,16 +739,16 @@ Flying Scimitar (N)			1					95	Act 2 (N) Good	45	scm	376	9sm	482																
 Flying Scimitar (H)			1					95	Act 2 (H) Good	45	scm	105	9sm	271	7sm	482																0
 Mephisto			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 4 Equip A	799	Act 4 Junk	76	Act 4 Good	46																0
 Mephisto (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 4 (N) Equip A	799	Act 4 (N) Junk	76	Act 4 (N) Good	46	ceh	15														0
-Mephisto (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 4 (H) Equip A	787	Act 4 (H) Junk	75	Act 4 (H) Good	60	ceh	180														0
+Mephisto (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 4 (H) Equip A	787	Act 4 (H) Junk	75	Act 4 (H) Good	60	ceh	30														0
 Mephistoq			7	993	993	1024	1024	0	Act 4 Equip A	945	Act 4 Good	54																				0
 Mephistoq (N)			7	993	993	1024	1024	0	Act 4 (N) Equip A	945	Act 4 (N) Good	54	ceh	17																		0
-Mephistoq (H)			7	993	993	1024	1024	0	Act 4 (H) Equip A	928	Act 4 (H) Good	65	ceh	180																		0
+Mephistoq (H)			7	993	993	1024	1024	0	Act 4 (H) Equip A	928	Act 4 (H) Good	65	ceh	30																		0
 Diablo			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 5 Equip A	799	Act 5 Junk	76	Act 5 Good	46																0
 Diablo (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 5 (N) Equip A	799	Act 5 (N) Junk	76	Act 5 (N) Good	46	bet	15														0
-Diablo (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip A	787	Act 5 (H) Junk	75	Act 5 (H) Good	65	bet	210	dcso	210												0
+Diablo (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip A	787	Act 5 (H) Junk	75	Act 5 (H) Good	65	bet	30	dcso	20												0
 Diabloq			7	993	993	1024	1024	0	Act 5 Equip A	945	Act 5 Good	54																				0
 Diabloq (N)			7	993	993	1024	1024	0	Act 5 (N) Equip A	945	Act 5 (N) Good	54	bet	17																		0
-Diabloq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip A	928	Act 5 (H) Good	65	bet	210	dcso	210																0
+Diabloq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip A	928	Act 5 (H) Good	65	bet	30	dcso	20																0
 Summoner			5	900	900	972	1024	4	"gld,mul=1280"	248	Act 2 Equip C	414	Act 3 Junk	138	Act 2 Good	82	Act 3 Magic A	110														0
 Summoner (N)			5	900	900	972	1024	4	"gld,mul=1536"	248	Act 2 (N) Equip C	414	Act 3 (N) Junk	138	Act 2 (N) Good	82	Act 3 (N) Magic A	110														0
 Summoner (H)			5	900	900	972	1024	4	"gld,mul=2048"	242	Act 2 (H) Equip C	403	Act 3 (H) Junk	134	Act 2 (H) Good	80	Act 3 (H) Magic A	107	pk2	242												0
@@ -779,10 +779,10 @@ Nihlathak (N)			5	900	900	900	1024	3	"gld,mul=1536"	340	Act 5 (N) Equip B	461	Ac
 Nihlathak (H)			5	900	900	900	1024	2	"gld,mul=2048"	332	Act 5 (H) Equip B	451	Act 5 (H) Junk	71	Act 5 (H) Good	71	pk3	232														0
 Baal			7	983	983	983	1024	0	"gld,mul=1280"	76	Act 1 (N) Equip A	799	Act 1 (N) Junk	76	Act 1 (N) Good	46																0
 Baal (N)			7	983	983	983	1024	0	"gld,mul=1536"	76	Act 1 (H) Equip A	799	Act 1 (H) Junk	76	Act 1 (H) Good	46	fed	15														0
-Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	65	fed	210	dcso	210												0
+Baal (H)			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	65	fed	30	dcso	20												0
 Baalq			7	993	993	1024	1024	0	Act 1 (N) Equip A	945	Act 1 (N) Good	54																				0
 Baalq (N)			7	993	993	1024	1024	0	Act 1 (H) Equip A	945	Act 1 (H) Good	54	fed	17																		0
-Baalq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	65	fed	210	dcso	210																0
+Baalq (H)			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	65	fed	30	dcso	20																0
 Blood Raven			5	800	800	972	1024	3	"gld,mul=1280"	340	Act 1 Equip B	461	Act 1 Junk	121	Act 1 Good	121																0
 Blood Raven (N)			5	800	800	972	1024	3	"gld,mul=1536"	340	Act 1 (N) Equip B	461	Act 1 (N) Junk	121	Act 1 (N) Good	121																0
 Blood Raven (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 1 (H) Equip B	461	Act 1 (H) Junk	121	Act 1 (H) Good	121	pk1	261														0
