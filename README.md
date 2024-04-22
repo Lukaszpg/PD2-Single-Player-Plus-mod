@@ -28,6 +28,31 @@ Project Diablo 2 team did amazing job and stunned me and the other veteran D2 pl
 7. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
 8. Head to Akara and look for an item with Alkor's quest potion icon. If it's there, mod was installed successfully.
 
+# Version 9.0.1 changelog
+
+## General changes
+
+* Updated the mod to Season 9 patch #1
+
+## General loot table changes
+
+* WSS drop rate has been increased by 100% (it’s fun to slam!)
+* Map drop rate outside of maps has been increased by 100%
+* Divine orb, Exalted Orb, Mythic orb and Fate Shards drop rate has been slightly increased to compensate for WSS and map drops increase
+
+## Monster and zone changes
+
+* Hell Cow Level density has been increased by 50%
+* Hell Cow Level unique monsters pack increased from 6-8 to 7-9
+
+## Cube Recipes
+
+* You can now downgrade all runes to lower rune in ratio 1:1, but runes above Ist require various amount of Eternal Coin: 
+	* Gul to Lo downgrade recipe: Rune + 1x Eternal Coin = Rune 1 tier lower
+	* Sur to Cham downgrade recipe: Rune + 2x Eternal Coin = Rune 1 tier lower
+	* Zod downgrade recipe: Rune + 3x Eternal Coin = Cham
+* Recipes for Ist and below runes are the same: Rune + Key = Rune 1 tier lower
+
 # Version 9.0.0 changelog
 
 ## General changes
