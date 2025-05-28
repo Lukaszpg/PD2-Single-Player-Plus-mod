@@ -5,6 +5,10 @@ Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/relea
 
 Newest patch notes: https://docs.google.com/document/d/1p4opLyZtoSoUQ6mlN4uGxIlOpMsdoVrJzqN9OXe0vWk/edit?tab=t.0
 
+## Known bugs
+
+* Skeleton Key is consumed if used for downgrading the runes recipe - no known bugfix as of now
+
 ## About this mod
 
 Project Diablo 2 team did amazing job and stunned me and the other veteran D2 players with their high quality work. However, not everyone has the time to farm 24/7. This mod is for players that enjoy slaying plethora of monsters in Diablo 2, but don't have that much time to play in the way the Diablo 2 game and PD2 mod were designed, with abyssmal drop rates and item scarcity. If you have Infinity by day 3 of the PD2 ladder, then this mod is not for you.
