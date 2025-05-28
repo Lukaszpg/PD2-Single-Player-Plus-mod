@@ -191,27 +191,27 @@ item_addskill_tab	188		1	3	6						1				11042	768	1024		10	0	3	0	16														
 openwounds_stack	189			5													1024		5	0	5	0																														0
 curse_slots	190			3													1024		3		3																															0
 item_skillonequip	191		1								1						1024		7	0	5	0	12																159	16	0	ModitemSkillOnEquip	ModitemSkillOnEquip									0
-unused192	192																1024		10	0																																0
-unused193	193																1024		10	0																																0
+extra_shadow	192		1	5													1024		6		5																		150	9	2	YouMaySummon	YouMaySummon	ExtraShadow								0
+extra_spiritwolf	193		1	5													1024		6		5																		150	9	2	YouMaySummon	YouMaySummon	ExtraSpiritWolf								0
 item_numsockets	194		1	4											38	170	1024		4	0	4	0											1																			0
 item_skillonattack	195		1	7	16						1			2	190	256	1024		21	0	7	0	16											1	domeleeattack	20	domissileattack	20	160	15		ItemExpansiveChancX	ItemExpansiveChancX									0
-item_skillonkill	196		1	7	16						1			2	85	19	1024		21	0	7	0	16											1	kill	20			160	15		ModitemskonKill	ModitemskonKill									0
+item_skillonkill	196		1	7	16						1			2	85	19	1024		21	0	7	0	16											1	kill	30			160	15		ModitemskonKill	ModitemskonKill									0
 item_skillondeath	197		1	7	16						1			2	11	9	1024		21	0	7	0	16												killed	30			160	15		Moditemskondeath	Moditemskondeath									0
 item_skillonhit	198		1	7	16						1			2	190	256	1024		21	0	7	0	16											1	domeleedamage	20	domissiledamage	20	160	15		ItemExpansiveChanc1	ItemExpansiveChanc1									0
 item_skillonlevelup	199		1	7	16						1			2	7	6	1024		21	0	7	0	16												levelup	30			160	15		ModitemskonLevel	ModitemskonLevel									0
 item_skilloncast	200		1	7	16						1			2	190	256	1024		21	0	7	0	16												dospellcast	33			160	15		ModItemSkOnCast	ModItemSkOnCast									0
 item_skillongethit	201		1	7	16						1			2	190	256	1024		21	0	7	0	16												damagedinmelee	21	damagedbymissile	21	160	15		ItemExpansiveChanc2	ItemExpansiveChanc2									0
-unused202	202																1024		21	0																																0
-unused203	203																1024		21	0																																0
+item_skillonblock	202		1	7	16						1			2	190	256	1024		21	0	7	0	16												doblock	30			160	15		ModItemSkOnBlock	ModItemSkOnBlock									0
+item_skilloncrit	203		1	7	16						1			2	190	256	1024		21	0	7	0	16												docrit	30			160	15		ModItemSkOnCrit	ModItemSkOnCrit									0
 item_charged_skill	204		1	30							1			3	401	256	1024		30	0	16	0	16																1	24		ModStre10d	ModStre10d									0
-unused204	205		1	30										3	401	256	1024		30	0																																0
-unused205	206		1	30										3	401	256	1024		30	0																																0
-unused206	207		1	30										3	401	256	1024		30	0																																0
-unused207	208		1	30										3	401	256	1024		30	0																																0
-unused208	209		1	30										3	401	256	1024		30	0																																0
-unused209	210		1	30										3	401	256	1024		30	0																																0
-unused210	211		1	30										3	401	256	1024		30	0																																0
-unused211	212		1	30										3	401	256	1024		30	0																																0
+item_skillonpierce	205		1	7	16						1			2	190	256	1024		21	0	7	0	16												dopierce	30			160	15		ModItemSkOnPierce	ModItemSkOnPierce									0
+desecrated	206			10	10										54	204	1024		8	0	10	0	10																246	3	0	StrDesecrated	StrDesecrated									0
+desecrator	207			1	16											54	1024				12	0																	245	0	0	StrCorruptNum	StrCorruptNum									0
+progressive_mindblast	208		1	8													1024																																			0
+joustreduction_zeraes	209		1	5													1024		6		6																		150	3	0	JoustreductionZeraes	JoustreductionZeraes									0
+item_maxdeadlystrike	210		1	7											31	25	1024		7	0	7	0												1					85	4	2	StrMaxDeadlyStrike	StrMaxDeadlyStrike									0
+map_glob_boss_dropubermats	211			2											1065	72	2009		2	2	2	2																	208	3	0	MapBossUberMats	MapBossUberMats									0
+map_glob_boss_droppuzzlebox	212			2											1065	72	2009		2	2	2	2																	208	3	0	MapBossPuzzlebox	MapBossPuzzlebox									0
 item_mindamage_energy	213		1	6											90	128	1024		6	0	6	0			4	3	energy	mindamage	secondary_mindamage	item_throw_mindamage				1					53	6	1	ModStr1g	ModStr1g	increaseswithenergy								0
 item_armor_perlevel	214		1	6											43	42	1024		6	0	6	0			4	3	level	armorclass											72	6	1	ModStr1i	ModStr1i	increaseswithplaylevelX								0
 item_armorpercent_perlevel	215		1	6											87	100	1024		6	0	6	0			5	3	level	armorclass											73	8	1	Modstr2v	Modstr2v	increaseswithplaylevelX								0
@@ -455,7 +455,7 @@ map_play_fastercastrate	452	1	1	9											3876	156	1105		7	20	7	20												
 map_mon_skillondeath	453		1	7	16						1			2	11	9	0197		21	0	7	0	16												killed	30			160	15		Moditemskondeath	Moditemskondeath									0
 map_play_maxhp_percent	454		1	16											32093	204	1076		6	10	6	10			11			maxhp											58	7	2	MapPlayHave	MapPlayHave	ModStr2g								0
 map_play_maxmana_percent	455		1	16											56452	204	1077		6	10	6	10			11			maxmana											54	7	2	MapPlayHave	MapPlayHave	ModStr2h								0
-map_play_damageresist	456		1	9											152	68	1036		8	0	8	0																	22	7	2	MapPlayHave	MapPlayHave	ModStr2u_PD2								0
+map_play_damageresist	456		1	9											152	68	1036		8	0	8	0																	60	7	2	MapPlayHave	MapPlayHave	ModStrMapPlayerPDR								0
 map_play_velocitypercent	457	1	1	10		1											1067		7	30	7	30																		7	2	MapPlayHave	MapPlayHave	ModVelocity								0
 heroic	458			3											54	204	1024		8	0	3	0																	249	3	0	StrHeroic	StrHeroic									0
 extra_spirits	459		1	5													1024		5		5																		68	9	2	StrExtraRevives	StrExtraRevives	StrExtraSpirits								0
@@ -489,7 +489,7 @@ mirrored	486			10	10												1024		8	0	10	0	10																250	3	0	StrMirr
 item_dmgpercent_permissinghppercent	487		1	6													1024		6		6				4	0	missing_hp	item_maxdamage_percent	item_mindamage_percent					1					158	8	1	ModStrEnhancedDamage	ModStrEnhancedDamage	increaseswithmissinghp								0
 lifedrain_percentcap	488		1	7													1024		7		7																		159	7	2	ModStrLifeStealCap	ModStrLifeStealCap	ofmaximumhp								0
 inc_splash_radius_permissinghp	489		1	6													1024		6		6																		158	8	1	ModStrIncSplashRadius	ModStrIncSplashRadius	incsplashwithmissinghp								0
-eaglehorn_raven	490			11													1024		6		11																		160	3	0	EaglehornRaven	EaglehornRaven									0
+eaglehorn_raven	490			11													1024		6		11																		160	6	2	EaglehornRaven	EaglehornRaven	ColdDamage								0
 pvp_disable	491		1	5													1024		5		5																															0
 pvp_lld_cd	492		1	5													1024		5		5																															0
 map_glob_skirmish_mode	493			1	16											54	2004				12	0																	248	3	0	MapGlobSkirmishMode	MapGlobSkirmishMode									0
@@ -507,3 +507,6 @@ curse_effectiveness	504		1	9											103	40	1024		8	0	8	50																	38	
 map_glob_boss_dropfacet	505			2											1065	72	2009		2	2	2	2																	208	3	0	MapBossFacet	MapBossFacet									0
 map_mon_dropjewels	506		1	9											1065	72	0506		7	20	7	20																	205	8	2	MapMonHave	MapMonHave	MapMonIncreasedJewels								0
 es_efficiency	507		1	7													1024		5		5																															0
+map_glob_sundermonsters	508			10											1065	72	2010		10	0	10	0																	208	3	0	MapGlobSunderMonsters	MapGlobSunderMonsters									0
+extra_grizzly	509		1	5													1024		6		5																		149	9	2	YouMaySummon	YouMaySummon	ExtraGrizzly								0
+no_wolves	510		1	5													1024		6		5																		149	3	0	StrNoWolves	StrNoWolves									0

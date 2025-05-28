@@ -73,7 +73,7 @@ FingerMage	attack/circle?	cast?	healthy%	hurt%	cast range	max run tries	out of r
 Regurgitator	attack?	eat in melee?	approach?	look for food?	look in melee?	smell dist			0
 DoomKnight	attack?	melee stall	approach?	regular stall					0
 AbyssKnight	bone armor hp%	bonearmor?	attack?	melee stall	no fire dist	fire recovery	approach?	active dist	0
-OblivionKnight	flee range	engage range	curse timer	curse?	shoot?	bonespirit?	approach?	approach dist	0
+OblivionKnight	flee + curse range	engage range	curse timer	curse?	shoot?	bonespirit?	approach?	approach dist	0
 QuillMother	attack?	approach?	melee stall	regular stall					0
 EvilHole	num to spawn	spawn delay							0
 Trap-Missile	distance	num to shoot	delay						0

@@ -13,7 +13,7 @@ frozenarmor	10	1														1																												frozenarmor							ski
 cold	11												1																																						velocitypercent							100	108	150	215	255	impact_bluemotize_1								0
 inferno	12			1																																																																			0
 blaze	13					1				1																																									velocitypercent																				0
-bonearmor	14	1																																					1	1				bonearmor_front	bonearmor_back	bonearmor_null1	bonearmor_null2		bonearmor_cast			6	3																		0
+bonearmor	14	5																																					1	1				bonearmor_front	bonearmor_back	bonearmor_null1	bonearmor_null2		bonearmor_cast			6	3																		0
 concentrate	15															1																																			skill_armor_percent																				0
 enchant	16													1									1																										enchant		skill_enchant					weap	cred														0
 innersight	17																							1																				innersight							armorclass																				0
@@ -232,8 +232,11 @@ tpotfire_debuff	229																								1																			tpotfire_debuff		
 tpotgas_debuff	230																											1																tpotgas_debuff																											0
 tpotcold_debuff	231																										1																	tpotcold_debuff																											0
 tpotlight_debuff	232																									1																		tpotltng_debuff																											0
-holysword	233	4																																																					Holy Sword	weap	bwht														0
+holysword	233	4																																																					Holy Sword	2hsw	bwht														0
 toppvpset	234																																											toppvp_aura																											0
 rakanoth_steal	235																																					1										rakanoth_steal_1			progressive_steal	1	1																		0
 poison_strike	236																																																																						0
 maxlevel8set	237																																											maxlevel_aura	maxlevel_t8_aura																										0
+progressive_mindblast	238																																					1													progressive_mindblast	1	1																		0
+lucionset	239																																											lucion_aura																											0
+lucion8set	240																																											lucion_aura	lucion_t8_aura																										0

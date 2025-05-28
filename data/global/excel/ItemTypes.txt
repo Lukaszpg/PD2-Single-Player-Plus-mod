@@ -26,7 +26,7 @@ Not Used				0	0					0	0	0	0			0	0	0	0	0	0	0	0	3		0		0								0
 Scepter	scep	rod	gen	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	pal	0		0							weap	0
 Wand	wand	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	2	2	2	0	1	nec	0		0							weap	0
 Staff	staf	rod		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	5	6	6	0	1	sor	0		0							weap	0
-Bow	bow	miss		0	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	4	6	1	3		0		0							weap	0
+Bow	bow	miss	rng	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	4	6	1	3		0		0							weap	0
 Axe	axe	mgen		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	4	5	6	0	3		0		0							weap	0
 Club	club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3	dru	0		0							weap	0
 Sword	swor	mgen		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
@@ -34,20 +34,20 @@ Hammer	hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	
 Knife	knif	mgen	asm	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	2	3	3	0	3	ass	0		0							weap	0
 Spear	spea	mele	pas	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
 Polearm	pole	mele	pas	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
-Crossbow	xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
+Crossbow	xbow	miss	rng	1	1	rarm	larm	xboq		0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
 Mace	mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
 Helm	helm	armo		1	1	head	head			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		0							armo	0
 Missile Potion	tpot	thro		0	1	rarm	larm			1	1	1	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Quest	ques			0	0					0	0	0	1			0	0	0	0	0	0	0	0	3		0		0								0
 Body Part	body	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		2		0							misc	0
 Key	key	misc		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
-Throwing Knife	tkni	comb	knif	1	1	rarm	larm			1	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0							misc	0
-Throwing Axe	taxe	comb	axe	1	1	rarm	larm			1	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0							misc	0
-Javelin	jave	comb	spea	1	1	rarm	larm			1	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0							misc	0
+Throwing Knife	tkni	comb	knif	1	1	rarm	larm			1	0	0	0		1	0	0	0	0	2	2	2	0	3		0		0							misc	0
+Throwing Axe	taxe	comb	axe	1	1	rarm	larm			1	0	0	0		1	0	0	0	0	2	3	3	0	3		0		0							misc	0
+Javelin	jave	comb	spea	1	1	rarm	larm			1	0	0	0		1	0	0	0	0	2	3	3	0	3		0		0							misc	0
 Weapon	weap			0	0					0	0	0	0		1	0	0	0	0	0	0	0	1	3		0		0								0
 Melee Weapon	mele	weap		0	0					0	0	0	0		1	0	0	0	0	0	0	0	1	3		0		0								0
-Missile Weapon	miss	weap		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
-Thrown Weapon	thro	weap		0	0					1	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+Missile Weapon	miss	weap	rng	0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+Thrown Weapon	thro	weap	rng	0	0					1	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
 Combo Weapon	comb	mele	thro	0	0					1	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
 Any Armor	armo			0	0					0	0	0	0		1	0	0	0	0	0	0	0	1	3		0		0								0
 Any Shield	shld	armo	seco	0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
@@ -87,7 +87,7 @@ Medium Charm	mcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch2	invch5
 Large Charm	lcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch3	invch6	invch9				misc	0
 Amazon Bow	abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	4	5	1	1		0	ama	0							weap	0
 Amazon Spear	aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	1		0	ama	0							weap	0
-Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	0	0	0	0	1		0	ama	0							misc	0
+Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	2	2	2	0	1		0	ama	0							misc	0
 Hand to Hand 2	h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	2	3	3	0	2	ass	0	ass	0							weap	0
 Magic Bow Quiv	mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							misc	0
 Magic Xbow Quiv	mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							misc	0
@@ -221,5 +221,21 @@ RerollRare Ready	rrra			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 UpgradeMag Ready	urma			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 2H Sword	2hsw	swor	2han	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	3		0		0							weap	0
 Craft Ingredient	crft			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
+PVP Charm	chap	char		0	0					0	0	0	0			0	1	0	0	0	0	0	0	3		0		0								0
+Small Charm PVP	schp	chap		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch7pvps	invch7pvps	invch7pvps				misc	0
+Medium Charm PVP	mchp	chap		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch2pvpm	invch2pvpm	invch2pvpm				misc	0
+Large Charm PVP	lchp	chap		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch3pvpl	invch3pvpl	invch3pvpl				misc	0
+Token	toa			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
+Ranged Mastery	rng			1	1					0	0	0	0		1	0	0	0	0	0	0	0	1	3		0		0								0
+Pvp Map Desert	pvpd			0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
+Crystal Swords	crys			0	0					0	0	0	0		1	0	0	0	0	0	0	0	1	3		0		0								0
+2H Crystal Sword	2hcs	2hsw	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	0		0	pal	0							weap	0
+Spiked Shield	sshi			1	1					0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+Bone Shield	bshi			1	1					0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+Heavy Armor	harm			1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		0							armo	0
+Medium Armor	marm			1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		0							armo	0
+Light Armor	larm			1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		0							armo	0
+Heavy Shield	hshi			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+Medium Shield	mshi			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+Light Shield	lshi			1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
 New Orbs	norb			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
-Fate Shards	fash			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0

@@ -46,7 +46,7 @@ Act	Place
 1	The Smith
 1	The Cow King
 1	Corpsefire
-1	place_nothing
+1	SkovosBoss
 1	place_nothing
 1	lesserhydra1
 1	lesserhydra2
@@ -310,7 +310,7 @@ Act	Place
 5	CanyonBoss
 5	westmarchMapBoss
 5	AshenBoss
-5	place_nothing
+5	DemonRoadBoss
 5	place_nothing
 5	lesserhydra1
 5	lesserhydra2

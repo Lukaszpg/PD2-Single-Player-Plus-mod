@@ -1108,19 +1108,19 @@ Throne Map	1104	150	1	0	0	0	1	1	0	0	0	1	0	0	3	Expansion/Map/throne1.ds1	Expansio
 Tomb Map	1105	151	1	0	0	0	1	1	0	0	0	1	0	0	4	Expansion/Map/Tomb1.ds1	Expansion/Map/Tomb2.ds1	Expansion/Map/Tomb3.ds1	Expansion/Map/Tomb4.ds1	0	0	2047	0	1
 Monastery Map	1106	152	1	1	0	0	0	1	0	0	0	1	0	-4	1	Expansion/Map/Monastery.ds1	0	0	0	0	0	2097151	0	1
 Monastery Map Basement	1107	153	1	1	0	0	0	1	0	0	0	1	0	0	1	Expansion/Map/MonasteryBase.ds1	0	0	0	0	0	57	0	1
-Graveyard Map	1108	154	1	0	1	0	0	1	0	0	0	1	2	-4	3	Expansion/Map/TristMap.ds1	Expansion/Map/TristMapV2.ds1	Expansion/Map/TristMapV3.ds1	0	0	0	536870655	1	0
+Graveyard Map	1108	154	1	0	1	0	0	1	0	0	0	1	2	-4	3	Expansion/Map/TristMap.ds1	Expansion/Map/TristMapV2.ds1	Expansion/Map/TristMapV3.ds1	0	0	0	268435199	1	0
 Caldeum Map	1109	155	1	1	1	0	0	1	0	0	0	1	2	-4	3	Expansion/Map/Caldeum.ds1	Expansion/Map/Caldeum2.ds1	Expansion/Map/Caldeum3.ds1	0	0	0	32767	1	0
 Pandemonium Map	1110	156	1	0	1	0	0	1	0	0	0	1	2	-4	3	Expansion/Map/Pandemonium.ds1	Expansion/Map/Pandemonium2.ds1	Expansion/Map/Pandemonium3.ds1	0	0	0	8191	1	0
 Pvp Map	1111	157	1	1	1	0	0	1	0	0	0	1	2	-4	1	Expansion/Map/pvpmap_palace.ds1	0	0	0	0	0	32767	1	0
 Spider Map	1112	158	1	1	1	1	1	1	0	0	0	1	0	-4	3	Expansion/Map/Spider_Dungeon1.ds1	Expansion/Map/Spider_Dungeon2.ds1	Expansion/Map/Spider_Dungeon3.ds1	0	0	0	3	0	1
-Pvp Map 2	1113	159	1	0	1	0	0	1	0	0	0	1	2	-4	1	Expansion/Map/Pvpmap1.ds1	0	0	0	0	0	536870655	1	0
+Pvp Map 2	1113	159	1	0	1	0	0	1	0	0	0	1	2	-4	1	Expansion/Map/Pvpmap1.ds1	0	0	0	0	0	268435199	1	0
 Frozen Forest Map	1114	160	1	0	0	0	1	1	0	0	0	1	0	-4	3	Expansion/Map/FrozenForestV1.ds1	Expansion/Map/FrozenForestV2.ds1	Expansion/Map/FrozenForestV3.ds1	0	0	0	268435455	0	1
 Necropolis Jungle	1115	161	1	0	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/necropolis_2.ds1	0	0	0	0	0	262140	1	0
 Necropolis Swamp	1116	162	1	0	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/necropolis_1.ds1	0	0	0	0	0	262140	1	0
 Necropolis Void	1117	163	1	0	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/necropolis_3.ds1	0	0	0	0	0	16383	1	0
 Realm Of Torment	1118	164	1	0	0	0	1	1	0	0	0	1	0	-4	3	Expansion/Map/RealmOfTorment1.ds1	Expansion/Map/RealmOfTorment2.ds1	Expansion/Map/RealmOfTorment3.ds1	0	0	0	24575	0	1
 Pit Of Despair	1119	165	1	0	0	0	1	1	0	0	0	1	0	-4	1	Expansion/Map/HoleOfTerror.ds1	0	0	0	0	0	24575	0	1
-BR Arena	1120	166	1	0	1	0	0	1	0	0	0	1	2	-4	1	Expansion/Map/BRArena.ds1	0	0	0	0	0	536870655	1	0
+BR Arena	1120	166	1	0	1	0	0	1	0	0	0	1	2	-4	1	Expansion/Map/BRArena.ds1	0	0	0	0	0	268435199	1	0
 Library Map	1121	167	1	1	1	0	1	1	0	0	0	1	0	-4	3	Expansion/Map/Library.ds1	Expansion/Map/Library_v2.ds1	Expansion/Map/Library_v3.ds1	0	0	0	262143	0	1
 Uber Ancients Map	1122	168	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/Map/UberAncients.ds1	0	0	0	0	0	29360148	0	1
 Westmarch Map	1123	169	1	1	1	0	1	1	0	0	0	1	0	-4	3	Expansion/Map/ShadowsOfWestmarchV1.ds1	Expansion/Map/ShadowsOfWestmarchV3.ds1	Expansion/Map/ShadowsOfWestmarchV3.ds1	0	0	0	2097151	0	1
@@ -1143,3 +1143,10 @@ DiamondGates	1139	184	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/diamondgates.ds1	0
 PD2 - Pandemonium Finale	1140	185	1	1	1	0	0	1	0	0	0	1	0	0	1	Act1/Tristram/pd2_ubertrist.ds1	0	0	0	0	0	63	0	0
 Kanemith Outside	1141	186	1	0	0	0	1	1	0	0	0	1	1	-4	1	Expansion/Map/dakenshar.ds1	0	0	0	0	0	1047423	0	1
 Kanemith Dungeon	1142	187	1	0	0	0	1	1	0	0	0	1	1	-4	1	Expansion/Map/tombsofkanemith.ds1	0	0	0	0	0	1920	0	1
+LucionArena	1143	188	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/lucionarena.ds1	0	0	0	0	0	32767	1	0
+LucionVault	1144	189	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/lucionvault.ds1	0	0	0	0	0	7340031	1	0
+Skovos Stronghold Map	1145	190	1	1	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/SkovosStrongholdV1.ds1	0	0	0	0	0	864026623	0	1
+Demon Road Map	1146	191	1	1	0	1	1	1	0	0	0	1	2	-4	4	Expansion/Map/DemonRoad1.ds1	Expansion/Map/DemonRoad2.ds1	Expansion/Map/DemonRoad3.ds1	Expansion/Map/DemonRoad4.ds1	0	0	127	0	1
+Imperial Palace	1147	192	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/Imperial_palace.ds1	0	0	0	0	0	1008	0	1
+Halls of Torture Map	1148	193	1	0	0	0	0	1	0	0	0	1	0	0	3	Expansion/Map/TortureHalls.ds1	Expansion/Map/TortureHalls2.ds1	Expansion/Map/TortureHalls3.ds1	0	0	0	15	0	1
+Imperial Palace Boss Room	1149	194	1	1	0	0	0	1	0	0	0	1	1	1	1	Expansion/Map/ImperialPalaceBossRoom.ds1	0	0	0	0	0	639	0	0

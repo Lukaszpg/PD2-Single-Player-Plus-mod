@@ -11,21 +11,21 @@ bloodraven																																																													knock			1
 quillrat6																															thorns			15	20																										thorns			30	40																										0
 quillrat7																															thorns			15	20																										thorns			30	40																										0
 quillrat8																															thorns			15	20																										thorns			30	40																										0
-druidhawk	att-skill	100	387	100	1																										att-skill	100	387	100	1																										att-skill	100	387	100	1																										0
-druidbear	att-skill	100	358	100	1																										att-skill	100	358	100	1																										att-skill	100	358	100	1																										0
-claygolem	att-skill	100	389	100	1																										att-skill	100	389	100	1																										att-skill	100	389	100	1																										0
-fenris	att-skill	100	393	100	1	inc_splash_radius	100		-60	-60																					att-skill	100	393	100	1	inc_splash_radius	100		-60	-60																					att-skill	100	393	100	1	inc_splash_radius	100		-60	-60																					0
-necroskeleton	att-skill	100	393	100	1																										att-skill	100	393	100	1																										att-skill	100	393	100	1																										0
+druidhawk	hit-skill	100	387	100	1																										hit-skill	100	387	100	1																										hit-skill	100	387	100	1																										0
+druidbear	hit-skill	100	358	100	1																										hit-skill	100	358	100	1																										hit-skill	100	358	100	1																										0
+claygolem	hit-skill	100	358	100	1	crush	100		20	20	inc_splash_radius	100		-20	-20																hit-skill	100	358	100	1	crush	100		20	20	inc_splash_radius	100		-20	-20																hit-skill	100	358	100	1	crush	100		20	20	inc_splash_radius	100		-20	-20																0
+fenris	hit-skill	100	393	100	1	inc_splash_radius	100		-20	-20																					hit-skill	100	393	100	1	inc_splash_radius	100		-60	-60																					hit-skill	100	393	100	1	inc_splash_radius	100		-60	-60																					0
+necroskeleton	hit-skill	100	393	100	1																										hit-skill	100	393	100	1																										hit-skill	100	393	100	1																										0
 willowispboss	aura	100	395	1	1																										aura	100	395	1	1																										aura	100	395	1	1																										0
 willowispminion	aura	100	396	1	1																										aura	100	396	1	1																										aura	100	396	1	1																										0
 willowisptotem	aura	100	123	22	22																										aura	100	123	5	5																										aura	100	439	1	1																										0
-fingermageboss																																																													swing1	100		-40	-40																										0
+fingermageboss	hit-skill	100	358	100	1																										hit-skill	100	358	100	1																										swing1	100		-40	-40	hit-skill	100	358	100	1																					0
 unravelerboss																																																													hit-skill	100	406	100	1																										0
 unravelerbossskeleton																																																													hit-skill	100	407	100	1																										0
 unravelerbossarcher																																																													hit-skill	100	407	100	1																										0
 griswoldmap																																																													hit-skill	100	66	100	20	lifesteal			20	20																					0
 griswoldgolem																																																													lifesteal			20	20																										0
-baalminionboss																																																													cast1			-50	-50																										0
+baalminionboss	hit-skill	100	358	100	1																										hit-skill	100	358	100	1																										cast1			-50	-50																										0
 stygian	death-skill	100	363	100	1																										death-skill	100	363	100	2																										death-skill	100	363	100	10																										0
 ubertrappedsoul																																																													curse-res	100		100	100																										0
 uberdiablonew																																																													curse-res	100		95	95	res-pois-len	100		75	75	abs-fire	100		8	8																0
@@ -37,13 +37,13 @@ rathma_golem	aura	100	99	22	22																										aura	100	99	22	22							
 nihlathakmap	death-skill	100	487	100	1																										death-skill	100	487	100	1																										death-skill	100	487	100	1																										0
 butchermapprop	aura	100	495	22	22	att-skill	100	389	100	1																					aura	100	495	22	22	att-skill	100	389	100	1																					aura	100	495	22	22	att-skill	100	389	100	1																					0
 treasurefallenprop	state	100	175	1	1																										state	100	175	1	1																										state	100	175	1	1																										0
-bloodgolemow	openwounds	100	62	100	100																										openwounds	100	62	100	100																										openwounds	100	62	100	100																										0
+bloodgolemow	openwounds	100	62	100	100	att-skill	100	389	100	3																					openwounds	100	62	100	100	att-skill	100	389	100	3																					openwounds	100	62	100	100	att-skill	100	389	100	3																					0
 rathmaminion																																																													curse-res	100		100	100	res-pois-len	100		50	50																					0
 mendelnbloodgolem																																																													curse-res	100		100	100																										0
 ubertalic	aura	100	479	22	22																										aura	100	479	22	22																										aura	100	479	22	22																										0
 uberkorlic	leapspeed	100		20	20	aura	100	532	1	1																					leapspeed	100		20	20	aura	100	532	1	1																					leapspeed	100		20	20	aura	100	532	1	1																					0
 shadowmonprop	state	100	220	1	1	move1			20	20																					state	100	220	1	1	move1			20	20																					state	100	220	1	1	move1			20	20																					0
-libraryboss	aura	100	99	15	15																										aura	100	99	15	15																										aura	100	99	15	15																										0
+libraryboss	aura	100	99	15	15	hit-skill	100	358	100	1																					aura	100	99	15	15	hit-skill	100	358	100	1																					aura	100	99	15	15	hit-skill	100	358	100	1																					0
 cursereduction																																																													curse-res	100		75	75																										0
 targetdummyprop																																																																																											0
 sanctuaryboss																																																													aura	100	534	22	22																										0
@@ -52,5 +52,10 @@ blunderboreDungeon																															crush			25	25	knock			1	1						
 stygianDungeon	death-skill	100	363	100	1																										death-skill	100	363	100	2																										death-skill	100	363	100	10	curse-res	100		75	75																					0
 zharminibossbaboonprop	aura	100	108	15	15	move1			20	20																					aura	100	108	15	15	move1			20	20																					aura	100	108	15	15	move1			20	20																					0
 warlordminibossdefilerprop	aura	100	122	8	8	cast2	100		30	30	swing2	100		30	30																aura	100	122	8	8	cast2	100		30	30	swing2	100		30	30																aura	100	122	8	8	cast2	100		30	30	swing2	100		30	30																0
-zharminibossbighead	aura	100	115	15	15																										aura	100	115	15	15																										aura	100	115	15	15																										0
-BastionBoss	aura	100	115	15	15																										aura	100	115	15	15																										aura	100	416	3	3																										0
+zharminibossbighead	aura	100	115	15	15	hit-skill	100	358	100	1																					aura	100	115	15	15	hit-skill	100	358	100	1																					aura	100	115	15	15	hit-skill	100	358	100	1																					0
+BastionBoss	aura	100	115	15	15	hit-skill	100	358	100	1																					aura	100	115	15	15	hit-skill	100	358	100	1																					aura	100	416	3	3	hit-skill	100	358	100	1																					0
+mapbosssplash	hit-skill	100	358	100	1																										hit-skill	100	358	100	1																										hit-skill	100	358	100	1																										0
+LesserSplash	hit-skill	100	358	100	3																										hit-skill	100	358	100	3																										hit-skill	100	358	100	3																										0
+Lucion	curse-res	100		95	95	res-pois-len	100		50	50	death-skill	100	580	100	1	death-skill	100	581	100	1	death-skill	100	583	100	1	death-skill	100	582	100	1	curse-res	100		95	95	res-pois-len	100		50	50	death-skill	100	580	100	1	death-skill	100	581	100	1	death-skill	100	583	100	1	death-skill	100	582	100	1	curse-res	100		95	95	res-pois-len	100		50	50	death-skill	100	580	100	1	death-skill	100	581	100	1	death-skill	100	583	100	1	death-skill	100	582	100	1	0
+ImperialBoss																															extra-fire			40	40	aura	100	396	1	1																					extra-fire			100	100	aura	100	124	1	1																					0
+ImperialMiniBoss	aura	100	109	15	15																										aura	100	109	15	15																										aura	100	109	15	15																										0

@@ -620,3 +620,9 @@ bossblocker_x	#c	0
 bossblocker_y	#b	0
 bossblocker_x_warp	#c	0
 bossblocker_y_warp	#b	0
+PVPTome1	TT	0
+Sacrifice Altar	MR	0
+xactdarkportal_grey	#6	0
+LucionChest	yf	0
+PVPTome2	TT	0
+InactiveStoneDesertShrine	SG	0

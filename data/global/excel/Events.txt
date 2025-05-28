@@ -14,3 +14,6 @@ absorbdamage	dealt damage
 levelup	gain a level
 corpsefinish	finish transition to corpse
 dospellcast	do skill that uses mode SC
+doblock	do skill on block
+docrit	do skill on critical
+dopierce	do skill on pierce

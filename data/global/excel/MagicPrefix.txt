@@ -142,14 +142,14 @@ Blanched	139	100	1	1	1		1				4	101	ac		5	8									1	whit	jewl														0
 Eburin	140	100	1	1	16		12				4	101	ac		9	20									1	whit	jewl														0
 Bone	141	100	1	1	32		24				4	101	ac		21	40									1	whit	jewl														0
 Ivory	142	100	1		64		56				4	101	ac		41	64									1	whit	jewl														0
-Sturdy	143	1	1	1	1	41	1				9	101	ac%		10	20											armo														0
-Sturdy	144	1	1	1	4	44	3				9	101	ac%		21	30											armo														0
-Strong	145	1	1	1	9	49	6				8	101	ac%		31	40											armo														0
-Glorious	146	1	1	1	19	59	14				8	101	ac%		41	50											armo														0
-Blessed	147	1	1	1	25		18				7	101	ac%		51	65											armo														0
-Saintly	148	1	1	1	31		23				7	101	ac%		66	80									1	dgld	armo														0
-Holy	149	1	1	1	36		27				6	101	ac%		81	100									1	dgld	armo														0
-Godly	150	100	1		45		38				3	101	ac%		101	200									1	dgld	armo														0
+Sturdy	143	1	1	1	1	41	1				14	101	ac%		10	20											armo														0
+Sturdy	144	1	1	1	4	44	3				14	101	ac%		21	30											armo														0
+Strong	145	1	1	1	9	49	6				12	101	ac%		31	40											armo														0
+Glorious	146	1	1	1	19	59	14				12	101	ac%		41	50											armo														0
+Blessed	147	1	1	1	25		18				11	101	ac%		51	65											armo														0
+Saintly	148	1	1	1	31		23				11	101	ac%		66	80									1	dgld	armo														0
+Holy	149	1	1	1	36		27				9	101	ac%		81	100									1	dgld	armo														0
+Godly	150	100	1	1	45		38				6	101	ac%		101	200									1	dgld	armo														0
 Devious	151	1	0	1	7		5				5	102	red-mag		1	1											shld	circ	orb	wand	staf										0
 Blank	152	1	0	1	14		10				4	102	red-mag		2	2											shld	circ	orb	wand	staf										0
 Null	153	100	0	1	21		16				4	102	red-mag		3	5									1	dblu	shld	circ													0
@@ -193,12 +193,12 @@ Massive	190	1	1	1	20	60	15				7	105	dmg%		51	65									1	dgld	weap							staf	w
 Savage	191	1	1	1	26		19				7	105	dmg%		66	80									1	dgld	weap							staf	wand	orb					0
 Merciless	192	1	1	1	32		24				6	105	dmg%		81	100									1	dgld	weap							staf	wand	orb					0
 Ferocious	193	100	1	1	41		33				6	105	dmg%		101	200									1	blac	weap							staf	wand	orb					0
-Cruel	194	100	1		51		43				5	105	dmg%		201	300									1	blac	weap							staf	wand	orb					0
+Cruel	194	100	1	1	51		43				5	105	dmg%		201	300									1	blac	weap							staf	wand	orb					0
 Cinnabar	195	100	1	1	1		1				4	105	dmg%		5	10									1	dred	jewl														0
 Rusty	196	100	1	1	13		9				4	105	dmg%		11	20									1	dred	jewl														0
 Realgar	197	100	1	1	45		37				4	105	dmg%		21	30									1	dred	jewl														0
 Ruby	198	100	1	1	66		58				4	105	dmg%		31	40									1	dred	jewl														0
-Vulpine	199	1	1	1	9		6				3	107	dmg-to-mana		7	12									1	cblu	shld	amul	orb	staf											0
+Vulpine	199	1	1	1	9	49	6				3	107	dmg-to-mana		7	12									1	cblu	shld	amul	orb	staf											0
 Dun	200	100	1	1	7		5				3	107	dmg-to-mana		7	12											jewl														0
 Tireless	201	1	1	1	6		4				4	108	regen-stam		25	25											boot														0
 Tireless	202	100	1	1	14		10				4	108	regen-stam		50	50											boot														0
@@ -265,9 +265,9 @@ Lord's	262	1	1	1	47		39				6	111	att		101	120	dmg%		66	80					1	dgld	weap							
 King's	263	1	1	1	56		48				5	111	att		121	150	dmg%		81	100					1	dgld	weap							staf	wand	orb					0
 Master's	264	100	1	1	56		48				5	111	att		151	250	dmg%		101	150					1	dgld	weap							staf	wand	orb					0
 Grandmaster's	265	100	1		69		61				4	111	att		251	300	dmg%		151	200					1	dgld	weap							staf	wand	orb					0
-Glimmering	266	1	1	1	1		1				1	112	light		1	1											armo	wand	staf	ring	amul	orb									0
-Glowing	267	1	1	1	6		4				1	112	light		2	2									1	lyel	armo	wand	staf	ring	amul	orb									0
-Bright	268	100	1	1	1		1				1	112	light		1	1	att		10	10							jewl														0
+Glimmering	266	1	1	1	1	41	1				1	112	light		1	1											armo	wand	staf	ring	amul	orb									0
+Glowing	267	1	1	1	6	46	4				1	112	light		2	2									1	lyel	armo	wand	staf	ring	amul	orb									0
+Bright	268	100	1	1	1	41	1				1	112	light		1	1	att		10	10							jewl														0
 Screaming	269	100	1	1	10		7				3	113	howl		32	32									1	oran	weap							miss	swor	axe	pole	spea			0
 Howling	270	1	1	1	16		12				3	113	howl		64	64									1	oran	weap							miss	swor	axe	pole	spea			0
 Wailing	271	100	1	1	20		13				3	113	howl		128	128									1	oran	weap							miss	swor	axe	pole	spea			0
@@ -282,7 +282,7 @@ Lucky	279	100	1		53						4	114	mag%		2	3											mcha														0
 Lucky	280	100	1		51						4	114	mag%		4	6											mcha														0
 Felicitous	281	100	1	1	5		3				4	114	mag%		5	10											ring	amul	circ	helm											0
 Fortuitous	282	1	1	1	12		8				4	114	mag%		11	15											ring	amul	circ	helm											0
-Emerald	283	100	1	1	16		12				4	114	mag%		3	7											jewl														0
+Emerald	283	100	1	1	16	56	12				4	114	mag%		3	7											jewl														0
 Lizard's	284	100	1	1	1		1				4	115	mana		3	7											lcha														0
 Lizard's	285	100	1	1	7		5				4	115	mana		8	13											lcha														0
 Lizard's	286	100	1	1	13		9				4	115	mana		14	20											lcha														0
@@ -310,27 +310,27 @@ Serpent's	307	1	1	1	37	77	27				2	115	mana		11	20											tors	weap	orb					ro
 Drake's	308	1	1	1	20		15				2	115	mana		21	30									1	cblu	rod	ring	amul	orb	circ	misl									0
 Dragon's	309	1	1	1	24		18				2	115	mana		31	40									1	cblu	rod	ring	amul	orb	circ	misl									0
 Dragon's	310	1	1	1	52		39				2	115	mana		31	40									1	cblu	tors	boot	glov												0
-Wyrm's	311	1	1	1	30		22				2	115	mana		41	60									1	cblu	rod	ring	amul	orb	circ										0
-Great Wyrm's	312	100	1	1	37		29				2	115	mana		61	90									1	cblu	rod	ring	amul	orb	circ										0
+Wyrm's	311	1	1	1	30		22				2	115	mana		41	60									1	cblu	rod	ring	amul	orb	circ	tors	shld								0
+Great Wyrm's	312	100	1	1	37		29				2	115	mana		61	90									1	cblu	rod	ring	amul	orb	circ	tors	shld								0
 Bahamut's	313	100	1	1	45		37				2	115	mana		91	120									1	cblu	rod	ring	amul	orb	circ										0
-Zircon	314	100	1	1	3		2				2	115	mana		5	10									1	cblu	jewl														0
+Zircon	314	100	1	1	3	43	2				2	115	mana		5	10									1	cblu	jewl														0
 Jacinth	315	100	1	1	17		12				2	115	mana		11	15									1	cblu	jewl														0
 Turquoise	316	100	1	1	29		21				2	115	mana		16	20									1	cblu	jewl														0
-Shimmering	317	100	1		8		6				1	116	res-all		3	6									1	lpur	lcha													1280	500
-Shimmering	318	100	1		14		10				1	116	res-all		8	12									1	lpur	lcha													1280	1500
-Shimmering	319	100	1		35		27				1	116	res-all		13	15									1	lpur	lcha													1280	5000
-Shimmering	320	100	1		17		12				1	116	res-all		3	5									1	lpur	mcha													1280	1500
-Shimmering	321	100	1		34		26				1	116	res-all		6	8									1	lpur	mcha													1280	5000
-Shimmering	322	100	1		33		25				1	116	res-all		3	5											scha													1280	10000
-Shimmering	323	100	1	1	6	46	4				5	116	res-all		3	7									1	lpur	shld													1280	500
-Rainbow	324	100	1	1	18		13				5	116	res-all		8	11									1	lpur	shld													1280	2000
-Scintillating	325	100	1	1	28		21				5	116	res-all		12	15									1	lpur	shld													1280	4000
-Prismatic	326	1	1	1	39		31				4	116	res-all		16	20									1	lpur	shld													1280	8000
-Chromatic	327	100	1	1	50		42				4	116	res-all		21	30									1	lpur	shld													1280	16000
-Shimmering	328	100	1	1	8	48	6				5	116	res-all		3	7									1	lpur	amul	circ												1280	3000
-Rainbow	329	100	1	1	21		15				5	116	res-all		8	11									1	lpur	amul	circ												1280	6000
-Scintillating	330	100	1	1	34		25				5	116	res-all		12	15									1	lpur	amul	circ	misl											1280	12000
-Prismatic	331	1	1	1	42		31				4	116	res-all		16	20									1	lpur	amul	circ												1280	24000
+Shimmering	317	100	1		8		6				2	116	res-all		3	6									1	lpur	lcha													1280	500
+Shimmering	318	100	1		14		10				2	116	res-all		8	12									1	lpur	lcha													1280	1500
+Shimmering	319	100	1		35		27				2	116	res-all		13	15									1	lpur	lcha													1280	5000
+Shimmering	320	100	1		17		12				2	116	res-all		3	5									1	lpur	mcha													1280	1500
+Shimmering	321	100	1		34		26				2	116	res-all		6	8									1	lpur	mcha													1280	5000
+Shimmering	322	100	1		33		25				2	116	res-all		3	5											scha													1280	10000
+Shimmering	323	100	1	1	6	46	4				5	116	res-all		3	7									1	lpur	shld	tors												1280	500
+Rainbow	324	100	1	1	18		13				5	116	res-all		8	11									1	lpur	shld	tors												1280	2000
+Scintillating	325	100	1	1	28		21				5	116	res-all		12	15									1	lpur	shld	tors												1280	4000
+Prismatic	326	1	1	1	39		31				4	116	res-all		16	20									1	lpur	shld	tors												1280	8000
+Chromatic	327	100	1	1	50		42				4	116	res-all		21	30									1	lpur	shld	tors	helm											1280	16000
+Shimmering	328	100	1	1	8	48	6				5	116	res-all		3	7									1	lpur	amul	circ	helm											1280	3000
+Rainbow	329	100	1	1	21		15				5	116	res-all		8	11									1	lpur	amul	circ	helm											1280	6000
+Scintillating	330	100	1	1	34		25				5	116	res-all		12	15									1	lpur	amul	circ	misl	helm										1280	12000
+Prismatic	331	1	1	1	42		31				4	116	res-all		16	20									1	lpur	amul	circ	helm											1280	24000
 Chromatic	332	100	1		55		41				3	116	res-all		21	30									1	lpur	amul	circ												1280	32000
 Shimmering	333	100	1	1	45		37				3	116	res-all		3	7									1	lpur	ring													1280	4000
 Rainbow	334	100	1	1	56		48				2	116	res-all		8	11									1	lpur	ring													1280	8000
@@ -354,7 +354,7 @@ Lapis	351	1	1	1	12		9				4	117	res-cold		11	20											armo	ring	amul	orb	circ
 Lapis	352	1	1	1	35		26				2	117	res-cold		11	20											weap							orb							0
 Cobalt	353	1	1	1	18		13				3	117	res-cold		21	30											armo	ring	amul	orb	circ	misl									0
 Cobalt	354	1	1	1	55		41				2	117	res-cold		21	30											weap							orb							0
-Sapphire	355	1	1	1	25		18				3	117	res-cold		31	40									1	lblu	rod	boot	amul	orb	circ										0
+Sapphire	355	1	1	1	25		18				3	117	res-cold		31	40									1	lblu	rod	boot	amul	orb	circ	tors	helm	shld							0
 Lapis Lazuli	356	100	1	1	2		1				4	117	res-cold		5	15									1	lblu	jewl														0
 Sapphire	357	100	1	1	19		14				4	117	res-cold		16	30									1	lblu	jewl														0
 Crimson	358	100	1	1	1		1				2	118	res-fire		7	15											lcha														0
@@ -373,7 +373,7 @@ Russet	370	1	1	1	12		9				4	118	res-fire		11	20											armo	ring	amul	orb	cir
 Russet	371	1	1	1	35		26				1	118	res-fire		11	20											weap							orb							0
 Garnet	372	1	1	1	18		13				3	118	res-fire		21	30											armo	ring	amul	orb	circ	misl									0
 Garnet	373	1	1	1	55		41				1	118	res-fire		21	30											weap							orb							0
-Ruby	374	1	1	1	25		18				3	118	res-fire		31	40									1	lred	rod	boot	amul	orb	circ										0
+Ruby	374	1	1	1	25		18				3	118	res-fire		31	40									1	lred	rod	boot	amul	orb	circ	tors	helm	shld							0
 Garnet	375	100	1	1	2		1				4	117	res-fire		5	15									1	lred	jewl														0
 Ruby	376	100	1	1	18		13				4	117	res-fire		16	30									1	lred	jewl														0
 Tangerine	377	100	1	1	1		1				2	119	res-ltng		7	15											lcha														0
@@ -393,7 +393,7 @@ Ocher	390	1	1	1	12		9				4	119	res-ltng		11	20											armo	ring	amul	orb	circ
 Ocher	391	1	1	1	35		26				1	119	res-ltng		11	20											weap							orb							0
 Coral	392	1	1	1	18		13				3	119	res-ltng		21	30											armo	ring	amul	orb	circ	misl									0
 Coral	393	1	1	1	55		41				1	119	res-ltng		21	30											weap							orb							0
-Amber	394	1	1	1	25		18				3	119	res-ltng		31	40									1	lyel	rod	boot	amul	orb	circ										0
+Amber	394	1	1	1	25		18				3	119	res-ltng		31	40									1	lyel	rod	boot	amul	orb	circ	tors	helm	shld							0
 Camphor	395	100	1	1	2		1				4	117	res-ltng		5	15									1	lyel	jewl														0
 Ambergris	396	100	1	1	19		14				4	117	res-ltng		16	30									1	lyel	jewl														0
 Beryl	397	100	1	1	1		1				2	120	res-pois		7	15											lcha														0
@@ -413,7 +413,7 @@ Viridian	410	1	1	1	12		9				4	120	res-pois		11	20											armo	ring	amul	orb	c
 Viridian	411	1	1	1	35		26				1	120	res-pois		11	20											weap							orb							0
 Jade	412	1	1	1	18		13				3	120	res-pois		21	30											armo	ring	amul	orb	circ	misl									0
 Jade	413	1	1	1	55		41				1	120	res-pois		21	30											weap							orb							0
-Emerald	414	1	1	1	25		18				3	120	res-pois		31	40									1	cgrn	rod	boot	amul	orb	circ										0
+Emerald	414	1	1	1	25		18				3	120	res-pois		31	40									1	cgrn	rod	boot	amul	orb	circ	tors	helm	shld							0
 Beryl	415	100	1	1	2		1				4	117	res-pois		5	15									1	cgrn	jewl														0
 Jade	416	100	1	1	19		14				4	117	res-pois		16	30									1	cgrn	jewl														0
 Triumphant	417	1	1	1	3	43	2				4	121	mana-kill		1	1											weap	ring	circ	tors	helm	shld	misl								0
@@ -429,9 +429,9 @@ Astral	426	100	1	1	35		26				1	123	att-demon		151	200	dmg-demon		101	150							w
 Elysian	427	100	1	1	45		33				1	123	att-demon		201	300	dmg-demon		151	200					1	dgld	weap							wand	orb						0
 Celestial	428	100	1		55		41				1	123	att-demon		301	400	dmg-demon		201	300					1	dgld	weap							wand	orb						0
 Diamond	429	100	1	1	26		19				1	123	att-demon		25	50	dmg-demon		25	40							jewl														0
-Fletcher's	430	100	1		50		42	ama			2	125	skilltab	0	1	1											lcha														0
-Acrobat's	431	100	1		50		42	ama			2	125	skilltab	1	1	1											lcha														0
-Harpoonist's	432	100	1		50		42	ama			2	125	skilltab	2	1	1											lcha														0
+Fletcher's	430	100	1		50		42	ama			4	125	skilltab	0	1	1											lcha	lchp													0
+Acrobat's	431	100	1		50		42	ama			4	125	skilltab	1	1	1											lcha	lchp													0
+Harpoonist's	432	100	1		50		42	ama			4	125	skilltab	2	1	1											lcha	lchp													0
 Fletcher's	433	100	1	1	20		15	ama			1	125	skilltab	0	1	1											miss	glov	circ	misl	amul										0
 Bowyer's	434	100	1	1	40		30	ama			1	125	skilltab	0	2	2									1	lgld	miss	glov	circ	misl	amul										0
 Archer's	435	100	1		60		45	ama			1	125	skilltab	0	3	3									1	lgld	miss	glov	circ	misl	amul										0
@@ -441,9 +441,9 @@ Athlete's	438	100	1		60		45	ama			1	125	skilltab	1	3	3									1	lgld	glov	amul	
 Harpoonist's	439	100	1	1	20		15	ama			1	125	skilltab	2	1	1											spea	glov	amul	circ											0
 Spearmaiden's	440	100	1	1	40		30	ama			1	125	skilltab	2	2	2									1	lgld	spea	glov	amul	circ											0
 Lancer's	441	100	1	1	60		45	ama			1	125	skilltab	2	3	3									1	lgld	spea														0
-Burning	442	100	1	1	50		42	sor			2	125	skilltab	3	1	1											lcha														0
-Sparking	443	100	1	1	50		42	sor			2	125	skilltab	4	1	1											lcha														0
-Chilling	444	100	1	1	50		42	sor			2	125	skilltab	5	1	1											lcha														0
+Burning	442	100	1	1	50		42	sor			4	125	skilltab	3	1	1											lcha	lchp													0
+Sparking	443	100	1	1	50		42	sor			4	125	skilltab	4	1	1											lcha	lchp													0
+Chilling	444	100	1	1	50		42	sor			4	125	skilltab	5	1	1											lcha	lchp													0
 Burning	445	100	1	1	20		15	sor			1	125	skilltab	3	1	1											staf	orb	amul	circ											0
 Blazing	446	100	1	1	40		30	sor			1	125	skilltab	3	2	2									1	lgld	staf	orb	amul	circ											0
 Volcanic	447	100	1		60		45	sor			1	125	skilltab	3	3	3									1	lgld	staf	orb	amul	circ											0
@@ -453,9 +453,9 @@ Powered	450	100	1		60		45	sor			1	125	skilltab	4	3	3									1	lgld	staf	orb	amu
 Chilling	451	100	1	1	20		15	sor			1	125	skilltab	5	1	1											staf	orb	amul	circ											0
 Freezing	452	100	1	1	40		30	sor			1	125	skilltab	5	2	2									1	lgld	staf	orb	amul	circ											0
 Glacial	453	100	1		60		45	sor			1	125	skilltab	5	3	3									1	lgld	staf	orb	amul	circ											0
-Hexing	454	100	1	1	50		42	nec			2	125	skilltab	6	1	1											lcha														0
-Fungal	455	100	1	1	50		42	nec			2	125	skilltab	7	1	1											lcha														0
-Graverobber's	456	100	1	1	50		42	nec			2	125	skilltab	8	1	1											lcha														0
+Hexing	454	100	1	1	50		42	nec			4	125	skilltab	6	1	1											lcha	lchp													0
+Fungal	455	100	1	1	50		42	nec			4	125	skilltab	7	1	1											lcha	lchp													0
+Graverobber's	456	100	1	1	50		42	nec			4	125	skilltab	8	1	1											lcha	lchp													0
 Hexing	457	100	1	1	20		15	nec			1	125	skilltab	6	1	1											wand	head	amul	circ											0
 Blighting	458	100	1	1	40		30	nec			1	125	skilltab	6	2	2									1	lgld	wand	head	amul	circ											0
 Accursed	459	100	1		60		45	nec			1	125	skilltab	6	3	3									1	lgld	wand	head	amul	circ											0
@@ -465,9 +465,9 @@ Venomous	462	100	1		60		45	nec			1	125	skilltab	7	3	3									1	lgld	wand	head	a
 Graverobber's	463	100	1	1	20		15	nec			1	125	skilltab	8	1	1											wand	head	amul	circ											0
 Vodoun	464	100	1	1	40		30	nec			1	125	skilltab	8	2	2									1	lgld	wand	head	amul	circ											0
 Golemlord's	465	100	1		60		45	nec			1	125	skilltab	8	3	3									1	lgld	wand	head	amul	circ											0
-Lion Branded	466	100	1	1	50		42	pal			2	125	skilltab	9	1	1											lcha														0
-Captain's	467	100	1	1	50		42	pal			2	125	skilltab	10	1	1											lcha														0
-Preserver's	468	100	1	1	50		42	pal			2	125	skilltab	11	1	1											lcha														0
+Lion Branded	466	100	1	1	50		42	pal			4	125	skilltab	9	1	1											lcha	lchp													0
+Captain's	467	100	1	1	50		42	pal			4	125	skilltab	10	1	1											lcha	lchp													0
+Preserver's	468	100	1	1	50		42	pal			4	125	skilltab	11	1	1											lcha	lchp													0
 Lion Branded	469	100	1	1	20		15	pal			1	125	skilltab	9	1	1											scep	swor	mace	shld	ashd	amul	circ								0
 Hawk Branded	470	100	1	1	40		30	pal			1	125	skilltab	9	2	2									1	lgld	scep	swor	mace	shld	ashd	amul	circ								0
 Rose Branded	471	100	1		60		45	pal			1	125	skilltab	9	3	3									1	lgld	scep	swor	mace	shld	ashd	amul	circ								0
@@ -477,9 +477,9 @@ Marshal's	474	100	1		60		45	pal			1	125	skilltab	10	3	3									1	lgld	scep	swor
 Preserver's	475	100	1	1	20		15	pal			1	125	skilltab	11	1	1											shld	ashd	amul	circ											0
 Warder's	476	100	1	1	40		30	pal			1	125	skilltab	11	2	2									1	lgld	shld	ashd	amul	circ											0
 Guardian's	477	100	1		60		45	pal			1	125	skilltab	11	3	3									1	lgld	shld	ashd	amul	circ											0
-Expert's	478	100	1	1	50		42	bar			2	125	skilltab	12	1	1											lcha														0
-Fanatic	479	100	1	1	50		42	bar			2	125	skilltab	13	1	1											lcha														0
-Sounding	480	100	1	1	50		42	bar			2	125	skilltab	14	1	1											lcha														0
+Expert's	478	100	1	1	50		42	bar			4	125	skilltab	12	1	1											lcha	lchp													0
+Fanatic	479	100	1	1	50		42	bar			4	125	skilltab	13	1	1											lcha	lchp													0
+Sounding	480	100	1	1	50		42	bar			4	125	skilltab	14	1	1											lcha	lchp													0
 Expert's	481	100	1	1	20		15	bar			1	125	skilltab	12	1	1											phlm	weap	helm					miss	rod	knif					0
 Veteran's	482	100	1	1	40		30	bar			1	125	skilltab	12	2	2									1	lgld	phlm	weap	helm					miss	rod	knif					0
 Master's	483	100	1		60		45	bar			1	125	skilltab	12	3	3									1	lgld	phlm	weap	helm					miss	rod	knif					0
@@ -489,9 +489,9 @@ Furious	486	100	1		60		45	bar			1	125	skilltab	13	3	3									1	lgld	phlm	weap	a
 Sounding	487	100	1	1	20		15	bar			1	125	skilltab	14	1	1											phlm	weap	amul					miss	rod	knif					0
 Resonant	488	100	1	1	40		30	bar			1	125	skilltab	14	2	2									1	lgld	phlm	weap	amul					miss	rod	knif					0
 Echoing	489	100	1		60		45	bar			1	125	skilltab	14	3	3									1	lgld	phlm	weap	amul					miss	rod	knif					0
-Trainer's	490	100	1	1	50		42	dru			2	125	skilltab	15	1	1											lcha														0
-Spiritual	491	100	1	1	50		42	dru			2	125	skilltab	16	1	1											lcha														0
-Nature's	492	100	1	1	50		42	dru			2	125	skilltab	17	1	1											lcha														0
+Trainer's	490	100	1	1	50		42	dru			4	125	skilltab	15	1	1											lcha	lchp													0
+Spiritual	491	100	1	1	50		42	dru			4	125	skilltab	16	1	1											lcha	lchp													0
+Nature's	492	100	1	1	50		42	dru			4	125	skilltab	17	1	1											lcha	lchp													0
 Trainer's	493	100	1	1	20		15	dru			1	125	skilltab	15	1	1											club	pelt	amul	circ											0
 Caretaker's	494	100	1	1	40		30	dru			1	125	skilltab	15	2	2									1	lgld	club	pelt	amul	circ											0
 Keeper's	495	100	1		60		45	dru			1	125	skilltab	15	3	3									1	lgld	club	pelt	amul	circ											0
@@ -501,9 +501,9 @@ Communal	498	100	1		60		45	dru			1	125	skilltab	16	3	3									1	lgld	club	pelt	
 Nature's	499	100	1	1	20		15	dru			1	125	skilltab	17	1	1											club	pelt	amul	circ											0
 Terra's	500	100	1	1	40		30	dru			1	125	skilltab	17	2	2									1	lgld	club	pelt	amul	circ											0
 Gaea's	501	100	1		60		45	dru			1	125	skilltab	17	3	3									1	lgld	club	pelt	amul	circ											0
-Entrapping	502	100	1	1	50		42	ass			2	125	skilltab	18	1	1											lcha														0
-Mentalist's	503	100	1	1	50		42	ass			2	125	skilltab	19	1	1											lcha														0
-Shogukusha's	504	100	1	1	50		42	ass			2	125	skilltab	20	1	1											lcha														0
+Entrapping	502	100	1	1	50		42	ass			4	125	skilltab	18	1	1											lcha	lchp													0
+Mentalist's	503	100	1	1	50		42	ass			4	125	skilltab	19	1	1											lcha	lchp													0
+Shogukusha's	504	100	1	1	50		42	ass			4	125	skilltab	20	1	1											lcha	lchp													0
 Entrapping	505	100	1	1	20		15	ass			1	125	skilltab	18	1	1											h2h	amul	circ	knif				tkni							0
 Trickster's	506	100	1	1	40		30	ass			1	125	skilltab	18	2	2									1	lgld	h2h	amul	circ	knif				tkni							0
 Cunning	507	100	1		60		45	ass			1	125	skilltab	18	3	3									1	lgld	h2h	amul	circ	knif				tkni							0
@@ -667,92 +667,92 @@ Azure	664	1	1	1	1	4	1				3	117	res-cold		5	5											armo	ring	amul	orb	circ		
 Crimson	665	1	1	1	1	4	1				3	118	res-fire		5	5											armo	ring	amul	orb	circ										0
 Tangerine	666	1	1	1	1	4	1				3	119	res-ltng		5	5											armo	ring	amul	orb	circ										0
 Beryl	667	1	1	1	1	4	1				3	120	res-pois		5	5											armo	ring	amul	orb	circ										0
-Godly	668	100	1	1	50		43				1	101	ac%		101	200									1	dgld	armo														0
-Cruel	669	100	1	1	56		48				1	105	dmg%		201	300									1	blac	weap							staf	wand	orb					0
+Godly	668	100		1	50		43					101	ac%		101	200									1	dgld	armo														0
+Cruel	669	100		1	56		48				1	105	dmg%		201	300									1	blac	weap							staf	wand	orb					0
 	670																																								0
-Champion's	671	1	1	1	1		1				2	150	map-glob-monsterrarity		30	40											t1m	t2m	t3m												0
-Flaming	672	1	1	1	1		1				2	151	map-mon-extra-fire		5	10	map-glob-density		13	18	map-play-addxp		3	4			t1m	t2m	t3m												0
+Champion's	671	1	1	1	1		1				2	150	map-glob-monsterrarity		30	40											t1m	t2m													0
+Flaming	672	1	1	1	1		1				2	151	map-mon-extra-fire		5	10	map-glob-density		13	18	map-play-addxp		3	4			t1m	t2m													0
 Ember	673	1	1	1	1		1				2	151	map-mon-extra-fire		10	15	map-glob-density		18	23	map-play-addxp		4	5			t2m	t3m													0
 Smoldering	674	1	1	1	1		1				2	151	map-mon-extra-fire		15	20	map-glob-density		23	25	map-play-addxp		5	6			t3m	t4m													0
-Hibernal	675	1	1	1	1		1				2	152	map-mon-extra-cold		5	10	map-glob-density		13	15	map-play-mag-gold%		15	20			t1m	t2m	t3m												0
+Hibernal	675	1	1	1	1		1				2	152	map-mon-extra-cold		5	10	map-glob-density		13	15	map-play-mag-gold%		15	20			t1m	t2m													0
 Snowflake	676	1	1	1	1		1				2	152	map-mon-extra-cold		10	15	map-glob-density		15	18	map-play-mag-gold%		25	30			t2m	t3m													0
 Shivering	677	1	1	1	1		1				2	152	map-mon-extra-cold		15	20	map-glob-density		18	20	map-play-mag-gold%		35	40			t3m	t4m													0
-Static	678	1	1	1	1		1				2	153	map-mon-extra-ltng		5	10	map-glob-density		13	20	map-play-addxp		3	4			t1m	t2m	t3m												0
+Static	678	1	1	1	1		1				2	153	map-mon-extra-ltng		5	10	map-glob-density		13	20	map-play-addxp		3	4			t1m	t2m													0
 Glowing	679	1	1	1	1		1				2	153	map-mon-extra-ltng		10	15	map-glob-density		18	23	map-play-addxp		4	5			t2m	t3m													0
 Arcing	680	1	1	1	1		1				2	153	map-mon-extra-ltng		15	20	map-glob-density		23	25	map-play-addxp		5	6			t3m	t4m													0
-Toxic	681	1	1	1	1		1				2	154	map-mon-extra-pois		5	10	map-glob-density		15	20	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Toxic	681	1	1	1	1		1				2	154	map-mon-extra-pois		5	10	map-glob-density		15	20	map-play-mag-gold%		5	10			t1m	t2m													0
 Pestilent	682	1	1	1	1		1				2	154	map-mon-extra-pois		10	15	map-glob-density		20	25	map-play-mag-gold%		15	20			t2m	t3m													0
 Septic	683	1	1	1	1		1				2	154	map-mon-extra-pois		15	20	map-glob-density		25	30	map-play-mag-gold%		25	30			t3m	t4m													0
-Magic	684	1	1	1	1		1				2	155	map-mon-extra-mag		5	10	map-glob-density		13	18	map-play-mag-gold%		10	15																	0
-Arcane	685	1	1	1	1		1				2	155	map-mon-extra-mag		10	15	map-glob-density		18	23	map-play-mag-gold%		15	20																	0
-Ancient	686	1	1	1	1		1				2	155	map-mon-extra-mag		15	20	map-glob-density		23	25	map-play-mag-gold%		20	25																	0
-Promoted	687	1	1	1	1		1				2	300	map-glob-arealevel		1	1	map-play-addxp		3	4	map-play-mag-gold%		15	20																	0
-Elevated	688	1	1	1	1		1				2	300	map-glob-arealevel		1	1	map-play-addxp		4	5	map-play-mag-gold%		20	25																	0
-Ascended	689	1	1	1	1		1				2	300	map-glob-arealevel		1	1	map-play-addxp		5	6	map-play-mag-gold%		30	35																	0
-Silver	690	1	1	1	1		1				2	156	map-mon-att-pierce		30	50	map-glob-density		8	10	map-play-mag-gold%		15	20			t1m	t2m	t3m												0
+Magic	684	1	1	1	1		1					155	map-mon-extra-mag		5	10	map-glob-density		13	18	map-play-mag-gold%		10	15																	0
+Arcane	685	1	1	1	1		1					155	map-mon-extra-mag		10	15	map-glob-density		18	23	map-play-mag-gold%		15	20																	0
+Ancient	686	1	1	1	1		1					155	map-mon-extra-mag		15	20	map-glob-density		23	25	map-play-mag-gold%		20	25																	0
+Promoted	687	1		1	1		1					300	map-glob-arealevel		1	1	map-play-addxp		3	4	map-play-mag-gold%		15	20																	0
+Elevated	688	1		1	1		1					300	map-glob-arealevel		1	1	map-play-addxp		4	5	map-play-mag-gold%		20	25																	0
+Ascended	689	1		1	1		1					300	map-glob-arealevel		1	1	map-play-addxp		5	6	map-play-mag-gold%		30	35																	0
+Silver	690	1	1	1	1		1				2	156	map-mon-att-pierce		30	50	map-glob-density		8	10	map-play-mag-gold%		15	20			t1m	t2m													0
 Shining	691	1	1	1	1		1				2	156	map-mon-att-pierce		50	70	map-glob-density		15	18	map-play-mag-gold%		30	35			t2m	t3m													0
 Opulent	692	1	1	1	1		1				2	156	map-mon-att-pierce		70	90	map-glob-density		18	20	map-play-mag-gold%		45	50			t3m	t4m													0
-Fast	693	1	1	1	1		1				2	305	map-mon-att-cast-speed		40	60	map-glob-density		15	20	map-play-addxp		3	4			t1m	t2m	t3m												0
+Fast	693	1	1	1	1		1				2	305	map-mon-att-cast-speed		40	60	map-glob-density		15	20	map-play-addxp		3	4			t1m	t2m													0
 Speedy	694	1	1	1	1		1				2	305	map-mon-att-cast-speed		60	80	map-glob-density		20	25	map-play-addxp		4	5			t2m	t3m													0
 Ludicrous	695	1	1	1	1		1				2	305	map-mon-att-cast-speed		80	100	map-glob-density		25	30	map-play-addxp		5	6			t3m	t4m													0
-Large	696	1	1	1	1		1				1	311	map-mon-hp%		5	15	map-glob-density		15	20	map-play-addxp		6	8			t1m	t2m	t3m												0
-Huge	697	1	1	1	1		1				1	311	map-mon-hp%		15	25	map-glob-density		20	25	map-play-addxp		8	10			t2m	t3m													0
-Colossal	698	1	1	1	1		1				1	311	map-mon-hp%		25	35	map-glob-density		25	30	map-play-addxp		10	12			t3m	t4m													0
-Strong	699	1	1	1	1		1				2	158	map-mon-ed%		10	15	map-play-addxp		4	5	map-play-mag-gold%		10	15			t1m	t2m	t3m												0
+Large	696	1	1	1	1		1				1	311	map-mon-hp%		5	10	map-glob-density		15	20	map-play-addxp		6	8			t1m	t2m													0
+Huge	697	1	1	1	1		1				1	311	map-mon-hp%		10	15	map-glob-density		20	25	map-play-addxp		8	10			t2m	t3m													0
+Colossal	698	1	1	1	1		1				1	311	map-mon-hp%		15	20	map-glob-density		25	30	map-play-addxp		10	12			t3m	t4m													0
+Strong	699	1	1	1	1		1				2	158	map-mon-ed%		10	15	map-play-addxp		4	5	map-play-mag-gold%		10	15			t1m	t2m													0
 Mighty	700	1	1	1	1		1				2	158	map-mon-ed%		15	20	map-play-addxp		5	6	map-play-mag-gold%		25	30			t2m	t3m													0
 Formidable	701	1	1	1	1		1				2	158	map-mon-ed%		20	25	map-play-addxp		6	7	map-play-mag-gold%		40	45			t3m	t4m													0
-Splashing	702	1	1	1	1		1				2	157	map-mon-splash	358	100	1	map-glob-density		8	13	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Splashing	702	1	1	1	1		1				2	157	map-mon-splash	358	100	1	map-glob-density		8	13	map-play-mag-gold%		5	10			t1m	t2m													0
 Splashing	703	1	1	1	1		1				2	157	map-mon-splash	358	100	1	map-glob-density		18	23	map-play-mag-gold%		20	25			t2m	t3m													0
 Splashing	704	1	1	1	1		1				2	157	map-mon-splash	358	100	1	map-glob-density		23	25	map-play-mag-gold%		35	40			t3m	t4m													0
-Bloody	705	1	1	1	1		1				2	312	map-mon-openwounds		5	10	map-play-addxp		4	5	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Bloody	705	1	1	1	1		1				2	312	map-mon-openwounds		5	10	map-play-addxp		4	5	map-play-mag-gold%		5	10			t1m	t2m													0
 Gory	706	1	1	1	1		1				2	312	map-mon-openwounds		10	15	map-play-addxp		5	6	map-play-mag-gold%		20	25			t2m	t3m													0
 Sanguinary	707	1	1	1	1		1				2	312	map-mon-openwounds		15	20	map-play-addxp		6	7	map-play-mag-gold%		35	40			t3m	t4m													0
-Unhealthy	708	1	1	1	1		1				2	315	map-play-regen		-40	-30	map-play-addxp		3	4	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Unhealthy	708	1	1	1	1		1				2	315	map-play-regen		-40	-30	map-play-addxp		3	4	map-play-mag-gold%		5	10			t1m	t2m													0
 Sickly	709	1	1	1	1		1				2	315	map-play-regen		-60	-50	map-play-addxp		4	5	map-play-mag-gold%		20	25			t2m	t3m													0
 Diseased	710	1	1	1	1		1				2	315	map-play-regen		-80	-70	map-play-addxp		5	6	map-play-mag-gold%		35	40			t3m	t4m													0
-Crushing	711	1	1	1	1		1				2	163	map-mon-crush		15	25	map-glob-density		8	10	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Crushing	711	1	1	1	1		1				2	163	map-mon-crush		15	25	map-glob-density		8	10	map-play-mag-gold%		5	10			t1m	t2m													0
 Smashing	712	1	1	1	1		1				2	163	map-mon-crush		25	35	map-glob-density		15	18	map-play-mag-gold%		20	25			t2m	t3m													0
 Obliterating	713	1	1	1	1		1				2	163	map-mon-crush		35	45	map-glob-density		18	20	map-play-mag-gold%		35	40			t3m	t4m													0
-Sparking	714	1	1	1	1		1				2	164	map-mon-phys-as-extra-ltng		60	80	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Sparking	714	1	1	1	1		1				2	164	map-mon-phys-as-extra-ltng		60	80	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m													0
 Shocking	715	1	1	1	1		1				2	164	map-mon-phys-as-extra-ltng		70	90	map-glob-density		15	18	map-play-mag-gold%		20	25			t2m	t3m													0
 Thunderous	716	1	1	1	1		1				2	164	map-mon-phys-as-extra-ltng		80	100	map-glob-density		18	20	map-play-mag-gold%		35	40			t3m	t4m													0
-Chilling	717	1	1	1	1		1				2	165	map-mon-phys-as-extra-cold	25	60	80	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Chilling	717	1	1	1	1		1				2	165	map-mon-phys-as-extra-cold	25	60	80	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m													0
 Boreal	718	1	1	1	1		1				2	165	map-mon-phys-as-extra-cold	25	70	90	map-glob-density		15	18	map-play-mag-gold%		20	25			t2m	t3m													0
 Glacial	719	1	1	1	1		1				2	165	map-mon-phys-as-extra-cold	25	80	100	map-glob-density		18	20	map-play-mag-gold%		35	40			t3m	t4m													0
-Smoking	720	1	1	1	1		1				2	166	map-mon-phys-as-extra-fire		60	80	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Smoking	720	1	1	1	1		1				2	166	map-mon-phys-as-extra-fire		60	80	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m													0
 Molten	721	1	1	1	1		1				2	166	map-mon-phys-as-extra-fire		70	90	map-glob-density		15	18	map-play-mag-gold%		20	25			t2m	t3m													0
 Volcanic	722	1	1	1	1		1				2	166	map-mon-phys-as-extra-fire		80	100	map-glob-density		18	20	map-play-mag-gold%		35	40			t3m	t4m													0
-Poisonous	723	1	1	1	1		1				2	167	map-mon-phys-as-extra-pois	125	123	163	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Poisonous	723	1	1	1	1		1				2	167	map-mon-phys-as-extra-pois	125	123	163	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m													0
 Envenomed	724	1	1	1	1		1				2	167	map-mon-phys-as-extra-pois	125	143	184	map-glob-density		15	18	map-play-mag-gold%		20	25			t2m	t3m													0
 Plagued	725	1	1	1	1		1				2	167	map-mon-phys-as-extra-pois	125	163	205	map-glob-density		18	20	map-play-mag-gold%		35	40			t3m	t4m													0
-Runic	726	1	1	1	1		1				2	168	map-mon-phys-as-extra-mag		8	10	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m	t3m												0
+Runic	726	1	1	1	1		1				2	168	map-mon-phys-as-extra-mag		8	10	map-glob-density		13	15	map-play-mag-gold%		5	10			t1m	t2m													0
 Taboo	727	1	1	1	1		1				2	168	map-mon-phys-as-extra-mag		10	12	map-glob-density		15	18	map-play-mag-gold%		20	25			t2m	t3m													0
 Occult	728	1	1	1	1		1				2	168	map-mon-phys-as-extra-mag		12	14	map-glob-density		18	20	map-play-mag-gold%		35	40			t3m	t4m													0
 Stygian	729	1	1	1	1		1				1	169	map-glob-add-mon-doll		690	690	map-glob-density		25	30	map-play-mag-gold%		40	45			t1m	t2m	t3m					t4m							0
 Lustful	730	1	1	1	1		1				1	169	map-glob-add-mon-succ		885	885	map-glob-density		25	30	map-play-mag-gold%		45	50			t1m	t2m	t3m					t4m							0
-Vampiric	731	1	1	1	1		1				1	169	map-glob-add-mon-vamp		697	697	map-glob-density		18	20	map-play-mag-gold%		15	20			t1m	t2m	t3m					t4m							0
+Vampiric	731	1	1	1	1		1				1	169	map-glob-add-mon-vamp		1170	1170	map-glob-density		18	20	map-play-mag-gold%		15	20			t1m	t2m	t3m					t4m							0
 Bovine	732	1	1	1	1		1				1	169	map-glob-add-mon-cow		391	391	map-glob-density		25	30	map-play-mag-gold%		15	20			t1m	t2m	t3m					t4m							0
 Reanimated	733	1	1	1	1		1				1	169	map-glob-add-mon-horde		698	698	map-glob-density		25	30	map-play-mag-gold%		35	40			t1m	t2m	t3m					t4m							0
-Ghastly	734	1	1	1	1		1				1	169	map-glob-add-mon-ghost		732	732	map-glob-density		18	20	map-play-mag-gold%		15	20			t1m	t2m	t3m					t4m							0
+Ghastly	734	1	1	1	1		1				1	169	map-glob-add-mon-ghost		1111	1111	map-glob-density		18	20	map-play-mag-gold%		15	20			t1m	t2m	t3m					t4m							0
 Blood Letting	735	1	1	1	13	53	12				3	200	heal-kill		1	1											weap	ring	circ	tors	helm	shld	misl								0
 Murderous	736	100	1	1	51		44				1	200	heal-kill		2	5											weap	circ	tors	helm	shld	misl									0
 Blood Sucking	737	100	1	1	32		26				2	200	heal-kill		1	3											jewl	tors	helm	shld	weap	ring	misl								0
-Channeling	738	100	1	1	14		14				3	201	extra-ltng		2	2											mcha														0
-Cold	739	100	1	1	14		14				3	201	extra-cold		2	2											mcha														0
-Cinder	740	100	1	1	14		14				3	201	extra-fire		2	2											mcha														0
-Morbid	741	100	1	1	14		14				3	201	extra-pois		2	2											mcha														0
-Sparkling	742	100	1	1	14		14				3	201	extra-magi		2	2											mcha														0
+Channeling	738	100	1	1	14		14				3	201	extra-ltng		2	2											mcha	mchp													0
+Cold	739	100	1	1	14		14				3	201	extra-cold		2	2											mcha	mchp													0
+Cinder	740	100	1	1	14		14				3	201	extra-fire		2	2											mcha	mchp													0
+Morbid	741	100	1	1	14		14				3	201	extra-pois		2	2											mcha	mchp													0
+Sparkling	742	100	1	1	14		14				3	201	extra-magi		2	2											mcha	mchp													0
 Discharging	743	100	1	1	28		28				3	201	extra-ltng		2	3											mcha														0
 Frigid	744	100	1	1	28		28				3	201	extra-cold		2	3											mcha														0
 Wildfire	745	100	1	1	28		28				3	201	extra-fire		2	3											mcha														0
 Malicious	746	100	1	1	28		28				3	201	extra-pois		2	3											mcha														0
 Effervescent	747	100	1	1	28		28				3	201	extra-magi		2	3											mcha														0
-Conduit	748	100	1	1	42		42				2	201	extra-ltng		3	4											mcha														0
-Numbing	749	100	1	1	42		42				2	201	extra-cold		3	4											mcha														0
-Inferno	750	100	1	1	42		42				2	201	extra-fire		3	4											mcha														0
-Infectious	751	100	1	1	42		42				2	201	extra-pois		3	4											mcha														0
-Scintillating	752	100	1	1	42		42				2	201	extra-magi		3	4											mcha														0
-Visceral	753	100	1	1	75		69				1	105	dmg%		301	400									1	blac	miss	amaz	knif	club	mace	tkni	taxe	aspe							0
+Conduit	748	100	1	1	42		42				2	201	extra-ltng		3	3											mcha														0
+Numbing	749	100	1	1	42		42				2	201	extra-cold		3	3											mcha														0
+Inferno	750	100	1	1	42		42				2	201	extra-fire		3	3											mcha														0
+Infectious	751	100	1	1	42		42				2	201	extra-pois		3	3											mcha														0
+Scintillating	752	100	1	1	42		42				2	201	extra-magi		3	3											mcha														0
+Visceral	753	100	1	1	75		69				2	105	dmg%		301	400									1	blac	miss	amaz	knif	club	mace	tkni	taxe	aspe							0
 Divine	754	100	1	1	45		37				1	142	att-undead		326	450	dmg-undead		276	350						lgld	miss														0
 Celestial	755	100	1	1	55		41				1	123	att-demon		301	400	dmg-demon		201	300					1	dgld	miss														0
 Grandmaster's	756	100	1	1	69		61				4	111	att		251	300	dmg%		151	200					1	dgld	miss														0
@@ -791,10 +791,10 @@ Impaling	788	100	1		60		55				2	143	pierce		31	40											misl														0
 Devout	789	100	1	1	3		1				4	142	att-undead		25	50	dmg-undead		10	25							misl														0
 Consecrated	790	100	1	1	15		11				4	142	att-undead		25	75	dmg-undead		25	75							misl														0
 Pure	791	100	1		25		18				3	142	att-undead		76	175	dmg-undead		76	125						lgld	misl														0
-Duplicated	792	1	1	1	1		1				1	169	map-glob-extra-boss		1	1											t1m	t2m	t3m												0
+Duplicated	792	1	1	1	1		1				1	169	map-glob-extra-boss		1	1											t1m	t2m													0
 Champion's	793	1	1	1	1		1				2	150	map-glob-monsterrarity		40	50											t2m	t3m													0
 Champion's	794	1	1	1	1		1				2	150	map-glob-monsterrarity		50	60											t3m	t4m													0
-Shrieking	795	1	1	1	1		1				1	169	map-glob-add-mon-shriek		1047	1047	map-glob-density		25	30	map-play-mag-gold%		20	30			t1m	t2m	t3m					t4m							0
+Rampant	795	1	1	1	1		1				2	169	map-glob-add-mon-shriek		1169	1169	map-glob-density		25	30	map-play-mag-gold%		20	30			t1m	t2m	t3m					t4m							0
 Crimson	796	100	1	1	38		30				4	103	dmg-min		5	8									1	dred	misl														0
 Serpent's	797	1	1	1	14		10				3	115	mana		11	20											ring	amul	belt												0
 Serpent's	798	1	1	1	37		27				2	115	mana		11	20											boot	glov													0
@@ -806,8 +806,8 @@ Massive	803	1	1	1	20		15				7	105	dmg%		51	65									1	dgld	misl							staf	wan
 Assamic	804	100	1	1	3	43	1				2	123	att-demon		25	50	dmg-demon		10	25							misl							wand	orb						0
 Arcadian	805	100	1	1	15	55	11				2	123	att-demon		51	100	dmg-demon		26	50							misl							wand	orb						0
 Cultist's	806	100	1	1	28	68	25				4	170	openwounds		20	20	deep-wounds		30	40							weap	misl						staf	wand	orb					0
-Bloodthirster's	807	100	1	1	48		45				4	170	openwounds		20	20	deep-wounds		136	190							weap	misl						staf	wand	orb					0
-Gorelust's	808	100	1	1	68		65				4	170	openwounds		20	20	deep-wounds		224	310							weap	misl						staf	wand	orb					0
+Bloodthirster's	807	100	1	1	48		45				4	170	openwounds		20	20	deep-wounds		204	285							weap	misl						staf	wand	orb					0
+Gorelust's	808	100	1	1	68		65				4	170	openwounds		20	20	deep-wounds		407	563							weap	misl						staf	wand	orb					0
 Cultist's	809	100	1	1	28	68	25				3	170	openwounds		5	5	deep-wounds		30	40							jewl														0
 Bloodthirster's	810	100	1	1	48		45				3	170	openwounds		5	5	deep-wounds		65	85							jewl														0
 Gorelust's	811	100	1	1	68		65				3	170	openwounds		5	5	deep-wounds		95	125							jewl														0
@@ -815,3 +815,89 @@ Ember	812	100	1	1	25	65	18				3	138	fire-min		16	25	fire-max		31	60					1	dred	c
 Snowflake	813	100	1	1	25	65	18				3	137	cold-len		25	25	cold-min		6	9	cold-max		19	30	1	lblu	circ														0
 Virulent	814	100	1	1	76		66				1	140	dmg-pois	50	3780	3780									1	dgrn	weap	misl													0
 Infectious	815	100	1	1	76		66				1	140	dmg-pois	50	4535	4535									1	dgrn	knif	sc9						tkni							0
+Fine	816	100	1		28		21				4	111	att		10	10	dmg-max		2	2							schp														0
+Shimmering	817	100	1		33		25				1	116	res-all		3	3											schp														0
+Lapis	818	100	1	1	14		10				2	117	res-cold		7	7											schp														0
+Russet	819	100	1	1	14		10				2	118	res-fire		7	7											schp														0
+Ocher	820	100	1	1	14		10				2	119	res-ltng		7	7											schp														0
+Viridian	821	100	1	1	14		10				2	120	res-pois		7	7											schp														0
+Sizzling	822	100	1	1	10	29	8				2	171	pierce-fire		2	4											miss	scep	crys	orb	assn	pelt									0
+Singeing	823	100	1	1	30	59	26				2	171	pierce-fire		4	6											miss	scep	crys	orb	assn	pelt									0
+Infernal	824	100	1	1	60		53				2	171	pierce-fire		6	10											miss	scep	crys	orb	assn	pelt									0
+Frigid	825	100	1	1	10	29	8				2	171	pierce-cold		2	4											miss	scep	crys	orb	assn	pelt									0
+Frostbitten	826	100	1	1	30	59	26				2	171	pierce-cold		4	6											miss	scep	crys	orb	assn	pelt									0
+Subzero	827	100	1	1	60		53				2	171	pierce-cold		6	10											miss	scep	crys	orb	assn	pelt									0
+Crackling	828	100	1	1	10	29	8				2	171	pierce-ltng		2	4											jave	scep	crys	orb	assn										0
+Jolting	829	100	1	1	30	59	26				2	171	pierce-ltng		4	6											jave	scep	crys	orb	assn										0
+Surging	830	100	1	1	60		53				2	171	pierce-ltng		6	10											jave	scep	crys	orb	assn										0
+Decaying	831	100	1	1	10	29	9				2	171	pierce-pois		2	4											jave	wand	assn												0
+Festering	832	100	1	1	30	59	26				2	171	pierce-pois		4	6											jave	wand	assn												0
+Necrotic	833	100	1	1	60		53				2	171	pierce-pois		6	10											jave	wand	assn												0
+Sizzling	822	100	1	1	10	29	8				2	171	pierce-fire		3	6											staf														0
+Singeing	823	100	1	1	30	59	26				2	171	pierce-fire		6	10											staf														0
+Infernal	824	100	1	1	60		53				2	171	pierce-fire		10	15											staf														0
+Frigid	825	100	1	1	10	29	8				2	171	pierce-cold		3	6											staf														0
+Frostbitten	826	100	1	1	30	59	26				2	171	pierce-cold		6	10											staf														0
+Subzero	827	100	1	1	60		53				2	171	pierce-cold		10	15											staf														0
+Crackling	828	100	1	1	10	29	8				2	171	pierce-ltng		3	6											staf	aspe													0
+Jolting	829	100	1	1	30	59	26				2	171	pierce-ltng		6	10											staf	aspe													0
+Surging	830	100	1	1	60		53				2	171	pierce-ltng		10	15											staf	aspe													0
+Champion's	831	1	1		1		1				12	150	map-glob-monsterrarity		45	60											t1m	t2m													0
+Champion's	832	1	1		1		1				12	150	map-glob-monsterrarity		60	75											t2m	t3m													0
+Champion's	833	1	1		1		1				12	150	map-glob-monsterrarity		75	90											t3m	t4m													0
+Flaming	834	1	1		1		1				12	151	map-mon-extra-fire		8	15	map-glob-density		26	36	map-play-addxp		6	8			t1m	t2m													0
+Ember	835	1	1		1		1				12	151	map-mon-extra-fire		15	23	map-glob-density		36	46	map-play-addxp		8	10			t2m	t3m													0
+Smoldering	836	1	1		1		1				12	151	map-mon-extra-fire		23	30	map-glob-density		46	50	map-play-addxp		10	12			t3m	t4m													0
+Hibernal	837	1	1		1		1				12	152	map-mon-extra-cold		8	15	map-glob-density		26	30	map-play-mag-gold%		30	40			t1m	t2m													0
+Snowflake	838	1	1		1		1				12	152	map-mon-extra-cold		15	23	map-glob-density		30	36	map-play-mag-gold%		50	60			t2m	t3m													0
+Shivering	839	1	1		1		1				12	152	map-mon-extra-cold		23	30	map-glob-density		36	40	map-play-mag-gold%		70	80			t3m	t4m													0
+Static	840	1	1		1		1				12	153	map-mon-extra-ltng		8	15	map-glob-density		26	40	map-play-addxp		6	8			t1m	t2m													0
+Glowing	841	1	1		1		1				12	153	map-mon-extra-ltng		15	23	map-glob-density		36	46	map-play-addxp		8	10			t2m	t3m													0
+Arcing	842	1	1		1		1				12	153	map-mon-extra-ltng		23	30	map-glob-density		46	50	map-play-addxp		10	12			t3m	t4m													0
+Toxic	843	1	1		1		1				12	154	map-mon-extra-pois		8	15	map-glob-density		30	40	map-play-mag-gold%		10	20			t1m	t2m													0
+Pestilent	844	1	1		1		1				12	154	map-mon-extra-pois		15	23	map-glob-density		40	50	map-play-mag-gold%		30	40			t2m	t3m													0
+Septic	845	1	1		1		1				12	154	map-mon-extra-pois		23	30	map-glob-density		50	60	map-play-mag-gold%		50	60			t3m	t4m													0
+Silver	849	1	1		1		1				12	156	map-mon-att-pierce		45	75	map-glob-density		16	20	map-play-mag-gold%		30	40			t1m	t2m													0
+Shining	850	1	1		1		1				12	156	map-mon-att-pierce		75	105	map-glob-density		30	36	map-play-mag-gold%		60	70			t2m	t3m													0
+Opulent	851	1	1		1		1				12	156	map-mon-att-pierce		105	135	map-glob-density		36	40	map-play-mag-gold%		90	100			t3m	t4m													0
+Fast	852	1	1		1		1				12	305	map-mon-att-cast-speed		60	90	map-glob-density		30	40	map-play-addxp		6	8			t1m	t2m													0
+Speedy	853	1	1		1		1				12	305	map-mon-att-cast-speed		90	120	map-glob-density		40	50	map-play-addxp		8	10			t2m	t3m													0
+Ludicrous	854	1	1		1		1				12	305	map-mon-att-cast-speed		120	150	map-glob-density		50	60	map-play-addxp		10	12			t3m	t4m													0
+Large	855	1	1		1		1				6	311	map-mon-hp%		10	20	map-glob-density		30	40	map-play-addxp		12	16			t1m	t2m													0
+Huge	856	1	1		1		1				6	311	map-mon-hp%		20	30	map-glob-density		40	50	map-play-addxp		16	20			t2m	t3m													0
+Colossal	857	1	1		1		1				6	311	map-mon-hp%		30	40	map-glob-density		50	60	map-play-addxp		20	24			t3m	t4m													0
+Strong	858	1	1		1		1				12	158	map-mon-ed%		15	23	map-play-addxp		8	10	map-play-mag-gold%		20	30			t1m	t2m													0
+Mighty	859	1	1		1		1				12	158	map-mon-ed%		23	30	map-play-addxp		10	12	map-play-mag-gold%		50	60			t2m	t3m													0
+Formidable	860	1	1		1		1				12	158	map-mon-ed%		30	38	map-play-addxp		12	14	map-play-mag-gold%		80	90			t3m	t4m													0
+Splashing	861	1	1		1		1				12	157	map-mon-splash	358	150	2	map-glob-density		16	26	map-play-mag-gold%		10	20			t1m	t2m													0
+Splashing	862	1	1		1		1				12	157	map-mon-splash	358	150	2	map-glob-density		36	46	map-play-mag-gold%		40	50			t2m	t3m													0
+Splashing	863	1	1		1		1				12	157	map-mon-splash	358	150	2	map-glob-density		46	50	map-play-mag-gold%		70	80			t3m	t4m													0
+Bloody	864	1	1		1		1				12	312	map-mon-openwounds		8	15	map-play-addxp		8	10	map-play-mag-gold%		10	20			t1m	t2m													0
+Gory	865	1	1		1		1				12	312	map-mon-openwounds		15	23	map-play-addxp		10	12	map-play-mag-gold%		40	50			t2m	t3m													0
+Sanguinary	866	1	1		1		1				12	312	map-mon-openwounds		23	30	map-play-addxp		12	14	map-play-mag-gold%		70	80			t3m	t4m													0
+Unhealthy	867	1	1		1		1				12	315	map-play-regen		-60	-45	map-play-addxp		6	8	map-play-mag-gold%		10	20			t1m	t2m													0
+Sickly	868	1	1		1		1				12	315	map-play-regen		-90	-75	map-play-addxp		8	10	map-play-mag-gold%		40	50			t2m	t3m													0
+Diseased	869	1	1		1		1				12	315	map-play-regen		-120	-105	map-play-addxp		10	12	map-play-mag-gold%		70	80			t3m	t4m													0
+Crushing	870	1	1		1		1				12	163	map-mon-crush		23	38	map-glob-density		16	20	map-play-mag-gold%		10	20			t1m	t2m													0
+Smashing	871	1	1		1		1				12	163	map-mon-crush		38	53	map-glob-density		30	36	map-play-mag-gold%		40	50			t2m	t3m													0
+Obliterating	872	1	1		1		1				12	163	map-mon-crush		53	68	map-glob-density		36	40	map-play-mag-gold%		70	80			t3m	t4m													0
+Sparking	873	1	1		1		1				12	164	map-mon-phys-as-extra-ltng		90	120	map-glob-density		26	30	map-play-mag-gold%		10	20			t1m	t2m													0
+Shocking	874	1	1		1		1				12	164	map-mon-phys-as-extra-ltng		105	135	map-glob-density		30	36	map-play-mag-gold%		40	50			t2m	t3m													0
+Thunderous	875	1	1		1		1				12	164	map-mon-phys-as-extra-ltng		120	150	map-glob-density		36	40	map-play-mag-gold%		70	80			t3m	t4m													0
+Chilling	876	1	1		1		1				12	165	map-mon-phys-as-extra-cold	25	90	120	map-glob-density		26	30	map-play-mag-gold%		10	20			t1m	t2m													0
+Boreal	877	1	1		1		1				12	165	map-mon-phys-as-extra-cold	25	105	135	map-glob-density		30	36	map-play-mag-gold%		40	50			t2m	t3m													0
+Glacial	878	1	1		1		1				12	165	map-mon-phys-as-extra-cold	25	120	150	map-glob-density		36	40	map-play-mag-gold%		70	80			t3m	t4m													0
+Smoking	879	1	1		1		1				12	166	map-mon-phys-as-extra-fire		90	120	map-glob-density		26	30	map-play-mag-gold%		10	20			t1m	t2m													0
+Molten	880	1	1		1		1				12	166	map-mon-phys-as-extra-fire		105	135	map-glob-density		30	36	map-play-mag-gold%		40	50			t2m	t3m													0
+Volcanic	881	1	1		1		1				12	166	map-mon-phys-as-extra-fire		120	150	map-glob-density		36	40	map-play-mag-gold%		70	80			t3m	t4m													0
+Poisonous	882	1	1		1		1				12	167	map-mon-phys-as-extra-pois	125	185	245	map-glob-density		26	30	map-play-mag-gold%		10	20			t1m	t2m													0
+Envenomed	883	1	1		1		1				12	167	map-mon-phys-as-extra-pois	125	215	276	map-glob-density		30	36	map-play-mag-gold%		40	50			t2m	t3m													0
+Plagued	884	1	1		1		1				12	167	map-mon-phys-as-extra-pois	125	245	308	map-glob-density		36	40	map-play-mag-gold%		70	80			t3m	t4m													0
+Runic	885	1	1		1		1				12	168	map-mon-phys-as-extra-mag		12	15	map-glob-density		26	30	map-play-mag-gold%		10	20			t1m	t2m													0
+Taboo	886	1	1		1		1				12	168	map-mon-phys-as-extra-mag		15	18	map-glob-density		30	36	map-play-mag-gold%		40	50			t2m	t3m													0
+Occult	887	1	1		1		1				12	168	map-mon-phys-as-extra-mag		18	21	map-glob-density		36	40	map-play-mag-gold%		70	80			t3m	t4m													0
+Felicitous	888	100	1	1	26		3				4	114	mag%		5	10											jewl														0
+Fortuitous	889	1	1	1	46		8				4	114	mag%		11	15											jewl														0
+Drake's	890	1	1	1	49		41				2	115	mana		21	30											jewl														0
+Tricky	891	1	1	1	29		21				3	107	dmg-to-mana		13	20									1	cblu	shld	amul	orb	staf											0
+Devious	892	1	1	1	49		41				3	107	dmg-to-mana		21	30									1	cblu	shld	amul	orb	staf											0

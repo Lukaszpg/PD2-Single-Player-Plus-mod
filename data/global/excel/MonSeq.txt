@@ -1165,3 +1165,17 @@ seq_warlordofbloodsc	A1	3		2	0
 seq_warlordofbloodsc	A1	2			0
 seq_warlordofbloodsc	A1	1			0
 seq_warlordofbloodsc	A1	0			0
+seq_lucioncontrolsc	NU	0			0
+seq_lucioncontrolsc	NU	0		2	0
+seq_lucioncontrolsc	NU	0			0
+seq_luciondash	WL	0		1	0
+seq_luciondash	WL	1		1	0
+seq_luciondash	WL	2		1	0
+seq_luciondash	WL	3		1	0
+seq_luciondash	WL	4		1	0
+seq_luciondash	WL	5		1	0
+seq_luciondash	WL	6		1	0
+seq_luciondash	WL	7		1	0
+seq_luciondash	A1	4			0
+seq_luciondash	A1	5		1	0
+seq_luciondash	A1	7			0

@@ -323,3 +323,5 @@ rakanoth_steal_1	rakanoth1	100	16	all	0	1	0	0	0	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 rakanoth_steal_2	rakanoth2	100	16	all	0	1	0	0	0	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 rakanoth_steal_3	rakanoth3	100	16	all	0	1	0	0	0	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 maxlevel_t8_aura	Extra\AuraWhite	0	31	all	1	1	0	0	0	0	0	0	0	0	0	16	0	3	0	0	120	255	120	1	0
+lucion_aura	darkaura_grey	0	20	all	1	1	0	0	0	0	0	0	0	0	0	16	0	4	0	0	0	0	0	1	0
+lucion_t8_aura	Extra\AuraWhite_invert	0	31	all	1	1	0	0	0	0	0	0	0	0	0	16	0	4	0	0	40	40	40	1	0
