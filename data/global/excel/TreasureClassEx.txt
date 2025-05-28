@@ -1016,7 +1016,7 @@ Lillith Mirror NM				37500	100
 Lillith Mirror H				25000	100																											
 Vial of Lightsong N				22500	100																											
 Vial of Lightsong NM				11250	100																											
-Vial of Lightsong H				7500	100																											
+Vial of Lightsong H				1000	100																											
 Corrupted Zone				300																												
 Unique Map Monsters				7500	1																											
 Unique Map MapBoss				600																												

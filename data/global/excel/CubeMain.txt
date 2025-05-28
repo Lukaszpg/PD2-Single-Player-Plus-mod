@@ -2089,9 +2089,11 @@ Lillith's Mirror bolts (craft)	1			100					2	"cqv,crf"	llmr						useitem	99		100
 MYTHIC ORB																																																																																																								0
 																																																																																																								0
 Convert normal quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert magic quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert rare quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert normal quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert magic quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert rare quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert magic quality ring to unique	1			100	18	361	0		2	ring,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
@@ -2103,9 +2105,11 @@ Mythic orb + 15 jewel fragments = random rainbow facet	1			100					2	"mfo,qty=1"
 EXALTED ORB																																																																																																								0
 																																																																																																								0
 Convert normal quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,nor	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert superior quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert magic quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,mag	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert rare quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,rar	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert normal quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,nor	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert superior quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert magic quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,mag	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert rare quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,rar	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert magic quality amulet to set piece	1			100	18	361	0		2	amul,mag	"exo,qty=1"						usetype,set	99																																																																																						0
@@ -2117,7 +2121,7 @@ CAIN'S WISDOM																																																																			
 																																																																																																								0
 Small Charm + TES + CEH + BET + FED = Cain's Wisdom	1			100					5	"tes,qty=1"	"ceh,qty=1"	"bet,qty=1"	"fed,qty=1"	cm1			cm1,uni	85																																																																																						0
 																																																																																																								0
-RUNE DOWNGRADING																																																																																																								0
+RUNE DOWNGRADING (normal key)																																																																																																								0
 																																																																																																								0
 r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02s,qty=1"						"r01s,qty=3"																																																																																							0
 r03 downgrade tir -> 3 eld	1			100					2	"key,qty=1"	"r03s,qty=1"						"r02s,qty=3"																																																																																							0
@@ -2144,7 +2148,7 @@ r23 downgrade mal -> 1 um	1			100					2	"key,qty=1"	"r23s,qty=1"						"r22s,qty=
 r24 downgrade ist -> 1 mal	1			100					2	"key,qty=1"	"r24s,qty=1"						"r23s,qty=1"																																																																																							0
 																																																																																																								0
 																																																																																																								0
-ETERNAL COIN RUNE EXCHANGE																																																																																																								0
+RUNE DOWNGRADING (High Runes)																																																																																																								0
 																																																																																																								0
 r25 downgrade gul -> ist	1			100					2	ncoi,qty=1	"r25s,qty=1"						"r24s,qty=1"																																																																																							0
 r26 downgrade vex -> gul	1			100					2	ncoi,qty=1	"r26s,qty=1"						"r25s,qty=1"																																																																																							0
