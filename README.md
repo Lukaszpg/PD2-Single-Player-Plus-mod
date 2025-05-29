@@ -8,6 +8,7 @@ Newest patch notes: https://docs.google.com/document/d/1p4opLyZtoSoUQ6mlN4uGxIlO
 ## Known bugs
 
 * Skeleton Key is consumed if used for downgrading the runes recipe - no known bugfix as of now
+* Eternal Coin does not have a name in the inventory
 
 ## About this mod
 
