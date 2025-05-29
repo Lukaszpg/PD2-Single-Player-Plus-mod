@@ -80,8 +80,8 @@ All runes can be in stacked or non-stacked form.
 
 ### Unique & Set Ring & Amulet
 
-Unique Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet (eg. Nagelring to Stone of Jordan)
-Set Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet
-Rainbow Facet + Demonic Cube + Eternal Coin = Re-rolled type of Rainbow Facet (eg. Fire to Lightning)
+* Unique Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet (eg. Nagelring to Stone of Jordan)
+* Set Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet
+* Rainbow Facet + Demonic Cube + Eternal Coin = Re-rolled type of Rainbow Facet (eg. Fire to Lightning)
 
 
