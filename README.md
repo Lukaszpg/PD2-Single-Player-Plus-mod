@@ -79,10 +79,14 @@ All runes can be in stacked or non-stacked form.
 
 * 2x Larzuk's Puzzle Piece + Eternal Coin = Larzuk's Puzzle Box
 
-### Unique & Set Ring & Amulet
+### Unique & Set Ring & Amulet type re-roll
 
 * Unique Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet (eg. Nagelring to Stone of Jordan)
 * Set Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet
 * Rainbow Facet + Demonic Cube + Eternal Coin = Re-rolled type of Rainbow Facet (eg. Fire to Lightning)
+
+### Lilith's Mirror
+
+* Lilith's Mirror can now be used in the cube with non-corrupted unique/set armor/weapon/amulet/ring to receive exact copy of the item - transfers sockets and ethereal status
 
 
