@@ -33,25 +33,25 @@ Runes 1			1						r01s	3	r02s	2																				0
 Runes 2			1						r03s	3	r04s	2	Runes 1	1																		0
 Runes 3			1						r05s	3	r06s	2	Runes 2	1																		0
 Runes 4			1						r07s	3	r08s	2	Runes 3	1																		0
-Runes 5			1						r09s	3	r10s	2	Runes 4	2																		0
-Runes 6			1						r11s	3	r12s	2	Runes 5	3																		0
-Runes 7			1						r13s	3	r14s	2	Runes 6	4																		0
-Runes 8			1						r15s	3	r16s	2	Runes 7	9																		0
-Runes 9			1						r17s	3	r18s	2	Runes 8	18																		0
-Runes 10			1						r19s	3	r20s	2	Runes 9	36																		0
-Runes 11			1						r21s	3	r22s	2	Runes 10	72																		0
-Runes 12			1						r23s	3	r24s	2	Runes 11	106																		0
+Runes 5			1						r09s	3	r10s	2	Runes 4	4																		0
+Runes 6			1						r11s	3	r12s	2	Runes 5	6																		0
+Runes 7			1						r13s	3	r14s	2	Runes 6	8																		0
+Runes 8			1						r15s	3	r16s	2	Runes 7	18																		0
+Runes 9			1						r17s	3	r18s	2	Runes 8	36																		0
+Runes 10			1						r19s	3	r20s	2	Runes 9	72																		0
+Runes 11			1						r21s	3	r22s	2	Runes 10	144																		0
+Runes 12			1						r23s	3	r24s	2	Runes 11	212																		0
 Runes 13			1						r25s	3	r26s	2	Runes 12	151																		0
-Runes 14			1						r27s	3	r28s	2	Runes 13	217																		0
-Runes 15			1						r29s	3	r30s	2	Runes 14	294																		0
-Runes 16			1						r31s	3	r32s	2	Runes 15	395																		0
-Runes 17			1						r33s	1	Runes 16	517																				0
-Runes 12 equiv			1						r23s	3	r24s	2	Runes 11	106																		0
-Runes 13 equiv			1						r25s	3	r26s	2	Runes 12 equiv	151																		0
-Runes 14 equiv			1						r27s	3	r28s	2	Runes 13 equiv	217																		0
-Runes 15 equiv			1						r29s	3	r30s	2	Runes 14 equiv	294																		0
-Runes 16 equiv			1						r31s	3	r32s	2	Runes 15 equiv	395																		0
-Runes 17 equiv			1						r33s	1	Runes 16 equiv	517																				0
+Runes 14			1						r27s	3	r28s	2	Runes 13	302																		0
+Runes 15			1						r29s	3	r30s	2	Runes 14	588																		0
+Runes 16			1						r31s	3	r32s	2	Runes 15	790																		0
+Runes 17			1						r33s	1	Runes 16	1034																				0
+Runes 12 equiv			1						r23s	3	r24s	2	Runes 11	212																		0
+Runes 13 equiv			1						r25s	3	r26s	2	Runes 12 equiv	302																		0
+Runes 14 equiv			1						r27s	3	r28s	2	Runes 13 equiv	434																		0
+Runes 15 equiv			1						r29s	3	r30s	2	Runes 14 equiv	588																		0
+Runes 16 equiv			1						r31s	3	r32s	2	Runes 15 equiv	790																		0
+Runes 17 equiv			1						r33s	1	Runes 16 equiv	1034																				0
 Map Tier 1			1			400	800		t23	1	t15	1	t12	1	t26	1	t25	1	t22	1	t36	1	t17	1								0
 Map Tier 2			1			400	800		t34	1	t31	1	t24	1	t11	1	t33	1	t13	1	t27	1	t28	1								0
 Map Tier 3			1			400	800		t3a	2	t38	2	t39	2	t37	2	t14	2	t21	2	t32	2	t16	2	t35	2						0
@@ -235,14 +235,14 @@ Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	2	Flawed Gem	10	Normal Gem	1
 Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	2	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	wss	2	Runes 10	14										0
 Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	2	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	wss	2	Runes 11	14										0
 Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	2	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	wss	2	Runes 12 equiv	14										0
-Act 1 (H) Good	5	66	1						Jewelry C	120	Flawless Gem	50	Perfect Gem	12	Runes 13 equiv	28	wss	4	Map Tier 1	4	New orbs	3										0
-Act 2 (H) Good	5	72	1						Jewelry C	120	Flawless Gem	50	Perfect Gem	12	Runes 14 equiv	28	wss	4	Map Tier 1	4	New orbs	3										0
-Act 3 (H) Good	5	78	1						Jewelry C	120	Flawless Gem	50	Perfect Gem	12	Runes 15 equiv	28	wss	4	Map Tier 1	4	New orbs	3										0
-Act 4 (H) Good	5	82	1						Jewelry C	120	Flawless Gem	50	Perfect Gem	12	Runes 16 equiv	28	wss	4	Map Tier 1	4	New orbs	3										0
-Act 5 (H) Good	5	85	1						Jewelry C	120	Flawless Gem	50	Perfect Gem	12	Runes 17 equiv	28	wss	4	Map Tier 1	4	New orbs	3										0
-Map Good t1	20	85	1						Jewelry C	120	Flawless Gem	48	Perfect Gem	12	Runes 17 equiv	28	wss	4	T1 Map Drop	16	New orbs	3										0
-Map Good t2	20	86	1						Jewelry C	120	Flawless Gem	48	Perfect Gem	12	Runes 17 equiv	28	wss	4	T2 Map Drop	16	New orbs	3										0
-Map Good t3	20	87	1						Jewelry C	120	Flawless Gem	48	Perfect Gem	12	Runes 17 equiv	28	wss	4	T3 Map Drop	16	New orbs	3										0
+Act 1 (H) Good	5	66	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	50	Perfect Gem	12	Runes 13 equiv	28	wss	4	Map Tier 1	4	New orbs	4						0
+Act 2 (H) Good	5	72	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	50	Perfect Gem	12	Runes 14 equiv	28	wss	4	Map Tier 1	4	New orbs	4						0
+Act 3 (H) Good	5	78	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	50	Perfect Gem	12	Runes 15 equiv	28	wss	4	Map Tier 1	4	New orbs	4						0
+Act 4 (H) Good	5	82	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	50	Perfect Gem	12	Runes 16 equiv	28	wss	4	Map Tier 1	4	New orbs	4						0
+Act 5 (H) Good	5	85	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	50	Perfect Gem	12	Runes 17 equiv	28	wss	4	Map Tier 1	4	New orbs	4						0
+Map Good t1	20	85	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	48	Perfect Gem	12	Runes 17 equiv	28	wss	4	T1 Map Drop	8	New orbs	4						0
+Map Good t2	20	86	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	48	Perfect Gem	12	Runes 17 equiv	28	wss	4	T2 Map Drop	8	New orbs	4						0
+Map Good t3	20	87	1						Jewelry C	120	Flawed Gem	20	Normal Gem	28	Flawless Gem	48	Perfect Gem	12	Runes 17 equiv	28	wss	4	T3 Map Drop	8	New orbs	4						0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
 Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
@@ -881,10 +881,10 @@ Act 4 (H) Super Cx	18	87	-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpo
 Act 5 (H) Super Ax	18	90	-4	512	654	972	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
 Act 5 (H) Super Bx	18	93	-4	512	654	972	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
 Act 5 (H) Super Cx	18	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
-Map Boss T1		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T1 Map Drop	3	dcbl	22																0
-Map Boss T2		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T2 Map Drop	3	dcbl	22																0
-Map Boss T3		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	22																0
-Map Boss T4		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	22																0
+Map Boss T1		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T1 Map Drop	3	dcbl	8																0
+Map Boss T2		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T2 Map Drop	3	dcbl	8																0
+Map Boss T3		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8																0
+Map Boss T4		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8																0
 Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Cow King (N)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Cow King (H)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
@@ -1013,13 +1013,13 @@ Horadric TP Book NM				7500	100
 Horadric TP Book H				5000	100																											
 Lillith Mirror N				75000	100																											
 Lillith Mirror NM				37500	100																											
-Lillith Mirror H				25000	100																											
+Lillith Mirror H				10000	100																											
 Vial of Lightsong N				22500	100																											
 Vial of Lightsong NM				11250	100																											
 Vial of Lightsong H				1000	100																											
 Corrupted Zone				300																												
-Unique Map Monsters				7500	1																											
-Unique Map MapBoss				600																												
+Unique Map Monsters				2000	10																											
+Unique Map MapBoss				2000																												
 Rathma Jawbone N				0	100																											
 Rathma Jawbone NM				0	10																											
 Rathma Jawbone H				2250	1																											
