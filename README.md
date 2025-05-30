@@ -1,11 +1,11 @@
 
 # Project Diablo 2 Single Player Plus
 
-Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.0.1
+Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.0.2
 
 Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1p4opLyZtoSoUQ6mlN4uGxIlOpMsdoVrJzqN9OXe0vWk/edit?tab=t.0
 
-Newest version patch notes: https://docs.google.com/document/d/1qCusOnyjdzYgZRqaDVKnuNieriiFlbVdmo8sYWNXz0Y/edit?tab=t.0
+Newest version patch notes: [https://docs.google.com/document/d/1qCusOnyjdzYgZRqaDVKnuNieriiFlbVdmo8sYWNXz0Y/edit?tab=t.0](https://docs.google.com/document/d/1gqdYCgwAAQ1ywV9Jj6bbGiNf8VcUd4Z5BGyNz47ieWs/edit?tab=t.0)
 
 ## Known bugs
 
@@ -63,13 +63,13 @@ All runes can be in stacked or non-stacked form.
 
 ### Mythic Orb
 
-* Normal/superior/magic/rare non-ethereal non-corrupted base item + Mythic Orb = Unique Item on that item base
+* Normal/superior/magic/rare non-corrupted base item + Mythic Orb = Unique Item on that item base
 * Magic/rare non-corrupted amulet/ring + Mythic Orb = Unique Jewellery Item
 * 15 jewel fragments + Mythic Orb = Rainbow Facet
 
 ### Exalted Orb
 
-* Normal/superior/magic/rare non-ethereal non-corrupted base item + Exalted Orb = Set Item on that item base
+* Normal/superior/magic/rare non-corrupted base item + Exalted Orb = Set Item on that item base
 * Magic/rare non-corrupted amulet/ring + Exalted Orb = Set Jewellery Item
 
 ### Cain's Wisdom
@@ -89,6 +89,7 @@ All runes can be in stacked or non-stacked form.
 
 ### Lilith's Mirror
 
-* Lilith's Mirror can now be used in the cube with non-corrupted unique/set armor/weapon/amulet/ring to receive exact copy of the item - transfers sockets and ethereal status
+* Lilith's Mirror can now be used in the cube with non-corrupted unique/set armor/weapon/amulet/ring to create exact copy of it - transfers sockets and ethereal status. Mirrored items can't be mirrored again.
+* Lilith's Mirror can now be used with magic/rare/unique jewel to create exact copy of it. Mirrored jewels can't be mirrored again.
 
 
