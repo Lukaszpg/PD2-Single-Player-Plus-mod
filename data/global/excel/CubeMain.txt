@@ -2088,14 +2088,14 @@ Lillith's Mirror bolts (craft)	1			100					2	"cqv,crf"	llmr						useitem	99		100
 																																																																																																								0
 MYTHIC ORB																																																																																																								0
 																																																																																																								0
-Convert normal quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality non-ethereal armor to unique	1			100	18	361	0		2	armo,noe,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert normal quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality non-ethereal weapon to unique	1			100	18	361	0		2	weap,noe,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert magic quality ring to unique	1			100	18	361	0		2	ring,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert rare quality ring to unique	1			100	18	361	0		2	ring,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert magic quality amulet to unique	1			100	18	361	0		2	amul,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
@@ -2104,14 +2104,14 @@ Mythic orb + 15 jewel fragments = random rainbow facet	1			100					2	"mfo,qty=1"
 																																																																																																								0
 EXALTED ORB																																																																																																								0
 																																																																																																								0
-Convert normal quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,nor	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert superior quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert magic quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,mag	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert rare quality non-ethereal armor to set piece	1			100	18	361	0		2	armo,noe,rar	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert normal quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,nor	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert superior quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert magic quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,mag	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert rare quality non-ethereal weapon to set piece	1			100	18	361	0		2	weap,noe,rar	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert normal quality armor to set piece	1			100	18	361	0		2	armo,nor	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert superior quality armor to set piece	1			100	18	361	0		2	armo,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert magic quality armor to set piece	1			100	18	361	0		2	armo,mag	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert rare quality armor to set piece	1			100	18	361	0		2	armo,rar	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert normal quality weapon to set piece	1			100	18	361	0		2	weap,nor	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert superior quality weapon to set piece	1			100	18	361	0		2	weap,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert magic quality weapon to set piece	1			100	18	361	0		2	weap,mag	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert rare quality weapon to set piece	1			100	18	361	0		2	weap,rar	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert magic quality amulet to set piece	1			100	18	361	0		2	amul,mag	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert rare quality amulet to set piece	1			100	18	361	0		2	amul,rar	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert magic quality ring to set piece	1			100	18	361	0		2	ring,mag	"exo,qty=1"						usetype,set	99																																																																																						0
@@ -2173,7 +2173,6 @@ r22 downgrade um -> 1 pul	1			100					2	"key,qty=1"	"r22s,qty=1"						"r21s,qty=
 r23 downgrade mal -> 1 um	1			100					2	"key,qty=1"	"r23s,qty=1"						"r22s,qty=1"																																																																																							0
 r24 downgrade ist -> 1 mal	1			100					2	"key,qty=1"	"r24s,qty=1"						"r23s,qty=1"																																																																																							0
 																																																																																																								0
-																																																																																																								0
 RUNE DOWNGRADING (High Runes) - non stacked																																																																																																								0
 																																																																																																								0
 r25 downgrade gul -> ist	1			100					2	ncoi,qty=1	"r25,qty=1"						"r24s,qty=1"																																																																																							0
@@ -2198,7 +2197,6 @@ r31 downgrade jah -> ber	1			100					2	ncoi,qty=2	"r31s,qty=1"						"r30s,qty=1"
 r32 downgrade cham -> jah	1			100					2	ncoi,qty=2	"r32s,qty=1"						"r31s,qty=1"																																																																																							0
 r33 downgrade zod -> cham	1			100					2	ncoi,qty=3	"r33s,qty=1"						"r32s,qty=1"																																																																																							0
 																																																																																																								0
-																																																																																																								0
 EXCHANGES																																																																																																								0
 2x LPP + Coin = Larzuk's Puzzle Box	1			100					2	lpp,qty=2	ncoi,qty=1						lbox																																																																																							0
 																																																																																																								0
@@ -2209,15 +2207,19 @@ Reroll type of set ring	1			100	18	361	0		3	ring,set	ncoi,qty=1	imrn,qty=1					u
 Reroll type of set amulet	1			100	18	361	0		3	amul,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of Rainbow Facet	1			100					3	jew,uni	ncoi,qty=1	imrn,qty=1					jew,uni	85																																																																																						0
 																																																																																																								0
-																																																																																																								0
 UNIQUE MIRRORING RECIPES																																																																																																								0
-Mirror unique non-corrupted armor	1			100	18	361	0		2	armo,uni	llmr						useitem																													useitem																																																										0
-Mirror unique non-corrupted weapon	1			100	18	361	0		2	weap,uni	llmr						useitem																													useitem																																																										0
-Mirror unique non-corrupted ring	1			100	18	361	0		2	ring,uni	llmr						useitem																													useitem																																																										0
-Mirror unique non-corrupted amulet	1			100	18	361	0		2	amul,uni	llmr						useitem																													useitem																																																										0
+Mirror unique non-corrupted armor	1			100	18	361	0		2	armo,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror unique non-corrupted weapon	1			100	18	361	0		2	weap,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror unique non-corrupted ring	1			100	18	361	0		2	ring,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror unique non-corrupted amulet	1			100	18	361	0		2	amul,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
 																																																																																																								0
 SET MIRRORING RECIPES																																																																																																								0
-Mirror set non-corrupted armor	1			100	18	361	0		2	armo,set	llmr						useitem																													useitem																																																										0
-Mirror set non-corrupted weapon	1			100	18	361	0		2	weap,set	llmr						useitem																													useitem																																																										0
-Mirror set non-corrupted ring	1			100	18	361	0		2	ring,set	llmr						useitem																													useitem																																																										0
-Mirror set non-corrupted amulet	1			100	18	361	0		2	amul,set	llmr						useitem																													useitem																																																										0
+Mirror set non-corrupted armor	1			100	18	361	0		2	armo,set	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror set non-corrupted weapon	1			100	18	361	0		2	weap,set	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror set non-corrupted ring	1			100	18	361	0		2	ring,set	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror set non-corrupted amulet	1			100	18	361	0		2	amul,set	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+																																																																																																								0
+JEWEL MIRROR RECIPES																																																																																																								0
+Mirror Rainbow Facet	1								2	jew,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror magic jewel	1								2	jew,mag	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+Mirror rare jewel	1								2	jew,rar	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
