@@ -1,5 +1,5 @@
 
-# Project Diablo 2 Single Player Plus
+# Project Diablo 2 Single Player+
 
 Discord: https://discord.gg/CwN2s6AHSZ
 
