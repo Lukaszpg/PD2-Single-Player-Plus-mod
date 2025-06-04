@@ -331,24 +331,24 @@ of the Fox	328	1	1	1	17	57	13				3	26	hp		6	10											club	hamm	mace	helm				
 of the Wolf	329	1	1	1	34	74	26				3	26	hp		11	20											club	hamm	mace	helm											0
 of the Tiger	330	1	1	1	51		43				3	26	hp		21	30											club	hamm	mace	ring	helm										0
 of the Mammoth	331	1	1	1	68		60				3	26	hp		31	40									1	cred	club	hamm	mace	ring	helm										0
-of Life	332	100	1	1	1		1				4	26	hp		5	10											lcha														0
-of Life	333	100	1	1	9		6				4	26	hp		11	15											lcha														0
-of Life	334	100	1	1	19		14				4	26	hp		16	20											lcha														0
-of Substinence	335	100	1	1	31		23				4	26	hp		21	25											lcha														0
-of Substinence	336	100	1	1	45		37				4	26	hp		26	30											lcha														0
-of Substinence	337	100	1	1	61		53				4	26	hp		31	35											lcha														0
-of Vita	338	100	1		77		69				4	26	hp		36	40											lcha														0
-of Vita	339	100	1		91		83				4	26	hp		41	45											lcha														0
-of Vita	340	100	1		110		97				4	26	hp		46	50											lcha														0
-of Life	341	100	1	1	1		9				4	26	hp		6	10											mcha														0
-of Life	342	100	1	1	12		9				4	26	hp		11	15											mcha														0
-of Substinence	343	100	1	1	26		19				4	26	hp		16	20											mcha														0
-of Substinence	344	100	1	1	42		34				4	26	hp		21	25											mcha														0
-of Vita	345	100	1		58		50				4	26	hp		26	30											mcha														0
-of Vita	346	100	1		74		66				4	26	hp		31	35											mcha														0
-of Life	347	100	1	1	1		14				4	26	hp		5	10											scha														0
-of Substinence	348	100	1	1	23		17				4	26	hp		11	15											scha														0
-of Vita	349	100	1		47		39				4	26	hp		16	20											scha														0
+of Life	332	100	1	1	1		1				6	26	hp		5	10											lcha														0
+of Life	333	100	1	1	9		6				6	26	hp		11	15											lcha														0
+of Life	334	100	1	1	19		14				6	26	hp		16	20											lcha														0
+of Substinence	335	100	1	1	31		23				6	26	hp		21	25											lcha														0
+of Substinence	336	100	1	1	45		37				6	26	hp		26	30											lcha														0
+of Substinence	337	100	1	1	61		53				6	26	hp		31	35											lcha														0
+of Vita	338	100	1		77		69				6	26	hp		36	40											lcha														0
+of Vita	339	100	1		91		83				6	26	hp		41	45											lcha														0
+of Vita	340	100	1		110		97				6	26	hp		46	50											lcha														0
+of Life	341	100	1	1	1		9				6	26	hp		6	10											mcha														0
+of Life	342	100	1	1	12		9				6	26	hp		11	15											mcha														0
+of Substinence	343	100	1	1	26		19				6	26	hp		16	20											mcha														0
+of Substinence	344	100	1	1	42		34				6	26	hp		21	25											mcha														0
+of Vita	345	100	1		58		50				6	26	hp		26	30											mcha														0
+of Vita	346	100	1		74		66				6	26	hp		31	35											mcha														0
+of Life	347	100	1	1	1		14				6	26	hp		5	10											scha														0
+of Substinence	348	100	1	1	23		17				6	26	hp		11	15											scha														0
+of Vita	349	100	1		47		39				6	26	hp		16	20											scha														0
 of Spirit	350	100	1	1	1		1				4	26	hp		3	8											jewl														0
 of Hope	351	100	1		45		37				4	26	hp		9	20											jewl														0
 of the Leech	352	1	1	1	6		4				7	27	lifesteal		4	5											weap	misl						orb							0
@@ -675,12 +675,12 @@ of Knowledge	672	100	1	1	41		33				3	23	enr		7	9											jewl														0
 of Virility	673	100	1	1	33		25				4	31	str		5	6											jewl														0
 of Virility	674	100	1	1	50		42				4	31	str		7	9											jewl														0
 of Readiness	675	1	1	1	20		15				2	9	swing1		10	10											glov														0
-of Craftsmanship	676	100	1	1	1		1				4	14	dmg-max		1	1											lcha														0
-of Quality	677	100	1	1	41		33				4	14	dmg-max		2	2											lcha														0
-of Maiming	678	100	1		71		63				4	14	dmg-max		3	4											lcha														0
-of Craftsmanship	679	100	1	1	26		19				4	14	dmg-max		1	1											mcha														0
-of Quality	680	100	1		56		48				4	14	dmg-max		2	2											mcha														0
-of Craftsmanship	681	100	1	1	85		77				4	14	dmg-max		1	1											scha														0
+of Craftsmanship	676	100	1	1	1		1				6	14	dmg-max		1	1											lcha														0
+of Quality	677	100	1	1	41		33				6	14	dmg-max		2	2											lcha														0
+of Maiming	678	100	1		71		63				6	14	dmg-max		3	4											lcha														0
+of Craftsmanship	679	100	1	1	26		19				6	14	dmg-max		1	1											mcha														0
+of Quality	680	100	1		56		48				6	14	dmg-max		2	2											mcha														0
+of Craftsmanship	681	100	1	1	85		77				6	14	dmg-max		1	1											scha														0
 of Blight	682	100	1	1	9		6				2	16	dmg-pois	50	55	55											lcha														0
 of Venom	683	100	1	1	20		15				1	16	dmg-pois	50	95	95											lcha														0
 of Pestilence	684	100	1	1	32		24				1	16	dmg-pois	50	165	165									1	dgrn	lcha														0

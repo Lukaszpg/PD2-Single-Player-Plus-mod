@@ -2096,22 +2096,23 @@ Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor	"mfo,qty=1"
 Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality ring to unique	1			100	18	361	0		2	ring,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality ring to unique	1			100	18	361	0		2	ring,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality amulet to unique	1			100	18	361	0		2	amul,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality amulet to unique	1			100	18	361	0		2	amul,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality ring to unique	1			100	18	361	0		2	ring,mag	"mfo,qty=1"						usetype,uni	99																																																																																						0
+Convert rare quality ring to unique	1			100	18	361	0		2	ring,rar	"mfo,qty=1"						usetype,uni	99																																																																																						0
+Convert magic quality amulet to unique	1			100	18	361	0		2	amul,mag	"mfo,qty=1"						usetype,uni	99																																																																																						0
+Convert rare quality amulet to unique	1			100	18	361	0		2	amul,rar	"mfo,qty=1"						usetype,uni	99																																																																																						0
 Mythic orb + 15 jewel fragments = random rainbow facet	1			100					2	"mfo,qty=1"	"jewf,qty=15"						jew,uni	85																																																																																						0
+Gheed's Fortune	1			100					2	"mfo,qty=1"	cm3,mag						cm3,uni	99																																																																																						0
 																																																																																																								0
 EXALTED ORB																																																																																																								0
 																																																																																																								0
-Convert normal quality armor to set piece	1			100	18	361	0		2	armo,nor	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert superior quality armor to set piece	1			100	18	361	0		2	armo,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert magic quality armor to set piece	1			100	18	361	0		2	armo,mag	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert rare quality armor to set piece	1			100	18	361	0		2	armo,rar	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert normal quality weapon to set piece	1			100	18	361	0		2	weap,nor	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert superior quality weapon to set piece	1			100	18	361	0		2	weap,hiq	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert magic quality weapon to set piece	1			100	18	361	0		2	weap,mag	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert rare quality weapon to set piece	1			100	18	361	0		2	weap,rar	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert normal quality armor to set piece	1			100	18	361	0		2	armo,nor	"exo,qty=1"						usetype,set,noe	99																																																																																						0
+Convert superior quality armor to set piece	1			100	18	361	0		2	armo,hiq	"exo,qty=1"						usetype,set,noe	99																																																																																						0
+Convert magic quality armor to set piece	1			100	18	361	0		2	armo,mag	"exo,qty=1"						usetype,set,noe	99																																																																																						0
+Convert rare quality armor to set piece	1			100	18	361	0		2	armo,rar	"exo,qty=1"						usetype,set,noe	99																																																																																						0
+Convert normal quality weapon to set piece	1			100	18	361	0		2	weap,nor	"exo,qty=1"						usetype,set,noe	99																																																																																						0
+Convert superior quality weapon to set piece	1			100	18	361	0		2	weap,hiq	"exo,qty=1"						usetype,set,noe	99																																																																																						0
+Convert magic quality weapon to set piece	1			100	18	361	0		2	weap,mag	"exo,qty=1"						usetype,set,noe	99																																																																																						0
+Convert rare quality weapon to set piece	1			100	18	361	0		2	weap,rar	"exo,qty=1"						usetype,set,noe	99																																																																																						0
 Convert magic quality amulet to set piece	1			100	18	361	0		2	amul,mag	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert rare quality amulet to set piece	1			100	18	361	0		2	amul,rar	"exo,qty=1"						usetype,set	99																																																																																						0
 Convert magic quality ring to set piece	1			100	18	361	0		2	ring,mag	"exo,qty=1"						usetype,set	99																																																																																						0
@@ -2175,30 +2176,47 @@ r24 downgrade ist -> 1 mal	1			100					2	"key,qty=1"	"r24s,qty=1"						"r23s,qty
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) - non stacked																																																																																																								0
 																																																																																																								0
-r25 downgrade gul -> ist	1			100					2	ncoi,qty=1	"r25,qty=1"						"r24s,qty=1"																																																																																							0
-r26 downgrade vex -> gul	1			100					2	ncoi,qty=1	"r26,qty=1"						"r25s,qty=1"																																																																																							0
-r27 downgrade ohm -> vex	1			100					2	ncoi,qty=1	"r27,qty=1"						"r26s,qty=1"																																																																																							0
-r28 downgrade lo -> ohm	1			100					2	ncoi,qty=1	"r28,qty=1"						"r27s,qty=1"																																																																																							0
-r29 downgrade sur -> lo	1			100					2	ncoi,qty=2	"r29,qty=1"						"r28s,qty=1"																																																																																							0
-r30 downgrade ber -> sur	1			100					2	ncoi,qty=2	"r30,qty=1"						"r29s,qty=1"																																																																																							0
-r31 downgrade jah -> ber	1			100					2	ncoi,qty=2	"r31,qty=1"						"r30s,qty=1"																																																																																							0
-r32 downgrade cham -> jah	1			100					2	ncoi,qty=2	"r32,qty=1"						"r31s,qty=1"																																																																																							0
-r33 downgrade zod -> cham	1			100					2	ncoi,qty=3	"r33,qty=1"						"r32s,qty=1"																																																																																							0
+r25 downgrade gul -> ist	1			100					2	"key,qty=1"	"r25,qty=1"						"r24s,qty=1"																																																																																							0
+r26 downgrade vex -> gul	1			100					2	"key,qty=1"	"r26,qty=1"						"r25s,qty=1"																																																																																							0
+r27 downgrade ohm -> vex	1			100					2	"key,qty=1"	"r27,qty=1"						"r26s,qty=1"																																																																																							0
+r28 downgrade lo -> ohm	1			100					2	"key,qty=1"	"r28,qty=1"						"r27s,qty=1"																																																																																							0
+r29 downgrade sur -> lo	1			100					2	"key,qty=1"	"r29,qty=1"						"r28s,qty=1"																																																																																							0
+r30 downgrade ber -> sur	1			100					2	"key,qty=1"	"r30,qty=1"						"r29s,qty=1"																																																																																							0
+r31 downgrade jah -> ber	1			100					2	ncoi,qty=1	"r31,qty=1"						"r30s,qty=1"																																																																																							0
+r32 downgrade cham -> jah	1			100					2	ncoi,qty=1	"r32,qty=1"						"r31s,qty=1"																																																																																							0
+r33 downgrade zod -> cham	1			100					2	ncoi,qty=1	"r33,qty=1"						"r32s,qty=1"																																																																																							0
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) -  stacked																																																																																																								0
 																																																																																																								0
-r25 downgrade gul -> ist	1			100					2	ncoi,qty=1	"r25s,qty=1"						"r24s,qty=1"																																																																																							0
-r26 downgrade vex -> gul	1			100					2	ncoi,qty=1	"r26s,qty=1"						"r25s,qty=1"																																																																																							0
-r27 downgrade ohm -> vex	1			100					2	ncoi,qty=1	"r27s,qty=1"						"r26s,qty=1"																																																																																							0
-r28 downgrade lo -> ohm	1			100					2	ncoi,qty=1	"r28s,qty=1"						"r27s,qty=1"																																																																																							0
-r29 downgrade sur -> lo	1			100					2	ncoi,qty=2	"r29s,qty=1"						"r28s,qty=1"																																																																																							0
-r30 downgrade ber -> sur	1			100					2	ncoi,qty=2	"r30s,qty=1"						"r29s,qty=1"																																																																																							0
-r31 downgrade jah -> ber	1			100					2	ncoi,qty=2	"r31s,qty=1"						"r30s,qty=1"																																																																																							0
-r32 downgrade cham -> jah	1			100					2	ncoi,qty=2	"r32s,qty=1"						"r31s,qty=1"																																																																																							0
-r33 downgrade zod -> cham	1			100					2	ncoi,qty=3	"r33s,qty=1"						"r32s,qty=1"																																																																																							0
+r25 downgrade gul -> ist	1			100					2	"key,qty=1"	"r25s,qty=1"						"r24s,qty=1"																																																																																							0
+r26 downgrade vex -> gul	1			100					2	"key,qty=1"	"r26s,qty=1"						"r25s,qty=1"																																																																																							0
+r27 downgrade ohm -> vex	1			100					2	"key,qty=1"	"r27s,qty=1"						"r26s,qty=1"																																																																																							0
+r28 downgrade lo -> ohm	1			100					2	"key,qty=1"	"r28s,qty=1"						"r27s,qty=1"																																																																																							0
+r29 downgrade sur -> lo	1			100					2	"key,qty=1"	"r29s,qty=1"						"r28s,qty=1"																																																																																							0
+r30 downgrade ber -> sur	1			100					2	"key,qty=1"	"r30s,qty=1"						"r29s,qty=1"																																																																																							0
+r31 downgrade jah -> ber	1			100					2	ncoi,qty=1	"r31s,qty=1"						"r30s,qty=1"																																																																																							0
+r32 downgrade cham -> jah	1			100					2	ncoi,qty=1	"r32s,qty=1"						"r31s,qty=1"																																																																																							0
+r33 downgrade zod -> cham	1			100					2	ncoi,qty=1	"r33s,qty=1"						"r32s,qty=1"																																																																																							0
 																																																																																																								0
 EXCHANGES																																																																																																								0
+																																																																																																								0
 2x LPP + Coin = Larzuk's Puzzle Box	1			100					2	lpp,qty=2	ncoi,qty=1						lbox																																																																																							0
+48x Exalted Orb + 16x Coin = 16x Mythic Orb	1			100					2	exo,qty=48	ncoi,qty=16						mfo,qty=16																																																																																							0
+45x Exalted Orb + 15x Coin = 15x Mythic Orb	1			100					2	exo,qty=45	ncoi,qty=15						mfo,qty=15																																																																																							0
+42x Exalted Orb + 14x Coin = 14x Mythic Orb	1			100					2	exo,qty=42	ncoi,qty=14						mfo,qty=14																																																																																							0
+39x Exalted Orb + 13x Coin =13x Mythic Orb	1			100					2	exo,qty=39	ncoi,qty=13						mfo,qty=13																																																																																							0
+36x Exalted Orb + 12xCoin = 12x Mythic Orb	1			100					2	exo,qty=36	ncoi,qty=12						mfo,qty=12																																																																																							0
+33x Exalted Orb + 11x Coin = 11x Mythic Orb	1			100					2	exo,qty=33	ncoi,qty=11						mfo,qty=11																																																																																							0
+30x Exalted Orb + 10x Coin = 10x Mythic Orb	1			100					2	exo,qty=30	ncoi,qty=10						mfo,qty=10																																																																																							0
+27x Exalted Orb + 9x Coin = 9x Mythic Orb	1			100					2	exo,qty=27	ncoi,qty=9						mfo,qty=9																																																																																							0
+24x Exalted Orb + 8x Coin = 8x Mythic Orb	1			100					2	exo,qty=24	ncoi,qty=8						mfo,qty=8																																																																																							0
+21x Exalted Orb + 7x Coin = 7x Mythic Orb	1			100					2	exo,qty=21	ncoi,qty=7						mfo,qty=7																																																																																							0
+18x Exalted Orb + 6x Coin = 6x Mythic Orb	1			100					2	exo,qty=18	ncoi,qty=6						mfo,qty=6																																																																																							0
+15x Exalted Orb + 5x Coin = 5x Mythic Orb	1			100					2	exo,qty=15	ncoi,qty=5						mfo,qty=5																																																																																							0
+12x Exalted Orb + 4x Coin = 4x Mythic Orb	1			100					2	exo,qty=12	ncoi,qty=4						mfo,qty=4																																																																																							0
+9x Exalted Orb + 3x Coin = 3x Mythic Orb	1			100					2	exo,qty=9	ncoi,qty=3						mfo,qty=3																																																																																							0
+6x Exalted Orb + 2x Coin = 2x Mythic Orb	1			100					2	exo,qty=6	ncoi,qty=2						mfo,qty=2																																																																																							0
+3x Exalted Orb + Coin = Mythic Orb	1			100					2	exo,qty=3	ncoi,qty=1						mfo,qty=1																																																																																							0
 																																																																																																								0
 DEMONIC CUBE ADDITIONAL RECIPES																																																																																																								0
 Reroll type of unique ring	1			100	18	361	0		3	ring,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
@@ -2223,3 +2241,15 @@ JEWEL MIRROR RECIPES																																																												
 Mirror Rainbow Facet	1								2	jew,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
 Mirror magic jewel	1								2	jew,mag	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
 Mirror rare jewel	1								2	jew,rar	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
+																																																																																																								0
+GHEED'S CURIOUS BOX - PHASE 1 - ROLL																																																																																																								0
+Gheed's Curious Box Roll	1	2		100	18	361	0		1	gcbx							useitem				corruptnum	100		1501	1507																																																																															0
+																																																																																																								0
+GHEED'S CURIOUS BOX - PHASE 2 - OUTCOME																																																																																																								0
+Perfect Amethysts	1			100	16	361	1501		1	gcbx							"gpvs,qty=50"																																																																																							0
+Perfets Topazes	1			100	16	361	1502		1	gcbx							"gpys,qty=50"																																																																																							0
+Perfect Skulls	1			100	16	361	1503		1	gcbx							"skzs,qty=50"																																																																																							0
+Perfect Rubys	1			100	16	361	1504		1	gcbx							"gprs,qty=50"																																																																																							0
+Perfect Diamonds	1			100	16	361	1505		1	gcbx							"gpws,qty=50"																																																																																							0
+Perfect Sapphires	1			100	16	361	1506		1	gcbx							"gpbs,qty=50"																																																																																							0
+Perfect Emeralds	1			100	16	361	1507		1	gcbx							"gpgs,qty=50"																																																																																							0
