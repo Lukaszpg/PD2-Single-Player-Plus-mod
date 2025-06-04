@@ -57,6 +57,7 @@ Below item codes are assigned to new items that this mod introduced.
 
 * Mythic orb - mfo
 * Exalted orb - exo
+* Gheed's Curious Box - gcbx
 * Eternal coin - ncoi
 
 ## Cube recipes
@@ -66,16 +67,15 @@ Below item codes are assigned to new items that this mod introduced.
 All runes can be in stacked or non-stacked form.
 
 * Eld to Pul  + Key = 3x lower rune
-* Um to Ist + Key = 1x lower rune
-* Gul to Lo + 1x Eternal Coin = 1x lower rune
-* Sur to Cham + 2x Eternal Coin = 1x lower rune
-* Zod + 3x Eternal Coin = 1x Cham
+* Um to Ber + Key = 1x lower rune
+* Sur to Zod + 1x Eternal Coin = 1x lower rune
 
 ### Mythic Orb
 
 * Normal/superior/magic/rare non-corrupted base item + Mythic Orb = Unique Item on that item base
 * Magic/rare non-corrupted amulet/ring + Mythic Orb = Unique Jewellery Item
 * 15 jewel fragments + Mythic Orb = Rainbow Facet
+* Magic Grand Charm + Mythi Orb = Gheed's Fortune unique charm
 
 ### Exalted Orb
 
@@ -87,9 +87,11 @@ All runes can be in stacked or non-stacked form.
 * Small Magic Charm + Twisted Essence of Suffering + Charged Essence of Hatred + Burning Essence of Terror + Festering Essence of Destruction = Cain's Wisdom (additional exp affix, 200-250% range)
 * Cain's Wisdom + Demonic Cube = Re-rolled Cain's Wisdom
 
-### Larzuk's Puzzle Box & Larzuk's Puzzle Piece
+### Exchange
 
 * 2x Larzuk's Puzzle Piece + Eternal Coin = Larzuk's Puzzle Box
+* 3x  Exalted Orb + Coin = 1x Mythic Orb - can be used with 3,6,9...48 Exalted Orbs to exchange to more Mythic Orbs. Requires 1,2,3...16 Eternal Coins, depending on the number of Exalted Orbs used
+
 
 ### Unique & Set Ring & Amulet type re-roll
 
@@ -101,5 +103,9 @@ All runes can be in stacked or non-stacked form.
 
 * Lilith's Mirror can now be used in the cube with non-corrupted unique/set armor/weapon/amulet/ring to create exact copy of it - transfers sockets and ethereal status. Mirrored items can't be mirrored again.
 * Lilith's Mirror can now be used with magic/rare/unique jewel to create exact copy of it. Mirrored jewels can't be mirrored again.
+
+### Gheed's Curious Box 
+
+* Cube it **TWICE** to receive random stack of 50 perfect gems
 
 
