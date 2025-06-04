@@ -75,7 +75,7 @@ All runes can be in stacked or non-stacked form.
 * Normal/superior/magic/rare non-corrupted base item + Mythic Orb = Unique Item on that item base
 * Magic/rare non-corrupted amulet/ring + Mythic Orb = Unique Jewellery Item
 * 15 jewel fragments + Mythic Orb = Rainbow Facet
-* Magic Grand Charm + Mythi Orb = Gheed's Fortune unique charm
+* Magic Grand Charm + Mythic Orb = Gheed's Fortune unique charm
 
 ### Exalted Orb
 
