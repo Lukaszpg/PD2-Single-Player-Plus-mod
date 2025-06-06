@@ -114,6 +114,6 @@ All runes can be in stacked or non-stacked form.
 
 ### Additional usage for crafting infusions
 
-* Circlet, coronet, diadem and tiara are craftable with crafting infusions
+* Normal/magic/rare circlet, coronet, diadem and tiara are craftable with crafting infusions
 
 
