@@ -58,6 +58,7 @@ Below item codes are assigned to new items that this mod introduced.
 * Mythic orb - mfo
 * Exalted orb - exo
 * Gheed's Curious Box - gcbx
+* Charsi's Crafting Box - ccbx
 * Eternal coin - ncoi
 
 ## Cube recipes
@@ -92,7 +93,6 @@ All runes can be in stacked or non-stacked form.
 * 2x Larzuk's Puzzle Piece + Eternal Coin = Larzuk's Puzzle Box
 * 3x  Exalted Orb + Coin = 1x Mythic Orb - can be used with 3,6,9...48 Exalted Orbs to exchange to more Mythic Orbs. Requires 1,2,3...16 Eternal Coins, depending on the number of Exalted Orbs used
 
-
 ### Unique & Set Ring & Amulet type re-roll
 
 * Unique Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet (eg. Nagelring to Stone of Jordan)
@@ -107,5 +107,13 @@ All runes can be in stacked or non-stacked form.
 ### Gheed's Curious Box 
 
 * Cube it **TWICE** to receive random stack of 50 perfect gems
+
+### Charsi's Crafting Box
+
+* Cube it **TWICE** to receive random 5 crafting infusions (13.2% chance) or 5 catalyst shards (7.6% chance)
+
+### Additional usage for crafting infusions
+
+* Circlet, coronet, diadem and tiara are craftable with crafting infusions
 
 
