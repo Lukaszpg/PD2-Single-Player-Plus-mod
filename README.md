@@ -3,11 +3,11 @@
 
 Discord: https://discord.gg/CwN2s6AHSZ
 
-Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.0.3
+Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.0.5
 
 Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1p4opLyZtoSoUQ6mlN4uGxIlOpMsdoVrJzqN9OXe0vWk/edit?tab=t.0
 
-Newest version patch notes: https://docs.google.com/document/d/1aAyIK7QB3WbIc8nZcszvVjDP0fYRwoXY7QZMrvj-MHU/edit?usp=sharing
+Newest version patch notes: https://docs.google.com/document/d/1Is82t_dQHEu6muBXQxbL-puAUrEqyHXSCz7AmI-_SCc/edit?usp=sharing
 
 ## Known bugs
 
