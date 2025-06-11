@@ -91,6 +91,7 @@ All runes can be in stacked or non-stacked form.
 
 * Small Magic Charm + Twisted Essence of Suffering + Charged Essence of Hatred + Burning Essence of Terror + Festering Essence of Destruction = Cain's Wisdom (additional exp affix, 200-250% range)
 * Cain's Wisdom + Demonic Cube = Re-rolled Cain's Wisdom
+* Cain's Wisdom + Annihilus = Annihilus with +250% exp affix
 
 ### Exchange
 
@@ -119,5 +120,7 @@ All runes can be in stacked or non-stacked form.
 ### Additional usage for crafting infusions
 
 * Normal/magic/rare circlet, coronet, diadem and tiara are craftable with crafting infusions
+
+###
 
 
