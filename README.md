@@ -3,11 +3,11 @@
 
 Discord: https://discord.gg/CwN2s6AHSZ
 
-Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.0.2
+Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.0.3
 
 Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1p4opLyZtoSoUQ6mlN4uGxIlOpMsdoVrJzqN9OXe0vWk/edit?tab=t.0
 
-Newest version patch notes: [https://docs.google.com/document/d/1qCusOnyjdzYgZRqaDVKnuNieriiFlbVdmo8sYWNXz0Y/edit?tab=t.0](https://docs.google.com/document/d/1gqdYCgwAAQ1ywV9Jj6bbGiNf8VcUd4Z5BGyNz47ieWs/edit?tab=t.0)
+Newest version patch notes: https://docs.google.com/document/d/1aAyIK7QB3WbIc8nZcszvVjDP0fYRwoXY7QZMrvj-MHU/edit?usp=sharing
 
 ## Known bugs
 
@@ -17,6 +17,10 @@ Newest version patch notes: [https://docs.google.com/document/d/1qCusOnyjdzYgZRq
 ## About this mod
 
 Project Diablo 2 team did amazing job and stunned me and the other veteran D2 players with their high quality work. However, not everyone has the time to farm 24/7. This mod is for players that enjoy slaying plethora of monsters in Diablo 2, but don't have that much time to play in the way the Diablo 2 game and PD2 mod were designed, with abyssmal drop rates and item scarcity. If you have Infinity by day 3 of the PD2 ladder, then this mod is not for you.
+
+## Multiplayer
+
+The mod works fully in local TCP/IP. Players connecting need to have **identical** version of the vanilla PD2, it's DLLs and this mod.
 
 ## How to install
 
@@ -114,6 +118,6 @@ All runes can be in stacked or non-stacked form.
 
 ### Additional usage for crafting infusions
 
-* Circlet, coronet, diadem and tiara are craftable with crafting infusions
+* Normal/magic/rare circlet, coronet, diadem and tiara are craftable with crafting infusions
 
 
