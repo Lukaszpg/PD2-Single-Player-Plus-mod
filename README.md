@@ -18,6 +18,10 @@ Newest version patch notes: https://docs.google.com/document/d/1aAyIK7QB3WbIc8nZ
 
 Project Diablo 2 team did amazing job and stunned me and the other veteran D2 players with their high quality work. However, not everyone has the time to farm 24/7. This mod is for players that enjoy slaying plethora of monsters in Diablo 2, but don't have that much time to play in the way the Diablo 2 game and PD2 mod were designed, with abyssmal drop rates and item scarcity. If you have Infinity by day 3 of the PD2 ladder, then this mod is not for you.
 
+## Multiplayer
+
+The mod works fully in local TCP/IP. Players connecting need to have **identical** version of the vanilla PD2, it's DLLs and this mod.
+
 ## How to install
 
 Head to [launcher repository](https://github.com/Lukaszpg/pd2-single-player-plus-launcher) and follow the instructions. This works right now only on Windows OS. If you have other operating system, please follow manual installation istructions below: 
