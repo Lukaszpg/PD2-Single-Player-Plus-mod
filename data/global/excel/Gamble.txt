@@ -1,114 +1,167 @@
 name	code
+cap	cap
+skull cap	skp
+helm	hlm
+full helm	fhl
+mask	msk
+bone helm	bhm
+great helm	ghm
+crown	crn
+circlet	ci0
+coronet	ci1
+quilted armor	qui
+leather armor	lea
+hard leather armor	hla
+studded leather	stu
+ring mail	rng
+scale mail	scl
+chain mail	chn
+breast plate	crs
+splint mail	spl
+plate mail	plt
+field plate	fld
+gothic plate	gth
+light plate	ltp
+full plate mail	ful
+ancient armor	aar
+buckler	buc
+small shield	sml
+large shield	lrg
+spiked shield	spk
+kite shield	kit
+bone shield	bsh
+tower shield	tow
+gothic shield	gts
+leater gloves	lgl
+heavy gloves	vgl
+chain gloves	mgl
+light gauntlets	tgl
+gauntlets	hgl
+boots	lbt
+heavy boots	vbt
+chain boots	mbt
+light plated boots	tbt
+greaves	hbt
+sash	lbl
+light belt	vbl
+belt	mbl
+heavy belt	tbl
+plated belt	hbl
+wolf head	dr1
+hawk helm	dr2
+antlers	dr3
+falcon mask	dr4
+spirit mask	dr5
+jawbone cap	ba1
+fanged helm	ba2
+horned helm	ba3
+assault helmet	ba4
+avenger guard	ba5
+targe	pa1
+rondache	pa2
+heraldic shield	pa3
+aerin shield	pa4
+crown shield	pa5
+preserved head	ne1
+zombie head	ne2
+unraveller head	ne3
+gargoyle head	ne4
+demon head	ne5
+hand axe	hax
+double axe	2ax
+military pick	mpi
+war axe	wax
+large axe	lax
+broad axe	bax
+battle axe	btx
+great axe	gax
+giant axe	gix
+club	clb
+spiked club	spc
+mace	mac
+morning star	mst
+flail	fla
+war hammer	whm
+maul	mau
+great maul	gma
+short sword	ssd
+scimitar	scm
+sabre	sbr
+falchion	flc
+crystal sword	crs
+broad sword	bsd
+long sword	lsd
+war sword	wsd
+two-handed sword	2hs
+claymore	clm
+giant sword	gis
+bastard sword	bsw
+flamberge	flb
+great sword	gsd
+dagger	dgr
+dirk	dir
+kris	kri
+blade	bld
+throwing knife	tkf
+throwing axe	tax
+balanced knife	bkf
+balanced axe	bal
+javelin	jav
+pilum	pil
+short spear	ssp
+glaive	glv
+throwing spear	tsp
+spear	spr
+trident	tri
+brandistock	brn
+spetum	spt
+pike	pik
+bardiche	bar
+voulge	vou
+scythe	scy
+poleaxe	pax
+halberd	hal
+war scythe	wsc
+short bow	sbw
+hunter's bow	hbw
+long bow	lbw
+composite bow	cbw
+short battle bow	sbb
+long battle bow	lbb
+short war bow	swb
+long war bow	lwb
+light crossbow	lxb
+crossbow	mxb
+heavy crossbow	hxb
+repeating crossbow	rxb
+short staff	sst
+long staff	lst
+gnarled staff	cst
+battle staff	bst
+war staff	wst
+wand	wnd
+yew wand	ywn
+bone wand	bwn
+grim wand	gwn
+scepter	scp
+grand scepter	gsc
+war scepter	wsp
+katar	ktr
+wrist blade	wrb
+hatchet hands	axf
+cestus	ces
+claws	clw
+blade talons	btl
+scissors katar	skr
+eagle orb	ob1
+sacred globe	ob2
+smoked sphere	ob3
+clasped orb	ob4
+jared's stone	ob5
+stag bow	am1
+reflex bow	am2
+maiden spear	am3
+maiden pike	am4
+maiden javelin	am5
 amulet	amu
 ring	rin
-Hand Axe	hax
-Axe	axe
-Double Axe	2ax
-Military Pick	mpi
-War Axe	wax
-Large Axe	lax
-Broad Axe 	bax
-Battle Axe	btx
-Great Axe	gax
-Giant Axe	gix
-Mace	mac
-Morning Star	mst
-Flail	fla
-War Hammer	whm
-Maul	mau
-Great Maul	gma
-Short Sword	ssd
-Scimitar	scm
-Saber	sbr
-Falchion	flc
-Crystal Sword	crs
-Broad Sword	bsd
-Long Sword 	lsd
-War Sword	wsd
-Two-Handed Sword	2hs
-Claymore	clm
-Giant Sword	gis
-Bastard Sword	bsw
-Flamberge	flb
-Great Sword	gsd
-Spear	spr
-Trident	tri
-Brandistock	brn
-Spetum	spt
-Pike	pik
-Bardiche	bar
-Voulge	vou
-Scythe	scy
-Poleaxe	pax
-Halberd	hal
-War Scythe	wsc
-Short Bow	sbw
-Hunter's Bow	hbw
-Long Bow	lbw
-Composite Bow	cbw
-Short Battle Bow	sbb
-Long Battle Bow	lbb
-Short War Bow	swb
-Long War Bow	lwb
-Light Crossbow	lxb
-Crossbow	mxb
-Heavy Crossbow	hxb
-Repeating Crossbow	rxb
-Cap/hat	cap
-Skull Cap	skp
-Helm	hlm
-Full Helm	fhl
-Great Helm	ghm
-Crown	crn
-Mask	msk
-Quilted Armor	qui
-Leather Armor	lea
-Hard Leather Armor	hla
-Studded Leather 	stu
-Ring Mail	rng
-Scale Mail	scl
-Chain Mail	chn
-Breast Plate	brs
-Splint Mail	spl
-Plate Mail	plt
-Field Plate	fld
-Gothic Plate	gth
-Full Plate Mail	ful
-Ancient Armor	aar
-Light Plate	ltp
-Buckler	buc
-Small Shield	sml
-Large Shield	lrg
-Kite Shield	kit
-Tower Shield	tow
-Gothic Shield	gts
-Gloves(L)	lgl
-Heavy Gloves	vgl
-Bracers(M)	mgl
-Light Gauntlets	tgl
-Gaunlets(H)	hgl
-Leather Boots	lbt
-Heavy Boots	vbt
-Chain Boots	mbt
-Light Plate Boots	tbt
-Plate Boots	hbt
-Sash(L)	lbl
-Light Belt	vbl
-Belt(M)	mbl
-Heavy Belt	tbl
-Girdle(H)	hbl
-Bone Helm	bhm
-Bone Shield	bsh
-Spiked Shield	spk
-Expansion	
-Throwing Knife	tkf
-Throwing Axe	tax
-Balanced Knife	bkf
-Balanced Axe	bal
-Javelin	jav
-Pilum	pil
-Short Spear	ssp
-Glaive	glv
-Throwing Spear	tsp
-Circlet	ci0
-Coronet	ci1

@@ -2201,22 +2201,6 @@ r33 downgrade zod -> cham	1			100					2	ncoi,qty=1	"r33s,qty=1"						"r32s,qty=1
 EXCHANGES																																																																																																								0
 																																																																																																								0
 2x LPP + Coin = Larzuk's Puzzle Box	1			100					2	lpp,qty=2	ncoi,qty=1						lbox																																																																																							0
-48x Exalted Orb + 16x Coin = 16x Mythic Orb	1			100					2	exo,qty=48	ncoi,qty=16						mfo,qty=16																																																																																							0
-45x Exalted Orb + 15x Coin = 15x Mythic Orb	1			100					2	exo,qty=45	ncoi,qty=15						mfo,qty=15																																																																																							0
-42x Exalted Orb + 14x Coin = 14x Mythic Orb	1			100					2	exo,qty=42	ncoi,qty=14						mfo,qty=14																																																																																							0
-39x Exalted Orb + 13x Coin =13x Mythic Orb	1			100					2	exo,qty=39	ncoi,qty=13						mfo,qty=13																																																																																							0
-36x Exalted Orb + 12xCoin = 12x Mythic Orb	1			100					2	exo,qty=36	ncoi,qty=12						mfo,qty=12																																																																																							0
-33x Exalted Orb + 11x Coin = 11x Mythic Orb	1			100					2	exo,qty=33	ncoi,qty=11						mfo,qty=11																																																																																							0
-30x Exalted Orb + 10x Coin = 10x Mythic Orb	1			100					2	exo,qty=30	ncoi,qty=10						mfo,qty=10																																																																																							0
-27x Exalted Orb + 9x Coin = 9x Mythic Orb	1			100					2	exo,qty=27	ncoi,qty=9						mfo,qty=9																																																																																							0
-24x Exalted Orb + 8x Coin = 8x Mythic Orb	1			100					2	exo,qty=24	ncoi,qty=8						mfo,qty=8																																																																																							0
-21x Exalted Orb + 7x Coin = 7x Mythic Orb	1			100					2	exo,qty=21	ncoi,qty=7						mfo,qty=7																																																																																							0
-18x Exalted Orb + 6x Coin = 6x Mythic Orb	1			100					2	exo,qty=18	ncoi,qty=6						mfo,qty=6																																																																																							0
-15x Exalted Orb + 5x Coin = 5x Mythic Orb	1			100					2	exo,qty=15	ncoi,qty=5						mfo,qty=5																																																																																							0
-12x Exalted Orb + 4x Coin = 4x Mythic Orb	1			100					2	exo,qty=12	ncoi,qty=4						mfo,qty=4																																																																																							0
-9x Exalted Orb + 3x Coin = 3x Mythic Orb	1			100					2	exo,qty=9	ncoi,qty=3						mfo,qty=3																																																																																							0
-6x Exalted Orb + 2x Coin = 2x Mythic Orb	1			100					2	exo,qty=6	ncoi,qty=2						mfo,qty=2																																																																																							0
-3x Exalted Orb + Coin = Mythic Orb	1			100					2	exo,qty=3	ncoi,qty=1						mfo,qty=1																																																																																							0
 																																																																																																								0
 DEMONIC CUBE ADDITIONAL RECIPES																																																																																																								0
 Reroll type of unique ring	1			100	18	361	0		3	ring,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
@@ -2327,3 +2311,57 @@ Vampiric infusion	1			100	16	361	334		1	ccbx							crfv,qty=5																			
 Bountiful infusion	1			100	16	361	401		1	ccbx							crfu,qty=5																																																																																							0
 Prismatic infusion	1			100	16	361	468		1	ccbx							crfp,qty=5																																																																																							0
 Catalyst shards	1			100	16	361	506		1	ccbx							iwss,qty=5																																																																																							0
+																																																																																																								0
+CAIN'S WISDOM + ANNIHILUS FUSE																																																																																																								0
+Cain's + Anni = Anni with 250% exp affix	1			100	16	85	250		2	Annihilus	Cains						useitem			100	addxp	100		250	250																																																																															0
+																																																																																																								0
+ARROWS CRAFTING																																																																																																								0
+Blood - normal	1			100					2	aqv,nor	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - normal	1			100					2	aqv,nor	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - normal	1			100					2	aqv,nor	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - normal 	1			100					2	aqv,nor	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - normal 	1			100					2	aqv,nor	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - normal	1			100					2	aqv,nor	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - normal	1			100					2	aqv,nor	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+Blood - magic	1			100					2	aqv,mag	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - magic	1			100					2	aqv,mag	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - magic	1			100					2	aqv,mag	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - magic	1			100					2	aqv,mag	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - magic	1			100					2	aqv,mag	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - magic	1			100					2	aqv,mag	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - magic	1			100					2	aqv,mag	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+Blood - rare	1			100					2	aqv,rar	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - rare	1			100					2	aqv,rar	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - rare	1			100					2	aqv,rar	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - rare	1			100					2	aqv,rar	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - rare	1			100					2	aqv,rar	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - rare	1			100					2	aqv,rar	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - rare	1			100					2	aqv,rar	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+BOLTS CRAFTING																																																																																																								0
+																																																																																																								0
+Blood - magic	1			100					2	cqv,mag	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - magic	1			100					2	cqv,mag	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - magic	1			100					2	cqv,mag	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - magic	1			100					2	cqv,mag	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - magic	1			100					2	cqv,mag	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - magic	1			100					2	cqv,mag	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - magic	1			100					2	cqv,mag	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+Blood - rare	1			100					2	cqv,rar	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - rare	1			100					2	cqv,rar	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - rare	1			100					2	cqv,rar	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - rare	1			100					2	cqv,rar	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - rare	1			100					2	cqv,rar	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - rare	1			100					2	cqv,rar	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - rare	1			100					2	cqv,rar	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+Blood - normal	1			100					2	cqv,nor	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - normal	1			100					2	cqv,nor	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - normal	1			100					2	cqv,nor	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - normal	1			100					2	cqv,nor	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - normal	1			100					2	cqv,nor	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - normal	1			100					2	cqv,nor	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - normal	1			100					2	cqv,nor	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0

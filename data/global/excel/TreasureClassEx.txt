@@ -234,11 +234,11 @@ Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem
 Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	wss	2	Runes 10	14												0
 Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	wss	2	Runes 11	14												0
 Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	wss	2	Runes 12 equiv	14												0
-Act 1 (H) Good	5	66	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 2 (H) Good	5	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 3 (H) Good	5	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 4 (H) Good	5	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 5 (H) Good	5	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
+Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
+Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
+Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
+Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
+Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
 Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T1 Map Drop	8	New orbs	5	gcbx	6	ccbx	7				0
 Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T2 Map Drop	8	New orbs	5	gcbx	6	ccbx	7				0
 Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T3 Map Drop	8	New orbs	5	gcbx	6	ccbx	7				0
@@ -718,17 +718,17 @@ Map Swarm t1	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t1	23	Act 3 (H) Ma
 Map Swarm t2	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t2	23	Act 3 (H) Magic A	143																0
 Map Swarm t3	28	74	1					415	Potion 6	292	Misc 2	143	Map Good t3	23	Act 3 (H) Magic A	143																0
 Andariel			7	983	983	983	1024	1	"gld,mul=1280"	228	Act 2 Equip A	395	Act 2 Junk	311	Act 2 Good	62																0
-Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	60														0
-Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	61	tes	60														0
+Andariel (N)			7	983	983	983	1024	1	"gld,mul=1536"	228	Act 2 (N) Equip A	395	Act 2 (N) Junk	311	Act 2 (N) Good	62	tes	40														0
+Andariel (H)			7	983	983	983	1024	1	"gld,mul=2048"	224	Act 4 (H) Equip A	387	Act 4 (H) Junk	305	Act 4 (H) Good	61	tes	40														0
 Andarielq			7	995	995	1024	1024	1	Act 2 Equip A	845	Act 2 Good	133																				0
-Andarielq (N)			7	995	995	1024	1024	1	Act 2 (N) Equip A	845	Act 2 (N) Good	133	tes	126																		0
-Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	810	Act 4 (H) Good	127	tes	126																		0
+Andarielq (N)			7	995	995	1024	1024	1	Act 2 (N) Equip A	845	Act 2 (N) Good	133	tes	65																		0
+Andarielq (H)			7	995	995	1024	1024	1	Act 4 (H) Equip A	810	Act 4 (H) Good	127	tes	65																		0
 Duriel - Base			7	983	983	983	1024	0	"gld,mul=1280"	228	Act 3 Equip A	395	Act 3 Junk	311	Act 3 Good	62																0
-Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62	tes	60														0
-Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	tes	45														0
+Duriel (N) - Base			7	983	983	983	1024	0	"gld,mul=1536"	228	Act 3 (N) Equip A	395	Act 3 (N) Junk	311	Act 3 (N) Good	62	tes	40														0
+Duriel (H) - Base			7	983	983	983	1024	0	"gld,mul=2048"	75	Act 5 (H) Equip B	787	Act 5 (H) Junk	75	Act 5 (H) Good	45	tes	40														0
 Durielq - Base			7	993	993	1024	1024	0	Act 3 Equip A	845	Act 3 Good	133																				0
-Durielq (N) - Base			7	993	993	1024	1024	0	Act 3 (N) Equip A	845	Act 3 (N) Good	133	tes	126																		0
-Durielq (H) - Base			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	tes	126																		0
+Durielq (N) - Base			7	993	993	1024	1024	0	Act 3 (N) Equip A	845	Act 3 (N) Good	133	tes	65																		0
+Durielq (H) - Base			7	993	993	1024	1024	0	Act 5 (H) Equip B	928	Act 5 (H) Good	53	tes	65																		0
 Radament			5	900	900	900	1024	1	"gld,mul=1280"	228	Act 3 Equip B	395	Act 3 Junk	311	Act 3 Good	62																0
 Radament (N)			5	900	900	900	1024	1	"gld,mul=1536"	228	Act 3 (N) Equip B	395	Act 3 (N) Junk	311	Act 3 (N) Good	62																0
 Radament (H)			5	900	900	900	1024	1	"gld,mul=2048"	228	Act 3 (H) Equip C	395	Act 3 (H) Junk	311	Act 3 (H) Good	62																0
