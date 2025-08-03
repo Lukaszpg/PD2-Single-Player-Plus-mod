@@ -296,7 +296,7 @@ r08 + jew + magic amulet -> tempered amulet				100					3	"amu,mag"	"jewg,qty=1"	
 r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	"r01g,qty=1"	"gcv,qty=1"					useitem				levelreq			2	2	att			30	50																																																																										0
 "3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					2	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
 Pandemonium key	0		2	100	28	1			3	"pk1,qty=1"	"pk2,qty=1"	"pk3,qty=1"					Pandemonium Portal																																																																																							0
-Pandemonium key - PD2	1		2	100	28	1			3	"pk1,qty=1"	"pk2,qty=1"	"pk3,qty=1"					useitem																																																																																							0
+Pandemonium key - PD2	0		2	100	28	1			3	"pk1,qty=1"	"pk2,qty=1"	"pk3,qty=1"					useitem																																																																																							0
 Pandemonium Finale key	0		2	100	28	1			3	"dhn,qty=1"	"bey,qty=1"	"mbr,qty=1"					Pandemonium Finale Portal																																																																																							0
 Pandemonium Finale key 2	0		2	100	28	1			3	"dhn,qty=1"	"bey,qty=1"	"mbr,qty=1"					Pandemonium Finale Portal																																																																																							0
 Pandemonium Finale key 3	1			100					3	"dhn,qty=1"	"bey,qty=1"	"mbr,qty=1"					useitem																													"ubtm,qty=1"																																																										0
@@ -307,13 +307,13 @@ r07 + r13 + perfect diamond + basic set armor -> exceptional set armor	1			100		
 r17 + r21 + perfect emerald + exceptional set weapon -> elite set weapon (staves)	1			100					4	"staf,exc,set"	"r17g,qty=1"	"r21g,qty=1"	"gg4e,qty=1"				"useitem,mod,eli"				cast2	100		20	20																																																																															0
 r17 + r21 + perfect emerald + exceptional set weapon -> elite set weapon	1			100					4	"weap,exc,set"	"r17g,qty=1"	"r21g,qty=1"	"gg4e,qty=1"				"useitem,mod,eli"																																																																																							0
 r18 + r20 + perfect diamond + exceptional set armor -> elite set armor	1			100					4	"armo,exc,set"	"r18g,qty=1"	"r20g,qty=1"	"gg4d,qty=1"				"useitem,mod,eli"																																																																																							0
-Puzzlebox 2h weapon	1			100					2	"2han,nos"	"lbox,qty=1"						useitem			100	sock			2	4																																																																															0
-Puzzlebox Bow	1			100					2	"bow,nos"	"lbox,qty=1"						useitem			100	sock			2	4																																																																															0
-Puzzlebox Bow	1			100					2	"xbow,nos"	"lbox,qty=1"						useitem			100	sock			2	4																																																																															0
-Puzzlebox 1h weapon	1			100					2	"weap,nos"	"lbox,qty=1"						useitem			100	sock			1	2																																																																															0
-Puzzlebox helm	1			100					2	"helm,nos"	"lbox,qty=1"						useitem			100	sock			1	2																																																																															0
-Puzzlebox chest	1			100					2	"tors,nos"	"lbox,qty=1"						useitem			100	sock			1	2																																																																															0
-Puzzlebox shield	1			100					2	"shld,nos"	"lbox,qty=1"						useitem			100	sock			1	2																																																																															0
+Puzzlebox 2h weapon	1			100					2	"2han"	"lbox,qty=1"						useitem,uns			100	sock			2	4																																																																															0
+Puzzlebox Bow	1			100					2	"bow"	"lbox,qty=1"						useitem,uns			100	sock			2	4																																																																															0
+Puzzlebox Bow	1			100					2	"xbow"	"lbox,qty=1"						useitem,uns			100	sock			2	4																																																																															0
+Puzzlebox 1h weapon	1			100					2	"weap"	"lbox,qty=1"						useitem,uns			100	sock			1	2																																																																															0
+Puzzlebox helm	1			100					2	"helm"	"lbox,qty=1"						useitem,uns			100	sock			1	2																																																																															0
+Puzzlebox chest	1			100					2	"tors"	"lbox,qty=1"						useitem,uns			100	sock			1	2																																																																															0
+Puzzlebox shield	1			100					2	"shld"	"lbox,qty=1"						useitem,uns			100	sock			1	2																																																																															0
 Uber Diablo Map	1			100					3	"dcbl,qty=1"	"dcho,qty=1"	"dcso,qty=1"					dcma																																																																																							0
 MAP CORRUPT																																																																																																								0
 map heroed	1			2	30				2	"map,nor"	"std,qty=1"						useitem			100																																																																																				0
@@ -336,11 +336,11 @@ map-glob-arealevel	1	1		100	16	361	720		2	t1me	"wss,qty=1"						useitem			100	co
 map-glob-monsterrarity	1	1		100	16	361	810		2	t1me	"wss,qty=1"						useitem			100	corrupt	100		86	86	corruptnum	100		1001	1001	map-glob-monsterrarity	100		30	40																																																																					0
 map-play-res-all-max	1	1		100	16	361	900		2	t1me	"wss,qty=1"						useitem			100	corrupt	100		87	87	corruptnum	100		1001	1001	map-play-res-all-max	100		-3	-2	map-glob-density	100		30	40	map-glob-monsterrarity	100		10	15																																																											0
 map-mon-dropjewelry	1	1		100	16	361	990		2	t1me	"wss,qty=1"						useitem			100	corrupt	100		88	88	corruptnum	100		1001	1001	map-mon-dropjewelry	100		1	1																																																																					0
-t1 > zhars sanctum	1	1		100	16	361	992		2	t1me	"wss,qty=1"						"t51,uni"			100														1	1																																																																					0
-t1 > fallen gardens	1	1		100	16	361	994		2	t1me	"wss,qty=1"						"t53,uni"			100														1	1																																																																					0
-t1 > imperial palace	1	1		100	16	361	996		2	t1me	"wss,qty=1"						"t54,uni"			100														1	1																																																																					0
-t1 > warlord of blood	1	1		100	16	361	998		2	t1me	"wss,qty=1"						"t52,uni"			100														1	1																																																																					0
-t1 > void map	1	1		100	16	361	1000		2	t1me	"wss,qty=1"						"t55,uni"			100														1	1																																																																					0
+t1 > zhars sanctum	1	1		100	16	361	992		2	t1me	"wss,qty=1"						"t51,uni"			100																																																																																				0
+t1 > fallen gardens	1	1		100	16	361	994		2	t1me	"wss,qty=1"						"t53,uni"			100																																																																																				0
+t1 > imperial palace	1	1		100	16	361	996		2	t1me	"wss,qty=1"						"t54,uni"			100																																																																																				0
+t1 > warlord of blood	1	1		100	16	361	998		2	t1me	"wss,qty=1"						"t52,uni"			100																																																																																				0
+t1 > void map	1	1		100	16	361	1000		2	t1me	"wss,qty=1"						"t55,uni"			100																																																																																				0
 T2																																																																																																								0
 Random rare				100	16	361	100		2	t2me	"wss,qty=1"						"usetype,rar"			100																																																																																				0
 Random down tier				100	16	361	200		2	t2me	"wss,qty=1"						"t1me,rar"			100	corrupt	100		1	1	corruptnum	100		1001	1001																																																																										0
@@ -357,11 +357,11 @@ map-glob-arealevel	1	1		100	16	361	720		2	t2me	"wss,qty=1"						useitem			100	co
 map-glob-monsterrarity	1	1		100	16	361	810		2	t2me	"wss,qty=1"						useitem			100	corrupt	100		86	86	corruptnum	100		1001	1001	map-glob-monsterrarity	100		40	50																																																																					0
 map-play-res-all-max	1	1		100	16	361	900		2	t2me	"wss,qty=1"						useitem			100	corrupt	100		87	87	corruptnum	100		1001	1001	map-play-res-all-max	100		-4	-3	map-glob-density	100		40	50	map-glob-monsterrarity	100		15	20																																																											0
 map-mon-dropjewelry	1	1		100	16	361	990		2	t2me	"wss,qty=1"						useitem			100	corrupt	100		88	88	corruptnum	100		1001	1001	map-mon-dropjewelry	100		1	1																																																																					0
-t2 > zhars sanctum	1	1		100	16	361	992		2	t1me	"wss,qty=1"						"t51,uni"			100														1	1																																																																					0
-t2 > fallen gardens	1	1		100	16	361	994		2	t1me	"wss,qty=1"						"t53,uni"			100														1	1																																																																					0
-t2 > imperial palace	1	1		100	16	361	996		2	t1me	"wss,qty=1"						"t54,uni"			100														1	1																																																																					0
-t2 > warlord of blood	1	1		100	16	361	998		2	t1me	"wss,qty=1"						"t52,uni"			100														1	1																																																																					0
-t2 > void map	1	1		100	16	361	1000		2	t1me	"wss,qty=1"						"t55,uni"			100														1	1																																																																					0
+t2 > zhars sanctum	1	1		100	16	361	992		2	t1me	"wss,qty=1"						"t51,uni"			100																																																																																				0
+t2 > fallen gardens	1	1		100	16	361	994		2	t1me	"wss,qty=1"						"t53,uni"			100																																																																																				0
+t2 > imperial palace	1	1		100	16	361	996		2	t1me	"wss,qty=1"						"t54,uni"			100																																																																																				0
+t2 > warlord of blood	1	1		100	16	361	998		2	t1me	"wss,qty=1"						"t52,uni"			100																																																																																				0
+t2 > void map	1	1		100	16	361	1000		2	t1me	"wss,qty=1"						"t55,uni"			100																																																																																				0
 T3																																																																																																								0
 Random rare				100	16	361	100		2	t3me	"wss,qty=1"						"usetype,rar"			100																																																																																				0
 Random down tier				100	16	361	200		2	t3me	"wss,qty=1"						"t2me,rar"			100	corrupt	100		1	1	corruptnum	100		1001	1001																																																																										0
@@ -378,11 +378,11 @@ map-glob-arealevel	1	1		100	16	361	720		2	t3me	"wss,qty=1"						useitem			100	co
 map-glob-monsterrarity	1	1		100	16	361	810		2	t3me	"wss,qty=1"						useitem			100	corrupt	100		86	86	corruptnum	100		1001	1001	map-glob-monsterrarity	100		50	60																																																																					0
 map-play-res-all-max	1	1		100	16	361	900		2	t3me	"wss,qty=1"						useitem			100	corrupt	100		87	87	corruptnum	100		1001	1001	map-play-res-all-max	100		-5	-4	map-glob-density	100		50	60	map-glob-monsterrarity	100		20	25																																																											0
 map-mon-dropjewelry	1	1		100	16	361	990		2	t3me	"wss,qty=1"						useitem			100	corrupt	100		88	88	corruptnum	100		1001	1001	map-mon-dropjewelry	100		1	1																																																																					0
-t3 > zhars sanctum	1	1		100	16	361	992		2	t1me	"wss,qty=1"						"t51,uni"			100														1	1																																																																					0
-t3 > fallen gardens	1	1		100	16	361	994		2	t1me	"wss,qty=1"						"t53,uni"			100														1	1																																																																					0
-t3 > imperial palace	1	1		100	16	361	996		2	t1me	"wss,qty=1"						"t54,uni"			100														1	1																																																																					0
-t3 > warlord of blood	1	1		100	16	361	998		2	t1me	"wss,qty=1"						"t52,uni"			100														1	1																																																																					0
-t3 > void map	1	1		100	16	361	1000		2	t1me	"wss,qty=1"						"t55,uni"			100														1	1																																																																					0
+t3 > zhars sanctum	1	1		100	16	361	992		2	t1me	"wss,qty=1"						"t51,uni"			100																																																																																				0
+t3 > fallen gardens	1	1		100	16	361	994		2	t1me	"wss,qty=1"						"t53,uni"			100																																																																																				0
+t3 > imperial palace	1	1		100	16	361	996		2	t1me	"wss,qty=1"						"t54,uni"			100																																																																																				0
+t3 > warlord of blood	1	1		100	16	361	998		2	t1me	"wss,qty=1"						"t52,uni"			100																																																																																				0
+t3 > void map	1	1		100	16	361	1000		2	t1me	"wss,qty=1"						"t55,uni"			100																																																																																				0
 	0																																																																																																							0
 CORRUPT ORB ITEM ROLLING	0																																																																																																							0
 	0																																																																																																							0
@@ -1825,13 +1825,13 @@ rare amulet + bountiful craft ingredient -> bountiful amulet	1			100					2	"amul
 rare ring + bountiful craft ingredient -> bountiful ring	1			100					2	"ring,rar"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			10	20	light			1	3	vit			5	10																																																																					0
 rare blunt + bountiful craft ingredient -> bountiful weapon	1			100					2	"weap,rar,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	allskills			1	1																																																																					0
 rare blunt + bountiful craft ingredient -> bountiful weapon	1			100					2	"weap,rar,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	allskills			1	1	ethereal	100		1	1																																																																0
-Puzzlepiece 2h weapon	1			100					2	"2han,nos"	"lpp,qty=1"						useitem			100	sock			2	4																																																																															0
-Puzzlepiece Bow	1			100					2	"bow,nos"	"lpp,qty=1"						useitem			100	sock			2	4																																																																															0
-Puzzlepiece Bow	1			100					2	"xbow,nos"	"lpp,qty=1"						useitem			100	sock			2	4																																																																															0
-Puzzlepiece 1h weapon	1			100					2	"weap,nos"	"lpp,qty=1"						useitem			100	sock			1	2																																																																															0
-Puzzlepiece helm	1			100					2	"helm,nos"	"lpp,qty=1"						useitem			100	sock			1	2																																																																															0
-Puzzlepiece chest	1			100					2	"tors,nos"	"lpp,qty=1"						useitem			100	sock			1	2																																																																															0
-Puzzlepiece shield	1			100					2	"shld,nos"	"lpp,qty=1"						useitem			100	sock			1	2																																																																															0
+Puzzlepiece 2h weapon	1			100					2	"2han"	"lpp,qty=1"						useitem,uns			100	sock			2	4																																																																															0
+Puzzlepiece Bow	1			100					2	"bow"	"lpp,qty=1"						useitem,uns			100	sock			2	4																																																																															0
+Puzzlepiece Bow	1			100					2	"xbow"	"lpp,qty=1"						useitem,uns			100	sock			2	4																																																																															0
+Puzzlepiece 1h weapon	1			100					2	"weap"	"lpp,qty=1"						useitem,uns			100	sock			1	2																																																																															0
+Puzzlepiece helm	1			100					2	"helm"	"lpp,qty=1"						useitem,uns			100	sock			1	2																																																																															0
+Puzzlepiece chest	1			100					2	"tors"	"lpp,qty=1"						useitem,uns			100	sock			1	2																																																																															0
+Puzzlepiece shield	1			100					2	"shld"	"lpp,qty=1"						useitem,uns			100	sock			1	2																																																																															0
 r15 + rathma tp book + any socketed item -> unsocket (destroy gems)	1			100					3	"any,sock"	"r15g,qty=1"	rtp					"useitem,uns"																													rtp																																																										0
 test map area level -- map + isc	0			100					2	"map"	"isc"						useitem			100	map-glob-arealevel	100		5	5																																																																															0
 fortify T1 map-- map + fort	1			2	30				2	"t1me,nor"	"fort,qty=1"						useitem			100																																																																																				0
@@ -2088,20 +2088,113 @@ Lillith's Mirror bolts (craft)	1			100					2	"cqv,crf"	llmr						useitem	99		100
 																																																																																																								0
 MYTHIC ORB																																																																																																								0
 																																																																																																								0
-Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality ring to unique	1			100	18	361	0		2	ring,mag	"mfo,qty=1"						usetype,uni	99																																																																																						0
-Convert rare quality ring to unique	1			100	18	361	0		2	ring,rar	"mfo,qty=1"						usetype,uni	99																																																																																						0
-Convert magic quality amulet to unique	1			100	18	361	0		2	amul,mag	"mfo,qty=1"						usetype,uni	99																																																																																						0
-Convert rare quality amulet to unique	1			100	18	361	0		2	amul,rar	"mfo,qty=1"						usetype,uni	99																																																																																						0
-Mythic orb + 15 jewel fragments = random rainbow facet	1			100					2	"mfo,qty=1"	"jewf,qty=15"						jew,uni	85																																																																																						0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
 Gheed's Fortune	1			100					2	"mfo,qty=1"	cm3,mag						cm3,uni	99																																																																																						0
+																																																																																																								0
+MYTHIC ORB RINGS ROLLING																																																																																																								0
+Due to a bug in Season 11 vanilla PD2, the output ring names don't match the names of the final item - but trust me, it works just fine.																																																																																																								0
+																																																																																																								0
+MYTHIC ORB RINGS ROLLING - PHASE 1																																																																																																								0
+Mythic Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	mfo,qty=1						useitem	99			corruptnum	100		6000	6004																																																																															0
+Mythic Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	mfo,qty=1						useitem	99			corruptnum	100		6000	6004																																																																															0
+																																																																																																								0
+MYTHIC ORB RINGS OUTCOME - PHASE 2																																																																																																								0
+Nagelring	1			100	16	361	6000		2	ring,mag	mfo,qty=1						Dummy Ring	99																																																																																						0
+Manald Heal	1			100	16	361	6001		2	ring,mag	mfo,qty=1						Nagelring	99																																																																																						0
+Raven Frost	1			100	16	361	6002		2	ring,mag	mfo,qty=1						Dwarf Star	99																																																																																						0
+Dwarf Star	1			100	16	361	6003		2	ring,mag	mfo,qty=1						Bul Katho's Wedding Band	99																																																																																						0
+Carrion Wind	1			100	16	361	6004		2	ring,mag	mfo,qty=1						Nature's Peace	99																																																																																						0
+Nagelring	1			100	16	361	6000		2	ring,rar	mfo,qty=1						Dummy Ring	99																																																																																						0
+Manald Heal	1			100	16	361	6001		2	ring,rar	mfo,qty=1						Nagelring	99																																																																																						0
+Raven Frost	1			100	16	361	6002		2	ring,rar	mfo,qty=1						Dwarf Star	99																																																																																						0
+Dwarf Star	1			100	16	361	6003		2	ring,rar	mfo,qty=1						Bul Katho's Wedding Band	99																																																																																						0
+Carrion Wind	1			100	16	361	6004		2	ring,rar	mfo,qty=1						Nature's Peace	99																																																																																						0
+																																																																																																								0
+MYTHIC ORB AMULETS ROLLING																																																																																																								0
+																																																																																																								0
+MYTHIC ORB AMULET ROLLING - PHASE 1																																																																																																								0
+Mythic Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	mfo,qty=1						useitem	99			corruptnum	100		6000	6006																																																																															0
+Mythic Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	mfo,qty=1						useitem	99			corruptnum	100		6000	6006																																																																															0
+																																																																																																								0
+MYTHIC ORB AMULETS OUTCOME - PHASE 2																																																																																																								0
+Nokozan Relic	1			100	16	361	6000		2	amu,mag	mfo,qty=1						Amulet of the Viper	99																																																																																						0
+The Cat's Eye	1			100	16	361	6001		2	amu,mag	mfo,qty=1						Metalgrid	99																																																																																						0
+The Mahim Oak Curio	1			100	16	361	6002		2	amu,mag	mfo,qty=1						The Eye of Etlich	99																																																																																						0
+Saracen's Chance	1			100	16	361	6003		2	amu,mag	mfo,qty=1						Highlord's Wrath	99																																																																																						0
+Crescent Moon	1			100	16	361	6004		2	amu,mag	mfo,qty=1						The Rising Sun	99																																																																																						0
+Thy Eye of Etlich	1			100	16	361	6005		2	amu,mag	mfo,qty=1						Nokozan Relic	99																																																																																						0
+Atma's Scarab	1			100	16	361	6006		2	amu,mag	mfo,qty=1						Mara's Kaleidoscope	99																																																																																						0
+Nokozan Relic	1			100	16	361	6000		2	amu,rar	mfo,qty=1						Amulet of the Viper	99																																																																																						0
+The Cat's Eye	1			100	16	361	6001		2	amu,rar	mfo,qty=1						Metalgrid	99																																																																																						0
+The Mahim Oak Curio	1			100	16	361	6002		2	amu,rar	mfo,qty=1						The Eye of Etlich	99																																																																																						0
+Saracen's Chance	1			100	16	361	6003		2	amu,rar	mfo,qty=1						Highlord's Wrath	99																																																																																						0
+Crescent Moon	1			100	16	361	6004		2	amu,rar	mfo,qty=1						The Rising Sun	99																																																																																						0
+Thy Eye of Etlich	1			100	16	361	6005		2	amu,rar	mfo,qty=1						Nokozan Relic	99																																																																																						0
+Atma's Scarab	1			100	16	361	6006		2	amu,rar	mfo,qty=1						Mara's Kaleidoscope	99																																																																																						0
+																																																																																																								0
+																																																																																																								0
+DIVINE ORB																																																																																																								0
+																																																																																																								0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Divine Orb + 15 jewel fragments = random rainbow facet	1			100					2	"divo,qty=1"	"jewf,qty=15"						jew,uni	85																																																																																						0
+																																																																																																								0
+DIVINE ORB RINGS ROLLING																																																																																																								0
+																																																																																																								0
+DIVINE ORB RINGS ROLLING - PHASE 1																																																																																																								0
+Divine Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
+Divine Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
+																																																																																																								0
+DIVINE ORB RINGS OUTCOME - PHASE 2																																																																																																								0
+The Stone of Jordan	1			100	16	361	6000		2	ring,mag	"divo,qty=1"						Manald Heal	99																																																																																						0
+Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,mag	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
+Nature's Peace	1			100	16	361	6002		2	ring,mag	"divo,qty=1"						Constricting Ring	99																																																																																						0
+Constricting Loop	1			100	16	361	6003		2	ring,mag	"divo,qty=1"						Raven Frost	99																																																																																						0
+Wisp Projector	1			100	16	361	6004		2	ring,mag	"divo,qty=1"						Carrion Wind	99																																																																																						0
+The Stone of Jordan	1			100	16	361	6000		2	ring,rar	"divo,qty=1"						Manald Heal	99																																																																																						0
+Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,rar	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
+Nature's Peace	1			100	16	361	6002		2	ring,rar	"divo,qty=1"						Constricting Ring	99																																																																																						0
+Constricting Loop	1			100	16	361	6003		2	ring,rar	"divo,qty=1"						Raven Frost	99																																																																																						0
+Wisp Projector	1			100	16	361	6004		2	ring,rar	"divo,qty=1"						Carrion Wind	99																																																																																						0
+																																																																																																								0
+DIVINE ORB AMULETS ROLLING																																																																																																								0
+																																																																																																								0
+DIVINE ORB AMULET ROLLING - PHASE 1																																																																																																								0
+Divine Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
+Divine Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
+																																																																																																								0
+DIVINE ORB AMULETS OUTCOME - PHASE 2																																																																																																								0
+Metalgrid	1			100	16	361	6000		2	amu,mag	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
+Highlord's Wrath	1			100	16	361	6001		2	amu,mag	"divo,qty=1"						Atma's Scarab	99																																																																																						0
+Mara's Caleidoscope	1			100	16	361	6002		2	amu,mag	"divo,qty=1"						Crescent Moon	99																																																																																						0
+Seraph's Hymn	1			100	16	361	6003		2	amu,mag	"divo,qty=1"						The Mahim-Oak Curio	99																																																																																						0
+The Rising Sun	1			100	16	361	6004		2	amu,mag	"divo,qty=1"						The Cat's Eye	99																																																																																						0
+Metalgrid	1			100	16	361	6000		2	amu,rar	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
+Highlord's Wrath	1			100	16	361	6001		2	amu,rar	"divo,qty=1"						Atma's Scarab	99																																																																																						0
+Mara's Caleidoscope	1			100	16	361	6002		2	amu,rar	"divo,qty=1"						Crescent Moon	99																																																																																						0
+Seraph's Hymn	1			100	16	361	6003		2	amu,rar	"divo,qty=1"						The Mahim-Oak Curio	99																																																																																						0
+The Rising Sun	1			100	16	361	6004		2	amu,rar	"divo,qty=1"						The Cat's Eye	99																																																																																						0
 																																																																																																								0
 EXALTED ORB																																																																																																								0
 																																																																																																								0
@@ -2203,8 +2296,8 @@ EXCHANGES																																																																							
 2x LPP + Coin = Larzuk's Puzzle Box	1			100					2	lpp,qty=2	ncoi,qty=1						lbox																																																																																							0
 																																																																																																								0
 DEMONIC CUBE ADDITIONAL RECIPES																																																																																																								0
-Reroll type of unique ring	1			100	18	361	0		3	ring,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
-Reroll type of unique amulet	1			100	18	361	0		3	amul,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
+Reroll type of unique ring	0			100	18	361	0		3	ring,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
+Reroll type of unique amulet	0			100	18	361	0		3	amul,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
 Reroll type of set ring	1			100	18	361	0		3	ring,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of set amulet	1			100	18	361	0		3	amul,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of Rainbow Facet	1			100					3	jew,uni	ncoi,qty=1	imrn,qty=1					jew,uni	85																																																																																						0
@@ -2239,65 +2332,125 @@ Perfect Sapphires	1			100	16	361	1506		1	gcbx							"gpbs,qty=50"															
 Perfect Emeralds	1			100	16	361	1507		1	gcbx							"gpgs,qty=50"																																																																																							0
 																																																																																																								0
 CIRCLET CRAFTING																																																																																																								0
-Craft non-ethereal circlet - Blood	1			100					2	ci0,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Craft ethereal circlet - Blood	1			100					2	ci0,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
-Craft non-ethereal circlet - Caster	1			100					2	ci0,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Craft ethereal circlet - Caster	1			100					2	ci0,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100																																																																			0
-Craft non-ethereal circlet - Safety	1			100					2	ci0,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Craft ethereal circlet - Safety	1			100					2	ci0,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100																																																																			0
-Craft non-ethereal circlet - Hitpower	1			100					2	ci0,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Craft ethereal circlet - Hitpower	1			100					2	ci0,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100																																																																			0
-Craft non-ethereal circlet - Vampiric	1			100					2	ci0,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Craft ethereal circlet - Vampiric	1			100					2	ci0,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100																																																																			0
-Craft non-ethereal circlet - Bountiful	1			100					2	ci0,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Craft ethereal circlet - Bountiful	1			100					2	ci0,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100																																																																			0
-Craft non-ethereal circlet - Prismatic	1			100					2	ci0,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-Craft ethereal circlet - Prismatic	1			100					2	ci0,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100																																																																			0
+Craft non-ethereal circlet - Blood	1			100	18	361	0		2	ci0,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft ethereal circlet - Blood	1			100	18	361	0		2	ci0,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft non-ethereal circlet - Caster	1			100	18	361	0		2	ci0,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft ethereal circlet - Caster	1			100	18	361	0		2	ci0,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft non-ethereal circlet - Safety	1			100	18	361	0		2	ci0,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft ethereal circlet - Safety	1			100	18	361	0		2	ci0,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft non-ethereal circlet - Hitpower	1			100	18	361	0		2	ci0,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft ethereal circlet - Hitpower	1			100	18	361	0		2	ci0,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft non-ethereal circlet - Vampiric	1			100	18	361	0		2	ci0,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft ethereal circlet - Vampiric	1			100	18	361	0		2	ci0,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft non-ethereal circlet - Bountiful	1			100	18	361	0		2	ci0,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft ethereal circlet - Bountiful	1			100	18	361	0		2	ci0,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft non-ethereal circlet - Prismatic	1			100	18	361	0		2	ci0,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft ethereal circlet - Prismatic	1			100	18	361	0		2	ci0,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted circlet - Blood	1			100	18	361	0		2	ci0,crf,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft crafted  circlet - Caster	1			100	18	361	0		2	ci0,crf,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft crafted  circlet - Safety	1			100	18	361	0		2	ci0,crf,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft crafted  circlet - Hitpower	1			100	18	361	0		2	ci0,crf,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft crafted  circlet - Vampiric	1			100	18	361	0		2	ci0,crf,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft crafted  circlet - Bountiful	1			100	18	361	0		2	ci0,crf,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft crafted circlet - Prismatic	1			100	18	361	0		2	ci0,crf,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft crafted circlet - Blood	1			100	18	361	0		2	ci0,crf,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft crafted  circlet - Caster	1			100	18	361	0		2	ci0,crf,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft crafted  circlet - Safety	1			100	18	361	0		2	ci0,crf,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft crafted  circlet - Hitpower	1			100	18	361	0		2	ci0,crf,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft crafted  circlet - Vampiric	1			100	18	361	0		2	ci0,crf,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft crafted  circlet - Bountiful	1			100	18	361	0		2	ci0,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted circlet - Prismatic	1			100	18	361	0		2	ci0,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
 																																																																																																								0
-Craft non-ethereal coronet - Blood	1			100					2	ci1,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Craft ethereal coronet - Blood	1			100					2	ci1,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100																																																																			0
-Craft non-ethereal coronet - Caster	1			100					2	ci1,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Craft ethereal coronet - Caster	1			100					2	ci1,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100																																																																			0
-Craft non-ethereal coronet - Safety	1			100					2	ci1,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Craft ethereal coronet - Safety	1			100					2	ci1,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100																																																																			0
-Craft non-ethereal coronet - Hitpower	1			100					2	ci1,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Craft ethereal coronet - Hitpower	1			100					2	ci1,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100																																																																			0
-Craft non-ethereal coronet - Vampiric	1			100					2	ci1,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Craft ethereal coronet - Vampiric	1			100					2	ci1,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100																																																																			0
-Craft non-ethereal coronet - Bountiful	1			100					2	ci1,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Craft ethereal coronet - Bountiful	1			100					2	ci1,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100																																																																			0
-Craft non-ethereal coronet - Prismatic	1			100					2	ci1,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-Craft ethereal coronet - Prismatic	1			100					2	ci1,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100																																																																			0
 																																																																																																								0
-Craft non-ethereal tiara - Blood	1			100					2	ci2,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Craft ethereal tiara - Blood	1			100					2	ci2,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100																																																																			0
-Craft non-ethereal tiara - Caster	1			100					2	ci2,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Craft ethereal tiara - Caster	1			100					2	ci2,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100																																																																			0
-Craft non-ethereal tiara - Safety	1			100					2	ci2,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Craft ethereal tiara - Safety	1			100					2	ci2,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100																																																																			0
-Craft non-ethereal tiara - Hitpower	1			100					2	ci2,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Craft ethereal tiara - Hitpower	1			100					2	ci2,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100																																																																			0
-Craft non-ethereal tiara - Vampiric	1			100					2	ci2,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Craft ethereal tiara - Vampiric	1			100					2	ci2,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100																																																																			0
-Craft non-ethereal tiara - Bountiful	1			100					2	ci2,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Craft ethereal tiara - Bountiful	1			100					2	ci2,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100																																																																			0
-Craft non-ethereal tiara - Prismatic	1			100					2	ci2,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-Craft ethereal tiara - Prismatic	1			100					2	ci2,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100																																																																			0
+Craft non-ethereal coronet - Blood	1			100	18	361	0		2	ci1,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft ethereal coronet - Blood	1			100	18	361	0		2	ci1,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft non-ethereal coronet - Caster	1			100	18	361	0		2	ci1,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft ethereal coronet - Caster	1			100	18	361	0		2	ci1,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft non-ethereal coronet - Safety	1			100	18	361	0		2	ci1,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft ethereal coronet - Safety	1			100	18	361	0		2	ci1,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft non-ethereal coronet - Hitpower	1			100	18	361	0		2	ci1,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft ethereal coronet - Hitpower	1			100	18	361	0		2	ci1,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft non-ethereal coronet - Vampiric	1			100	18	361	0		2	ci1,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft ethereal coronet - Vampiric	1			100	18	361	0		2	ci1,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft non-ethereal coronet - Bountiful	1			100	18	361	0		2	ci1,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft ethereal coronet - Bountiful	1			100	18	361	0		2	ci1,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft non-ethereal coronet - Prismatic	1			100	18	361	0		2	ci1,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft ethereal coronet - Prismatic	1			100	18	361	0		2	ci1,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted coronet - Blood	1			100	18	361	0		2	ci1,crf,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft crafted coronet - Caster	1			100	18	361	0		2	ci1,crf,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft crafted coronet - Safety	1			100	18	361	0		2	ci1,crf,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft crafted coronet - Hitpower	1			100	18	361	0		2	ci1,crf,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft crafted coronet - Vampiric	1			100	18	361	0		2	ci1,crf,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft crafted coronet - Bountiful	1			100	18	361	0		2	ci1,crf,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft crafted coronet - Prismatic	1			100	18	361	0		2	ci1,crf,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft crafted coronet - Blood	1			100	18	361	0		2	ci1,crf,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft crafted coronet - Caster	1			100	18	361	0		2	ci1,crf,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft crafted coronet - Safety	1			100	18	361	0		2	ci1,crf,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft crafted coronet - Hitpower	1			100	18	361	0		2	ci1,crf,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft crafted coronet - Vampiric	1			100	18	361	0		2	ci1,crf,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft crafted coronet - Bountiful	1			100	18	361	0		2	ci1,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted coronet - Prismatic	1			100	18	361	0		2	ci1,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
 																																																																																																								0
-Craft non-ethereal diadem - Blood	1			100					2	ci3,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
-Craft ethereal diadem - Blood	1			100					2	ci3,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100																																																																			0
-Craft non-ethereal diadem - Caster	1			100					2	ci3,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
-Craft ethereal diadem - Caster	1			100					2	ci3,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100																																																																			0
-Craft non-ethereal diadem - Safety	1			100					2	ci3,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
-Craft ethereal diadem - Safety	1			100					2	ci3,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100																																																																			0
-Craft non-ethereal diadem - Hitpower	1			100					2	ci3,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
-Craft ethereal diadem - Hitpower	1			100					2	ci3,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100																																																																			0
-Craft non-ethereal diadem - Vampiric	1			100					2	ci3,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
-Craft ethereal diadem - Vampiric	1			100					2	ci3,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100																																																																			0
-Craft non-ethereal diadem - Bountiful	1			100					2	ci3,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
-Craft ethereal diadem - Bountiful	1			100					2	ci3,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100																																																																			0
-Craft non-ethereal daidem - Prismatic	1			100					2	ci3,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
-Craft ethereal diadem - Prismatic	1			100					2	ci3,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100																																																																			0
+																																																																																																								0
+Craft non-ethereal tiara - Blood	1			100	18	361	0		2	ci2,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft ethereal tiara - Blood	1			100	18	361	0		2	ci2,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft non-ethereal tiara - Caster	1			100	18	361	0		2	ci2,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft ethereal tiara - Caster	1			100	18	361	0		2	ci2,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft non-ethereal tiara - Safety	1			100	18	361	0		2	ci2,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft ethereal tiara - Safety	1			100	18	361	0		2	ci2,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft non-ethereal tiara - Hitpower	1			100	18	361	0		2	ci2,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft ethereal tiara - Hitpower	1			100	18	361	0		2	ci2,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft non-ethereal tiara - Vampiric	1			100	18	361	0		2	ci2,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft ethereal tiara - Vampiric	1			100	18	361	0		2	ci2,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft non-ethereal tiara - Bountiful	1			100	18	361	0		2	ci2,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft ethereal tiara - Bountiful	1			100	18	361	0		2	ci2,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft non-ethereal tiara - Prismatic	1			100	18	361	0		2	ci2,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft ethereal tiara - Prismatic	1			100	18	361	0		2	ci2,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted tiara - Blood	1			100	18	361	0		2	ci2,crf,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft crafted tiara - Caster	1			100	18	361	0		2	ci2,crf,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft crafted tiara - Safety	1			100	18	361	0		2	ci2,crf,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft crafted tiara - Hitpower	1			100	18	361	0		2	ci2,crf,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft crafted tiara - Vampiric	1			100	18	361	0		2	ci2,crf,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft crafted tiara - Bountiful	1			100	18	361	0		2	ci2,crf,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft crafted tiara - Prismatic	1			100	18	361	0		2	ci2,crf,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft crafted tiara - Blood	1			100	18	361	0		2	ci2,crf,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft crafted tiara - Caster	1			100	18	361	0		2	ci2,crf,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft crafted tiara - Safety	1			100	18	361	0		2	ci2,crf,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft crafted tiara - Hitpower	1			100	18	361	0		2	ci2,crf,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft crafted tiara - Vampiric	1			100	18	361	0		2	ci2,crf,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft crafted tiara - Bountiful	1			100	18	361	0		2	ci2,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted tiara - Prismatic	1			100	18	361	0		2	ci2,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+																																																																																																								0
+																																																																																																								0
+Craft non-ethereal diadem - Blood	1			100	18	361	0		2	ci3,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft ethereal diadem - Blood	1			100	18	361	0		2	ci3,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft non-ethereal diadem - Caster	1			100	18	361	0		2	ci3,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft ethereal diadem - Caster	1			100	18	361	0		2	ci3,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft non-ethereal diadem - Safety	1			100	18	361	0		2	ci3,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft ethereal diadem - Safety	1			100	18	361	0		2	ci3,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft non-ethereal diadem - Hitpower	1			100	18	361	0		2	ci3,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft ethereal diadem - Hitpower	1			100	18	361	0		2	ci3,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft non-ethereal diadem - Vampiric	1			100	18	361	0		2	ci3,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft ethereal diadem - Vampiric	1			100	18	361	0		2	ci3,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft non-ethereal diadem - Bountiful	1			100	18	361	0		2	ci3,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft ethereal diadem - Bountiful	1			100	18	361	0		2	ci3,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft non-ethereal daidem - Prismatic	1			100	18	361	0		2	ci3,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft ethereal diadem - Prismatic	1			100	18	361	0		2	ci3,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted diadem - Blood	1			100	18	361	0		2	ci3,crf,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Craft crafted diadem - Caster	1			100	18	361	0		2	ci3,crf,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Craft crafted diadem - Safety	1			100	18	361	0		2	ci3,crf,noe	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Craft crafted diadem - Hitpower	1			100	18	361	0		2	ci3,crf,noe	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Craft crafted diadem - Vampiric	1			100	18	361	0		2	ci3,crf,noe	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Craft crafted diadem - Bountiful	1			100	18	361	0		2	ci3,crf,noe	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Craft crafted diadem - Prismatic	1			100	18	361	0		2	ci3,crf,noe	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+Craft crafted diadem - Blood	1			100	18	361	0		2	ci3,crf,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+Craft crafted diadem - Caster	1			100	18	361	0		2	ci3,crf,eth	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+Craft crafted diadem - Safety	1			100	18	361	0		2	ci3,crf,eth	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+Craft crafted diadem - Hitpower	1			100	18	361	0		2	ci3,crf,eth	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+Craft crafted diadem - Vampiric	1			100	18	361	0		2	ci3,crf,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+Craft crafted diadem - Bountiful	1			100	18	361	0		2	ci3,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+Craft crafted diadem - Prismatic	1			100	18	361	0		2	ci3,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+																																																																																																								0
 																																																																																																								0
 CHARSI'S Crafting BOX - PHASE 1 - ROLL																																																																																																								0
 Charsi's Crafting Box Roll	1	2		100	18	361	0		1	ccbx							useitem				corruptnum	100		0	506																																																																															0
@@ -2340,6 +2493,14 @@ Vampiric - rare	1			100					2	aqv,rar	crfv,qty=1						usetype,crf		50	50	manaste
 Bountiful - rare	1			100					2	aqv,rar	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
 Prismatic - rare	1			100					2	aqv,rar	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
 																																																																																																								0
+Blood - rare	1			100					2	aqv,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - rare	1			100					2	aqv,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - rare	1			100					2	aqv,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - rare	1			100					2	aqv,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - rare	1			100					2	aqv,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - rare	1			100					2	aqv,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - rare	1			100					2	aqv,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
 BOLTS CRAFTING																																																																																																								0
 																																																																																																								0
 Blood - magic	1			100					2	cqv,mag	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
@@ -2365,3 +2526,149 @@ Hitpower - normal	1			100					2	cqv,nor	crfh,qty=1						usetype,crf		50	50	gethi
 Vampiric - normal	1			100					2	cqv,nor	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
 Bountiful - normal	1			100					2	cqv,nor	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
 Prismatic - normal	1			100					2	cqv,nor	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+Blood - normal	1			100					2	cqv,crf	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+Caster - normal	1			100					2	cqv,crf	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+Safety - normal	1			100					2	cqv,crf	crfs,qty=1						usetype,crf		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+Hitpower - normal	1			100					2	cqv,crf	crfh,qty=1						usetype,crf		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+Vampiric - normal	1			100					2	cqv,crf	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+Bountiful - normal	1			100					2	cqv,crf	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+Prismatic - normal	1			100					2	cqv,crf	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+																																																																																																								0
+CRAFTED BASE - BLOOD CRAFT																																																																																																								0
+																																																																																																								0
+magic helm + blood craft ingredient -> blood helm	1			200	18	361	0		2	"helm,crf,noe"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
+magic helm + blood craft ingredient -> blood helm	1			200	18	361	0		2	"helm,crf,eth"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
+magic light plated boots + blood craft ingredient -> blood boots	1			100	18	361	0		2	"boot,crf,noe"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			2	4	hp			10	20	regen			15	30																																																																					0
+magic light plated boots + blood craft ingredient -> blood boots	1			100	18	361	0		2	"boot,crf,eth"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			2	4	hp			10	20	regen			15	30	ethereal	100		1	1																																																																0
+magic heavy gloves + blood craft ingredient -> blood gloves	1			100	18	361	0		2	"glov,crf,noe"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			2	4	hp			10	20	crush			5	10																																																																					0
+magic heavy gloves + blood craft ingredient -> blood gloves	1			100	18	361	0		2	"glov,crf,eth"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			2	4	hp			10	20	crush			5	10	ethereal	100		1	1																																																																0
+magic belt + blood craft ingredient -> blood belt	1			100	18	361	0		2	"belt,crf,noe"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			10	20	openwounds			10	20																																																																					0
+magic belt + blood craft ingredient -> blood belt	1			100	18	361	0		2	"belt,crf,eth"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			10	20	openwounds			10	20	ethereal	100		1	1																																																																0
+magic spiked shield + blood craft ingredient -> blood shield	1			100	18	361	0		2	"shld,crf,noe"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			10	20	block			10	20																																																																					0
+magic spiked shield + blood craft ingredient -> blood shield	1			100	18	361	0		2	"shld,crf,eth"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			10	20	block			10	20	ethereal	100		1	1																																																																0
+magic plate mail + blood craft ingredient -> blood body	1			100	18	361	0		2	"tors,crf,noe"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			20	40	heal-kill			3	6																																																																					0
+magic plate mail + blood craft ingredient -> blood body	1			100	18	361	0		2	"tors,crf,eth"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			20	40	heal-kill			3	6	ethereal	100		1	1																																																																0
+magic amulet + blood craft ingredient -> blood amulet	1			100	18	361	0		2	"amul,crf"	"crfb,qty=1"						"usetype,crf"		50	50	heal-kill			3	6	hp			10	20	move1			10	10																																																																					0
+magic ring + blood craft ingredient -> blood ring	1			100	18	361	0		2	"ring,crf"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	str			5	10																																																																					0
+magic axe + blood craft ingredient -> blood weapon	1			100	18	361	0		2	"weap,crf,noe"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			10	20	dmg%			50	80																																																																					0
+magic axe + blood craft ingredient -> blood weapon	1			100	18	361	0		2	"weap,crf,eth"	"crfb,qty=1"						"usetype,crf"		50	50	lifesteal			3	6	hp			10	20	dmg%			50	80	ethereal	100		1	1																																																																0
+																																																																																																								0
+CRAFTED BASE - CASTER CRAFT																																																																																																								0
+																																																																																																								0
+magic mask + caster craft ingredient -> caster helm	1			200	18	361	0		2	"helm,crf,noe"	"crfc,qty=1"						"usetype,crf"		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
+magic mask + caster craft ingredient -> caster helm	1			200	18	361	0		2	"helm,crf,eth"	"crfc,qty=1"						"usetype,crf"		50	50	cast2			5	10	mana			10	20	regen-mana			4	10	ethereal	100		1	1																																																																0
+magic boots + caster craft ingredient -> caster boots	1			100	18	361	0		2	"boot,crf,noe"	"crfc,qty=1"						"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			10	15																																																																					0
+magic boots + caster craft ingredient -> caster boots	1			100	18	361	0		2	"boot,crf,eth"	"crfc,qty=1"						"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			10	15	ethereal	100		1	1																																																																0
+magic leather gloves + caster craft ingredient -> caster gloves	1			100	18	361	0		2	"glov,crf,noe"	"crfc,qty=1"						"usetype,crf"		50	50	cast2			5	10	mana			10	20	mana-kill			1	3																																																																					0
+magic leather gloves + caster craft ingredient -> caster gloves	1			100	18	361	0		2	"glov,crf,eth"	"crfc,qty=1"						"usetype,crf"		50	50	cast2			5	10	mana			10	20	mana-kill			1	3	ethereal	100		1	1																																																																0
+magic light belt + caster craft ingredient -> caster belt	1			100	18	361	0		2	"belt,crf,noe"	"crfc,qty=1"						"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			10	10																																																																					0
+magic light belt + caster craft ingredient -> caster belt	1			100	18	361	0		2	"belt,crf,eth"	"crfc,qty=1"						"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			10	10	ethereal	100		1	1																																																																0
+magic small shield + caster craft ingredient -> caster shield	1			100	18	361	0		2	"shld,crf,noe"	"crfc,qty=1"						"usetype,crf"		50	50	cast1			5	10	mana			20	30	block			10	20																																																																					0
+magic small shield + caster craft ingredient -> caster shield	1			100	18	361	0		2	"shld,crf,eth"	"crfc,qty=1"						"usetype,crf"		50	50	cast1			5	10	mana			20	30	block			10	20	ethereal	100		1	1																																																																0
+magic light plate + caster craft ingredient -> caster body	1			100	18	361	0		2	"tors,crf,noe"	"crfc,qty=1"						"usetype,crf"		50	50	cast1			5	10	mana			20	30	mana-kill			3	6																																																																					0
+magic light plate + caster craft ingredient -> caster body	1			100	18	361	0		2	"tors,crf,eth"	"crfc,qty=1"						"usetype,crf"		50	50	cast1			5	10	mana			20	30	mana-kill			3	6	ethereal	100		1	1																																																																0
+magic amulet + caster craft ingredient -> caster amulet	1			100	18	361	0		2	"amul,crf"	"crfc,qty=1"						"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+magic ring + caster craft ingredient -> caster ring	1			100	18	361	0		2	"ring,crf"	"crfc,qty=1"						"usetype,crf"		50	50	mana-kill			1	2	mana			10	20	enr			5	10																																																																					0
+magic rod + caster craft ingredient -> caster weapon	1			100	18	361	0		2	"weap,crf,noe"	"crfc,qty=1"						"usetype,crf"		50	50	allskills			1	1	mana			10	20	cast1			10	20																																																																					0
+magic rod + caster craft ingredient -> caster weapon	1			100	18	361	0		2	"weap,crf,eth"	"crfc,qty=1"						"usetype,crf"		50	50	allskills			1	1	mana			10	20	cast1			10	20	ethereal	100		1	1																																																																0
+																																																																																																								0
+CRAFTED BASE - SAFETY CRAFT																																																																																																								0
+																																																																																																								0
+magic crown + safety craft ingredient -> safety helm	1			200	18	361	0		2	"helm,crf,noe"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60																																																																					0
+magic crown + safety craft ingredient -> safety helm	1			200	18	361	0		2	"helm,crf,eth"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg%			5	10	res-ltng			10	20	ac%			20	60	ethereal	100		1	1																																																																0
+magic plate boots + safety craft ingredient -> safety boots	1			100	18	361	0		2	"boot,crf,noe"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	res-fire			10	20	ac%			20	60																																																																0
+magic plate boots + safety craft ingredient -> safety boots	1			100	18	361	0		2	"boot,crf,eth"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	res-fire			10	20	ac%			20	60	ethereal	100		1	1																																																											0
+magic gauntlets + safety craft ingredient -> safety gloves	1			100	18	361	0		2	"glov,crf,noe"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	res-cold			10	20	ac%			20	60																																																																0
+magic gauntlets + safety craft ingredient -> safety gloves	1			100	18	361	0		2	"glov,crf,eth"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	res-cold			10	20	ac%			20	60	ethereal	100		1	1																																																											0
+magic sash + safety craft ingredient -> safety belt	1			100	18	361	0		2	"belt,crf,noe"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	res-pois			10	20	ac%			20	60																																																																0
+magic sash + safety craft ingredient -> safety belt	1			100	18	361	0		2	"belt,crf,eth"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	res-pois			10	20	ac%			20	60	ethereal	100		1	1																																																											0
+magic kite shield + safety craft ingredient -> safety shield	1			100	18	361	0		2	"shld,crf,noe"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg%			5	10	ac%			20	60	ac-hth			100	150																																																																					0
+magic kite shield + safety craft ingredient -> safety shield	1			100	18	361	0		2	"shld,crf,eth"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg%			5	10	ac%			20	60	ac-hth			100	150	ethereal	100		1	1																																																																0
+magic breastplate + safety craft ingredient -> safety body	1			100	18	361	0		2	"tors,crf,noe"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg%			5	10	ac-hth			100	150	ac%			20	60																																																																					0
+magic breastplate + safety craft ingredient -> safety body	1			100	18	361	0		2	"tors,crf,eth"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg%			5	10	ac-hth			100	150	ac%			20	60	ethereal	100		1	1																																																																0
+magic amulet + safety craft ingredient -> safety amulet	1			100	18	361	0		2	"amul,crf"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			4	7	red-mag			4	7	block			10	10																																																																					0
+magic ring + safety craft ingredient -> safety ring	1			100	18	361	0		2	"ring,crf"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	vit			5	10																																																																					0
+magic spear + safety craft ingredient -> safety weapon	1			100	18	361	0		2	"weap,crf,noe"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	dmg%			50	80	knock			1	1																																																																0
+magic spear + safety craft ingredient -> safety weapon	1			100	18	361	0		2	"weap,crf,eth"	"crfs,qty=1"						"usetype,crf"		50	50	red-dmg			2	5	red-mag			2	5	dmg%			50	80	knock			1	1	ethereal	100		1	1																																																											0
+																																																																																																								0
+CRAFTED BASE - HITPOWER CRAFT																																																																																																								0
+																																																																																																								0
+magic full helm + hitpower craft -> hitpower helm	1			200	18	361	0		2	"helm,crf,noe"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200																																																																					0
+magic full helm + hitpower craft -> hitpower helm	1			200	18	361	0		2	"helm,crf,eth"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	20	att			100	200	ethereal	100		1	1																																																																0
+magic chain boots + hitpower craft -> hitpower boots	1			100	18	361	0		2	"boot,crf,noe"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	20	ac-hth			60	120																																																																					0
+magic chain boots + hitpower craft -> hitpower boots	1			100	18	361	0		2	"boot,crf,eth"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	20	ac-hth			60	120	ethereal	100		1	1																																																																0
+magic chain gloves + hitpower craft -> hitpower gloves	1			100	18	361	0		2	"glov,crf,noe"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	reduce-ac			10	20	knock			1	1																																																																					0
+magic chain gloves + hitpower craft -> hitpower gloves	1			100	18	361	0		2	"glov,crf,eth"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	reduce-ac			10	20	knock			1	1	ethereal	100		1	1																																																																0
+magic heavy belt + hitpower craft -> hitpower belt	1			100	18	361	0		2	"belt,crf,noe"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	20	dmg-to-mana			5	10																																																																					0
+magic heavy belt + hitpower craft -> hitpower belt	1			100	18	361	0		2	"belt,crf,eth"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	balance1			10	20	dmg-to-mana			5	10	ethereal	100		1	1																																																																0
+magic gothic shield + hitpower craft -> hitpower shield	1			100	18	361	0		2	"shld,crf,noe"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	block2			20	30	block			10	20																																																																					0
+magic gothic shield + hitpower craft -> hitpower shield	1			100	18	361	0		2	"shld,crf,eth"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	block2			20	30	block			10	20	ethereal	100		1	1																																																																0
+magic field plate + hitpower craft -> hitpower body	1			100	18	361	0		2	"tors,crf,noe"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	ac%			25	50	balance1			30	40																																																																					0
+magic field plate + hitpower craft -> hitpower body	1			100	18	361	0		2	"tors,crf,eth"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	ac%			25	50	balance1			30	40	ethereal	100		1	1																																																																0
+magic amulet + hitpower craft -> hitpower amulet	1			100	18	361	0		2	"amul,crf"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	att			150	250	balance1			10	20																																																																					0
+magic ring + hitpower craft -> hitpower ring	1			100	18	361	0		2	"ring,crf"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	dmg-max			2	4	dex			5	10																																																																					0
+magic blunt + hitpower craft -> hitpower weapon	1			100	18	361	0		2	"weap,crf,noe"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	reduce-ac			10	20	dmg%			50	80																																																																					0
+magic blunt + hitpower craft -> hitpower weapon	1			100	18	361	0		2	"weap,crf,eth"	"crfh,qty=1"						"usetype,crf"		50	50	gethit-skill		44	5	4	reduce-ac			10	20	dmg%			50	80	ethereal	100		1	1																																																																0
+																																																																																																								0
+CRAFTED BASE - VAMPIRIC CRAFT																																																																																																								0
+																																																																																																								0
+magic helm + vampire craft ingredient -> vampiric helm	1			200	18	361	0		2	"helm,crf,noe"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			2	4	deadly			10	20	regen			5	10																																																																					0
+magic helm + vampire craft ingredient -> vampiric helm	1			200	18	361	0		2	"helm,crf,eth"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
+magic light plated boots + vampire craft ingredient -> vampiric boots	1			100	18	361	0		2	"boot,crf,noe"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			2	4	res-pois-len			10	20	regen			5	10																																																																					0
+magic light plated boots + vampire craft ingredient -> vampiric boots	1			100	18	361	0		2	"boot,crf,eth"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			2	4	res-pois-len			10	20	regen			5	10	ethereal	100		1	1																																																																0
+magic heavy gloves + vampire craft ingredient -> vampiric gloves	1			100	18	361	0		2	"glov,crf,noe"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			2	4	deadly			5	10	regen			5	10																																																																					0
+magic heavy gloves + vampire craft ingredient -> vampiric gloves	1			100	18	361	0		2	"glov,crf,eth"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			2	4	deadly			5	10	regen			5	10	ethereal	100		1	1																																																																0
+magic belt + vampire craft ingredient -> vampiric belt	1			100	18	361	0		2	"belt,crf,noe"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	res-pois-len			10	20	regen			5	10																																																																					0
+magic belt + vampire craft ingredient -> vampiric belt	1			100	18	361	0		2	"belt,crf,eth"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	res-pois-len			10	20	regen			5	10	ethereal	100		1	1																																																																0
+magic spiked shield + vampire craft ingredient -> vampiric shield	1			100	18	361	0		2	"shld,crf,noe"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	res-pois-len			20	30	block			10	20																																																																					0
+magic spiked shield + vampire craft ingredient -> vampiric shield	1			100	18	361	0		2	"shld,crf,eth"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	res-pois-len			20	30	block			10	20	ethereal	100		1	1																																																																0
+magic plate mail + vampire craft ingredient -> vampiric body	1			100	18	361	0		2	"tors,crf,noe"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	res-pois-len			20	30	ac%			25	50																																																																					0
+magic plate mail + vampire craft ingredient -> vampiric body	1			100	18	361	0		2	"tors,crf,eth"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	res-pois-len			20	30	ac%			25	50	ethereal	100		1	1																																																																0
+magic amulet + vampire craft ingredient -> vampiric amulet	1			100	18	361	0		2	"amul,crf"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	curse-res			10	20	regen			5	10																																																																					0
+magic ring + vampire craft ingredient  -> vampiric ring	1			100	18	361	0		2	"ring,crf"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			1	3	res-pois-len			10	20	regen			5	10																																																																					0
+magic axe + vampire craft ingredient -> vampiric weapon	1			100	18	361	0		2	"weap,crf,noe"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	regen			5	10	dmg-undead			100	140	dmg-demon			100	140																																																																0
+magic axe + vampire craft ingredient -> vampiric weapon	1			100	18	361	0		2	"weap,crf,eth"	"crfv,qty=1"						"usetype,crf"		50	50	manasteal			3	6	regen			5	10	dmg-undead			100	140	dmg-demon			100	140	ethereal	100		1	1																																																											0
+																																																																																																								0
+CRAFTED BASE - BOUNTIFUL CRAFT																																																																																																								0
+																																																																																																								0
+magic full helm + bountiful craft ingredient -> bountiful helm	1			200	18	361	0		2	"helm,crf,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+magic full helm + bountiful craft ingredient -> bountiful helm	1			200	18	361	0		2	"helm,crf,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+magic chain boots + bountiful craft ingredient -> bountiful boots	1			100	18	361	0		2	"boot,crf,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			15	25	light			1	3	ac%			25	50																																																																					0
+magic chain boots + bountiful craft ingredient -> bountiful boots	1			100	18	361	0		2	"boot,crf,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			15	25	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+magic chain gloves + bountiful craft ingredient -> bountiful gloves	1			100	18	361	0		2	"glov,crf,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			15	25	light			1	3	ac%			25	50																																																																					0
+magic chain gloves + bountiful craft ingredient -> bountiful gloves	1			100	18	361	0		2	"glov,crf,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			15	25	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+magic heavy belt + bountiful craft ingredient -> bountiful belt	1			100	18	361	0		2	"belt,crf,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+magic heavy belt + bountiful craft ingredient -> bountiful belt	1			100	18	361	0		2	"belt,crf,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+magic gothic shield + bountiful craft ingredient  -> bountiful shield	1			100	18	361	0		2	"shld,crf,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	block			10	20																																																																					0
+magic gothic shield + bountiful craft ingredient -> bountiful shield	1			100	18	361	0		2	"shld,crf,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	block			10	20	ethereal	100		1	1																																																																0
+magic field plate + bountiful craft ingredient -> bountiful body	1			100	18	361	0		2	"tors,crf,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	ac%			25	50																																																																					0
+magic field plate + bountiful craft ingredient -> bountiful body	1			100	18	361	0		2	"tors,crf,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
+magic amulet + bountiful craft ingredient -> bountiful amulet	1			100	18	361	0		2	"amul,crf"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	vit			10	20																																																																					0
+magic ring + bountiful craft ingredient -> bountiful ring	1			100	18	361	0		2	"ring,crf"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			10	20	light			1	3	vit			5	10																																																																					0
+magic blunt + bountiful craft ingredient -> bountiful weapon	1			100	18	361	0		2	"weap,crf,noe"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	allskills			1	1																																																																					0
+magic blunt + bountiful craft ingredient -> bountiful weapon	1			100	18	361	0		2	"weap,crf,eth"	"crfu,qty=1"						"usetype,crf"		50	50	mag%			20	30	light			1	3	allskills			1	1	ethereal	100		1	1																																																																0
+																																																																																																								0
+CRAFTED BASE - BRILLIANT CRAFT																																																																																																								0
+																																																																																																								0
+magic full helm + brilliant craft ingredient -> brilliant helm	1			200	18	361	0		2	"helm,crf,noe"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+magic full helm + brilliant craft ingredient -> brilliant helm	1			200	18	361	0		2	"helm,crf,eth"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+magic chain boots + brilliant craft ingredient -> brilliant boots	1			100	18	361	0		2	"boot,crf,noe"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	move2			5	10	ac-miss			100	150																																																																					0
+magic chain boots + brilliant craft ingredient -> brilliant boots	1			100	18	361	0		2	"boot,crf,eth"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	move2			5	10	ac-miss			100	150	ethereal	100		1	1																																																																0
+magic chain gloves + brilliant craft ingredient -> brilliant gloves	1			100	18	361	0		2	"glov,crf,noe"	"crfp,qty=1"						"usetype,crf"		50	50	swing2			5	10	att%			10	20	ac%			25	50																																																																					0
+magic chain gloves + brilliant craft ingredient -> brilliant gloves	1			100	18	361	0		2	"glov,crf,eth"	"crfp,qty=1"						"usetype,crf"		50	50	swing2			5	10	att%			10	20	ac%			25	50	ethereal	100		1	1																																																																0
+magic heavy belt + brilliant craft ingredient -> brilliant belt	1			100	18	361	0		2	"belt,crf,noe"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50																																																																					0
+magic heavy belt + brilliant craft ingredient -> brilliant belt	1			100	18	361	0		2	"belt,crf,eth"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+magic gothic shield + brilliant craft ingredient -> brilliant shield	1			100	18	361	0		2	"shld,crf,noe"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	res-all			5	10	block			10	20																																																																					0
+magic gothic shield + brilliant craft ingredient -> brilliant shield	1			100	18	361	0		2	"shld,crf,eth"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	res-all			5	10	block			10	20	ethereal	100		1	1																																																																0
+magic field plate + brilliant craft ingredient -> brilliant body	1			100	18	361	0		2	"tors,crf,noe"	"crfp,qty=1"						"usetype,crf"		50	50	block			10	20	res-all			5	10	ac%			25	50																																																																					0
+magic field plate + brilliant craft ingredient -> brilliant body	1			100	18	361	0		2	"tors,crf,eth"	"crfp,qty=1"						"usetype,crf"		50	50	block			10	20	res-all			5	10	ac%			25	50	ethereal	100		1	1																																																																0
+magic amulet + brilliant craft ingredient -> brilliant amulet	1			100	18	361	0		2	"amul,crf"	"crfp,qty=1"						"usetype,crf"		50	50	all-stats			4	8	res-all			5	10	ac-miss			100	150																																																																					0
+magic ring + brilliant craft ingredient -> brilliant ring	1			100	18	361	0		2	"ring,crf"	"crfp,qty=1"						"usetype,crf"		50	50	half-freeze			1	1	res-all			3	5	ac-miss			50	100																																																																					0
+magic blunt + brilliant craft ingredient -> brilliant weapon	1			100	18	361	0		2	"weap,crf,noe"	"crfp,qty=1"						"usetype,crf"		50	50	dmg%			20	40	swing2			20	20	att			50	100																																																																					0
+magic blunt + brilliant craft ingredient -> brilliant weapon	1			100	18	361	0		2	"weap,crf,eth"	"crfp,qty=1"						"usetype,crf"		50	50	dmg%			20	40	swing2			20	20	att			50	100	ethereal	100		1	1																																																																0
+																																																																																																								0
+PANDEMONIUM KEYS - SP+																																																																																																								0
+Pandemonium key - PD2	1		2	100	28	1			1	"pk1,qty=1"							useitem																																																																																							0
+Pandemonium key - PD2	1		2	100	28	1			1	"pk2,qty=1"							useitem																																																																																							0
+Pandemonium key - PD2	1		2	100	28	1			1	"pk3,qty=1"							useitem																																																																																							0

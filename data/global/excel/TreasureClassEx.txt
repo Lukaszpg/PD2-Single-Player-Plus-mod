@@ -1,10 +1,10 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	SumItems	TotalProb	DropChance	Term
-Gold			1						gld	1																						0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Treasure Fallen Craft H			1					0	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1	crfp	1										
-New orbs			1						mfo	1	exo	1																				0
+New orbs			1					0	mfo	1	exo	1																				0
+New orbs T1 T2			1					0	mfo	2	divo	1																				
+New orbs T3			1					1	divo	1																						0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2										0
 Flawless Gem			1						gzvs	3	glys	3	glbs	3	glgs	3	glrs	3	glws	3	skls	2										0
 Perfect Gem			1						gpvs	3	gpys	3	gpbs	3	gpgs	3	gprs	3	gpws	3	skzs	2										0
@@ -234,14 +234,14 @@ Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem
 Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	wss	2	Runes 10	14												0
 Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	wss	2	Runes 11	14												0
 Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	2	Normal Gem	14	Flawless Gem	28	wss	2	Runes 12 equiv	14												0
-Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	wss	4	Map Tier 1	4	New orbs	5	gcbx	6	ccbx	7				0
-Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T1 Map Drop	8	New orbs	5	gcbx	6	ccbx	7				0
-Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T2 Map Drop	8	New orbs	5	gcbx	6	ccbx	7				0
-Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T3 Map Drop	8	New orbs	5	gcbx	6	ccbx	7				0
+Act 1 (H) Good	29	66	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 13 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
+Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 14 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
+Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
+Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
+Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
+Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T1 Map Drop	8	New orbs T1 T2	5	gcbx	6	ccbx	7				0
+Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T2 Map Drop	8	New orbs T1 T2	5	gcbx	6	ccbx	7				0
+Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T3 Map Drop	8	New orbs T3	5	gcbx	6	ccbx	7				0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
 Act 1 Chest C	6	9	4					145	gld	272	Act 1 Junk	218	Act 2 Junk	54	Act 1 Equip C	272	Act 1 Good	36														0
@@ -947,8 +947,8 @@ BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
-UberAncients		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60								0
-ShadowOfMendeln		90	6	950	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	scrb	40										0
+UberAncients		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	15						0
+ShadowOfMendeln		90	6	950	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	scrb	40	rtmv	5								0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
 Act 1 (H) Weap C	1	71	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	6	armo66	3	Act 1 (H) Weap A	1785			28	1813	0.977	0
@@ -994,13 +994,13 @@ Treasure Fallen Rune NM			2					12	Runes 10	2																						0
 Treasure Fallen Craft NM			2					16	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1												0
 Treasure Fallen N			3					12	Treasure Fallen Gem N	1	Treasure Fallen Rune N	1	Treasure Fallen Craft N	1	"gld,mul=2048"	2																0
 Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1	Treasure Fallen Craft NM	1	"gld,mul=3072"	2																0
-Treasure Fallen H			3						Treasure Fallen Gem H	1	Treasure Fallen Rune H	1	Treasure Fallen Craft H	1	Treasure Fallen Map	1	"gld,mul=4096"	1														0
+Treasure Fallen H			3						Treasure Fallen Gem H	4	Treasure Fallen Rune H	4	ccbx	4	Treasure Fallen Map	4	divo	1														0
 Larzuk Puzzlebox N				0																												0
 Larzuk Puzzlebox NM				4500	10																											0
-Larzuk Puzzlebox H				1200	10																											0
+Larzuk Puzzlebox H				400	10																											0
 Larzuk Puzzlepiece N				4050	10																											0
 Larzuk Puzzlepiece NM				2025	10																											0
-Larzuk Puzzlepiece H				600	10																											0
+Larzuk Puzzlepiece H				200	10																											0
 SkeletonKey N				15000	100																											
 SkeletonKey NM				7500	100																											
 SkeletonKey H				5000	100																											
@@ -1012,30 +1012,30 @@ Horadric TP Book NM				7500	100
 Horadric TP Book H				5000	100																											
 Lillith Mirror N				75000	100																											
 Lillith Mirror NM				37500	100																											
-Lillith Mirror H				10000	100																											
+Lillith Mirror H				5000	100																											
 Vial of Lightsong N				22500	100																											
 Vial of Lightsong NM				11250	100																											
-Vial of Lightsong H				1000	100																											
-Corrupted Zone				50																												
+Vial of Lightsong H				500	100																											
+Corrupted Zone				25																												
 Unique Map Monsters				750	10																											
 Unique Map MapBoss				600																												
 Rathma Jawbone N				0	100																											
 Rathma Jawbone NM				0	10																											
-Rathma Jawbone H				2250	1																											
-UberAncients T1				1000																												
-UberAncients T2				1000																												
-UberAncients T3				1000																												
+Rathma Jawbone H				1000	1																											
+UberAncients T1				750																												
+UberAncients T2				750																												
+UberAncients T3				750																												
 lucbN				0	10																											
 lucbNM				0																												
-lucbH				500																												
-lucc				1000																												
+lucbH				250	1																											
+lucc				500	1																											
 lucdN				0	100																											
 lucdNM				0	10																											
-lucdH				2600	1																											
-T4MidMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60								0
-T4FinalMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60								0
+lucdH				1000	1																											
+T4MidMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30						0
+T4FinalMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30						0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	60																0
+LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	60	divo	30														0
 Demonic Cube N				20000	100																											
 Demonic Cube NM				10000	100																											
 Demonic Cube H				2000	1																											
