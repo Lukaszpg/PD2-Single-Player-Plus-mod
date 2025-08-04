@@ -13,6 +13,9 @@ Newest version patch notes: https://docs.google.com/document/d/1Is82t_dQHEu6muBX
 
 * Skeleton Key is consumed if used for downgrading the runes recipe - no known bugfix as of now
 * Eternal Coin does not have a name in the inventory
+* After an update from 11.0.X to 11.1.0, due to workaround (related to a bug in vanilla PD2) applied to unique items, all unique rings and amulets will be named “An Evil Force” - it’s only a name bug and the item works normally
+* Due to the above, Cain’s Wisdom will be named An Evil Force and will have a level requirement of 255 - please make a new one. Sorry for the inconvenience!
+* Due to a bug in vanilla PD2 Season 11 when it comes to unique item generation via Cube, the Nokozan Relic will have Amulet of the Viper sprite
 
 ## About this mod
 
