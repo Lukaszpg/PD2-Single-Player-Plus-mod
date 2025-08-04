@@ -1,10 +1,10 @@
 Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	SumItems	TotalProb	DropChance	Term
+Gold			1						gld	1																						0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
+New orbs T1T2			1					0	mfo	2	divo	1																				
 New orbs			1					0	mfo	1	exo	1																				0
-New orbs T1 T2			1					0	mfo	2	divo	1																				
-New orbs T3			1					1	divo	1																						0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2										0
 Flawless Gem			1						gzvs	3	glys	3	glbs	3	glgs	3	glrs	3	glws	3	skls	2										0
 Perfect Gem			1						gpvs	3	gpys	3	gpbs	3	gpgs	3	gprs	3	gpws	3	skzs	2										0
@@ -24,8 +24,8 @@ Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Runes 1 unstack			1						r01	3	r02	2																				0
-Runes 2 unstack			1						r03	3	r04	2	Runes 1 unstack	2																		0
+New orbs T3			1					1	divo	1																						0
+Runes 2 unstack			1						r03	3	r04	2																				0
 Runes 3 unstack			1						r05	3	r06	2	Runes 2 unstack	5																		0
 Runes 4 unstack			1						r07	3	r08	2	Runes 3 unstack	7																		0
 Runes 1			1						r01s	3	r02s	2																				0
@@ -239,8 +239,8 @@ Act 2 (H) Good	29	72	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect 
 Act 3 (H) Good	29	78	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 15 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
 Act 4 (H) Good	29	82	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 16 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
 Act 5 (H) Good	29	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	50	Perfect Gem	6	Runes 17 equiv	28	wss	4	Map Tier 1	4	New orbs	6	gcbx	6	ccbx	7				0
-Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T1 Map Drop	8	New orbs T1 T2	5	gcbx	6	ccbx	7				0
-Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T2 Map Drop	8	New orbs T1 T2	5	gcbx	6	ccbx	7				0
+Map Good t1	20	85	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T1 Map Drop	8	New orbs T1T2	5	gcbx	6	ccbx	7				0
+Map Good t2	20	86	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T2 Map Drop	8	New orbs T1T2	5	gcbx	6	ccbx	7				0
 Map Good t3	20	87	1						Jewelry C	120	Normal Gem	28	Flawless Gem	48	Perfect Gem	6	Runes 17 equiv	28	wss	4	T3 Map Drop	8	New orbs T3	5	gcbx	6	ccbx	7				0
 Act 1 Chest A	6	0	4					173	gld	295	Act 1 Junk	295	Act 1 Equip A	196	Act 1 Good	39																0
 Act 1 Chest B	6	5	4					173	gld	295	Act 1 Junk	295	Act 1 Equip B	196	Act 1 Good	39																0
@@ -994,22 +994,22 @@ Treasure Fallen Rune NM			2					12	Runes 10	2																						0
 Treasure Fallen Craft NM			2					16	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1												0
 Treasure Fallen N			3					12	Treasure Fallen Gem N	1	Treasure Fallen Rune N	1	Treasure Fallen Craft N	1	"gld,mul=2048"	2																0
 Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1	Treasure Fallen Craft NM	1	"gld,mul=3072"	2																0
-Treasure Fallen H			3						Treasure Fallen Gem H	4	Treasure Fallen Rune H	4	ccbx	4	Treasure Fallen Map	4	divo	1														0
+Treasure Fallen H			3						Treasure Fallen Gem H	2	Treasure Fallen Rune H	2	ccbx	3	Treasure Fallen Map	2	"gld,mul=4096"	2	divo	1												0
 Larzuk Puzzlebox N				0																												0
 Larzuk Puzzlebox NM				4500	10																											0
-Larzuk Puzzlebox H				400	10																											0
+Larzuk Puzzlebox H				200	10																											0
 Larzuk Puzzlepiece N				4050	10																											0
 Larzuk Puzzlepiece NM				2025	10																											0
-Larzuk Puzzlepiece H				200	10																											0
+Larzuk Puzzlepiece H				100	10																											0
 SkeletonKey N				15000	100																											
 SkeletonKey NM				7500	100																											
-SkeletonKey H				5000	100																											
+SkeletonKey H				1000	100																											
 Horadric ID Book N				15000	100																											
 Horadric ID Book NM				7500	100																											
-Horadric ID Book H				5000	100																											
+Horadric ID Book H				1000	100																											
 Horadric TP Book N				15000	100																											
 Horadric TP Book NM				7500	100																											
-Horadric TP Book H				5000	100																											
+Horadric TP Book H				1000	100																											
 Lillith Mirror N				75000	100																											
 Lillith Mirror NM				37500	100																											
 Lillith Mirror H				5000	100																											
@@ -1027,8 +1027,8 @@ UberAncients T2				750
 UberAncients T3				750																												
 lucbN				0	10																											
 lucbNM				0																												
-lucbH				250	1																											
-lucc				500	1																											
+lucbH				250																												
+lucc				500																												
 lucdN				0	100																											
 lucdNM				0	10																											
 lucdH				1000	1																											
@@ -1038,4 +1038,4 @@ LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100
 LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	60	divo	30														0
 Demonic Cube N				20000	100																											
 Demonic Cube NM				10000	100																											
-Demonic Cube H				2000	1																											
+Demonic Cube H				1000	1																											
