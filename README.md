@@ -3,11 +3,11 @@
 
 Discord: https://discord.gg/CwN2s6AHSZ
 
-Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.0.5
+Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.1.0
 
 Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1p4opLyZtoSoUQ6mlN4uGxIlOpMsdoVrJzqN9OXe0vWk/edit?tab=t.0
 
-Newest version patch notes: https://docs.google.com/document/d/1Is82t_dQHEu6muBXQxbL-puAUrEqyHXSCz7AmI-_SCc/edit?usp=sharing
+Newest version patch notes: https://docs.google.com/document/d/185Jd-1Ovl1dBKqADshfThfQyT3NkgnERUQHY2R6S6uU/edit?tab=t.0
 
 ## Known bugs
 
@@ -63,6 +63,7 @@ b) Without PlugY:
 Below item codes are assigned to new items that this mod introduced.
 
 * Mythic orb - mfo
+* Divine orb - divo
 * Exalted orb - exo
 * Gheed's Curious Box - gcbx
 * Charsi's Crafting Box - ccbx
@@ -80,10 +81,21 @@ All runes can be in stacked or non-stacked form.
 
 ### Mythic Orb
 
-* Normal/superior/magic/rare non-corrupted base item + Mythic Orb = Unique Item on that item base
-* Magic/rare non-corrupted amulet/ring + Mythic Orb = Unique Jewellery Item
-* 15 jewel fragments + Mythic Orb = Rainbow Facet
+* Base/Exceptional Normal/superior/magic/rare non-corrupted base item + Mythic Orb = Unique Item on that item base
+* Magic/rare amulet + Mythic Orb = random amulet from set of Nokozan Relic/The Cat's Eye/The Mahim Oak Curio/Saracen's Chance/Crescent Moon/The Eye of Etlich/Atma's Scarab
+* Magic/rare ring + Mythic Orb = random ring from set of Nagelring/Manald Heal/Raven Frost/Dwarf Star/Carrion Wind
 * Magic Grand Charm + Mythic Orb = Gheed's Fortune unique charm
+
+Ring/Amulets have to be cubed TWICE for final outcome.
+
+### Divine Orb
+
+* Elite Normal/superior/magic/rare non-corrupted base item + Divine Orb = Unique Item on that item base
+* Magic/rare amulet + Divine Orb = random amulet from set of Metalgrid/Highlord's Wrath/Mara's Caleidoscope/Seraph's Hymn/The Rising Sun
+* Magic/rare ring + Divine Orb = random ring from set of The Stone of Jordan/Bul Katho's Wedding Band/Nature's Peace/Constricting Loop/Wisp Projector
+* 15 jewel fragments + Divine Orb = random Rainbow Facet
+
+Ring/Amulets have to be cubed TWICE for final outcome.
 
 ### Exalted Orb
 
@@ -99,12 +111,10 @@ All runes can be in stacked or non-stacked form.
 ### Exchange
 
 * 2x Larzuk's Puzzle Piece + Eternal Coin = Larzuk's Puzzle Box
-* 3x  Exalted Orb + Coin = 1x Mythic Orb - can be used with 3,6,9...48 Exalted Orbs to exchange to more Mythic Orbs. Requires 1,2,3...16 Eternal Coins, depending on the number of Exalted Orbs used
 
 ### Unique & Set Ring & Amulet type re-roll
 
-* Unique Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet (eg. Nagelring to Stone of Jordan)
-* Set Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Ring/Amulet
+* Set Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Set Ring/Amulet
 * Rainbow Facet + Demonic Cube + Eternal Coin = Re-rolled type of Rainbow Facet (eg. Fire to Lightning)
 
 ### Lilith's Mirror
@@ -120,10 +130,14 @@ All runes can be in stacked or non-stacked form.
 
 * Cube it **TWICE** to receive random 5 crafting infusions (13.2% chance) or 5 catalyst shards (7.6% chance)
 
-### Additional usage for crafting infusions
+### Crafting infusions changes
 
 * Normal/magic/rare circlet, coronet, diadem and tiara are craftable with crafting infusions
+* Arrows and bolts are craftable with crafting infusions
+* Already crafted bases can be used to craft again with infusions
 
-###
+### Larzuk's Puzzle Piece & Box Socketing changes
+
+* Larzuk's Puzzle Piece and Box can be used ro re-roll the number of sockets on an item, destroying the contents of the sockets
 
 
