@@ -112,7 +112,7 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 
 * 2x Larzuk's Puzzle Piece + Eternal Coin = Larzuk's Puzzle Box
 
-### Unique & Set Ring & Amulet type re-roll
+### New Demonic Cube recipes
 
 * Set Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Set Ring/Amulet
 * Rainbow Facet + Demonic Cube + Eternal Coin = Re-rolled type of Rainbow Facet (eg. Fire to Lightning)
