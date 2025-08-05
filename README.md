@@ -139,7 +139,7 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 
 ### Removing socket contents
 
-* You can now remove any item socket contents while preserving said content using Larzuk's Mallus
+* You can now remove any item socket contents while preserving said content using Larzuk's Mallus (item sold by Larzuk in any act for 250k gold)
 * Larzuk’s Malus + Socketed Item = Used item with socket contents removed (preserves the contents) 
 
 
