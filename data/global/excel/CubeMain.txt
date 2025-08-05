@@ -2088,135 +2088,130 @@ Lillith's Mirror bolts (craft)	1			100					2	"cqv,crf"	llmr						useitem	99		100
 																																																																																																								0
 MYTHIC ORB																																																																																																								0
 																																																																																																								0
-Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,bas	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,exc	"mfo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,bas	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,exc	"mfo,qty=1"						usetype,uni,noe	99			dye	100		2	2																																																																															0
 Gheed's Fortune	1			100					2	"mfo,qty=1"	cm3,mag						cm3,uni	99																																																																																						0
 																																																																																																								0
 MYTHIC ORB RINGS ROLLING																																																																																																								0
-Due to a bug in Season 11 vanilla PD2, the output ring names don't match the names of the final item - but trust me, it works just fine.																																																																																																								0
 																																																																																																								0
 MYTHIC ORB RINGS ROLLING - PHASE 1																																																																																																								0
-Mythic Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	mfo,qty=1						useitem	99			corruptnum	100		6000	6004																																																																															0
-Mythic Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	mfo,qty=1						useitem	99			corruptnum	100		6000	6004																																																																															0
+Mythic Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	mfo,qty=1						useitem	99			corruptnum	100		6000	6004																					mfo,qty=1																																																										0
+Mythic Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	mfo,qty=1						useitem	99			corruptnum	100		6000	6004																					mfo,qty=1																																																										0
 																																																																																																								0
 MYTHIC ORB RINGS OUTCOME - PHASE 2																																																																																																								0
-Nagelring	1			100	16	361	6000		2	ring,mag	mfo,qty=1						Dummy Ring	99																																																																																						0
-Manald Heal	1			100	16	361	6001		2	ring,mag	mfo,qty=1						Nagelring	99																																																																																						0
-Raven Frost	1			100	16	361	6002		2	ring,mag	mfo,qty=1						Dwarf Star	99																																																																																						0
-Dwarf Star	1			100	16	361	6003		2	ring,mag	mfo,qty=1						Bul Katho's Wedding Band	99																																																																																						0
-Carrion Wind	1			100	16	361	6004		2	ring,mag	mfo,qty=1						Nature's Peace	99																																																																																						0
-Nagelring	1			100	16	361	6000		2	ring,rar	mfo,qty=1						Dummy Ring	99																																																																																						0
-Manald Heal	1			100	16	361	6001		2	ring,rar	mfo,qty=1						Nagelring	99																																																																																						0
-Raven Frost	1			100	16	361	6002		2	ring,rar	mfo,qty=1						Dwarf Star	99																																																																																						0
-Dwarf Star	1			100	16	361	6003		2	ring,rar	mfo,qty=1						Bul Katho's Wedding Band	99																																																																																						0
-Carrion Wind	1			100	16	361	6004		2	ring,rar	mfo,qty=1						Nature's Peace	99																																																																																						0
+Nagelring	1			100	16	361	6000		2	ring,mag	mfo,qty=1						Nagelring	99																																																																																						0
+Manald Heal	1			100	16	361	6001		2	ring,mag	mfo,qty=1						Manald Heal	99																																																																																						0
+Raven Frost	1			100	16	361	6002		2	ring,mag	mfo,qty=1						Raven Frost	99																																																																																						0
+Dwarf Star	1			100	16	361	6003		2	ring,mag	mfo,qty=1						Dwarf Star	99																																																																																						0
+Carrion Wind	1			100	16	361	6004		2	ring,mag	mfo,qty=1						Carrion Wind	99																																																																																						0
+Nagelring	1			100	16	361	6000		2	ring,rar	mfo,qty=1						Nagelring	99																																																																																						0
+Manald Heal	1			100	16	361	6001		2	ring,rar	mfo,qty=1						Manald Heal	99																																																																																						0
+Raven Frost	1			100	16	361	6002		2	ring,rar	mfo,qty=1						Raven Frost	99																																																																																						0
+Dwarf Star	1			100	16	361	6003		2	ring,rar	mfo,qty=1						Dwarf Star	99																																																																																						0
+Carrion Wind	1			100	16	361	6004		2	ring,rar	mfo,qty=1						Carrion Wind	99																																																																																						0
 																																																																																																								0
 MYTHIC ORB AMULETS ROLLING																																																																																																								0
 																																																																																																								0
 MYTHIC ORB AMULET ROLLING - PHASE 1																																																																																																								0
-Mythic Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	mfo,qty=1						useitem	99			corruptnum	100		6000	6006																																																																															0
-Mythic Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	mfo,qty=1						useitem	99			corruptnum	100		6000	6006																																																																															0
+Mythic Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	mfo,qty=1						useitem	99			corruptnum	100		6000	6006																					mfo,qty=1																																																										0
+Mythic Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	mfo,qty=1						useitem	99			corruptnum	100		6000	6006																					mfo,qty=1																																																										0
 																																																																																																								0
 MYTHIC ORB AMULETS OUTCOME - PHASE 2																																																																																																								0
-Nokozan Relic	1			100	16	361	6000		2	amu,mag	mfo,qty=1						Amulet of the Viper	99																																																																																						0
-The Cat's Eye	1			100	16	361	6001		2	amu,mag	mfo,qty=1						Metalgrid	99																																																																																						0
-The Mahim Oak Curio	1			100	16	361	6002		2	amu,mag	mfo,qty=1						The Eye of Etlich	99																																																																																						0
-Saracen's Chance	1			100	16	361	6003		2	amu,mag	mfo,qty=1						Highlord's Wrath	99																																																																																						0
-Crescent Moon	1			100	16	361	6004		2	amu,mag	mfo,qty=1						The Rising Sun	99																																																																																						0
-Thy Eye of Etlich	1			100	16	361	6005		2	amu,mag	mfo,qty=1						Nokozan Relic	99																																																																																						0
-Atma's Scarab	1			100	16	361	6006		2	amu,mag	mfo,qty=1						Mara's Kaleidoscope	99																																																																																						0
-Nokozan Relic	1			100	16	361	6000		2	amu,rar	mfo,qty=1						Amulet of the Viper	99																																																																																						0
-The Cat's Eye	1			100	16	361	6001		2	amu,rar	mfo,qty=1						Metalgrid	99																																																																																						0
-The Mahim Oak Curio	1			100	16	361	6002		2	amu,rar	mfo,qty=1						The Eye of Etlich	99																																																																																						0
-Saracen's Chance	1			100	16	361	6003		2	amu,rar	mfo,qty=1						Highlord's Wrath	99																																																																																						0
-Crescent Moon	1			100	16	361	6004		2	amu,rar	mfo,qty=1						The Rising Sun	99																																																																																						0
-Thy Eye of Etlich	1			100	16	361	6005		2	amu,rar	mfo,qty=1						Nokozan Relic	99																																																																																						0
-Atma's Scarab	1			100	16	361	6006		2	amu,rar	mfo,qty=1						Mara's Kaleidoscope	99																																																																																						0
-																																																																																																								0
+Nokozan Relic	1			100	16	361	6000		2	amu,mag	mfo,qty=1						Nokozan Relic	99																																																																																						0
+The Cat's Eye	1			100	16	361	6001		2	amu,mag	mfo,qty=1						The Cat's Eye	99																																																																																						0
+The Mahim Oak Curio	1			100	16	361	6002		2	amu,mag	mfo,qty=1						The Mahim-Oak Curio	99																																																																																						0
+Saracen's Chance	1			100	16	361	6003		2	amu,mag	mfo,qty=1						Saracen's Chance	99																																																																																						0
+Crescent Moon	1			100	16	361	6004		2	amu,mag	mfo,qty=1						Crescent Moon	99																																																																																						0
+Thy Eye of Etlich	1			100	16	361	6005		2	amu,mag	mfo,qty=1						The Eye of Etlich	99																																																																																						0
+Atma's Scarab	1			100	16	361	6006		2	amu,mag	mfo,qty=1						Atma's Scarab	99																																																																																						0
+Nokozan Relic	1			100	16	361	6000		2	amu,rar	mfo,qty=1						Nokozan Relic	99																																																																																						0
+The Cat's Eye	1			100	16	361	6001		2	amu,rar	mfo,qty=1						The Cat's Eye	99																																																																																						0
+The Mahim Oak Curio	1			100	16	361	6002		2	amu,rar	mfo,qty=1						The Mahim-Oak Curio	99																																																																																						0
+Saracen's Chance	1			100	16	361	6003		2	amu,rar	mfo,qty=1						Saracen's Chance	99																																																																																						0
+Crescent Moon	1			100	16	361	6004		2	amu,rar	mfo,qty=1						Crescent Moon	99																																																																																						0
+Thy Eye of Etlich	1			100	16	361	6005		2	amu,rar	mfo,qty=1						The Eye of Etlich	99																																																																																						0
+Atma's Scarab	1			100	16	361	6006		2	amu,rar	mfo,qty=1						Atma's Scarab	99																																																																																						0
 																																																																																																								0
 DIVINE ORB																																																																																																								0
 																																																																																																								0
-Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
-Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"divo,qty=1"						usetype,uni,noe	99																																																																																						0
+Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert superior quality armor to unique	1			100	18	361	0		2	armo,hiq,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert magic quality armor to unique	1			100	18	361	0		2	armo,mag,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert rare quality armor to unique	1			100	18	361	0		2	armo,rar,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert normal quality weapon to unique	1			100	18	361	0		2	weap,nor,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
+Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
 Divine Orb + 15 jewel fragments = random rainbow facet	1			100					2	"divo,qty=1"	"jewf,qty=15"						jew,uni	85																																																																																						0
 																																																																																																								0
 DIVINE ORB RINGS ROLLING																																																																																																								0
 																																																																																																								0
 DIVINE ORB RINGS ROLLING - PHASE 1																																																																																																								0
-Divine Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
-Divine Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
+Divine Orb + Magic Ring roll	1	2		100	18	361	0		2	ring,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																					"divo,qty=1"																																																										0
+Divine Orb + Rare Ring roll	1	2		100	18	361	0		2	ring,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																					"divo,qty=1"																																																										0
 																																																																																																								0
 DIVINE ORB RINGS OUTCOME - PHASE 2																																																																																																								0
-The Stone of Jordan	1			100	16	361	6000		2	ring,mag	"divo,qty=1"						Manald Heal	99																																																																																						0
-Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,mag	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
-Nature's Peace	1			100	16	361	6002		2	ring,mag	"divo,qty=1"						Constricting Ring	99																																																																																						0
-Constricting Loop	1			100	16	361	6003		2	ring,mag	"divo,qty=1"						Raven Frost	99																																																																																						0
-Wisp Projector	1			100	16	361	6004		2	ring,mag	"divo,qty=1"						Carrion Wind	99																																																																																						0
-The Stone of Jordan	1			100	16	361	6000		2	ring,rar	"divo,qty=1"						Manald Heal	99																																																																																						0
-Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,rar	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
-Nature's Peace	1			100	16	361	6002		2	ring,rar	"divo,qty=1"						Constricting Ring	99																																																																																						0
-Constricting Loop	1			100	16	361	6003		2	ring,rar	"divo,qty=1"						Raven Frost	99																																																																																						0
-Wisp Projector	1			100	16	361	6004		2	ring,rar	"divo,qty=1"						Carrion Wind	99																																																																																						0
+The Stone of Jordan	1			100	16	361	6000		2	ring,mag	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
+Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,mag	"divo,qty=1"						Bul Katho's Wedding Band	99																																																																																						0
+Nature's Peace	1			100	16	361	6002		2	ring,mag	"divo,qty=1"						Nature's Peace	99																																																																																						0
+Constricting Loop	1			100	16	361	6003		2	ring,mag	"divo,qty=1"						Constricting Ring	99																																																																																						0
+Wisp Projector	1			100	16	361	6004		2	ring,mag	"divo,qty=1"						Wisp	99																																																																																						0
+The Stone of Jordan	1			100	16	361	6000		2	ring,rar	"divo,qty=1"						The Stone of Jordan	99																																																																																						0
+Bul Katho's Wedding Band	1			100	16	361	6001		2	ring,rar	"divo,qty=1"						Bul Katho's Wedding Band	99																																																																																						0
+Nature's Peace	1			100	16	361	6002		2	ring,rar	"divo,qty=1"						Nature's Peace	99																																																																																						0
+Constricting Loop	1			100	16	361	6003		2	ring,rar	"divo,qty=1"						Constricting Ring	99																																																																																						0
+Wisp Projector	1			100	16	361	6004		2	ring,rar	"divo,qty=1"						Wisp	99																																																																																						0
 																																																																																																								0
 DIVINE ORB AMULETS ROLLING																																																																																																								0
 																																																																																																								0
 DIVINE ORB AMULET ROLLING - PHASE 1																																																																																																								0
-Divine Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
-Divine Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																																																																															0
+Divine Orb + Magic Amulet roll	1	2		100	18	361	0		2	amu,mag	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																					"divo,qty=1"																																																										0
+Divine Orb + Rare Amulet roll	1	2		100	18	361	0		2	amu,rar	"divo,qty=1"						useitem	99			corruptnum	100		6000	6004																					"divo,qty=1"																																																										0
 																																																																																																								0
 DIVINE ORB AMULETS OUTCOME - PHASE 2																																																																																																								0
-Metalgrid	1			100	16	361	6000		2	amu,mag	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
-Highlord's Wrath	1			100	16	361	6001		2	amu,mag	"divo,qty=1"						Atma's Scarab	99																																																																																						0
-Mara's Caleidoscope	1			100	16	361	6002		2	amu,mag	"divo,qty=1"						Crescent Moon	99																																																																																						0
-Seraph's Hymn	1			100	16	361	6003		2	amu,mag	"divo,qty=1"						The Mahim-Oak Curio	99																																																																																						0
-The Rising Sun	1			100	16	361	6004		2	amu,mag	"divo,qty=1"						The Cat's Eye	99																																																																																						0
-Metalgrid	1			100	16	361	6000		2	amu,rar	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
-Highlord's Wrath	1			100	16	361	6001		2	amu,rar	"divo,qty=1"						Atma's Scarab	99																																																																																						0
-Mara's Caleidoscope	1			100	16	361	6002		2	amu,rar	"divo,qty=1"						Crescent Moon	99																																																																																						0
-Seraph's Hymn	1			100	16	361	6003		2	amu,rar	"divo,qty=1"						The Mahim-Oak Curio	99																																																																																						0
-The Rising Sun	1			100	16	361	6004		2	amu,rar	"divo,qty=1"						The Cat's Eye	99																																																																																						0
+Metalgrid	1			100	16	361	6000		2	amu,mag	"divo,qty=1"						Metalgrid	99																																																																																						0
+Highlord's Wrath	1			100	16	361	6001		2	amu,mag	"divo,qty=1"						Highlord's Wrath	99																																																																																						0
+Mara's Kaleidoscope	1			100	16	361	6002		2	amu,mag	"divo,qty=1"						Mara's Kaleidoscope	99																																																																																						0
+Seraph's Hymn	1			100	16	361	6003		2	amu,mag	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
+The Rising Sun	1			100	16	361	6004		2	amu,mag	"divo,qty=1"						The Rising Sun	99																																																																																						0
+Metalgrid	1			100	16	361	6000		2	amu,rar	"divo,qty=1"						Metalgrid	99																																																																																						0
+Highlord's Wrath	1			100	16	361	6001		2	amu,rar	"divo,qty=1"						Highlord's Wrath	99																																																																																						0
+Mara's Caleidoscope	1			100	16	361	6002		2	amu,rar	"divo,qty=1"						Mara's Kaleidoscope	99																																																																																						0
+Seraph's Hymn	1			100	16	361	6003		2	amu,rar	"divo,qty=1"						Seraph's Hymn	99																																																																																						0
+The Rising Sun	1			100	16	361	6004		2	amu,rar	"divo,qty=1"						The Rising Sun	99																																																																																						0
 																																																																																																								0
 EXALTED ORB																																																																																																								0
-																																																																																																								0
-Convert normal quality armor to set piece	1			100	18	361	0		2	armo,nor	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert superior quality armor to set piece	1			100	18	361	0		2	armo,hiq	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert magic quality armor to set piece	1			100	18	361	0		2	armo,mag	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert rare quality armor to set piece	1			100	18	361	0		2	armo,rar	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert normal quality weapon to set piece	1			100	18	361	0		2	weap,nor	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert superior quality weapon to set piece	1			100	18	361	0		2	weap,hiq	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert magic quality weapon to set piece	1			100	18	361	0		2	weap,mag	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert rare quality weapon to set piece	1			100	18	361	0		2	weap,rar	"exo,qty=1"						usetype,set,noe	99																																																																																						0
-Convert magic quality amulet to set piece	1			100	18	361	0		2	amul,mag	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert rare quality amulet to set piece	1			100	18	361	0		2	amul,rar	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert magic quality ring to set piece	1			100	18	361	0		2	ring,mag	"exo,qty=1"						usetype,set	99																																																																																						0
-Convert rare quality ring to set piece	1			100	18	361	0		2	ring,rar	"exo,qty=1"						usetype,set	99																																																																																						0
+Convert normal quality armor to set piece	1			100	18	361	0		2	armo,nor	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert superior quality armor to set piece	1			100	18	361	0		2	armo,hiq	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert magic quality armor to set piece	1			100	18	361	0		2	armo,mag	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert rare quality armor to set piece	1			100	18	361	0		2	armo,rar	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert normal quality weapon to set piece	1			100	18	361	0		2	weap,nor	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert superior quality weapon to set piece	1			100	18	361	0		2	weap,hiq	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert magic quality weapon to set piece	1			100	18	361	0		2	weap,mag	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert rare quality weapon to set piece	1			100	18	361	0		2	weap,rar	"exo,qty=1"						usetype,set,noe	99			dye	100		2	2																																																																															0
+Convert magic quality amulet to set piece	1			100	18	361	0		2	amul,mag	"exo,qty=1"						usetype,set	99			dye	100		2	2																																																																															0
+Convert rare quality amulet to set piece	1			100	18	361	0		2	amul,rar	"exo,qty=1"						usetype,set	99			dye	100		2	2																																																																															0
+Convert magic quality ring to set piece	1			100	18	361	0		2	ring,mag	"exo,qty=1"						usetype,set	99			dye	100		2	2																																																																															0
+Convert rare quality ring to set piece	1			100	18	361	0		2	ring,rar	"exo,qty=1"						usetype,set	99			dye	100		2	2																																																																															0
 																																																																																																								0
 CAIN'S WISDOM																																																																																																								0
-																																																																																																								0
 Small Charm + TES + CEH + BET + FED = Cain's Wisdom	1			100					5	"tes,qty=1"	"ceh,qty=1"	"bet,qty=1"	"fed,qty=1"	cm1			cm1,uni	99																																																																																						0
 																																																																																																								0
 RUNE DOWNGRADING - non-stacked																																																																																																								0
-																																																																																																								0
 r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02,qty=1"						"r01s,qty=3"																																																																																							0
 r03 downgrade tir -> 3 eld	1			100					2	"key,qty=1"	"r03,qty=1"						"r02s,qty=3"																																																																																							0
 r04 downgrade nef -> 3 tir	1			100					2	"key,qty=1"	"r04,qty=1"						"r03s,qty=3"																																																																																							0
@@ -2242,7 +2237,6 @@ r23 downgrade mal -> 1 um	1			100					2	"key,qty=1"	"r23,qty=1"						"r22s,qty=1
 r24 downgrade ist -> 1 mal	1			100					2	"key,qty=1"	"r24,qty=1"						"r23s,qty=1"																																																																																							0
 																																																																																																								0
 RUNE DOWNGRADING - stacked																																																																																																								0
-																																																																																																								0
 r02 downgrade eld -> 3 el	1			100					2	"key,qty=1"	"r02s,qty=1"						"r01s,qty=3"																																																																																							0
 r03 downgrade tir -> 3 eld	1			100					2	"key,qty=1"	"r03s,qty=1"						"r02s,qty=3"																																																																																							0
 r04 downgrade nef -> 3 tir	1			100					2	"key,qty=1"	"r04s,qty=1"						"r03s,qty=3"																																																																																							0
@@ -2268,7 +2262,6 @@ r23 downgrade mal -> 1 um	1			100					2	"key,qty=1"	"r23s,qty=1"						"r22s,qty=
 r24 downgrade ist -> 1 mal	1			100					2	"key,qty=1"	"r24s,qty=1"						"r23s,qty=1"																																																																																							0
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) - non stacked																																																																																																								0
-																																																																																																								0
 r25 downgrade gul -> ist	1			100					2	"key,qty=1"	"r25,qty=1"						"r24s,qty=1"																																																																																							0
 r26 downgrade vex -> gul	1			100					2	"key,qty=1"	"r26,qty=1"						"r25s,qty=1"																																																																																							0
 r27 downgrade ohm -> vex	1			100					2	"key,qty=1"	"r27,qty=1"						"r26s,qty=1"																																																																																							0
@@ -2280,7 +2273,6 @@ r32 downgrade cham -> jah	1			100					2	ncoi,qty=1	"r32,qty=1"						"r31s,qty=1"
 r33 downgrade zod -> cham	1			100					2	ncoi,qty=1	"r33,qty=1"						"r32s,qty=1"																																																																																							0
 																																																																																																								0
 RUNE DOWNGRADING (High Runes) -  stacked																																																																																																								0
-																																																																																																								0
 r25 downgrade gul -> ist	1			100					2	"key,qty=1"	"r25s,qty=1"						"r24s,qty=1"																																																																																							0
 r26 downgrade vex -> gul	1			100					2	"key,qty=1"	"r26s,qty=1"						"r25s,qty=1"																																																																																							0
 r27 downgrade ohm -> vex	1			100					2	"key,qty=1"	"r27s,qty=1"						"r26s,qty=1"																																																																																							0
@@ -2292,15 +2284,29 @@ r32 downgrade cham -> jah	1			100					2	ncoi,qty=1	"r32s,qty=1"						"r31s,qty=1
 r33 downgrade zod -> cham	1			100					2	ncoi,qty=1	"r33s,qty=1"						"r32s,qty=1"																																																																																							0
 																																																																																																								0
 EXCHANGES																																																																																																								0
-																																																																																																								0
 2x LPP + Coin = Larzuk's Puzzle Box	1			100					2	lpp,qty=2	ncoi,qty=1						lbox																																																																																							0
 																																																																																																								0
 DEMONIC CUBE ADDITIONAL RECIPES																																																																																																								0
-Reroll type of unique ring	0			100	18	361	0		3	ring,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
-Reroll type of unique amulet	0			100	18	361	0		3	amul,uni	ncoi,qty=1	imrn,qty=1					usetype,uni	99																																																																																						0
 Reroll type of set ring	1			100	18	361	0		3	ring,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of set amulet	1			100	18	361	0		3	amul,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of Rainbow Facet	1			100					3	jew,uni	ncoi,qty=1	imrn,qty=1					jew,uni	85																																																																																						0
+																																																																																																								0
+ETERNAL COIN RECIPES																																																																																																								0
+Double Rathma key	1			100					2	rtma	ncoi,qty=1						rtma																													rtma																																																										0
+Double Diablo Clone key	1			100					2	dcma	ncoi,qty=1						dcma																													dcma																																																										0
+Double Uber Tristram key	1			100					2	ubtm	ncoi,qty=1						ubtm																													ubtm																																																										0
+Double Lucion key	1			100					2	luca	ncoi,qty=1						luca																													luca																																																										0
+																																																																																																								0
+LARZUK'S MALUS UNSOCKET RECIPES																																																																																																								0
+Remove socket contents 2H	1			100					2	"2han"	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Bow	1			100					2	"bow"	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Xbow	1			100					2	"xbow"	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Weapon	1			100					2	"weap"	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Helmet	1			100					2	"helm"	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Torso	1			100					2	"tors"	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Shield	1			100					2	"shld"	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Amulet	1			100					2	amul	"lmal,qty=1"						useitem,rem			100																																																																																				0
+Remove socket contents Belt	1			100					2	belt	"lmal,qty=1"						useitem,rem			100																																																																																				0
 																																																																																																								0
 UNIQUE MIRRORING RECIPES																																																																																																								0
 Mirror unique non-corrupted armor	1			100	18	361	0		2	armo,uni	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
@@ -2361,7 +2367,6 @@ Craft crafted  circlet - Vampiric	1			100	18	361	0		2	ci0,crf,eth	crfv,qty=1				
 Craft crafted  circlet - Bountiful	1			100	18	361	0		2	ci0,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
 Craft crafted circlet - Prismatic	1			100	18	361	0		2	ci0,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
 																																																																																																								0
-																																																																																																								0
 Craft non-ethereal coronet - Blood	1			100	18	361	0		2	ci1,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
 Craft ethereal coronet - Blood	1			100	18	361	0		2	ci1,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
 Craft non-ethereal coronet - Caster	1			100	18	361	0		2	ci1,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
@@ -2390,7 +2395,6 @@ Craft crafted coronet - Hitpower	1			100	18	361	0		2	ci1,crf,eth	crfh,qty=1					
 Craft crafted coronet - Vampiric	1			100	18	361	0		2	ci1,crf,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
 Craft crafted coronet - Bountiful	1			100	18	361	0		2	ci1,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
 Craft crafted coronet - Prismatic	1			100	18	361	0		2	ci1,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
-																																																																																																								0
 																																																																																																								0
 Craft non-ethereal tiara - Blood	1			100	18	361	0		2	ci2,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
 Craft ethereal tiara - Blood	1			100	18	361	0		2	ci2,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
@@ -2421,7 +2425,6 @@ Craft crafted tiara - Vampiric	1			100	18	361	0		2	ci2,crf,eth	crfv,qty=1						u
 Craft crafted tiara - Bountiful	1			100	18	361	0		2	ci2,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
 Craft crafted tiara - Prismatic	1			100	18	361	0		2	ci2,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
 																																																																																																								0
-																																																																																																								0
 Craft non-ethereal diadem - Blood	1			100	18	361	0		2	ci3,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
 Craft ethereal diadem - Blood	1			100	18	361	0		2	ci3,eth	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20	ethereal	100		1	1																																																																0
 Craft non-ethereal diadem - Caster	1			100	18	361	0		2	ci3,noe	crfc,qty=1						usetype,crf		50	50	cast2			5	10	mana			10	20	regen-mana			4	10																																																																					0
@@ -2450,7 +2453,6 @@ Craft crafted diadem - Hitpower	1			100	18	361	0		2	ci3,crf,eth	crfh,qty=1						
 Craft crafted diadem - Vampiric	1			100	18	361	0		2	ci3,crf,eth	crfv,qty=1						usetype,crf		50	50	manasteal			2	4	deadly			10	20	regen			5	10	ethereal	100		1	1																																																																0
 Craft crafted diadem - Bountiful	1			100	18	361	0		2	ci3,crf,eth	crfu,qty=1						usetype,crf		50	50	mag%			20	30	light			1	3	ac%			25	50	ethereal	100		1	1																																																																0
 Craft crafted diadem - Prismatic	1			100	18	361	0		2	ci3,crf,eth	crfp,qty=1						usetype,crf		50	50	half-freeze			1	1	swing2			5	10	ac%			25	50	ethereal	100		1	1																																																																0
-																																																																																																								0
 																																																																																																								0
 CHARSI'S Crafting BOX - PHASE 1 - ROLL																																																																																																								0
 Charsi's Crafting Box Roll	1	2		100	18	361	0		1	ccbx							useitem				corruptnum	100		0	506																																																																															0
