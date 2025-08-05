@@ -3,19 +3,15 @@
 
 Discord: https://discord.gg/CwN2s6AHSZ
 
-Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.1.1
+Newest release download: https://github.com/Lukaszpg/PD2-Single-player-mod/releases/tag/v11.1.2
 
 Version 11.0.0 major release patch notes: https://docs.google.com/document/d/1p4opLyZtoSoUQ6mlN4uGxIlOpMsdoVrJzqN9OXe0vWk/edit?tab=t.0
 
-Newest version patch notes: https://docs.google.com/document/d/1GhhLZ1PGWU2UK2rAp-zCby9vCtg9pckYKvkcFUb5obU
+Newest version patch notes: https://docs.google.com/document/d/1LPvaiHlZhyeydzjPdxdySEbgUbKMMCOdgRP_CrUC350
 
 ## Known bugs
 
-* Skeleton Key is consumed if used for downgrading the runes recipe - no known bugfix as of now
 * Eternal Coin does not have a name in the inventory
-* After an update from 11.0.X to 11.1.0, due to workaround (related to a bug in vanilla PD2) applied to unique items, all unique rings and amulets will be named “An Evil Force” - it’s only a name bug and the item works normally
-* Due to the above, Cain’s Wisdom will be named An Evil Force and will have a level requirement of 255 - please make a new one. Sorry for the inconvenience!
-* Due to a bug in vanilla PD2 Season 11 when it comes to unique item generation via Cube, the Nokozan Relic will have Amulet of the Viper sprite
 
 ## About this mod
 
@@ -111,6 +107,7 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 ### Exchange
 
 * 2x Larzuk's Puzzle Piece + Eternal Coin = Larzuk's Puzzle Box
+* Diablo Clone/Rathma/Lucion/Uber Tristram Key + Eternal Coin = Copy of said key
 
 ### New Demonic Cube recipes
 
@@ -139,5 +136,11 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 ### Larzuk's Puzzle Piece & Box Socketing changes
 
 * Larzuk's Puzzle Piece and Box can be used ro re-roll the number of sockets on an item, destroying the contents of the sockets
+
+### Removing socket contents
+
+* You can now remove any item socket contents while preserving said content using Larzuk's Mallus
+* Larzuk’s Malus + Socketed Item = Used item with socket contents removed (preserves the contents) 
+
 
 
