@@ -65,7 +65,7 @@ Below item codes are assigned to new items that this mod introduced.
 * Charsi's Crafting Box - ccbx
 * Eternal coin - ncoi
 
-## Cube recipes
+## Main mod changes and important recipes
 
 ### Rune downgrade
 
@@ -140,7 +140,11 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 ### Removing socket contents
 
 * You can now remove any item socket contents while preserving said content using Larzuk's Mallus (item sold by Larzuk in any act for 250k gold)
-* Larzuk’s Malus + Socketed Item = Used item with socket contents removed (preserves the contents) 
+* Larzuk’s Malus + Socketed Item = Used item with socket contents removed (preserves the contents)
+
+### Uber Tristram mini-ubers portals
+
+* Now only one of any key is required to open a portal to Uber Tristram mini-uber. Can be the same key
 
 
 
