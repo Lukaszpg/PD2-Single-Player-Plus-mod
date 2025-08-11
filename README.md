@@ -123,11 +123,13 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 
 ### Gheed's Curious Box 
 
-* Cube it **TWICE** to receive random stack of 50 perfect gems
+* Cube it **TWICE** to receive random stack of 50 perfect gems or 50 jewel fragments
+* Drops in Hell and maps
 
 ### Charsi's Crafting Box
 
 * Cube it **TWICE** to receive random 5 crafting infusions (13.2% chance) or 5 catalyst shards (7.6% chance)
+* Drops in Hell and maps
 
 ### Crafting infusions changes
 
