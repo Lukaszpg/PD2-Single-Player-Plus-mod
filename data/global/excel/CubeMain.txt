@@ -2286,6 +2286,50 @@ r33 downgrade zod -> cham	1			100					2	ncoi,qty=1	"r33s,qty=1"						"r32s,qty=1
 EXCHANGES																																																																																																								0
 2x LPP + Coin = Larzuk's Puzzle Box	1			100					2	lpp,qty=2	ncoi,qty=1						lbox																																																																																							0
 																																																																																																								0
+Divine Orb + Coin = 2x Mythic Orb	1			100					2	divo,qty=1	ncoi,qty=1						mfo,qty=2																																																																																							0
+2x Divine Orb + Coin = 4x Mythic Orb	1			100					2	divo,qty=2	ncoi,qty=1						mfo,qty=4																																																																																							0
+3x Divine Orb + Coin = 6x Mythic Orb	1			100					2	divo,qty=3	ncoi,qty=1						mfo,qty=6																																																																																							0
+4x Divine Orb + Coin = 8x Mythic Orb	1			100					2	divo,qty=4	ncoi,qty=1						mfo,qty=8																																																																																							0
+5x Divine Orb + Coin = 10x Mythic Orb	1			100					2	divo,qty=5	ncoi,qty=1						mfo,qty=10																																																																																							0
+6x Divine Orb + Coin = 12x Mythic Orb	1			100					2	divo,qty=6	ncoi,qty=1						mfo,qty=12																																																																																							0
+7x Divine Orb + Coin = 14x Mythic Orb	1			100					2	divo,qty=7	ncoi,qty=1						mfo,qty=14																																																																																							0
+8x Divine Orb + Coin = 16x Mythic Orb	1			100					2	divo,qty=8	ncoi,qty=1						mfo,qty=16																																																																																							0
+9x Divine Orb + Coin = 18x Mythic Orb	1			100					2	divo,qty=9	ncoi,qty=1						mfo,qty=18																																																																																							0
+10x Divine Orb + Coin = 20x Mythic Orb	1			100					2	divo,qty=10	ncoi,qty=1						mfo,qty=20																																																																																							0
+11x Divine Orb + Coin = 22x Mythic Orb	1			100					2	divo,qty=11	ncoi,qty=1						mfo,qty=22																																																																																							0
+12x Divine Orb + Coin = 24x Mythic Orb	1			100					2	divo,qty=12	ncoi,qty=1						mfo,qty=24																																																																																							0
+13x Divine Orb + Coin = 26x Mythic Orb	1			100					2	divo,qty=13	ncoi,qty=1						mfo,qty=26																																																																																							0
+14x Divine Orb + Coin = 28x Mythic Orb	1			100					2	divo,qty=14	ncoi,qty=1						mfo,qty=28																																																																																							0
+15x Divine Orb + Coin = 30x Mythic Orb	1			100					2	divo,qty=15	ncoi,qty=1						mfo,qty=30																																																																																							0
+16x Divine Orb + Coin = 32x Mythic Orb	1			100					2	divo,qty=16	ncoi,qty=1						mfo,qty=32																																																																																							0
+17x Divine Orb + Coin = 34x Mythic Orb	1			100					2	divo,qty=17	ncoi,qty=1						mfo,qty=34																																																																																							0
+18x Divine Orb + Coin = 36x Mythic Orb	1			100					2	divo,qty=18	ncoi,qty=1						mfo,qty=36																																																																																							0
+19x Divine Orb + Coin = 38x Mythic Orb	1			100					2	divo,qty=19	ncoi,qty=1						mfo,qty=38																																																																																							0
+20x Divine Orb + Coin = 40x Mythic Orb	1			100					2	divo,qty=20	ncoi,qty=1						mfo,qty=40																																																																																							0
+21x Divine Orb + Coin = 42x Mythic Orb	1			100					2	divo,qty=21	ncoi,qty=1						mfo,qty=42																																																																																							0
+22x Divine Orb + Coin = 44x Mythic Orb	1			100					2	divo,qty=22	ncoi,qty=1						mfo,qty=44																																																																																							0
+23x Divine Orb + Coin = 46x Mythic Orb	1			100					2	divo,qty=23	ncoi,qty=1						mfo,qty=46																																																																																							0
+24x Divine Orb + Coin = 48x Mythic Orb	1			100					2	divo,qty=24	ncoi,qty=1						mfo,qty=48																																																																																							0
+25x Divine Orb + Coin = 50x Mythic Orb	1			100					2	divo,qty=25	ncoi,qty=1						mfo,qty=50																																																																																							0
+																																																																																																								0
+48x Exalted Orb + 16x Coin = 16x Mythic Orb	1			100					2	exo,qty=48	ncoi,qty=16						mfo,qty=16																																																																																							0
+45x Exalted Orb + 15x Coin = 15x Mythic Orb	1			100					2	exo,qty=45	ncoi,qty=15						mfo,qty=15																																																																																							0
+42x Exalted Orb + 14x Coin = 14x Mythic Orb	1			100					2	exo,qty=42	ncoi,qty=14						mfo,qty=14																																																																																							0
+39x Exalted Orb + 13x Coin =13x Mythic Orb	1			100					2	exo,qty=39	ncoi,qty=13						mfo,qty=13																																																																																							0
+36x Exalted Orb + 12xCoin = 12x Mythic Orb	1			100					2	exo,qty=36	ncoi,qty=12						mfo,qty=12																																																																																							0
+33x Exalted Orb + 11x Coin = 11x Mythic Orb	1			100					2	exo,qty=33	ncoi,qty=11						mfo,qty=11																																																																																							0
+30x Exalted Orb + 10x Coin = 10x Mythic Orb	1			100					2	exo,qty=30	ncoi,qty=10						mfo,qty=10																																																																																							0
+27x Exalted Orb + 9x Coin = 9x Mythic Orb	1			100					2	exo,qty=27	ncoi,qty=9						mfo,qty=9																																																																																							0
+24x Exalted Orb + 8x Coin = 8x Mythic Orb	1			100					2	exo,qty=24	ncoi,qty=8						mfo,qty=8																																																																																							0
+21x Exalted Orb + 7x Coin = 7x Mythic Orb	1			100					2	exo,qty=21	ncoi,qty=7						mfo,qty=7																																																																																							0
+18x Exalted Orb + 6x Coin = 6x Mythic Orb	1			100					2	exo,qty=18	ncoi,qty=6						mfo,qty=6																																																																																							0
+15x Exalted Orb + 5x Coin = 5x Mythic Orb	1			100					2	exo,qty=15	ncoi,qty=5						mfo,qty=5																																																																																							0
+12x Exalted Orb + 4x Coin = 4x Mythic Orb	1			100					2	exo,qty=12	ncoi,qty=4						mfo,qty=4																																																																																							0
+9x Exalted Orb + 3x Coin = 3x Mythic Orb	1			100					2	exo,qty=9	ncoi,qty=3						mfo,qty=3																																																																																							0
+6x Exalted Orb + 2x Coin = 2x Mythic Orb	1			100					2	exo,qty=6	ncoi,qty=2						mfo,qty=2																																																																																							0
+3x Exalted Orb + Coin = Mythic Orb	1			100					2	exo,qty=3	ncoi,qty=1						mfo,qty=1																																																																																							0
+																																																																																																								0
+																																																																																																								0
 DEMONIC CUBE ADDITIONAL RECIPES																																																																																																								0
 Reroll type of set ring	1			100	18	361	0		3	ring,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
 Reroll type of set amulet	1			100	18	361	0		3	amul,set	ncoi,qty=1	imrn,qty=1					usetype,set	99																																																																																						0
@@ -2326,16 +2370,17 @@ Mirror magic jewel	1								2	jew,mag	llmr						useitem				dye	100		4	4	mirrored
 Mirror rare jewel	1								2	jew,rar	llmr						useitem				dye	100		4	4	mirrored	100		1	1																useitem																																																										0
 																																																																																																								0
 GHEED'S CURIOUS BOX - PHASE 1 - ROLL																																																																																																								0
-Gheed's Curious Box Roll	1	2		100	18	361	0		1	gcbx							useitem				corruptnum	100		1501	1507																																																																															0
+Gheed's Curious Box Roll	1	2		100	18	361	0		1	gcbx							useitem				corruptnum	100		1501	1515																																																																															0
 																																																																																																								0
 GHEED'S CURIOUS BOX - PHASE 2 - OUTCOME																																																																																																								0
-Perfect Amethysts	1			100	16	361	1501		1	gcbx							"gpvs,qty=50"																																																																																							0
-Perfets Topazes	1			100	16	361	1502		1	gcbx							"gpys,qty=50"																																																																																							0
-Perfect Skulls	1			100	16	361	1503		1	gcbx							"skzs,qty=50"																																																																																							0
-Perfect Rubys	1			100	16	361	1504		1	gcbx							"gprs,qty=50"																																																																																							0
-Perfect Diamonds	1			100	16	361	1505		1	gcbx							"gpws,qty=50"																																																																																							0
-Perfect Sapphires	1			100	16	361	1506		1	gcbx							"gpbs,qty=50"																																																																																							0
-Perfect Emeralds	1			100	16	361	1507		1	gcbx							"gpgs,qty=50"																																																																																							0
+Perfect Amethysts	1			100	16	361	1502		1	gcbx							"gpvs,qty=50"																																																																																							0
+Perfets Topazes	1			100	16	361	1504		1	gcbx							"gpys,qty=50"																																																																																							0
+Perfect Skulls	1			100	16	361	1506		1	gcbx							"skzs,qty=50"																																																																																							0
+Perfect Rubys	1			100	16	361	1508		1	gcbx							"gprs,qty=50"																																																																																							0
+Perfect Diamonds	1			100	16	361	1510		1	gcbx							"gpws,qty=50"																																																																																							0
+Perfect Sapphires	1			100	16	361	1512		1	gcbx							"gpbs,qty=50"																																																																																							0
+Perfect Emeralds	1			100	16	361	1514		1	gcbx							"gpgs,qty=50"																																																																																							0
+Jewel Fragments	1			100	16	361	1515		1	gcbx							"jewf,qty=50"																																																																																							0
 																																																																																																								0
 CIRCLET CRAFTING																																																																																																								0
 Craft non-ethereal circlet - Blood	1			100	18	361	0		2	ci0,noe	crfb,qty=1						usetype,crf		50	50	lifesteal			2	4	hp			10	20	crush			10	20																																																																					0
@@ -2674,4 +2719,3 @@ PANDEMONIUM KEYS - SP+																																																										
 Pandemonium key - PD2	1		2	100	28	1			1	"pk1,qty=1"							useitem																																																																																							0
 Pandemonium key - PD2	1		2	100	28	1			1	"pk2,qty=1"							useitem																																																																																							0
 Pandemonium key - PD2	1		2	100	28	1			1	"pk3,qty=1"							useitem																																																																																							0
-Test	1			100					1	"key,qty=1"							rkey																													r33																													r33s,qty=1																													0
