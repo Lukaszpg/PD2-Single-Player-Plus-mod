@@ -71,6 +71,7 @@ Below item codes are assigned to new items that this mod introduced.
 
 * Runes are 500% less likely to downgrade to lesser rune when game is calculating what rune to drop
 * All PD2 vanilla items have drop rates increased between 50% and 5000% (eg. Lillit's mirror from 1:25m to 1:500k)
+* Rathma and Uber Diablo drop their unique items at 1/20 rate regardless of tier of the fight
 * This section is currently in progress and will soon be updated
 
 ### Rune downgrade
