@@ -108,6 +108,8 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 
 * 2x Larzuk's Puzzle Piece + Eternal Coin = Larzuk's Puzzle Box
 * Diablo Clone/Rathma/Lucion/Uber Tristram Key + Eternal Coin = Copy of said key
+* Divine Orb + Coin = 2x Mythical Orb (works with up to 25 divine orbs per single recipe)
+* 3x Exalted Orb + Coin = Mythical Orb (works with 3,6,9...48 Exalted Orbs)
 
 ### New Demonic Cube recipes
 
