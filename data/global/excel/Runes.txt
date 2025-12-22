@@ -179,7 +179,7 @@ Zenith	Zenith	1		miss	spea	pole	staf	2hsw					JahZodOrtThulRal	r31	r33	r09	r10	r
 Rampage	Rampage	1		staf	spea	pole							ShaelElIthEth	r13	r01	r06	r05			dmg%		120	145	swing2		45	45	res-fire		25	25	balance2		20	20													
 Neophyte	Neophyte	1		scep	club	sorc	h2h	h2h2					ThulTir	r10	r03					half-freeze		1	1	red-dmg		2	4	cast2		30	30	res-pois-len		25	25													
 Neophyte2	Neophyte	1		staf									ThulTir	r10	r03					half-freeze		1	1	red-dmg		4	6	cast2		40	40	res-pois-len		25	25													
-Wind Staff	Wind	1		staf						mele	thro		SurEl	r29	r01					dmg%		320	380	swing2		40	40	move2		20	30	reduce-ac		50	50	cast-skill	245	18	35	cast-skill	240	18	35	cast-skill	Cyclone Armor	5	9	0
+Wind Staff	Wind Staff	1		staf									SurEl	r29	r01					dmg%		320	380	swing2		40	40	move2		20	30	reduce-ac		50	50	cast-skill	245	18	35	cast-skill	240	18	35	cast-skill	Cyclone Armor	5	9	0
 Phoenix Staff	Phoenix	1		staf									VexVexLoJah	r26	r26	r28	r31			dmg%		400	450	ac-miss		350	400	cast-skill	Firestorm	20	40	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	12	abs-fire		15	21	0
 Shattered Wall	Shattered Wall	1		pala									ZodJahRalCham	r33	r31	r08	r32			ac%		160	200	aura	Holy Freeze	16	16	block2		60	60	mana-kill		5	5	dmg-cold	50	200	250	hp		50	100					0
 Asylum	Asylum	1		hamm	pole	spea	miss	2hsw					GulChamTirJahDolUm	r25	r32	r15	r31	r14	r22	dmg%		265	315	dex		20	20	allskills		2	2	openwounds		20	20	aura	Sanctuary	17	20	gold%		100	100	hit-skill	121	25	40	0
@@ -190,6 +190,10 @@ Runeword25	Destruction	1		staf									VexLoBerJahKo	r26	r28	r30	r31	r18		dmg%		
 Hustle	Hustle	1		tors									ShaelKoEld	r13	r18	r02				equipped-skill	Quickness SelfAura	6	6	swing2		20	20	stamdrain		35	35	res-all		10	10	half-freeze		1	1									0
 Purity	Purity	1		pole	staf	spea	miss						AmnEthThul	r11	r05	r10				dmg%		110	145	att-demon		200	200	swing2		45	45	aura	Prayer	10	12	curse-res		30	30	dmg-demon		80	120					0
 Rapture	Rapture	1		hamm									VexJahLoTirKoMal	r26	r31	r28	r08	r18	r23	dmg%		240	280	swing2		20	20	deadly		20	20	hit-skill	91	30	35	res-cold		40	60	gold%		80	120	hit-skill	Eruption	14	46	0
-Epiphany	Epiphany	1		shld									LoIthLoIst	r28	r06	r28	r24			equipped-skill	Energy Shield SelfAura	18	18	all-stats		10	15	cast2		20	20	gethit-skill	Static Field	25	27	mana%		28	35	res-pois		40	55	dmg-ltng		1	750	0
+Epiphany	Epiphany	1		shld									LoIthLoIst	r28	r06	r28	r24			es-efficiency-and-es-when-equip	Energy Shield SelfAura	18	18	all-stats		10	15	cast2		20	20	gethit-skill	Static Field	25	27	mana%		28	35	res-pois		40	55	dmg-ltng		1	750	0
 Loyalty Bow	Loyalty	1		miss									PulTirDol	r21	r03	r14				dmg%		200	245	skill	strafe	2	3	skill	dopplezon	2	3	cast2		60	60	pierce		20	20	skilltab	1	2	2	mana-kill		2	2	0
 Wind Throwable	Wind	1		thro									SurEl	r29	r01					dmg%		220	280	swing2		40	40	move2		20	30	reduce-ac		50	50	hit-skill	245	18	35	hit-skill	240	18	35	gethit-skill	Cyclone Armor	5	9	0
+Ancient's Scripture	Ancient's Scripture	1		misl										r07	r09					dmg%		10	20	res-pois		5	15	res-ltng		5	15	hp		20	20	regen-stam		20	20									0
+Ancient's Foresight	Ancient's Foresight	1		misl										r08	r10					dmg%		10	20	res-cold		5	15	res-fire		5	15	mana		20	20	regen-mana		20	20									0
+Echo Weapon	Echo Weapon	1		thro	jave									r12	r14					dmg%		40	60	pierce		20	30	heal-kill		2	2	att%		50	50													0
+Echo Quiver	Echo Quiver	1		misl										r12	r14					dmg%		20	30	pierce		20	30	heal-kill		2	2	att%		50	50													0

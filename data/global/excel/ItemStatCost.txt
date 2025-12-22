@@ -135,7 +135,7 @@ bonearmor	132		1	32													1024																																			0
 bonearmormax	133		1	32													1024																																			0
 item_freeze	134		1	5							1				666	12	1024		5	0	5	0												1	domeleedamage	14	domissiledamage	14	78	12	2	ModStr3l	ModStr3l									0
 item_openwounds	135		1	7							1				23	10	1024		7	0	7	0												1	domeleedamage	15	domissiledamage	15	83	2	1	ModStr3m	ModStr3m									0
-item_crushingblow	136		1	7							1				98	40	1024		7	0	7	0												1	domeleedamage	16	domissiledamage	16	87	2	1	ModStr5c	ModStr5c									0
+item_crushingblow	136		1	7							1				98	40	1024		7	0	7	0												1	domeleedamage	16	domissiledamage	16	87	4	1	ModStr5c	ModStr5c									0
 item_kickdamage	137		1	7											77	51	1024		7	0	7	0																	121	1	1	ModStr5e	ModStr5e									0
 item_manaafterkill	138		1	7							1				17	102	1024		7	0	7	0													kill	17			16	1	1	ModStr5f	ModStr5f									0
 item_healafterdemonkill	139		1	7							1				18	102	1024		7	0	7	0													kill	18			15	1	1	ModStr6c	ModStr6c									0
@@ -267,11 +267,11 @@ item_absorb_thrust	264		1														1024																																			0
 item_absorb_slash_percent	265		1														1024																																			0
 item_absorb_crush_percent	266		1														1024																																			0
 item_absorb_thrust_percent	267		1														1024																																			0
-item_armor_bytime	268		1	22										4		0	1024		22	0	22	0			6			armorclass											180	17	1	ModStr1i	ModStr1i									0
-item_armorpercent_bytime	269		1	22										4		0	1024		22	0	22	0			7			armorclass											180	18	1	Modstr2v	Modstr2v									0
-item_hp_bytime	270		1	22										4		0	1024		22	0	22	0			6			maxhp											180	17	1	ModStr1u	ModStr1u									0
-item_mana_bytime	271		1	22										4		0	1024		22	0	22	0			6			maxmana											180	17	1	ModStr1e	ModStr1e									0
-item_maxdamage_bytime	272		1	22										4		0	1024		22	0	22	0			6			maxdamage	secondary_maxdamage	item_throw_maxdamage				1					180	17	1	ModStr1f	ModStr1f									0
+item_crushingblow_efficiency	268		1	7							1				98	40	1024		7	0	7	0												1	domeleedamage	16	domissiledamage	16	86	4	1	CrushEfficiency	CrushEfficiency									0
+extra_cold_arrows	269		1	5													1024		6		5																		145	9	2	ColdArrowFires	ColdArrowFires	AdditionalArrows								0
+item_shiny_appearance	270			7													1024		7	0	7	0																	255	19		StrAnniversaryEdition	StrAnniversaryEdition									0
+joustreduction_leorics	271		1	5													1024		6		6																		150	3	0	joustreductionleorics	joustreductionleorics									0
+map_glob_dropsocketed	272		1	9											1065	72	2011		7	20	7	20																	206	19	0	MapGlobDropSockets	MapGlobDropSockets									0
 item_maxdamage_percent_bytime	273		1	22										4		0	1024		22	0	22	0			7			maxdamage	secondary_mindamage	item_throw_mindamage				1					180	18	1	ModStr2j	ModStr2j									0
 item_strength_bytime	274		1	22										4		0	1024		22	0	22	0			6			strength											180	17	1	ModStr1a	ModStr1a									0
 item_dexterity_bytime	275		1	22										4		0	1024		22	0	22	0			6			dexterity											180	17	1	ModStr1b	ModStr1b									0

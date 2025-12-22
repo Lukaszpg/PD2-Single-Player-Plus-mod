@@ -427,11 +427,17 @@ crit-skill	1			11	item_skilloncrit																									Proc Skill on Crit	Sk
 pierce-skill	1			11	item_skillonpierce																									Proc Skill on Pierce	Skill #	% Chance	Level	424	0
 desecrate	1			1	desecrated																													425	0
 desecratenum	1			1	desecrator																													426	0
-extra-grizzly	1			1	extra_grizzly																													375	0
-no-wolves	1			1	no_wolves																													375	0
-max-deadly	1			1	item_maxdeadlystrike																													113	0
-extra-shadow	1			1	extra_shadow																													375	0
-extra-spiritwolf	1			1	extra_spiritwolf																													375	0
-joust-reduction-zeraes	1			1	joustreduction_zeraes																													374	0
-map-glob-boss-dropubermats	1			1	map_glob_boss_dropubermats																													416	0
-map-glob-boss-droppuzzlebox	1			1	map_glob_boss_droppuzzlebox																													412	0
+extra-grizzly	1			1	extra_grizzly																													427	0
+no-wolves	1			1	no_wolves																													428	0
+max-deadly	1			1	item_maxdeadlystrike																													429	0
+extra-shadow	1			1	extra_shadow																													430	0
+extra-spiritwolf	1			1	extra_spiritwolf																													431	0
+joust-reduction-zeraes	1			1	joustreduction_zeraes																													432	0
+map-glob-boss-dropubermats	1			1	map_glob_boss_dropubermats																													433	0
+map-glob-boss-droppuzzlebox	1			1	map_glob_boss_droppuzzlebox																													434	0
+crush-efficiency	1			1	item_crushingblow_efficiency																													435	0
+extra-cold-arrows	1			1	extra_cold_arrows																													436	0
+shiny-appearance	1			1	item_shiny_appearance																													437	0
+es-efficiency-and-es-when-equip	1			1	es_efficiency			22	item_skillonequip																					Extra efficiency as base points to ES	(16ths)			438	0
+joust-reduction-leorics	1			1	joustreduction_leorics																													439	0
+map-glob-dropsocketed	1			8	map_glob_dropsocketed																													440	0

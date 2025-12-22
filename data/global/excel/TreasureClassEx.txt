@@ -3,12 +3,14 @@ Gold			1						gld	1																						0
 Jewelry A			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry B			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
-Runes 2 unstack			1						r03	3	r04	2																				0
-Runes 3 unstack			1						r05	3	r06	2	Runes 2 unstack	5																		0
+Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	2										0
+Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	2										0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2										0
 Flawless Gem			1						gzvs	3	glys	3	glbs	3	glgs	3	glrs	3	glws	3	skls	2										0
 Perfect Gem			1						gpvs	3	gpys	3	gpbs	3	gpgs	3	gprs	3	gpws	3	skzs	2										0
 Ammo			1						aqv	1	cqv	1																				0
+Ammo(N)		25	1						aqv	20	cqv	20	aqv2	30	cqv2	30																0
+Ammo(H)		45	1						aqv	5	cqv	5	aqv2	30	cqv2	30	aqv3	15	cqv3	15												0
 Misc 0			1						key	3	tsc	3	isc	3	tpfs	2	tpgs	2	tpcs	2	tpls	2										0
 Misc 1			1						key	3	tsc	3	isc	3	tpfm	2	tpgm	2	tpcm	2	tplm	2										0
 Misc 2			1						key	3	tsc	3	isc	3	tpfl	2	tpgl	2	tpcl	2	tpll	2										0
@@ -57,21 +59,21 @@ Map Tier 3			1			400	800		t3a	2	t38	2	t39	2	t37	2	t14	2	t21	2	t32	2	t16	2	t35	2	
 T1 Map Drop			1						Map Tier 1	66	Map Tier 2	33																				0
 T2 Map Drop			1						Map Tier 1	39	Map Tier 2	40	Map Tier 3	20																		0
 T3 Map Drop			1						Map Tier 1	32	Map Tier 2	33	Map Tier 3	33																		0
-Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																		0
-Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																0
-Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																0
-Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4																0
-Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4																0
-Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 1 Junk			1						Potion 1	16	Misc 0	8	Ammo	1																		0
+Act 2 Junk			1						Act 1 Junk	4	Potion 2	16	Misc 0	8	Ammo	1																0
+Act 3 Junk			1						Act 2 Junk	4	Potion 3	16	Misc 1	8	Ammo	1																0
+Act 4 Junk			1						Act 3 Junk	4	Potion 4	16	Misc 1	8	Ammo	1																0
+Act 5 Junk			1						Act 4 Junk	4	Potion 5	16	Misc 2	8	Ammo	1																0
+Act 1 (N) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(N)	1																0
+Act 2 (N) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(N)	1																0
+Act 3 (N) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(N)	1																0
+Act 4 (N) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(N)	1																0
+Act 5 (N) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(N)	1																0
+Act 1 (H) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(H)	1																0
+Act 2 (H) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(H)	1																0
+Act 3 (H) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(H)	1																0
+Act 4 (H) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(H)	1																0
+Act 5 (H) Junk			1						Act 5 Junk	4	Potion 6	16	Misc 2	8	Ammo(H)	1																0
 Act 1 Equip A	1	0	1						weap3	7	armo3	7																				0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
@@ -377,51 +379,51 @@ Act 5 (H) Cast C	8	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	
 Map Cast t1	22	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t1	30	Act 5 (H) Magic B	105														0
 Map Cast t2	22	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t2	30	Act 5 (H) Magic B	105														0
 Map Cast t3	22	85	1					95	gld	271	Act 5 (H) Equip C	226	Act 1 (H) Junk	271	Map Good t3	30	Act 5 (H) Magic B	105														0
-Act 1 Miss A	9	0	1					95	gld	271	Act 1 Equip A	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow A	90	Ammo	45												0
-Act 1 Miss B	9	5	1					95	gld	271	Act 1 Equip B	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow B	90	Ammo	45												0
-Act 1 Miss C	9	9	1					95	gld	271	Act 1 Equip C	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow C	90	Ammo	45												0
-Act 2 Miss A	9	12	1					95	gld	271	Act 2 Equip A	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow A	90	Ammo	45												0
-Act 2 Miss B	9	15	1					95	gld	271	Act 2 Equip B	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow B	90	Ammo	45												0
-Act 2 Miss C	9	18	1					95	gld	271	Act 2 Equip C	196	Act 2 Junk	271	Act 3 Good	30	Act 2 Bow C	90	Ammo	45												0
-Act 3 Miss A	9	20	1					95	gld	271	Act 3 Equip A	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow A	90	Ammo	45												0
-Act 3 Miss B	9	22	1					95	gld	271	Act 3 Equip B	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow B	90	Ammo	45												0
-Act 3 Miss C	9	24	1					95	gld	271	Act 3 Equip C	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow C	90	Ammo	45												0
-Act 4 Miss A	9	26	1					95	gld	271	Act 4 Equip A	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow A	90	Ammo	45												0
-Act 4 Miss B	9	29	1					95	gld	271	Act 4 Equip B	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow B	90	Ammo	45												0
-Act 5 Miss A	9	32	1					95	gld	271	Act 5 Equip A	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow A	90	Ammo	45												0
-Act 5 Miss B	9	34	1					95	gld	271	Act 5 Equip B	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	45												0
-Act 5 Miss C	9	36	1					95	gld	271	Act 5 Equip C	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	45												0
-Act 1 (N) Miss A	9	38	1					95	gld	271	Act 1 (N) Equip A	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow A	90	Ammo	45												0
-Act 1 (N) Miss B	9	40	1					95	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo	45												0
-Act 1 (N) Miss C	9	41	1					95	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo	45												0
-Act 2 (N) Miss A	9	42	1					95	gld	271	Act 2 (N) Equip A	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow A	90	Ammo	45												0
-Act 2 (N) Miss B	9	44	1					95	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo	45												0
-Act 2 (N) Miss C	9	45	1					95	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo	45												0
-Act 3 (N) Miss A	9	46	1					95	gld	271	Act 3 (N) Equip A	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow A	90	Ammo	45												0
-Act 3 (N) Miss B	9	48	1					95	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo	45												0
-Act 3 (N) Miss C	9	50	1					95	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo	45												0
-Act 4 (N) Miss A	9	51	1					95	gld	271	Act 4 (N) Equip A	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow A	90	Ammo	45												0
-Act 4 (N) Miss B	9	54	1					95	gld	271	Act 4 (N) Equip B	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow B	90	Ammo	45												0
-Act 5 (N) Miss A	9	57	1					95	gld	271	Act 5 (N) Equip A	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow A	90	Ammo	45												0
-Act 5 (N) Miss B	9	60	1					95	gld	271	Act 5 (N) Equip B	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo	45												0
-Act 5 (N) Miss C	9	62	1					95	gld	271	Act 5 (N) Equip C	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo	45												0
-Act 1 (H) Miss A	9	63	1					95	gld	271	Act 1 (H) Equip A	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow A	90	Ammo	45												0
-Act 1 (H) Miss B	9	66	1					95	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo	45												0
-Act 1 (H) Miss C	9	68	1					95	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo	45												0
-Act 2 (H) Miss A	9	69	1					95	gld	271	Act 2 (H) Equip A	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow A	90	Ammo	45												0
-Act 2 (H) Miss B	9	71	1					95	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo	45												0
-Act 2 (H) Miss C	9	72	1					95	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo	45												0
-Act 3 (H) Miss A	9	74	1					95	gld	271	Act 3 (H) Equip A	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow A	90	Ammo	45												0
-Act 3 (H) Miss B	9	75	1					95	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo	45												0
-Act 3 (H) Miss C	9	77	1					95	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo	45												0
-Act 4 (H) Miss A	9	78	1					95	gld	271	Act 4 (H) Equip A	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow A	90	Ammo	45												0
-Act 4 (H) Miss B	9	80	1					95	gld	271	Act 4 (H) Equip B	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow B	90	Ammo	45												0
-Act 5 (H) Miss A	9	81	1					95	gld	271	Act 5 (H) Equip A	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow A	90	Ammo	45												0
-Act 5 (H) Miss B	9	83	1					95	gld	271	Act 5 (H) Equip B	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo	45												0
-Act 5 (H) Miss C	9	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo	45												0
-Map Miss t1	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t1	30	Act 5 (H) Bow B	90	Ammo	45												0
-Map Miss t2	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t2	30	Act 5 (H) Bow B	90	Ammo	45												0
-Map Miss t3	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t3	30	Act 5 (H) Bow B	90	Ammo	45												0
+Act 1 Miss A	9	0	1					95	gld	271	Act 1 Equip A	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow A	90	Ammo	20												0
+Act 1 Miss B	9	5	1					95	gld	271	Act 1 Equip B	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow B	90	Ammo	20												0
+Act 1 Miss C	9	9	1					95	gld	271	Act 1 Equip C	196	Act 1 Junk	271	Act 1 Good	30	Act 1 Bow C	90	Ammo	20												0
+Act 2 Miss A	9	12	1					95	gld	271	Act 2 Equip A	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow A	90	Ammo	20												0
+Act 2 Miss B	9	15	1					95	gld	271	Act 2 Equip B	196	Act 2 Junk	271	Act 2 Good	30	Act 2 Bow B	90	Ammo	20												0
+Act 2 Miss C	9	18	1					95	gld	271	Act 2 Equip C	196	Act 2 Junk	271	Act 3 Good	30	Act 2 Bow C	90	Ammo	20												0
+Act 3 Miss A	9	20	1					95	gld	271	Act 3 Equip A	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow A	90	Ammo	20												0
+Act 3 Miss B	9	22	1					95	gld	271	Act 3 Equip B	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow B	90	Ammo	20												0
+Act 3 Miss C	9	24	1					95	gld	271	Act 3 Equip C	196	Act 3 Junk	271	Act 3 Good	30	Act 3 Bow C	90	Ammo	20												0
+Act 4 Miss A	9	26	1					95	gld	271	Act 4 Equip A	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow A	90	Ammo	20												0
+Act 4 Miss B	9	29	1					95	gld	271	Act 4 Equip B	196	Act 4 Junk	271	Act 4 Good	30	Act 4 Bow B	90	Ammo	20												0
+Act 5 Miss A	9	32	1					95	gld	271	Act 5 Equip A	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow A	90	Ammo	20												0
+Act 5 Miss B	9	34	1					95	gld	271	Act 5 Equip B	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	20												0
+Act 5 Miss C	9	36	1					95	gld	271	Act 5 Equip C	196	Act 5 Junk	271	Act 5 Good	30	Act 5 Bow B	90	Ammo	20												0
+Act 1 (N) Miss A	9	38	1					95	gld	271	Act 1 (N) Equip A	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow A	90	Ammo(N)	20												0
+Act 1 (N) Miss B	9	40	1					95	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo(N)	20												0
+Act 1 (N) Miss C	9	41	1					95	gld	271	Act 1 (N) Equip B	196	Act 1 (N) Junk	271	Act 1 (N) Good	30	Act 1 (N) Bow B	90	Ammo(N)	20												0
+Act 2 (N) Miss A	9	42	1					95	gld	271	Act 2 (N) Equip A	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow A	90	Ammo(N)	20												0
+Act 2 (N) Miss B	9	44	1					95	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo(N)	20												0
+Act 2 (N) Miss C	9	45	1					95	gld	271	Act 2 (N) Equip B	196	Act 2 (N) Junk	271	Act 2 (N) Good	30	Act 2 (N) Bow B	90	Ammo(N)	20												0
+Act 3 (N) Miss A	9	46	1					95	gld	271	Act 3 (N) Equip A	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow A	90	Ammo(N)	20												0
+Act 3 (N) Miss B	9	48	1					95	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo(N)	20												0
+Act 3 (N) Miss C	9	50	1					95	gld	271	Act 3 (N) Equip B	196	Act 3 (N) Junk	271	Act 3 (N) Good	30	Act 3 (N) Bow B	90	Ammo(N)	20												0
+Act 4 (N) Miss A	9	51	1					95	gld	271	Act 4 (N) Equip A	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow A	90	Ammo(N)	20												0
+Act 4 (N) Miss B	9	54	1					95	gld	271	Act 4 (N) Equip B	196	Act 4 (N) Junk	271	Act 4 (N) Good	30	Act 4 (N) Bow B	90	Ammo(N)	20												0
+Act 5 (N) Miss A	9	57	1					95	gld	271	Act 5 (N) Equip A	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow A	90	Ammo(N)	20												0
+Act 5 (N) Miss B	9	60	1					95	gld	271	Act 5 (N) Equip B	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo(N)	20												0
+Act 5 (N) Miss C	9	62	1					95	gld	271	Act 5 (N) Equip C	196	Act 5 (N) Junk	271	Act 5 (N) Good	30	Act 5 (N) Bow B	90	Ammo(N)	20												0
+Act 1 (H) Miss A	9	63	1					95	gld	271	Act 1 (H) Equip A	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow A	90	Ammo(H)	20												0
+Act 1 (H) Miss B	9	66	1					95	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo(H)	20												0
+Act 1 (H) Miss C	9	68	1					95	gld	271	Act 1 (H) Equip B	196	Act 1 (H) Junk	271	Act 1 (H) Good	30	Act 1 (H) Bow B	90	Ammo(H)	20												0
+Act 2 (H) Miss A	9	69	1					95	gld	271	Act 2 (H) Equip A	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow A	90	Ammo(H)	20												0
+Act 2 (H) Miss B	9	71	1					95	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo(H)	20												0
+Act 2 (H) Miss C	9	72	1					95	gld	271	Act 2 (H) Equip B	196	Act 1 (H) Junk	271	Act 2 (H) Good	30	Act 2 (H) Bow B	90	Ammo(H)	20												0
+Act 3 (H) Miss A	9	74	1					95	gld	271	Act 3 (H) Equip A	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow A	90	Ammo(H)	20												0
+Act 3 (H) Miss B	9	75	1					95	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo(H)	20												0
+Act 3 (H) Miss C	9	77	1					95	gld	271	Act 3 (H) Equip B	196	Act 1 (H) Junk	271	Act 3 (H) Good	30	Act 3 (H) Bow B	90	Ammo(H)	20												0
+Act 4 (H) Miss A	9	78	1					95	gld	271	Act 4 (H) Equip A	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow A	90	Ammo(H)	20												0
+Act 4 (H) Miss B	9	80	1					95	gld	271	Act 4 (H) Equip B	196	Act 1 (H) Junk	271	Act 4 (H) Good	30	Act 4 (H) Bow B	90	Ammo(H)	20												0
+Act 5 (H) Miss A	9	81	1					95	gld	271	Act 5 (H) Equip A	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow A	90	Ammo(H)	20												0
+Act 5 (H) Miss B	9	83	1					95	gld	271	Act 5 (H) Equip B	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo(H)	20												0
+Act 5 (H) Miss C	9	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Act 5 (H) Good	30	Act 5 (H) Bow B	90	Ammo(H)	20												0
+Map Miss t1	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t1	30	Act 5 (H) Bow B	90	Ammo(H)	20												0
+Map Miss t2	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t2	30	Act 5 (H) Bow B	90	Ammo(H)	20												0
+Map Miss t3	23	85	1					95	gld	271	Act 5 (H) Equip C	196	Act 1 (H) Junk	271	Map Good t3	30	Act 5 (H) Bow B	90	Ammo(H)	20												0
 Act 1 Wraith A	10	0	1					195	Act 1 Good	111	Act 1 Magic A	693																				0
 Act 1 Wraith B	10	5	1					195	Act 1 Good	111	Act 1 Magic B	693																				0
 Act 1 Wraith C	10	9	1					195	Act 1 Good	111	Act 1 Magic C	693																				0
@@ -912,7 +914,7 @@ Bloodwitch (H)			5	800	800	972	1024	3	"gld,mul=2048"	340	Act 2 (H) Equip B	461	A
 Treasure Fallen Gem H			2					10	Perfect Gem	4	Flawless Gem	1																				0
 Treasure Fallen Map			2					12	T3 Map Drop	4	irma	1	irra	2	rrra	2	urma	1	scou	1												0
 Treasure Fallen Rune H			2					12	Runes 17	7																						0
-Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	2										0
+Treasure Fallen Craft H			1					12	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1	crfp	1										
 Map Void			1					400	mp5	5	yps	10	rvl	40																		0
 Map Void2			2					100	mp5	10	rvl	70																				0
 Map Void3			2					25	mp5	10	yps	10	rvl	50																		0
@@ -942,8 +944,8 @@ BR Arena Chests N		30	1	1600	1000	1400	500	10	Act 5 Uitem C	48	BR Arena misc	13	
 BR Arena Chests NM		60	1	1600	1000	1400	500	10	Act 5 (N) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 14	4	BR Arena jewerly	8												0
 BR Arena Chests H		90	1	1600	1000	1400	500	10	Act 5 (H) Uitem C	48	BR Arena misc	13	BR Arena Flawless Gem	2	BR Arena Perfect Gem	1	BR Arena Runes 17	4	BR Arena jewerly	8												0
 BR Arena Bodies N		30	1	1000	850	1400	800	0	Act 5 Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Perfect Gem	2	BR Arena Runes 6	4	BR Arena jewerly	2										0
-BR Arena Bodies NM		60	1	1000	850	1400	800	0	Act 5 (N) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Perfect Gem	2	BR Arena Runes 14	4	BR Arena jewerly	2										0
-BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo	2	BR Arena Perfect Gem	2	BR Arena Runes 17	4	BR Arena jewerly	2										0
+BR Arena Bodies NM		60	1	1000	850	1400	800	0	Act 5 (N) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo(N)	2	BR Arena Perfect Gem	2	BR Arena Runes 14	4	BR Arena jewerly	2										0
+BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5	BR Arena Flawless Gem	4	Ammo(H)	2	BR Arena Perfect Gem	2	BR Arena Runes 17	4	BR Arena jewerly	2										0
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
@@ -995,11 +997,11 @@ Treasure Fallen Craft NM			2					16	crfb	1	crfc	1	crfs	1	crfh	1	crfv	1	crfu	1			
 Treasure Fallen N			3					12	Treasure Fallen Gem N	1	Treasure Fallen Rune N	1	Treasure Fallen Craft N	1	"gld,mul=2048"	2																0
 Treasure Fallen NM			3					11	Treasure Fallen Gem NM	1	Treasure Fallen Rune NM	1	Treasure Fallen Craft NM	1	"gld,mul=3072"	2																0
 Treasure Fallen H			3						gcbx	1	Treasure Fallen Rune H	2	ccbx	2	Treasure Fallen Map	2	"gld,mul=4096"	5	New orbs T1T2	1												0
-Larzuk Puzzlebox N				0																												0
-Larzuk Puzzlebox NM				4500	10																											0
+Larzuk Puzzlebox N				1200	10																											0
+Larzuk Puzzlebox NM				600	10																											0
 Larzuk Puzzlebox H				200	10																											0
-Larzuk Puzzlepiece N				4050	10																											0
-Larzuk Puzzlepiece NM				2025	10																											0
+Larzuk Puzzlepiece N				600	10																											0
+Larzuk Puzzlepiece NM				300	10																											0
 Larzuk Puzzlepiece H				100	10																											0
 SkeletonKey N				15000	100																											
 SkeletonKey NM				7500	100																											
@@ -1029,15 +1031,16 @@ lucbN				0	10
 lucbNM				0																												
 lucbH				250																												
 lucc				500																												
-lucdN				0	100																											
+lucdN				0	150																											
 lucdNM				0	10																											
 lucdH				1000	1																											
 T4MidMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30						0
 T4FinalMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30						0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
 LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	60	divo	30														0
-Demonic Cube N				20000	100																											
-Demonic Cube NM				10000	100																											
+Demonic Cube N				5000	1																											
+Demonic Cube NM				2500	1																											
 Demonic Cube H				1000	1																											
+Corrupted Zone T1 Maps				125																												
 UberDiablo			1					15	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														
 RathmaNew			1					15	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1																		

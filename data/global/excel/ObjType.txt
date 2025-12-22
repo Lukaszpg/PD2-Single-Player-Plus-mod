@@ -626,3 +626,5 @@ xactdarkportal_grey	#6	0
 LucionChest	yf	0
 PVPTome2	TT	0
 InactiveStoneDesertShrine	SG	0
+InactiveGidbinn	4Z	0
+GreenBrazier	4Y	0

@@ -1150,3 +1150,5 @@ Demon Road Map	1146	191	1	1	0	1	1	1	0	0	0	1	2	-4	4	Expansion/Map/DemonRoad1.ds1	
 Imperial Palace	1147	192	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/Imperial_palace.ds1	0	0	0	0	0	1008	0	1
 Halls of Torture Map	1148	193	1	0	0	0	0	1	0	0	0	1	0	0	3	Expansion/Map/TortureHalls.ds1	Expansion/Map/TortureHalls2.ds1	Expansion/Map/TortureHalls3.ds1	0	0	0	15	0	1
 Imperial Palace Boss Room	1149	194	1	1	0	0	0	1	0	0	0	1	1	1	1	Expansion/Map/ImperialPalaceBossRoom.ds1	0	0	0	0	0	639	0	0
+Ureh City Map	1150	195	1	1	1	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/UrehCity.ds1	0	0	0	0	0	1056968072	0	1
+Nemyr Monastery	1151	196	1	1	0	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/nemyrMonastery.ds1	0	0	0	0	0	8388698	0	1

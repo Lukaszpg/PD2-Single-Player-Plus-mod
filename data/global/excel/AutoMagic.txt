@@ -50,3 +50,9 @@ Blade Barrier		100	1	1	1		1				1	317	thorns		80	100											armo	weap									
 Bone Shield		100	1	1	1		1				1	318	red-mag		2	4											armo	weap													0
 Grim Shield		100	1	1	1		1				1	319	red-mag		4	6											armo	weap													0
 Troll Nest		100	1	1	1		1				1	320	red-mag		6	8											armo	weap													0
+Arrows Tier 1		100	1	1	1		1				1	321	dmg-max		2	2											bowq														0
+Arrows Tier 2		100	1	1	1		1				1	322	dmg-max		10	10											bowq														0
+Arrows Tier 3		100	1	1	1		1				1	323	dmg-max		18	18											bowq														0
+Bolts Tier 1		100	1	1	1		1				1	324	pierce-phys		2	2											xboq														0
+Bolts Tier 2		100	1	1	1		1				1	325	pierce-phys		4	4											xboq														0
+Bolts Tier 3		100	1	1	1		1				1	326	pierce-phys		6	6											xboq														0
