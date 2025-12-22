@@ -2361,6 +2361,20 @@ Crescent Moon	1			100	16	361	6004		2	amu,rar	mfo,qty=1						Crescent Moon	99				
 Thy Eye of Etlich	1			100	16	361	6005		2	amu,rar	mfo,qty=1						The Eye of Etlich	99																																																																																						0
 Atma's Scarab	1			100	16	361	6006		2	amu,rar	mfo,qty=1						Atma's Scarab	99																																																																																						0
 																																																																																																								0
+MYTHIC ORB - QUIVERS																																																																																																								0
+White Normal Arrows	1			100					2	aqv,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+White Exceptional Arrows	1			100					2	aqv2,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Normal Arrows	1			100					2	aqv,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Exceptional Arrows	1			100					2	aqv2,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Normal Arrows	1			100					2	aqv,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Exceptional Arrows	1			100					2	aqv2,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+White Normal Bolts	1			100					2	cqv,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+White Exceptional Bolts	1			100					2	cqv2,nor	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Normal Bolts	1			100					2	cqv,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Magic Exceptional Bolts	1			100					2	cqv2,mag	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Normal Bolts	1			100					2	cqv,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+Rare Exceptional Bolts	1			100					2	cqv2,rar	"mfo,qty=1"						usetype,uni	99			dye	100		2	2																																																																															0
+																																																																																																								0
 DIVINE ORB																																																																																																								0
 																																																																																																								0
 Convert normal quality armor to unique	1			100	18	361	0		2	armo,nor,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
@@ -2372,6 +2386,14 @@ Convert superior quality weapon to unique	1			100	18	361	0		2	weap,hiq,eli	"divo
 Convert magic quality weapon to unique	1			100	18	361	0		2	weap,mag,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
 Convert rare quality weapon to unique	1			100	18	361	0		2	weap,rar,eli	"divo,qty=1"						usetype,uni,noe	99			dye	100		3	3																																																																															0
 Divine Orb + 15 jewel fragments = random rainbow facet	1			100					2	"divo,qty=1"	"jewf,qty=15"						jew,uni	85																																																																																						0
+																																																																																																								0
+DIVINE ORB - QUIVERS																																																																																																								0
+White Elite Arrows	1			100					2	aqv3,nor	"divo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Magic Elite Arrows	1			100					2	aqv3,mag	"divo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Rare Elite Arrows	1			100					2	aqv3,rar	"divo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+White Elite Bolts	1			100					2	cqv3,nor	"divo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Magic Elite Bolts	1			100					2	cqv3,mag	"divo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
+Rare Elite Bolts	1			100					2	cqv3,rar	"divo,qty=1"						usetype,uni	99			dye	100		3	3																																																																															0
 																																																																																																								0
 DIVINE ORB RINGS ROLLING																																																																																																								0
 																																																																																																								0
