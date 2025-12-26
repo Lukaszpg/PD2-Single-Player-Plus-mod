@@ -381,7 +381,7 @@ Sigurd's Staunch	100	1		1	1	80	72	uhc	Colossus Girdle			5	5000				invcolossus			
 Carrion Wind	100	1		3	1	68	60	rin	ring			3	5000								ac-miss		100	160	lifesteal		6	9	res-pois		40	55	thorns		180	300	charged	Plague Poppy	35	11	hit-skill	Twister	8	30	move2		20	20																					0
 Giantskull	100	1		1	1	73	65	uh9	bone visage			3	5000	lgry	lgry		invbhm				ac		250	320	str		25	35	crush		25	25	pierce		25	35	knock		1	1	dmg%		60	80																									0
 Ironward	100	1		1	1	68	60	7ws	caduceus			3	5000	blac	blac						dmg%		240	290	slow		15	15	att%		150	200	swing2		40	40	dmg-mag		160	480	red-dmg		4	7	dmg		100	125	skilltab	9	3	4	crush		33	33									splash	358	100	1	0
-Annihilus	100	1		0	1	130	70	cm1	charm			3	5000			flpmss	invmss	item_gem	12	item_gem	allskills		1	1	vit		30	60	enr		10	20	res-all		10	20	addxp		5	10																													0
+Annihilus	100	1		255	1	130	70	cm1	charm			3	5000			flpmss	invmss	item_gem	12	item_gem	allskills		1	1	vit		30	60	enr		10	20	res-all		10	20	addxp		5	10																													0
 Arioc's Needle	100	1		1	1	85	81	7sr	hyperion spear			3	5000								dmg%		240	290	Deep-Wounds		750	750	deadly		50	50	ignore-ac		1	1	allskills		4	5	swing2		30	30	openwounds		20	20																	splash	358	100	1	0
 Cranebeak	100	1		1	1	71	63	7mp	war spike			3	5000	dgry			invmpiu				dmg%		240	300	dmg-ltng		1	305	swing2		40	40	reduce-ac		25	25	mag%		30	60	skill	221	4	6																					splash	358	100	1	0
 Nord's Tenderizer	100	1		1	1	76	68	7cl	truncheon			3	5000				invclbu				dmg%		270	330	freeze		2	4	swing2		25	25	hit-skill	Blizzard	18	32	att%		150	180	abs-cold%		5	15	dmg-cold	125	205	455																	splash	358	100	1	0
