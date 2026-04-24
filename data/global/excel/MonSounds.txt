@@ -146,3 +146,4 @@ Butcher	smith_attack_1	weapon_2hs_large_1	0	2	80	170	smith_attack_1	weapon_2hs_l
 izualnotaunt	izual_attack_1		0		100		izual_attack_1		0		100		izual_hit_1	izual_death	2	1					medium_walk_dirt_1		2	0	100															0
 leoric		leoric_swing		3		230	leoric_swing	weapon_1hs_large_1		6		255	skeleton_hit_1	leoric_death	1	1					heavy_walk_dirt_1	skeleton_walk_1	2	0	100		0		leoric_taunt											0
 zhar	zhar_attack1						zhar_attack1						zhar_gethit1	zhar_death	1	1	zhar_cast1	zhar_attack1	zhar_cast1		medium_walk_dirt_1		2	0	100				zhar_taunt											0
+nakrulsound	nakrul_attack_1		0		100		nakrul_attack_1		0		100			nakrul_death_1	1	1	nakrul_attack_1	nakrul_attack_1			heavy_walk_dirt_1	walk_ginormous_high_1	2	0	100				nakrul_taunt											0

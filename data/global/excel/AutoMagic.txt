@@ -56,3 +56,4 @@ Arrows Tier 3		100	1	1	1		1				1	323	dmg-max		18	18											bowq														
 Bolts Tier 1		100	1	1	1		1				1	324	pierce-phys		2	2											xboq														0
 Bolts Tier 2		100	1	1	1		1				1	325	pierce-phys		4	4											xboq														0
 Bolts Tier 3		100	1	1	1		1				1	326	pierce-phys		6	6											xboq														0
+Throwing Knife		100	1	1	1		1				1	327	crit-strike-multiplier		15	15	splash	358	100	1							tkni														0

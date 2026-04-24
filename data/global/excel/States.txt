@@ -203,7 +203,7 @@ hunger	200																																											bloodlust_state												
 passive_meditate	201																																																																						0
 immune_give	202					1				1							1	1	1																																lightresist																				0
 immune_get	203					1				1							1	1	1																																lightresist																				0
-cowset	204	3			1							1																																																					1	391					0
+cowset	204	3																																																															1	391					0
 bloodwarp	205																																																																						0
 poison_weakness	206																											1																poison_weakness																											0
 merc_passive_mastery	207																																																																						0
@@ -240,3 +240,4 @@ maxlevel8set	237																																											maxlevel_aura	maxleve
 progressive_mindblast	238																																					1													progressive_mindblast	1	1																		0
 lucionset	239																																											lucion_aura																											0
 lucion8set	240																																											lucion_aura	lucion_t8_aura																										0
+uberscaling	241																																																																						0

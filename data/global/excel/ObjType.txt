@@ -628,3 +628,5 @@ PVPTome2	TT	0
 InactiveStoneDesertShrine	SG	0
 InactiveGidbinn	4Z	0
 GreenBrazier	4Y	0
+automap_door_L	ZZ	0
+automap_door_R	ZZ	0

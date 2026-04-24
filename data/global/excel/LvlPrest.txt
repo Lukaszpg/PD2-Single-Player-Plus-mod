@@ -1145,10 +1145,15 @@ Kanemith Outside	1141	186	1	0	0	0	1	1	0	0	0	1	1	-4	1	Expansion/Map/dakenshar.ds1
 Kanemith Dungeon	1142	187	1	0	0	0	1	1	0	0	0	1	1	-4	1	Expansion/Map/tombsofkanemith.ds1	0	0	0	0	0	1920	0	1
 LucionArena	1143	188	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/lucionarena.ds1	0	0	0	0	0	32767	1	0
 LucionVault	1144	189	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/lucionvault.ds1	0	0	0	0	0	7340031	1	0
-Skovos Stronghold Map	1145	190	1	1	1	0	1	1	0	0	0	1	0	0	1	Expansion/Map/SkovosStrongholdV1.ds1	0	0	0	0	0	864026623	0	1
+Skovos Stronghold Map	1145	190	1	1	1	0	1	1	0	0	0	1	0	0	2	Expansion/Map/SkovosStrongholdV1.ds1	Expansion/Map/SkovosStrongholdV2.ds1	0	0	0	0	864026623	0	1
 Demon Road Map	1146	191	1	1	0	1	1	1	0	0	0	1	2	-4	4	Expansion/Map/DemonRoad1.ds1	Expansion/Map/DemonRoad2.ds1	Expansion/Map/DemonRoad3.ds1	Expansion/Map/DemonRoad4.ds1	0	0	127	0	1
 Imperial Palace	1147	192	1	1	1	1	1	1	0	0	0	1	0	0	1	Expansion/Map/Imperial_palace.ds1	0	0	0	0	0	1008	0	1
 Halls of Torture Map	1148	193	1	0	0	0	0	1	0	0	0	1	0	0	3	Expansion/Map/TortureHalls.ds1	Expansion/Map/TortureHalls2.ds1	Expansion/Map/TortureHalls3.ds1	0	0	0	15	0	1
 Imperial Palace Boss Room	1149	194	1	1	0	0	0	1	0	0	0	1	1	1	1	Expansion/Map/ImperialPalaceBossRoom.ds1	0	0	0	0	0	639	0	0
 Ureh City Map	1150	195	1	1	1	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/UrehCity.ds1	0	0	0	0	0	1056968072	0	1
 Nemyr Monastery	1151	196	1	1	0	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/nemyrMonastery.ds1	0	0	0	0	0	8388698	0	1
+Djinns Domain Map	1152	197	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/Map/DjinnsDomain.ds1	0	0	0	0	0	8191	0	1
+Djinns Domain Red Map	1153	198	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/Map/DjinnsDomainRed.ds1	0	0	0	0	0	8191	0	1
+Djinns Domain Boss Map	1154	199	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/Map/DjinnsDomainBoss.ds1	0	0	0	0	0	8191	0	1
+Na-Krul's Abyss Map	1155	200	1	0	0	1	0	1	0	0	0	1	0	0	2	Expansion/Map/NaKrulAbyss2.ds1	Expansion/Map/NaKrulAbyss2.ds1	0	0	0	0	7	0	1
+Kyovoshad Map	1156	201	1	1	1	0	1	1	0	0	0	1	2	-4	2	Expansion/Map/Kyovoshad1.ds1	Expansion/Map/Kyovoshad2.ds1	0	0	0	0	1023	0	1

@@ -4637,3 +4637,213 @@ Expansion
 42	wre	0	0	0	temple wre A	1371		-1		-1		-1
 42	wre	0	1	1	temple wre B	1372		-1		-1		-1
 42	fl	21	2	2	temple str dwn	1373		-1		-1		-1
+43	fl	0	-1	-1	Arcane Floors	289		-1		-1		-1
+43	fl	42	-1	-1	Djinn Floors Blood 1	1560	Blood 2	1561	Blood 3	1562	Blood 4	1563
+43	fl	41	-1	-1	Djinn Floors	289		-1		-1		-1
+43	fl	11	0	4	Other Harem Floors	289		-1		-1		-1
+43	fl	11	24	30	Other Harem Floors	289		-1		-1		-1
+43	fl	40	16	16	aer_palace Floors	289		-1		-1		-1
+43	fl	11	18	19	palace Stairs L	1528		-1		-1		-1
+43	fl	40	0	1	aer_palace Stairs L	1528		-1		-1		-1
+43	fl	40	2	6	aer_palace Stairs R	1529		-1		-1		-1
+43	fl	40	18	42	aer_palace Floors 2	289		-1		-1		-1
+43	fl	38	-1	-1	Water1	266	Water2	267		-1		-1
+43	fl	39	-1	-1	Water3	266	Water4	267		-1		-1
+43	fl	1	16	16	Arcane Stairs Left	518		-1		-1		-1
+43	fl	1	22	22	Arcane Stairs Right	519		-1		-1		-1
+43	fl	11	13	13	Stairway Top	93		-1		-1		-1
+43	fl	11	16	16	Stairway Left	95		-1		-1		-1
+43	fl	11	14	14	Stairway Right	94		-1		-1		-1
+43	fl	11	17	17	Stairway Bottom	96		-1		-1		-1
+43	fl	1	8	8	Boss Exit	694		-1		-1		-1
+43	tr	0	0	4	Trees	1530		-1		-1		-1
+43	wl	1	-1	-1	Arch L	1531		-1		-1		-1
+43	wl	3	-1	-1	Arch L Bloody	1531		-1		-1		-1
+43	wl	2	2	2	TallHighArch L	1531		-1		-1		-1
+43	wl	11	0	1	HighArch L	1531		-1		-1		-1
+43	wr	1	-1	-1	Arch R	1532		-1		-1		-1
+43	wr	3	-1	-1	Arch R Bloody	1532		-1		-1		-1
+43	wrd	3	-1	-1	Doorway R Bloody	1532		-1		-1		-1
+43	wr	11	1	1	HighArch R	1532		-1		-1		-1
+43	wtlr	11	1	1	HighArch Corner	1533		-1		-1		-1
+43	wtlr	1	-1	-1	Arch LR	1533		-1		-1		-1
+43	wtll	1	-1	-1	Arch L	1531		-1		-1		-1
+43	wtr	1	-1	-1	Arch L	1531		-1		-1		-1
+43	wbl	1	-1	-1	Arch R	1532		-1		-1		-1
+43	wtlr	1	-1	-1	Arch Column	1536		-1		-1		-1
+43	wl	40	35	39	Fence L	1534		-1		-1		-1
+43	wr	40	34	38	Fence R	1535		-1		-1		-1
+43	wl	40	29	33	HighFence L	1537		-1		-1		-1
+43	wr	40	28	32	HighFence R	1538		-1		-1		-1
+43	wl	40	11	19	aer_palace Walls L	1539		-1		-1		-1
+43	wr	40	10	18	aer_palace Walls R	1540		-1		-1		-1
+43	wld	40	43	43	aer_palace Doors L	1541		-1		-1		-1
+43	wrd	40	49	49	aer_palace Doors L?	1541		-1		-1		-1
+43	wrd	40	42	42	aer_palace Doors R	1542		-1		-1		-1
+43	wrd	40	48	48	aer_palace Doors R	1542		-1		-1		-1
+43	wld	40	45	45	aer_palace Long arch L	1543		-1		-1		-1
+43	wrd	40	44	44	aer_palace Long arch R	1544		-1		-1		-1
+43	co	40	46	47	aer_palace Columns	1545		-1		-1		-1
+43	wl	2	0	1	HighWalls L	1547		-1		-1		-1
+43	wl	2	3	4	HighWalls L	1547		-1		-1		-1
+43	wl	0	0	1	Walls L	1539		-1		-1		-1
+43	wl	11	2	4	Walls L	1539		-1		-1		-1
+43	wl	11	6	6	Walls L	1539		-1		-1		-1
+43	wl	4	-1	-1	Walls L Bloody	1539		-1		-1		-1
+43	wl	11	5	5	Palace Arches L	1531		-1		-1		-1
+43	wl	4	-1	-1	Walls L	1539		-1		-1		-1
+43	wr	0	0	1	Wall R	1540		-1		-1		-1
+43	wr	4	-1	-1	Wall R Bloody	1540		-1		-1		-1
+43	wr	11	2	3	Wall R - Fenced	1549		-1		-1		-1
+43	wr	4	-1	-1	Wall R	1540		-1		-1		-1
+43	wtlr	0	-1	-1	Wall Corner	1546		-1		-1		-1
+43	wtr	0	-1	-1	Walls L End	1547		-1		-1		-1
+43	wl	14	0	0	Palace Walls L	1539		-1		-1		-1
+43	wl	14	1	1	Palace Walls L End	1547		-1		-1		-1
+43	wr	14	0	0	Palace Walls R	1540		-1		-1		-1
+43	wr	14	1	1	Palace Walls R End	1548		-1		-1		-1
+43	wtlr	14	0	0	Palace Walls Corner	1546		-1		-1		-1
+43	wbr	14	0	0	Palace Walls Tower	1545		-1		-1		-1
+43	wbl	0	-1	-1	Wall R End	1548		-1		-1		-1
+43	wbr	0	0	0	Wall Bottom	1545		-1		-1		-1
+43	wld	0	1	1	Door L	1541		-1		-1		-1
+43	wrd	0	1	1	Door R	1542		-1		-1		-1
+43	wr	11	4	4	Door R	1542		-1		-1		-1
+43	wtll	11	1	1	HighArch L	1531		-1		-1		-1
+43	wtll	11	0	0	Palace_Wall L	1540		-1		-1		-1
+43	wtll	11	2	2	Palace_Wall L	1547		-1		-1		-1
+43	wtr	11	0	1	Palace_Wall L	1547		-1		-1		-1
+43	wbl	11	0	0	Palace_Wall R	1548		-1		-1		-1
+43	wtr	40	59	59	Spire L	1550		-1		-1		-1
+43	wbl	40	58	58	Spire R	1551		-1		-1		-1
+43	wtr	40	57	57	Tower L	1552		-1		-1		-1
+43	wbl	40	56	56	Tower R	1553		-1		-1		-1
+43	wl	0	5	5	Gate L1	1554		-1		-1		-1
+43	wl	0	4	4	Gate L2	1555		-1		-1		-1
+43	wr	0	5	5	Gate R1	1556		-1		-1		-1
+43	wr	0	4	4	Gate R2	1557		-1		-1		-1
+43	rf	13	26	26	Big Palace	1558		-1		-1		-1
+43	co	3	10	10	Fountain	1559		-1		-1		-1
+44	co	10	7	7	Na-Krul's Abyss Boss1	1492		-1		-1		-1
+44	co	10	8	8	Na-Krul's Abyss Boss2	1493		-1		-1		-1
+44	co	7	0	2	Na-Krul's Abyss Pillar	85		-1		-1		-1
+44	fl	1	13	13	Na-Krul's Abyss Pillar	85		-1		-1		-1
+44	fl	1	0	5	Na-Krul's Abyss floor	1469		1470		1471		-1
+44	fl	1	6	6	Na-Krul's Abyss Lava	1486		-1		-1		-1
+44	wl	2	1	2	Na-Krul's Abyss Wall left	1564		-1		-1		-1
+44	wl	2	5	15	Na-Krul's Abyss Wall left	1564		-1		-1		-1
+44	wl	2	3	3	Na-Krul's Abyss Wall open left	1567		-1		-1		-1
+44	wl	2	4	4	Na-Krul's Abyss Wall open left	1568		-1		-1		-1
+44	wr	3	0	11	Na-Krul's Abyss Wall right	1565		-1		-1		-1
+44	wl	6	1	1	Na-Krul's Abyss Wall left	1564		-1		-1		-1
+44	wl	6	6	6	Na-Krul's Abyss Wall left	1564		-1		-1		-1
+44	wr	6	2	2	Na-Krul's Abyss Wall right	1565		-1		-1		-1
+44	wr	6	7	7	Na-Krul's Abyss Wall right	1565		-1		-1		-1
+44	wrd	10	5	5	Na-Krul's Abyss Wall open right	1569		-1		-1		-1
+44	wrd	10	6	6	Na-Krul's Abyss Wall open right	1570		-1		-1		-1
+44	wl	10	4	4	Na-Krul's Abyss Wall left	1564		-1		-1		-1
+44	co	10	0	3	Na-Krul's Abyss Statue	1566		-1		-1		-1
+44	co	4	0	8	Na-Krul's Abyss Wall center	1571		-1		-1		-1
+44	co	6	4	4	Na-Krul's Abyss Wall center	1571		-1		-1		-1
+44	wr	10	12	12	Na-Krul's Abyss Wall center	1565		-1		-1		-1
+45	fl	11	0	0	Hell_00	460		-1		-1		-1
+45	fl	11	1	1	Hell_01	461		-1		-1		-1
+45	fl	11	2	2	Hell_02	462		-1		-1		-1
+45	fl	11	3	3	Hell_03	463		-1		-1		-1
+45	fl	11	4	4	Hell_04	464		-1		-1		-1
+45	fl	11	5	5	Hell_05	465		-1		-1		-1
+45	fl	11	6	6	Hell_06	466		-1		-1		-1
+45	fl	11	7	8	Hell_07	467		-1		-1		-1
+45	fl	11	9	9	Hell_09	468		-1		-1		-1
+45	fl	11	10	10	Hell_10	469		-1		-1		-1
+45	fl	11	11	11	Hell_11	470		-1		-1		-1
+45	fl	11	12	12	Hell_12	471		-1		-1		-1
+45	fl	11	14	14	Mesa 11 14	1161		-1		-1		-1
+45	fl	11	15	15	Mesa 11 15	1162		-1		-1		-1
+45	fl	11	16	16	Mesa 11 16	1163		-1		-1		-1
+45	fl	11	17	17	Mesa 11 17	1164		-1		-1		-1
+45	fl	11	19	19	Mesa 11 19	1166		-1		-1		-1
+45	fl	11	20	20	Mesa 11 20	1167		-1		-1		-1
+45	fl	11	21	21	Mesa 11 21	1168		-1		-1		-1
+45	fl	11	22	22	Mesa 11 22	1169		-1		-1		-1
+45	fl	11	23	23	Mesa 11 23	1170		-1		-1		-1
+45	fl	11	24	24	Mesa 11 24	1171		-1		-1		-1
+45	fl	11	25	25	Mesa 11 25	1172		-1		-1		-1
+45	fl	11	26	26	Mesa 11 26	1173		-1		-1		-1
+45	fl	11	27	27	Mesa 11 27	1174		-1		-1		-1
+45	fl	11	28	28	Mesa 11 28	1175		-1		-1		-1
+45	fl	12	32	32	Mesa Strs 12 32	1080		-1		-1		-1
+45	fl	12	33	33	Mesa Strs 12 33	1081		-1		-1		-1
+45	fl	12	34	34	Mesa Strs 12 34	1082		-1		-1		-1
+45	fl	12	35	35	Mesa Strs 12 35	1083		-1		-1		-1
+45	fl	12	4	4	Mesa Strs 12 4	1084		-1		-1		-1
+45	fl	12	5	5	Mesa Strs 12 5	1085		-1		-1		-1
+45	fl	12	6	6	Mesa Strs 12 6	1086		-1		-1		-1
+45	fl	12	7	7	Mesa Strs 12 7	1087		-1		-1		-1
+45	fl	12	9	9	Mesa Strs 12 9	1088		-1		-1		-1
+45	fl	12	10	10	Mesa Strs 12 10	1089		-1		-1		-1
+45	fl	12	11	11	Mesa Strs 12 11	1090		-1		-1		-1
+45	fl	12	13	13	Mesa Strs 12 13	1091		-1		-1		-1
+45	fl	12	12	12	Mesa Strs 12 12	1092		-1		-1		-1
+45	fl	12	14	14	Mesa Strs 12 14	1093		-1		-1		-1
+45	fl	12	15	15	Mesa Strs 12 15	1094		-1		-1		-1
+45	fl	12	16	16	Mesa strs 12 16	1156		-1		-1		-1
+45	fl	12	18	18	Mesa Strs 12 18	1095		-1		-1		-1
+45	fl	12	36	36	Mesa Strs 12 36	1096		-1		-1		-1
+45	fl	12	37	37	Mesa Strs 12 37	1097		-1		-1		-1
+45	fl	13	29	29	Act4 13 29 brdge	1060		-1		-1		-1
+45	fl	13	24	24	Act4 13 24 brdge	1061		-1		-1		-1
+45	fl	13	31	31	ACt4 13 31 brdge	1062		-1		-1		-1
+45	fl	12	22	22	Act4 12 22 brdge	1063		-1		-1		-1
+45	fl	12	17	17	Act4 12 17 brdge	1064		-1		-1		-1
+45	fl	13	30	30	Act4 13 30 brdge	1065		-1		-1		-1
+45	fl	13	32	32	Act4 13 32 brdge	1066		-1		-1		-1
+45	fl	13	20	20	Act4 13 20 brdge	1067		-1		-1		-1
+45	fl	14	32	32	Act4 14 32 brdge	1068		-1		-1		-1
+45	fl	14	31	31	Act4 14 31 brdge	1069		-1		-1		-1
+45	fl	12	24	24	Act4 12 24 brdge	1070		-1		-1		-1
+45	fl	12	20	20	Act4 12 20 brdge	1071		-1		-1		-1
+45	fl	14	30	30	Act4 14 30 brdge	1072		-1		-1		-1
+45	fl	14	17	17	Act4 14 17 brdge	1073		-1		-1		-1
+45	fl	14	29	29	Act4 14 29 brdge	1074		-1		-1		-1
+45	fl	14	22	22	Act4 14 22 brdge	1075		-1		-1		-1
+45	fl	15	17	17	Mesa flr 15 17	1098		-1		-1		-1
+45	fl	15	18	18	Mesa flr 15 18	1099		-1		-1		-1
+45	fl	15	19	19	Mesa flr 15 19	1100		-1		-1		-1
+45	fl	15	20	20	Mesa flr 15 20	1101		-1		-1		-1
+45	fl	15	21	21	Mesa flr 15 21	1102		-1		-1		-1
+45	fl	15	22	22	Mesa flr 15 22	1103		-1		-1		-1
+45	fl	15	23	23	Mesa flr 15 23	1104		-1		-1		-1
+45	fl	15	24	24	Mesa flr 15 24	1105		-1		-1		-1
+45	fl	15	26	26	Diaz URE	1028		-1		-1		-1
+45	fl	15	29	29	Mesa flr 15 29	1108		-1		-1		-1
+45	fl	15	30	30	Mesa flr 15 30	1109		-1		-1		-1
+45	fl	15	31	31	Mesa flr 15 31	1110		-1		-1		-1
+45	fl	15	32	32	Mesa flr 15 32	1111		-1		-1		-1
+45	fl	15	39	39	Mesa flr 15 39	1112		-1		-1		-1
+45	fl	15	40	40	Mesa flr 15 40	1113		-1		-1		-1
+45	wr	1	1	5	WR A	20	WR B	38		-1		-1
+45	wr	1	8	11	WR A	20	WR B	38		-1		-1
+45	wl	1	1	5	WL A	21	WL B	39		-1		-1
+45	wl	1	8	11	WL A	21	WL B	39		-1		-1
+45	wtlr	1	-1	-1	WTLL	24		-1		-1		-1
+45	wtll	1	-1	-1	WTLL	24		-1		-1		-1
+45	wtr	1	-1	-1	WTR	23		-1		-1		-1
+45	wbl	1	-1	-1	WBL	22		-1		-1		-1
+45	wbr	1	-1	-1	WBR	25		-1		-1		-1
+45	wld	1	1	3	WLD	35		-1		-1		-1
+45	wld	1	4	4	WLD	21		-1		-1		-1
+45	wld	1	5	7	WLD	35		-1		-1		-1
+45	fl	4	0	0	Building	692		-1		-1		-1
+45	wr	4	2	5	WR	80		-1		-1		-1
+45	wl	4	2	5	WL	81		-1		-1		-1
+45	wtll	4	-1	-1	WTLL	84		-1		-1		-1
+45	wtr	4	-1	-1	WTR	83		-1		-1		-1
+45	wbl	4	-1	-1	WBL	82		-1		-1		-1
+45	wbr	4	-1	-1	WBR	85		-1		-1		-1
+45	fl	1	0	19	stone tiles	289		-1		-1		-1
+45	fl	4	1	23	stone tiles	289		-1		-1		-1
+45	fl	5	3	32	stone tiles	289		-1		-1		-1
+45	wrd	1	2	4	wall right door	34		-1		-1		-1
+45	wrd	1	1	1	wall right door	20		-1		-1		-1
+45	wrd	1	5	7	wall right door	34		-1		-1		-1

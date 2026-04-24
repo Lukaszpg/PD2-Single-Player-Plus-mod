@@ -165,3 +165,5 @@ maiden pike	am4
 maiden javelin	am5
 amulet	amu
 ring	rin
+quiver	cqv
+arrows	aqv

@@ -114,3 +114,33 @@ full helm	fhm
 great helm	ghm
 pow hand	bhn
 pow head	hed
+cap	cap
+mask	msk
+bonehelm	bhm
+boneshield	bsh
+crown	crn
+wolf	dr1
+hawk	dr4
+antlers	dr3
+jawbone	ba1
+horned	ba3
+avenger	ba5
+targe	pa1
+kurast	pa3
+crownshield	pa5
+stagbow	am1
+reflexbow	am2
+preservedhead	ne1
+zombiehead	ne2
+unravellerhead	ne3
+katar	ktr
+claw	clw
+cestus	axf
+scissors	skr
+crystalsword	crs
+staff	cst
+shortstaff	sst
+longstaff	lst
+greatsword	gsd
+yewwand	ywn
+bonewand	bwn

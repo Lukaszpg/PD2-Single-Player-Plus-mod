@@ -186,7 +186,7 @@ of Flame	183	1	1	1	4	44	3				5	12	fire-min		1	1	fire-max		2	5							weap	misl			
 of Fire	184	1	1	1	15	55	11				4	12	fire-min		2	8	fire-max		12	22							weap	misl						wand	orb	staf					0
 of Burning	185	1	1	1	25	65	18				3	12	fire-min		20	30	fire-max		37	72					1	dred	weap	misl						wand	orb	staf					0
 of Incineration	186	100	1	1	43		35				2	12	fire-min		57	90	fire-max		102	146					1	dred	mele	misl						wand	orb	staf					0
-of Flame	187	100	1	1	40	80	30				2	12	fire-min		1	1	fire-max		2	6							glov	ring	amul												0
+of Flame	187	100		1	40	80	30				2	12	fire-min		1	1	fire-max		2	6							glov	ring	amul												0
 of Passion	188	100	1	1	15		11				2	12	fire-min		1	3	fire-max		6	10					1	dred	jewl														0
 of Shock	189	1	1	1	4	44	3				5	13	ltng-min		1	1	ltng-max		3	8							weap	misl						wand	orb	staf					0
 of Lightning	190	1	1	1	15	55	11				4	13	ltng-min		1	1	ltng-max		14	24							weap	misl						wand	orb	staf					0
@@ -290,7 +290,7 @@ of Fortune	287	1	1	1	16		12				4	22	mag%		16	25									1	lgld	boot	glov	amul	ci
 of Fortune	288	1	1	1	42		31				2	22	mag%		16	25									1	lgld	ring														0
 of Luck	289	100	1		26		19				4	22	mag%		26	35									1	lgld	boot	amul	circ	misl											0
 of Fortune	290	100	1	1	31		18				3	22	mag%		3	5											scha														0
-of Good Luck	291	100	1		47		33				4	22	mag%		6	7											scha														0
+of Good Luck	291	100	1		47		33				2	22	mag%		6	7											scha														0
 of Prosperity	292	100	1	1	26		19				2	22	mag%		5	10											jewl														0
 of Energy	293	1	1	1	1	41	1				4	23	enr		1	3											amul	orb	circ	wand	staf	helm	tors								0
 of the Mind	294	1	1	1	7	47	3				4	23	enr		4	6											misl	orb	circ	wand	staf	helm	tors								0
@@ -331,24 +331,24 @@ of the Fox	328	1	1	1	17	57	13				3	26	hp		6	10											club	hamm	mace	helm				
 of the Wolf	329	1	1	1	34	74	26				3	26	hp		11	20											club	hamm	mace	helm											0
 of the Tiger	330	1	1	1	51		43				3	26	hp		21	30											club	hamm	mace	ring	helm										0
 of the Mammoth	331	1	1	1	68		60				3	26	hp		31	40									1	cred	club	hamm	mace	ring	helm										0
-of Life	332	100	1	1	1		1				5	26	hp		5	10											lcha														0
-of Life	333	100	1	1	9		6				5	26	hp		11	15											lcha														0
-of Life	334	100	1	1	19		14				5	26	hp		16	20											lcha														0
-of Substinence	335	100	1	1	31		23				5	26	hp		21	25											lcha														0
-of Substinence	336	100	1	1	45		37				5	26	hp		26	30											lcha														0
-of Substinence	337	100	1	1	61		53				5	26	hp		31	35											lcha														0
-of Vita	338	100	1		77		69				5	26	hp		36	40											lcha														0
-of Vita	339	100	1		91		83				5	26	hp		41	45											lcha														0
-of Vita	340	100	1		110		97				5	26	hp		46	50											lcha														0
-of Life	341	100	1	1	1		9				5	26	hp		6	10											mcha														0
-of Life	342	100	1	1	12		9				5	26	hp		11	15											mcha														0
-of Substinence	343	100	1	1	26		19				5	26	hp		16	20											mcha														0
-of Substinence	344	100	1	1	42		34				5	26	hp		21	25											mcha														0
-of Vita	345	100	1		58		50				5	26	hp		26	30											mcha														0
-of Vita	346	100	1		74		66				5	26	hp		31	35											mcha														0
-of Life	347	100	1	1	1		14				5	26	hp		5	10											scha														0
-of Substinence	348	100	1	1	23		17				5	26	hp		11	15											scha														0
-of Vita	349	100	1		47		39				5	26	hp		16	20											scha														0
+of Life	332	100	1	1	1		1				4	26	hp		5	10											lcha														0
+of Life	333	100	1	1	9		6				4	26	hp		11	15											lcha														0
+of Life	334	100	1	1	19		14				4	26	hp		16	20											lcha														0
+of Substinence	335	100	1	1	31		23				4	26	hp		21	25											lcha														0
+of Substinence	336	100	1	1	45		37				4	26	hp		26	30											lcha														0
+of Substinence	337	100	1	1	61		53				4	26	hp		31	35											lcha														0
+of Vita	338	100	1		77		69				4	26	hp		36	40											lcha														0
+of Vita	339	100	1		91		83				4	26	hp		41	45											lcha														0
+of Vita	340	100	1		110		97				4	26	hp		46	50											lcha														0
+of Life	341	100	1	1	1		9				4	26	hp		6	10											mcha														0
+of Life	342	100	1	1	12		9				4	26	hp		11	15											mcha														0
+of Substinence	343	100	1	1	26		19				4	26	hp		16	20											mcha														0
+of Substinence	344	100	1	1	42		34				4	26	hp		21	25											mcha														0
+of Vita	345	100	1		58		50				4	26	hp		26	30											mcha														0
+of Vita	346	100	1		74		66				4	26	hp		31	35											mcha														0
+of Life	347	100	1	1	1		14				4	26	hp		5	10											scha														0
+of Substinence	348	100	1	1	23		17				4	26	hp		11	15											scha														0
+of Vita	349	100	1		47		39				4	26	hp		16	20											scha														0
 of Spirit	350	100	1	1	1		1				4	26	hp		3	8											jewl														0
 of Hope	351	100	1		45		37				4	26	hp		9	20											jewl														0
 of the Leech	352	1	1	1	6		4				7	27	lifesteal		4	5											weap	misl						orb	wand	staf					0
@@ -796,10 +796,10 @@ of Disintegration	793	1	1	1	1		1				4	165	map-play-ac%		-50	-40	map-glob-density
 of Fumbling	794	1	1	1	1		1				4	314	map-play-block		-20	-10	map-glob-density		13	18	map-play-mag-gold%		15	20			t1m	t2m													0
 of Bumbling	795	1	1	1	1		1				4	314	map-play-block		-30	-20	map-glob-density		18	23	map-play-mag-gold%		30	35			t2m	t3m													0
 of Blundering	796	1	1	1	1		1				4	314	map-play-block		-40	-30	map-glob-density		23	25	map-play-mag-gold%		40	50			t3m	t4m													0
-of Defending	797	100	1	1	45		20				3	251	red-dmg%		5	10											tors	shld													5000
-of Defending	798	100	1	1	65		40				2	251	red-dmg%		5	10											belt														10000
-of Protecting	799	100	1	1	65		40				2	251	red-dmg%		10	15											tors	shld													15000
-of Guardianship	800	100	1	1	85		60				1	251	red-dmg%		15	20											tors	shld													20000
+of Defending	797	100	1	1	45		20				3	251	red-dmg%		8	14											tors	shld													5000
+of Defending	798	100	1	1	65		40				2	251	red-dmg%		5	10											belt	helm													10000
+of Protecting	799	100	1	1	65		40				2	251	red-dmg%		14	20											tors	shld													15000
+of Guardianship	800	100	1	1	85		60				2	251	red-dmg%		20	25											tors	shld													20000
 of Savagery	801	100	1	1	18	58	15				2	252	deadly		5	10											weap	misl						staf	wand	orb					0
 of Devastation	802	100	1	1	28	68	25				2	252	deadly		10	15											weap	misl						staf	wand	orb					0
 of Havoc	803	100	1	1	38		35				2	252	deadly		15	20											weap	misl						staf	wand	orb					0
@@ -1032,3 +1032,8 @@ of Regeneration	1023	100	1	1	52		47				2	320	regen		20	30											orb	wand				
 of Regeneration	1024	100	1	1	14		14				4	320	regen		10	20											staf														0
 of Regeneration	1025	100	1	1	30		28				4	320	regen		20	30											staf														0
 of Regeneration	1026	100	1	1	52		47				2	320	regen		30	40											staf														0
+of Control	1027	1	1	1	21		19				2	321	block		6	12											glov														0
+of Discipline	1028	1	1	1	41		37				2	321	block		12	16											glov														0
+of Momentum	1027	1	1	1	21		19				2	321	block2		10	10											glov														0
+of Evasion	1028	1	1	1	41		37				2	321	block2		20	20											glov														0
+of Protecting	1029	100	1	1	65		40				2	251	red-dmg%		10	15											helm														15000

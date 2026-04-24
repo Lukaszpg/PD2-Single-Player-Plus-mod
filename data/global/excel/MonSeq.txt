@@ -1179,3 +1179,43 @@ seq_luciondash	WL	7		1	0
 seq_luciondash	A1	4			0
 seq_luciondash	A1	5		1	0
 seq_luciondash	A1	7			0
+seq_paladincharge	RN	0		1	0
+seq_paladincharge	RN	2		1	0
+seq_paladincharge	RN	4		1	0
+seq_paladincharge	RN	6		1	0
+seq_paladincharge	RN	1		1	0
+seq_paladincharge	RN	3		1	0
+seq_paladincharge	RN	5		1	0
+seq_paladincharge	RN	7		1	0
+seq_paladincharge	A1	3			0
+seq_paladincharge	A1	6			0
+seq_paladincharge	A1	7			0
+seq_paladincharge	A1	8		1	0
+seq_paladincharge	A1	9			0
+seq_paladincharge	A1	10			0
+seq_paladincharge	A1	11			0
+seq_paladincharge	A1	12			0
+seq_paladincharge	A1	13			0
+seq_barbarianwhirlwind	A1	0			0
+seq_barbarianwhirlwind	A1	1			0
+seq_barbarianwhirlwind	A1	2			0
+seq_barbarianwhirlwind	A1	3		1	0
+seq_barbarianwhirlwind	A1	4			0
+seq_barbarianwhirlwind	A1	5			0
+seq_barbarianwhirlwind	A1	6			0
+seq_barbarianwhirlwind	A1	7		1	0
+seq_barbarianleap	S1	0			0
+seq_barbarianleap	S1	1			0
+seq_barbarianleap	S1	2			0
+seq_barbarianleap	S1	3			0
+seq_barbarianleap	S1	4			0
+seq_barbarianleap	S1	5		1	0
+seq_barbarianleap	S1	6			0
+seq_barbarianleap	S1	7			0
+seq_barbarianleap	S1	8			0
+seq_barbarianleap	S1	9		1	0
+seq_barbarianleap	S1	10			0
+seq_barbarianleap	S1	11			0
+seq_barbarianleap	S1	12		1	0
+seq_barbarianleap	S1	13		1	0
+seq_barbarianleap	S1	14			0

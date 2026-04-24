@@ -441,3 +441,11 @@ shiny-appearance	1			1	item_shiny_appearance																													437	0
 es-efficiency-and-es-when-equip	1			1	es_efficiency			22	item_skillonequip																					Extra efficiency as base points to ES	(16ths)			438	0
 joust-reduction-leorics	1			1	joustreduction_leorics																													439	0
 map-glob-dropsocketed	1			8	map_glob_dropsocketed																													440	0
+crit-strike-multiplier	1			1	item_crit_multiplier																													441	0
+deadly-strike-multiplier	1			1	item_ds_multiplier																													442	0
+crit-strike-chance	1			1	item_crit_chance																													443	0
+map-glob-dropbonus	1			8	map_glob_dropbonus																													444	0
+map-glob-dropethereal	1			8	map_glob_dropethereal																													445	0
+treacherous	1			1	treacherous																													272	0
+map-mon-att	1			1	map_mon_att																													300	0
+map-glob-bossdropstreasure	1			8	map_glob_bossdropstreasure																													444	0
