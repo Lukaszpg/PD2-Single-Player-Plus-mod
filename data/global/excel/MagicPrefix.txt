@@ -913,14 +913,14 @@ Amber	910	1	1	1	25		18				3	119	res-ltng		31	40									1	lyel	shld													
 Emerald	911	1	1	1	25		18				3	120	res-pois		31	40									1	cgrn	shld														0
 Relentless	912	100	1	1	18	58	15				2	203	deadly		5	10											helm														0
 Rending	913	100	1	1	28		25				2	203	deadly		10	15											helm														0
-Rending	914	100	1	1	28		25				2	203	deadly		4	7											glove														0
+Rending	914	100	1	1	28		25				2	203	deadly		4	7											glov														0
 Ruthless	915	100	1	1	38		35				2	203	deadly		15	20											helm														0
-Ruthless	916	100	1	1	38		35				2	203	deadly		7	10											glove														0
+Ruthless	916	100	1	1	38		35				2	203	deadly		7	10											glov														0
 Cracking	917	100	1	1	18	58	15				2	203	crush		5	10											helm														0
 Shattering	918	100	1	1	28		25				2	203	crush		10	15											helm														0
-Shattering	919	100	1	1	28		25				2	203	crush		4	7											glove														0
+Shattering	919	100	1	1	28		25				2	203	crush		4	7											glov														0
 Sundering	920	100	1	1	38		35				2	203	crush		15	20											helm														0
-Sundering	921	100	1	1	38		35				2	203	crush		7	10											glove														0
+Sundering	921	100	1	1	38		35				2	203	crush		7	10											glov														0
 Angel's	922	1	1	1	30		22	sor			4	125	sor		1	1											orb														0
 Arch-Angel's	923	1	1	1	50		42	sor			2	125	sor		2	2									1	cgrn	orb														0
 Triumphant	924	1	1	1	3		2				4	121	mana-kill		1	2											ring	amul													0

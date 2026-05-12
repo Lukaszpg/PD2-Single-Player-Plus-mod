@@ -274,7 +274,7 @@ joustreduction_leorics	271		1	5													1024		6		6																		150	3	0	
 map_glob_dropsocketed	272		1	9											1065	72	2011		7	20	7	20																	206	19	0	MapGlobDropSockets	MapGlobDropSockets									7	20		0
 map_glob_dropbonus	273		1	9											1065	72	2012		7	20	7	20																	206	19	0	MapGlobDropBonus	MapGlobDropBonus									7	20		0
 map_glob_dropethereal	274		1	9											1065	72	2013		7	20	7	20																	206	19	0	MapGlobDropEthereal	MapGlobDropEthereal									7	20		0
-map_glob_bossdropstreasure	275		1	9											1065	72	2012		7	20	7	20																	207	19	0	MapGlobBossTreasure	MapGlobBossTreasure									7	20		0
+map_glob_bossdropstreasure	275		1	9											1065	72	2015		7	20	7	20																	207	19	0	MapGlobBossTreasure	MapGlobBossTreasure									7	20		0
 treacherous	276			3											54	204	2014		8	0	3	0																	249	3	0	StrTreacherous	StrTreacherous									3	0		0
 map_mon_att	277		1	16											15	10	119		10		10													1					115	8	2	MapMonHave	MapMonHave	ModStr1h								10			0
 item_tohit_bytime	278		1	22										4		0	1024		22	0	22	0			6			tohit						1					180	17	1	ModStr1h	ModStr1h									22	0		0
