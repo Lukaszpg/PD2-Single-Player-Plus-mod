@@ -21,34 +21,13 @@ The mod works fully in local TCP/IP. Players connecting need to have **identical
 
 Head to [launcher repository](https://github.com/Lukaszpg/pd2-single-player-plus-launcher) and follow the instructions. This works right now only on Windows OS. If you have other operating system, please follow manual installation istructions below: 
 
-a) With PlugY:
-
-1. Copy your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
-2. Install PD2 Plugy for SP by BetweenWalls: https://github.com/BetweenWalls/PD2-PlugY#pd2-plugy. WARNING - The materials tab introduced in S11 tab will not work with Plugy! 2a. If you already have Plugy installed and played previous versions of this mod, please remove the contents of shared stash and create a new character.
-3. Head to "Releases" and download most recent version of this mod.
-4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step one.
-5. Create a shortcut to "Plugy.exe" from your ProjectD2 folder. Add "-3dfx -plugy" run parameter to your Plugy.exe shortcut.
-6. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
-7. Launch the game through the PlugY shortcut created in step 6.
-8. Head to Akara and look for an item with Alkor's quest potion graphics. If it's there, mod was installed successfully. GLHF!
-
-b) Without PlugY:
-
 1. Copy your Diablo 2 game with Project Diablo 2 mod installed to a new directory.
 2. Create shortcut for PD2 Launcher from the new directory.
 3. Head to "Releases" and download most recent version of this mod.
 4. Paste the downloaded "pd2data.mpq" file to ProjectD2 folder at your client directory, that you've created at step 1.
-5. Use the recommended loot filter from "Releases" (just paste the downloaded loot.filter file to your D2 client ProjectD2 folder) or adjust your personal loot filter, using new items codes on the bottom of this page (loot filter knowledge required).
-6. IMPORTANT Launch PD2 Launcher through the shortcut created in step 2, head to options and click "Disable Updates". Close options. Click Play.
-7. Head to Akara and look for an item with Alkor's quest potion graphics. If it's there, mod was installed successfully. GLHF!
-
-## Troubleshooting
-
-1. I have launched the mod through PlugY exe, but it's not working with an error pictured below.
-
-![image](https://github.com/user-attachments/assets/5147e3cc-6e4b-49cd-9a65-bee7476d7dfb)
-
-**Solution:** Open PlugY.ini file in your ProjectD2 directory, look for `ActiveShiftClickLimit=1` and change it to `ActiveShiftClickLimit=0`. 
+5. Adjust your loot filter using new items codes below (loot filter knowledge required).
+6. **IMPORTANT** Launch PD2 Launcher through the shortcut created in step 2, head to options and click "Disable Updates". Close options. Click Play.
+7. Head to Akara and look for a green potion. If it's there, mod was installed successfully. GLHF!
   
 ## New item codes
 
@@ -60,6 +39,8 @@ Below item codes are assigned to new items that this mod introduced.
 * Gheed's Curious Box - gcbx
 * Charsi's Crafting Box - ccbx
 * Eternal coin - ncoi
+* Orb of Extraction - ooe
+* Uncut Pristine Jewel - unpj
 
 ## Main mod changes and important recipes
 
@@ -85,16 +66,12 @@ All runes can be in stacked or non-stacked form.
 * Magic/rare ring + Mythic Orb = random ring from set of Nagelring/Manald Heal/Raven Frost/Dwarf Star/Carrion Wind
 * Magic Grand Charm + Mythic Orb = Gheed's Fortune unique charm
 
-Ring/Amulets have to be cubed TWICE for final outcome.
-
 ### Divine Orb
 
 * Elite Normal/superior/magic/rare non-corrupted base item + Divine Orb = Unique Item on that item base
 * Magic/rare amulet + Divine Orb = random amulet from set of Metalgrid/Highlord's Wrath/Mara's Caleidoscope/Seraph's Hymn/The Rising Sun
 * Magic/rare ring + Divine Orb = random ring from set of The Stone of Jordan/Bul Katho's Wedding Band/Nature's Peace/Constricting Loop/Wisp Projector
 * 15 jewel fragments + Divine Orb = random Rainbow Facet
-
-Ring/Amulets have to be cubed TWICE for final outcome.
 
 ### Exalted Orb
 
@@ -117,7 +94,6 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 ### New Demonic Cube recipes
 
 * Set Ring/Amulet + Demonic Cube + Eternal Coin = Re-rolled type of Set Ring/Amulet
-* Rainbow Facet + Demonic Cube + Eternal Coin = Re-rolled type of Rainbow Facet (eg. Fire to Lightning)
 
 ### Lilith's Mirror
 
@@ -126,12 +102,12 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 
 ### Gheed's Curious Box 
 
-* Cube it **TWICE** to receive random stack of 50 perfect gems or 50 jewel fragments
+* Cube it to receive random stack of 50 perfect gems or 50 jewel fragments
 * Drops in Hell and maps
 
 ### Charsi's Crafting Box
 
-* Cube it **TWICE** to receive random 5 crafting infusions (13.2% chance) or 5 catalyst shards (7.6% chance)
+* Cube it to receive random 5 crafting infusions (13.2% chance) or 5 catalyst shards (7.6% chance)
 * Drops in Hell and maps
 
 ### Crafting infusions changes
@@ -144,10 +120,10 @@ Ring/Amulets have to be cubed TWICE for final outcome.
 
 * Larzuk's Puzzle Piece and Box can be used ro re-roll the number of sockets on an item, destroying the contents of the sockets
 
-### Removing socket contents
+### Orb of Extraction
 
-* You can now remove any item socket contents while preserving said content using Larzuk's Mallus (item sold by Larzuk in any act for 250k gold)
-* Larzuk’s Malus + Socketed Item = Used item with socket contents removed (preserves the contents)
+* You can now remove any item socket contents while preserving said content using Orb of Extraction (map drop only)
+* Orb of Extraction + Socketed Item = Used item with socket contents removed (preserves the contents)
 
 ### Uber Tristram mini-ubers portals
 
