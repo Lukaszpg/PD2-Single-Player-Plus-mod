@@ -2979,7 +2979,3 @@ Fire	1			100					2	unpj,qty=1	gprs,qty=50						Rainbow Facet Fire	99												
 Cold	1			100					2	unpj,qty=1	gpbs,qty=50						Rainbow Facet Cold	99																																																																																						0
 Lightning	1			100					2	unpj,qty=1	gpys,qty=50						Rainbow Facet Ltng	99																																																																																						0
 Poison	1			100					2	unpj,qty=1	gpgs,qty=50						Rainbow Facet Pois	99																																																																																						0
-																																																																																																								0
-																																																																																																								0
-																																																																																																								0
-	1			100					1	key,qty=1							ccbx																													gcbx																																																										0
