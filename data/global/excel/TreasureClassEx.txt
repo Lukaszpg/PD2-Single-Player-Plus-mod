@@ -6,8 +6,8 @@ Jewelry C			1						rin	8	amu	4	jew	2	cm3	2	cm2	2	cm1	2												0
 Chipped Gem			1						gcv	3	gcy	3	gcb	3	gcg	3	gcr	3	gcw	3	skc	2										0
 Flawed Gem			1						gfv	3	gfy	3	gfb	3	gfg	3	gfr	3	gfw	3	skf	2										0
 Normal Gem			1						gsv	3	gsy	3	gsb	3	gsg	3	gsr	3	gsw	3	sku	2										0
-Flawless Gem			1						gzvs	3	glys	3	glbs	3	glgs	3	glrs	3	glws	3	skls	2										0
-Perfect Gem			1						gpvs	3	gpys	3	gpbs	3	gpgs	3	gprs	3	gpws	3	skzs	2										0
+Flawless Gem			1						gzv	3	gly	3	glb	3	glg	3	glr	3	glw	3	skl	2										0
+Perfect Gem			1						gpv	3	gpy	3	gpb	3	gpg	3	gpr	3	gpw	3	skz	2										0
 Ammo			1						aqv	1	cqv	1																				0
 Ammo(N)		25	1						aqv	20	cqv	20	aqv2	30	cqv2	30																0
 Ammo(H)		45	1						aqv	5	cqv	5	aqv2	30	cqv2	30	aqv3	15	cqv3	15												0
@@ -27,8 +27,8 @@ Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
 Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
 New orbs			1					0	mfo	3	exo	4																				0
-New orbs T1T2			1					0	mfo	2	divo	1																				0
-New orbs T3			1					1	divo	1																						0
+New orbs T1T2			1					0	mfo	3	divo	1	ooe	1																		0
+New orbs T3			1					1	divo	1	ooe	2																				0
 Boxes			1					0	ccbx	1	gcbx	1																				0
 Runes 1			1						r01s	3	r02s	2																				0
 Runes 2			1						r03s	3	r04s	2	Runes 1	1																		0
@@ -53,8 +53,8 @@ Runes 14 equiv			1						r27s	3	r28s	2	Runes 13 equiv	434																		0
 Runes 15 equiv			1						r29s	3	r30s	2	Runes 14 equiv	588																		0
 Runes 16 equiv			1						r31s	3	r32s	2	Runes 15 equiv	790																		0
 Runes 17 equiv			1						r33s	1	Runes 16 equiv	1034																				0
-Map Tier 1			1			400	800		t34	1	t22	1	t24	1	t36	1	t21	1	t26	1	t11	1	t33	1								0
-Map Tier 2			1			400	800		t16	1	t12	1	t3a	1	t37	1	t25	1	t14	1	t34	1	t32	1	t17	1						0
+Map Tier 1			1			400	800		t34	1	t22	1	t24	1	t36	1	t21	1	t26	1	t11	1	t33	1	t18	1	t14	1				0
+Map Tier 2			1			400	800		t16	1	t12	1	t3a	1	t37	1	t25	1	t38	1	t32	1	t17	1	t29	1	t2a	1				0
 Map Tier 3			1			400	800		t35	1	t3b	1	t15	1	t23	1	t13	1	t28	1	t27	1	t31	1	t39	1						0
 T1 Map Drop			1						Map Tier 1	66	Map Tier 2	33																				0
 T2 Map Drop			1						Map Tier 1	39	Map Tier 2	40	Map Tier 3	20																		0
@@ -882,10 +882,10 @@ Act 4 (H) Super Cx	18	87	-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpo
 Act 5 (H) Super Ax	18	90	-4	512	654	972	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
 Act 5 (H) Super Bx	18	93	-4	512	654	972	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
 Act 5 (H) Super Cx	18	96	-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
-Map Boss T1		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T1 Map Drop	3	dcbl	8																0
-Map Boss T2		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T2 Map Drop	3	dcbl	8																0
-Map Boss T3		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8																0
-Map Boss T4		85	5	983	983	983	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8																0
+Map Boss T1		85	5	983	983	983	1024	0	Act 5 (H) Equip C	64	Act 5 (H) Good	4	T1 Map Drop	3	dcbl	8	unpj	1														0
+Map Boss T2		85	5	983	983	983	1024	0	Act 5 (H) Equip C	63	Act 5 (H) Good	4	T2 Map Drop	3	dcbl	8	unpj	1														0
+Map Boss T3		85	5	983	983	983	1024	0	Act 5 (H) Equip C	62	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8	unpj	2														0
+Map Boss T4		85	5	983	983	983	1024	0	Act 5 (H) Equip C	60	Act 5 (H) Good	4	T3 Map Drop	3	dcbl	8	unpj	2														0
 Cow King			5	850	983	983	1024	0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Cow King (N)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Cow King (H)			5	850	983	983	1024	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
@@ -949,7 +949,7 @@ BR Arena Bodies H		90	1	1000	850	1400	800	0	Act 5 (H) Equip C	48	BR Arena misc	5
 BR Arena Zomb N		30	3	9000	9000	1	1	0	Act 5 Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb NM		60	3	9000	9000	1	1	0	Act 5 (N) Uitem C	30	BR Arena jewerly	8																				0
 BR Arena Zomb H		90	3	9000	9000	1	1	0	Act 5 (H) Uitem C	30	BR Arena jewerly	8																				0
-UberAncients		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	15						0
+UberAncients		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	15	unpj	8				0
 ShadowOfMendeln		90	6	950	960	990	1024	0	Act 5 (H) Equip C	787	Act 5 (H) Good	45	Act 5 (H) Junk	75	Runes 17 equiv	10	wss	15	Jewelry C	30	scrb	40	rtmv	5								0
 Act 1 (H) Weap A	1	68	1						weap54	2	armo54	0	weap57	6	armo57	0	weap60	14	armo60	0	weap63	6	armo63	3	Act 5 (N) Weap C	1785			28	1813	0.977	0
 Act 1 (H) Weap B	1	70	1						weap57	2	armo57	0	weap60	6	armo60	0	weap63	14	armo63	0	weap66	2	armo66	1	Act 1 (H) Weap A	1530			24	1554	0.977	0
@@ -1034,10 +1034,10 @@ lucc				500
 lucdN				0	150																											
 lucdNM				0	10																											
 lucdH				1000	1																											
-T4MidMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30						0
-T4FinalMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30						0
+T4MidMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30	unpj	10				0
+T4FinalMapBoss		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	wss	25	T3 Map Drop	10	T2 Map Drop	10	T1 Map Drop	10	scrb	60	divo	30	unpj	15				0
 LucionChestLow		90	6	800	900	990	1024	0	Act 5 (H) Equip C	200	Act 5 (H) Good	100	Runes 15 equiv	30	wss	25																0
-LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	60	divo	30														0
+LucionChestHigh		90	6	950	960	990	1024	0	Act 5 (H) Equip C	800	Jewelry C	100	Runes 17 equiv	30	scrb	60	divo	30	unpj	10												0
 Demonic Cube N				5000	1																											
 Demonic Cube NM				2500	1																											
 Demonic Cube H				1000	1																											
@@ -1086,5 +1086,56 @@ InvaderSorc1hWeapon			1	850	850	1307	200		obb	1	obc	1	obd	1	obe	1	obf	1									
 Invader1hScepter			1	850	850	1307	200		7sc	1	7qs	1	7ws	1																		0
 InvaderPaladinWeapon			1	850	850	1307	200		Invader1hSword	2	Invader1hMace	2	Invader1hAxe	1	Invader1hScepter	4																0
 InvaderPaladinShield			1	850	850	1307	200		pab	1	pac	1	pad	1	pae	1	paf	1														0
-UberDiablo			1					15	Overlords Helm	1	Dark Abyss	1	Aidans Scar	1	Itheraels Path	1	Hadriels Hand	1														
-RathmaNew			1					15	The Third Eye	1	Band of Skulls	1	Cage of the Unsullied	1																		
+Paladin Ear Drop A			1						xuc	1539	xml	1081	xrg	818	xit	909	xow	688	xts	1645	xsh	929	xpk	613	uuc	924	uml	853				0
+Paladin Ear Drop B			1						urg	1975	uit	1384	uow	1020	uts	812	ush	442	upk	963	pa6	1627	pa7	432	pa8	982	pa9	364				0
+Paladin Ear Drop C			1						paa	1699	ne6	1621	ne7	744	ne8	469	ne9	355	nea	497	pab	1175	pac	1351	pad	1296	pae	793				0
+Paladin Ear Drop D			1						paf	1489	neb	2434	neg	1600	ned	2462	nee	1271	nef	744												0
+Paladin Ear Drop			1						Paladin Ear Drop A	3817	Paladin Ear Drop B	3610	Paladin Ear Drop C	1849	Paladin Ear Drop D	724																0
+Sorc Ear Drop A			1						9wn	898	9yw	501	9bw	435	9gw	436	8ss	2491	8ls	1576	8cs	1002	8bs	775	8ws	902	7wn	983				0
+Sorc Ear Drop B			1						7yw	658	7bw	735	7gw	184	6ss	1637	6ls	1315	6cs	1469	6bs	765	6ws	368	ob6	1563	ob7	1307				0
+Sorc Ear Drop C			1						ob8	770	ob9	1195	oba	1444	obb	1246	obc	1802	obd	1678	obe	1165	obf	700								0
+Sorc Ear Drop			1						Sorc Ear Drop A	2733	Sorc Ear Drop B	3142	Sorc Ear Drop C	4126																		0
+Necro Ear Drop A			1						rin	1661	amu	831	xlg	1264	xvg	580	xmg	732	xtg	831	xhg	1551	xlb	1239	xvb	580	xmb	732				0
+Necro Ear Drop B			1						xtb	950	xhb	1773	zlb	1417	zvb	664	zmb	837	ztb	633	zhb	1330	ulg	757	uvg	524	umg	1117				0
+Necro Ear Drop C			1						utg	1187	uhg	1070	ulb	875	uvb	885	umb	1240	utb	1370	uhb	1070	ulc	539	uvc	575	umc	1190				0
+Necro Ear Drop D			1						utc	4754	uhc	5246																				0
+Necro Ear Drop			1						Necro Ear Drop A	3503	Necro Ear Drop B	3064	Necro Ear Drop C	2977	Necro Ear Drop D	455																0
+Barb Ear Drop A			1						xap	668	xkp	1252	xlm	710	xhl	789	xhm	597	xrn	1428	xsk	1613	xui	668	xea	1336	xla	939				0
+Barb Ear Drop B			1						xtu	705	xng	705	xcl	784	xhn	784	xrs	1603	xpl	593	xlt	831	xld	1419	xth	1593	xul	981				0
+Barb Ear Drop C			1						xar	2016	xtp	1993	xh9	371	ci2	353	ci3	152	uap	498	ukp	1228	ulm	1310	uhl	1039	uhm	1041				0
+Barb Ear Drop D			1						urn	561	usk	1247	uui	464	uea	603	ula	904	utu	1299	ung	1299	ucl	1247	uhn	1130	urs	1247				0
+Barb Ear Drop E			1						upl	1218	ult	1218	uld	1406	uth	1119	uul	1119	uar	823	utp	1119	uh9	559	dr6	1122	dr7	298				0
+Barb Ear Drop F			1						dr8	892	dr9	330	dra	790	ba6	3016	ba7	1385	ba8	873	ba9	661	baa	925	drb	546	drc	583				0
+Barb Ear Drop G			1						drd	551	dre	506	drf	372	bab	2436	bac	2463	bad	1656	bae	1272	baf	745								0
+Barb Ear Drop			1						Barb Ear Drop A	1976	Barb Ear Drop B	1988	Barb Ear Drop C	1590	Barb Ear Drop D	1727	Barb Ear Drop E	1177	Barb Ear Drop F	893	Barb Ear Drop G	650										0
+Amazon Ear Drop A			1						9tk	911	9ta	799	9bk	508	9b8	393	9ja	2526	9pi	1016	9s9	786	9gl	915	9ts	884	8sb	1263				0
+Amazon Ear Drop B			1						8hb	1542	8lb	1352	8cb	860	8s8	747	8l8	774	8sw	748	8lw	1184	8lx	1352	8mx	665	8hx	774				0
+Amazon Ear Drop C			1						8rx	785	7tk	861	7ta	1120	7bk	398	7b8	591	7ja	1571	7pi	1434	7s7	1577	7gl	1182	7ts	482				0
+Amazon Ear Drop D			1						6sb	1381	6hb	1321	6lb	884	6cb	1273	6s7	972	6l7	491	6sw	728	6lw	297	6lx	1381	6mx	1273				0
+Amazon Ear Drop E			1						6hx	1282	6rx	668	am6	1141	am7	1027	ama	1794	amb	1571	amc	796	amf	1722								0
+Amazon Ear Drop			1						Amazon Ear Drop A	2583	Amazon Ear Drop B	1526	Amazon Ear Drop C	2300	Amazon Ear Drop D	1866	Amazon Ear Drop E	1725														0
+Assassin Ear Drop A			1						9ha	1245	9ax	1456	92a	926	9mp	805	9wa	834	9la	1456	9ba	926	9bt	716	9ga	834	9gi	806				0
+Assassin Ear Drop B			1						9cl	640	9sc	923	9qs	796	9ws	895	9sp	1384	9ma	1618	9mt	1029	9fl	895	9wh	927	9m9	895				0
+Assassin Ear Drop C			1						9gm	1060	9ss	1914	9sm	669	9sb	1211	9fc	1027	9cr	513	9bs	794	9ls	892	9wd	893	92h	1027				0
+Assassin Ear Drop D			1						9cm	829	9gs	932	9b9	965	9fb	933	9gd	1476	9dg	961	9di	843	9kr	415	9bl	724	9sr	1922				0
+Assassin Ear Drop E			1						9tr	1356	9br	667	9st	750	9p9	777	9b7	1546	9vo	862	9s8	667	9pa	1356	9h9	751	9wc	1269				0
+Assassin Ear Drop F			1						9ar	1693	9wb	1221	9xf	1071	9cs	527	9lw	592	9tw	593	9qr	937	7ar	1279	7wb	856	7xf	1233				0
+Assassin Ear Drop G			1						7cs	935	7lw	387	7tw	575	7qr	234	7ha	1146	7ax	1395	72a	1534	7mp	1149	7wa	468	7la	2178				0
+Assassin Ear Drop H			1						7ba	1620	7bt	1809	7ga	942	7gi	453	7cl	370	7sc	675	7qs	749	7ws	453	7sp	1580	7ma	1349				0
+Assassin Ear Drop I			1						7mt	1246	7fl	629	7wh	791	7m7	1632	7gm	285	7ss	1327	7sm	850	7sb	850	7fc	1632	7cr	760				0
+Assassin Ear Drop J			1						7bs	708	7ls	890	7wd	428	72h	1905	7cm	1530	7gs	1402	7b7	708	7fb	1050	7gd	428	7dg	952				0
+Assassin Ear Drop K			1						7di	617	7kr	392	7bl	282	7sr	1676	7tr	1347	7br	1504	7st	783	7p7	377	7o7	1676	7vo	1347				0
+Assassin Ear Drop L			1						7s8	2083	7pa	1561	7h7	1323	7wc	477	am8	982	am9	984	amd	1421	ame	1170								0
+Assassin Ear Drop M			1						Assassin Ear Drop A	1105	Assassin Ear Drop B	993	Assassin Ear Drop C	996	Assassin Ear Drop D	954	Assassin Ear Drop E	1186	Assassin Ear Drop F	751	Assassin Ear Drop G	921	Assassin Ear Drop H	952	Assassin Ear Drop I	1134	Assassin Ear Drop J	1008				0
+Assassin Ear Drop N			1						Assassin Ear Drop K	6281	Assassin Ear Drop L	3719																				0
+Assassin Ear Drop			1						Assassin Ear Drop M	8457	Assassin Ear Drop N	1543																				0
+Druid Ear Amazon			1						am6	922	am7	876	am8	853	am9	911	ama	1271	amb	1004	amc	670	amd	1125	ame	899	amf	1468				0
+Druid Ear Assassin A			1						9ar	1217	9wb	838	9xf	814	9cs	463	9lw	546	9tw	583	9qr	643	7ar	1016	7wb	721	7xf	959				0
+Druid Ear Assassin B			1						7cs	926	7lw	429	7tw	576	7qr	268																0
+Druid Ear Assassin			1						Druid Ear Assassin A	7800	Druid Ear Assassin B	2199																				0
+Druid Ear Barbarian			1						ba6	2220	ba7	886	ba8	699	ba9	544	baa	783	bab	1152	bac	1226	bad	1141	bae	876	baf	472				0
+Druid Ear Druid			1						dr6	1601	dr7	848	dr8	1751	dr9	614	dra	1500	drb	908	drc	823	drd	718	dre	704	drf	532				0
+Druid Ear Necromancer			1						ne6	2315	ne7	924	ne8	728	ne9	568	nea	817	neb	1201	neg	761	ned	1279	nee	914	nef	492				0
+Druid Ear Paladin			1						pa6	1475	pa7	781	pa8	1613	pa9	566	paa	1381	pab	836	pac	1022	pad	1186	pae	649	paf	490				0
+Druid Ear Sorceress			1						ob6	1243	ob7	877	ob8	687	ob9	832	oba	866	obb	1507	obc	1422	obd	1374	obe	793	obf	398				0
+Druid Ear Drop			1						Druid Ear Amazon	1	Druid Ear Assassin	1	Druid Ear Barbarian	1	Druid Ear Druid	1	Druid Ear Necromancer	1	Druid Ear Paladin	1	Druid Ear Sorceress	1										0

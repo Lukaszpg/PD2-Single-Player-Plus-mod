@@ -1155,5 +1155,14 @@ Nemyr Monastery	1151	196	1	1	0	0	1	1	0	0	0	1	2	-4	1	Expansion/Map/nemyrMonastery
 Djinns Domain Map	1152	197	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/Map/DjinnsDomain.ds1	0	0	0	0	0	8191	0	1
 Djinns Domain Red Map	1153	198	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/Map/DjinnsDomainRed.ds1	0	0	0	0	0	8191	0	1
 Djinns Domain Boss Map	1154	199	1	0	0	0	1	1	0	0	0	1	0	0	1	Expansion/Map/DjinnsDomainBoss.ds1	0	0	0	0	0	8191	0	1
-Na-Krul's Abyss Map	1155	200	1	0	0	1	0	1	0	0	0	1	0	0	2	Expansion/Map/NaKrulAbyss2.ds1	Expansion/Map/NaKrulAbyss2.ds1	0	0	0	0	7	0	1
+Na-Krul's Abyss Map	1155	200	1	0	0	1	0	1	0	0	0	1	0	0	2	Expansion/Map/NaKrulAbyss1.ds1	Expansion/Map/NaKrulAbyss2.ds1	0	0	0	0	7	0	1
 Kyovoshad Map	1156	201	1	1	1	0	1	1	0	0	0	1	2	-4	2	Expansion/Map/Kyovoshad1.ds1	Expansion/Map/Kyovoshad2.ds1	0	0	0	0	1023	0	1
+PD2Guild1	1157	202	0	1	1	1	0	1	0	0	1	1	2	0	1	Guild/PD2/guild1.ds1	0	0	0	0	0	17177585	0	1
+PD2Guild2	1158	203	0	1	1	1	0	1	0	0	1	1	1	-4	1	Guild/PD2/guild2.ds1	0	0	0	0	0	16784378	0	1
+PD2Guild3	1159	204	0	1	1	1	1	1	0	0	1	1	4	0	1	Guild/PD2/guild3.ds1	0	0	0	0	0	16784383	0	1
+PD2Guild4	1160	205	0	1	1	1	1	1	0	0	1	1	3	1	1	Guild/PD2/guild4.ds1	0	0	0	0	0	32767	0	1
+PD2Guild5	1161	206	0	1	1	1	1	1	0	0	1	1	3	1	1	Guild/PD2/guild5.ds1	0	0	0	0	0	262143	0	1
+TombEventMap	1162	207	1	1	0	0	1	1	0	0	0	1	2	0	1	Expansion/Map/BitterDepths.ds1	0	0	0	0	0	2047	0	1
+Poisoned Well Map	1163	208	1	1	0	1	0	1	0	0	0	1	0	0	3	Expansion/Map/poisonedwell.ds1	Expansion/Map/poisonedwellV2.ds1	Expansion/Map/poisonedwellV3.ds1	0	0	0	511	0	1
+Dark Temple Map	1164	209	1	0	0	1	0	1	0	0	0	1	1	-5	3	Expansion/Map/Darktemple.ds1	Expansion/Map/DarktempleV2.ds1	Expansion/Map/DarktempleV3.ds1	0	0	0	4194303	0	1
+Descent Map	1165	210	1	0	0	0	0	1	0	0	0	1	0	0	4	Expansion/Map/Descend.ds1	Expansion/Map/Descend_2.ds1	Expansion/Map/Descend_3.ds1	Expansion/Map/Descend_4.ds1	0	0	268435455	0	1

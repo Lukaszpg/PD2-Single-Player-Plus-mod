@@ -19,7 +19,7 @@ Gloves	glov	armo		1	1	glov	glov			0	0	0	0		1	0	0	0	0	0	0	0	0	3		1		0							armo	
 Not Used				0	0					0	0	0	0			0	0	0	0	0	0	0	0	3		0		0								0
 Book	book	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Belt	belt	armo		1	1	belt	belt			0	0	0	0		1	0	0	0	0	0	0	0	0	3		1		0							armo	0
-Gem	gem	sock	ggm	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Gem	gem	sock	ggm	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Torch	torc	misc		0	1					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Scroll	scro	misc		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
 Not Used				0	0					0	0	0	0			0	0	0	0	0	0	0	0	3		0		0								0
@@ -74,7 +74,7 @@ Auric Shields	ashd	shld	pala	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	4	0	1		0	pal
 Primal Helm	phlm	helm	barb	1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	3	0	1	bar	0	bar	0							armo	0
 Pelt	pelt	helm	drui	1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	3	0	1	dru	0	dru	0							armo	0
 Cloak	cloa	tors	assn	1	1	tors	tors			0	0	0	0		1	0	0	0	0	0	0	0	0	1	ass	0	ass	0							armo	0
-Rune	rune	sock		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
+Rune	rune	sock		0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Circlet	circ	helm		1	1	head	head			0	0	0	0		1	0	0	0	0	1	2	3	0	3		1		0							armo	0
 Healing Potion	hpot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
 Mana Potion	mpot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
@@ -87,7 +87,7 @@ Medium Charm	mcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch2	invch5
 Large Charm	lcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch3	invch6	invch9				misc	0
 Amazon Bow	abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	4	5	1	1		0	ama	0							weap	0
 Amazon Spear	aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	1		0	ama	0							weap	0
-Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	2	2	2	0	1		0	ama	0							misc	0
+Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	2	2	3	0	1		0	ama	0							misc	0
 Hand to Hand 2	h2h2	h2h		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	2	3	3	0	2	ass	0	ass	0							weap	0
 Magic Bow Quiv	mboq	bowq		0	1	rarm	larm		bow	0	1	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							misc	0
 Magic Xbow Quiv	mxbq	xboq		0	1	rarm	larm		xbow	0	1	0	0	1	1	0	0	0	0	0	0	0	0	3		0		0							misc	0
@@ -97,13 +97,13 @@ Flawed Gem	gem1	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Standard Gem	gem2	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Flawless Gem	gem3	gem	ggm3	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Perfect Gem	gem4	gem	ggm4	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Amethyst	gema	gem	ggma	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Diamond	gemd	gem	ggmd	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Emerald	geme	gem	ggme	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Ruby	gemr	gem	ggmr	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Sapphire	gems	gem	ggms	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Topaz	gemt	gem	ggmt	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Skull	gemz	gem	ggmz	0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Amethyst	gema	gem	ggma	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Diamond	gemd	gem	ggmd	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Emerald	geme	gem	ggme	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Ruby	gemr	gem	ggmr	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Sapphire	gems	gem	ggms	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Topaz	gemt	gem	ggmt	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
+Skull	gemz	gem	ggmz	0	0					0	0	0	1			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Worldstone Shard	corr			0	0					0	0	0	1			1	0	0	0	0	0	0	0	3		0		0								0
 Map	map			0	0					0	0	0	1		1	0	0	0	0	0	0	0	0	3		0		0							misc	0
 Map T1	t1m	map		0	0					0	0	0	1		1	0	0	0	0	0	0	0	0	3		0		0							misc	0

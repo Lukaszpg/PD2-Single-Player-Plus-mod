@@ -1219,3 +1219,32 @@ seq_barbarianleap	S1	11			0
 seq_barbarianleap	S1	12		1	0
 seq_barbarianleap	S1	13		1	0
 seq_barbarianleap	S1	14			0
+seq_darktemplecharge	WL	0		1	0
+seq_darktemplecharge	WL	1		1	0
+seq_darktemplecharge	WL	2		1	0
+seq_darktemplecharge	WL	3		1	0
+seq_darktemplecharge	WL	4		1	0
+seq_darktemplecharge	WL	5		1	0
+seq_darktemplecharge	WL	6		1	0
+seq_darktemplecharge	WL	7		1	0
+seq_darktemplecharge	WL	8		1	0
+seq_darktemplecharge	WL	9		1	0
+seq_darktemplecharge	WL	10		1	0
+seq_darktemplecharge	A1	0			0
+seq_darktemplecharge	A1	1			0
+seq_darktemplecharge	A1	2			0
+seq_darktemplecharge	A1	3			0
+seq_darktemplecharge	A1	4			0
+seq_darktemplecharge	A1	5			0
+seq_darktemplecharge	A1	6			0
+seq_darktemplecharge	A1	7			0
+seq_darktemplecharge	A1	8			0
+seq_darktemplecharge	A1	9			0
+seq_darktemplecharge	A1	10			0
+seq_darktemplecharge	A1	11			0
+seq_darktemplecharge	A1	12		1	0
+seq_darktemplecharge	A1	13			0
+seq_darktemplecharge	A1	14			0
+seq_darktemplecharge	A1	15			0
+seq_darktemplecharge	A1	16			0
+seq_darktemplecharge	A1	17			0

@@ -15,10 +15,10 @@ Booster	Skill Boost	+2 to all skill levels	12	2	0	2400	5	2	blah	blah	4	1
 Booster	Recharge Boost	+400% mana recharge rate	13	400	0	2400	5	2	blah	blah	4	1
 Booster	Stamina Boost	Unlimited stamina	14	200	0	2400	5	3	blah	blah	4	1
 Booster	Experience Boost	50% more experience per kill	15	50	50	3600	0	3	blah	blah	4	1
-Magic	Shrine of Enirhs	reverses character name (OUT)	16	0	0	0	0	3	blah	blah	1	1
-Magic	Portal to unknown	opens a portal to town	17	0	0	0	0	2	blah	blah	1	3
+Magic	Shrine of Enirhs	reverses character name (OUT)	16	0	0	0	0	0	blah	blah	1	1
+Magic	Portal to unknown	opens a portal to town	17	0	0	0	0	0	blah	blah	0	3
 Magic	Gem Upgrade	"upgrades a random gem (up to one before max level if available), or gives a random gem"	18	0	0	0	0	3	blah	blah	1	4
-Magic	Storm Shrine	"all players and monsters lose 1/2 current HP, shoots fireballs"	19	50	2000	0	0	2	blah	blah	1	1
+Magic	Storm Shrine	"all players and monsters lose 1/2 current HP, shoots fireballs"	19	50	2000	0	0	1	blah	blah	1	1
 Magic	Warping Shrine	nearest monster becomes unique	20	0	0	0	0	3	blah	blah	1	3
-Magic	Exploding Shrine	drops 5-10 exploding potions & tosses out exploding potions in random directions/distances	21	5	10	0	0	3	blah	blah	1	1
-Magic	Poison Shrine	drops 5-10 poison gas potions & creates ring of poison gas around shrine	22	5	10	0	0	3	blah	blah	1	1
+Magic	Exploding Shrine	drops 5-10 exploding potions & tosses out exploding potions in random directions/distances	21	5	10	0	0	1	blah	blah	1	1
+Magic	Poison Shrine	drops 5-10 poison gas potions & creates ring of poison gas around shrine	22	5	10	0	0	1	blah	blah	1	1

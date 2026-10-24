@@ -144,3 +144,13 @@ longstaff	lst
 greatsword	gsd
 yewwand	ywn
 bonewand	bwn
+D1 roster variant v00	v00
+D1 roster variant v01	v01
+D1 roster variant v02	v02
+D1 roster variant v03	v03
+D1 roster variant v04	v04
+D1 roster variant v05	v05
+D1 roster variant v06	v06
+D1 roster variant v07	v07
+D1 roster variant v08	v08
+D1 roster variant v09	v09

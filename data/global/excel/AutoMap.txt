@@ -4850,3 +4850,845 @@ Expansion
 45	wrd	1	2	4	wall right door	34		-1		-1		-1
 45	wrd	1	1	1	wall right door	20		-1		-1		-1
 45	wrd	1	5	7	wall right door	34		-1		-1		-1
+46	wl	45	15	15	DS1 Studio	21		-1		-1		-1
+46	fl	38	5	5	DS1 Studio	319		-1		-1		-1
+46	fl	38	7	7	DS1 Studio	319		-1		-1		-1
+46	fl	38	3	3	DS1 Studio	692		-1		-1		-1
+46	fl	1	254	254	DS1 Studio	319		-1		-1		-1
+46	wtr	1	0	0	DS1 Studio	23		-1		-1		-1
+46	wbl	1	0	0	DS1 Studio	22		-1		-1		-1
+46	wbr	1	0	0	DS1 Studio	25		-1		-1		-1
+46	fl	41	9	25	DS1 Studio	289		-1		-1		-1
+46	fl	38	2	2	DS1 Studio	692		-1		-1		-1
+46	fl	2	27	27	DS1 Studio	692		-1		-1		-1
+46	fl	2	38	39	DS1 Studio	692		-1		-1		-1
+46	fl	2	47	47	DS1 Studio	692		-1		-1		-1
+46	fl	2	46	46	DS1 Studio	692		-1		-1		-1
+46	fl	38	0	1	DS1 Studio	692		-1		-1		-1
+46	fl	38	6	6	DS1 Studio	692		-1		-1		-1
+46	wtlr	3	0	0	DS1 Studio	55		-1		-1		-1
+46	wtlr	2	0	0	DS1 Studio	16		-1		-1		-1
+46	wtlr	2	2	3	DS1 Studio	16		-1		-1		-1
+46	wbr	3	0	0	DS1 Studio	50		-1		-1		-1
+46	wr	2	0	4	DS1 Studio	11	DS1 Studio	12		-1		-1
+46	wr	2	18	19	DS1 Studio	11	DS1 Studio	12		-1		-1
+46	wr	3	0	7	DS1 Studio	46	DS1 Studio	47	DS1 Studio	48	DS1 Studio	49
+46	wl	3	0	7	DS1 Studio	51	DS1 Studio	52	DS1 Studio	53	DS1 Studio	54
+46	wl	2	0	3	DS1 Studio	13	DS1 Studio	14		-1		-1
+46	wl	2	20	20	DS1 Studio	13	DS1 Studio	14		-1		-1
+46	wl	2	22	23	DS1 Studio	13	DS1 Studio	14		-1		-1
+46	wl	0	2	2	DS1 Studio	28		-1		-1		-1
+46	wl	0	4	4	DS1 Studio	21		-1		-1		-1
+46	wl	0	7	10	DS1 Studio	21		-1		-1		-1
+46	wl	0	12	12	DS1 Studio	21		-1		-1		-1
+46	wl	0	16	16	DS1 Studio	21		-1		-1		-1
+46	wl	1	0	0	DS1 Studio	21		-1		-1		-1
+46	wl	1	2	2	DS1 Studio	28		-1		-1		-1
+46	wl	1	4	5	DS1 Studio	21		-1		-1		-1
+46	wl	1	8	9	DS1 Studio	21		-1		-1		-1
+46	wl	45	1	1	DS1 Studio	21		-1		-1		-1
+46	wl	45	5	7	DS1 Studio	21		-1		-1		-1
+46	wl	45	10	10	DS1 Studio	21		-1		-1		-1
+46	wl	45	12	12	DS1 Studio	21		-1		-1		-1
+46	wr	0	2	2	DS1 Studio	34		-1		-1		-1
+46	wr	0	4	5	DS1 Studio	20		-1		-1		-1
+46	wr	0	7	9	DS1 Studio	20		-1		-1		-1
+46	wr	0	11	11	DS1 Studio	20		-1		-1		-1
+46	wr	0	13	13	DS1 Studio	20		-1		-1		-1
+46	wr	0	15	16	DS1 Studio	20		-1		-1		-1
+46	wr	1	2	2	DS1 Studio	34		-1		-1		-1
+46	wr	1	5	5	DS1 Studio	20		-1		-1		-1
+46	wr	1	8	8	DS1 Studio	20		-1		-1		-1
+46	wr	45	4	5	DS1 Studio	20		-1		-1		-1
+46	wr	45	7	7	DS1 Studio	20		-1		-1		-1
+46	wr	45	9	9	DS1 Studio	20		-1		-1		-1
+46	wtlr	0	2	2	DS1 Studio	24		-1		-1		-1
+46	wtlr	0	4	4	DS1 Studio	235		-1		-1		-1
+46	wtlr	45	1	2	DS1 Studio	24		-1		-1		-1
+46	wtr	45	1	1	DS1 Studio	23		-1		-1		-1
+46	wtr	45	3	3	DS1 Studio	23		-1		-1		-1
+46	wbl	45	0	1	DS1 Studio	22		-1		-1		-1
+46	wbr	45	0	0	DS1 Studio	25		-1		-1		-1
+46	wbr	45	2	2	DS1 Studio	25		-1		-1		-1
+46	wrd	45	0	0	DS1 Studio	34		-1		-1		-1
+46	wl	4	1	1	DS1 Studio	21		-1		-1		-1
+46	wl	5	1	1	DS1 Studio	21		-1		-1		-1
+46	wl	45	0	2	DS1 Studio	21		-1		-1		-1
+46	wl	45	8	8	DS1 Studio	21		-1		-1		-1
+46	wr	30	0	0	DS1 Studio	20		-1		-1		-1
+46	wr	45	1	2	DS1 Studio	20		-1		-1		-1
+46	wtll	45	1	1	DS1 Studio	21		-1		-1		-1
+46	wbl	45	0	0	DS1 Studio	20		-1		-1		-1
+46	wbl	45	1	1	DS1 Studio	20		-1		-1		-1
+46	wld	45	0	0	DS1 Studio	35		-1		-1		-1
+46	tr	0	15	15	DS1 Studio	1361		-1		-1		-1
+46	wtll	1	6	6	DS1 Studio	21		-1		-1		-1
+46	wl	0	0	2	DS1 Studio	21		-1		-1		-1
+46	wl	0	4	5	DS1 Studio	21		-1		-1		-1
+46	wl	0	7	8	DS1 Studio	21		-1		-1		-1
+46	wr	0	1	2	DS1 Studio	20		-1		-1		-1
+46	wr	1	8	9	DS1 Studio	20		-1		-1		-1
+46	wtlr	0	0	0	DS1 Studio	24		-1		-1		-1
+46	wr	2	0	3	Stn_WR a	11	Stn_WR b	12		-1		-1
+46	wr	2	4	4	Stn_L R E	18		-1		-1		-1
+46	wl	2	4	4	Stn_L L E	17		-1		-1		-1
+46	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+46	wtlr	2	0	4	Stn_X	16		-1		-1		-1
+46	wtll	2	0	4	Stn_X	16		-1		-1		-1
+46	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
+46	wl	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+46	wr	2	14	23	Stn_WR a	11	Stn_WR b	12		-1		-1
+46	wl	2	14	23	Stn_WL a	13	Stn_WL b	14		-1		-1
+46	wr	3	-1	-1	Guild Outdoor Cliff - Orientation 2	46		47		48		49
+46	wl	3	-1	-1	Guild Outdoor Cliff - Orientation 1	51		52		53		54
+46	wtr	3	-1	-1	Guild Outdoor Cliff - Orientation 5	51		52		53		54
+46	wtlr	3	-1	-1	Guild Outdoor Cliff - Orientation 3	55		-1		-1		-1
+46	wtll	3	-1	-1	Guild Outdoor Cliff - Orientation 4	55		-1		-1		-1
+46	wbr	3	-1	-1	Guild Outdoor Cliff - Orientation 7	50		-1		-1		-1
+46	wbl	3	-1	-1	Guild Outdoor Cliff - Orientation 6	52		-1		-1		-1
+46	wl	15	5	-1	WL A	21		-1		-1		-1
+46	wr	15	5	-1	WR A	20		-1		-1		-1
+46	wr	45	-1	-1	WR A	20		-1		-1		-1
+46	wl	45	0	4	WL A	21		-1		-1		-1
+46	wl	45	5	6	WBR	25		-1		-1		-1
+46	wl	45	7	-1	WL A	21		-1		-1		-1
+46	wtlr	45	-1	-1	WTLL	24		-1		-1		-1
+46	wtll	45	-1	-1	WTLL	24		-1		-1		-1
+46	wbr	45	-1	-1	WBR	25		-1		-1		-1
+46	wtr	45	0	2	WTR	23		-1		-1		-1
+46	wtr	45	-1	-1	WTR	23		-1		-1		-1
+46	wbl	45	-1	-1	WBL	22		-1		-1		-1
+46	wl	2	-1	-1	WL A	21	WL B	39		-1		-1
+46	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+46	wrd	45	-1	-1	WRD 1	34		-1		-1		-1
+46	wld	45	-1	-1	WLD 1	35		-1		-1		-1
+46	fl	0	1	47	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+46	fl	0	54	54	Waypoint	307		-1		-1		-1
+46	fl	0	49	49	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+46	fl	2	8	9	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+46	wl	1	0	1	Guild outside tudor, Orientation 1	21		-1		-1		-1
+46	wl	1	4	9	Guild outside tudor, Orientation 1	21		-1		-1		-1
+46	wtr	1	-1	-1	Guild outside tudor, Orientation 5	23		-1		-1		-1
+46	wr	1	0	1	Guild outside tudor, Orientation 2	20		-1		-1		-1
+46	wr	1	4	9	Guild outside tudor, Orientation 2	20		-1		-1		-1
+46	wbl	1	-1	-1	Guild outside tudor, Orientation 6	22		-1		-1		-1
+46	wl	0	0	1	Guild Inside Tudor - Orientation 1	21		-1		-1		-1
+46	wl	0	4	16	Guild Inside Tudor - Orientation 1	21		-1		-1		-1
+46	wr	0	0	1	Guild Inside Tudor - Orientation 2	20		-1		-1		-1
+46	wr	0	4	16	Guild Inside Tudor - Orientation 2	20		-1		-1		-1
+46	wtlr	0	-1	-1	Guild Inside Tudor - Orientation 3	24		-1		-1		-1
+46	wtll	0	-1	-1	Guild Inside Tudor - Orientation 4	24		-1		-1		-1
+46	fl	45	0	8	outdoor wooden floor	692		-1		-1		-1
+46	fl	2	0	7	outdoor wooden floor	692		-1		-1		-1
+46	fl	3	0	11	inside guild floor	148		-1		-1		-1
+46	fl	6	4	4	Outdoor Guild Fireplace	405		-1		-1		-1
+46	wld	7	11	11	guild castle - orientation 8L	1398		-1		-1		-1
+46	wld	7	12	12	guild castle - orientation 8R	1399		-1		-1		-1
+46	wld	7	18	18	guild castle - orientation 8L	1398		-1		-1		-1
+46	wld	7	19	19	guild castle - orientation 8R	1399		-1		-1		-1
+46	wl	7	0	10	guild castle - orientation 1	761		-1		-1		-1
+46	wr	7	0	6	guild castle - orientation 2	760		-1		-1		-1
+46	wtlr	7	-1	-1	guild castle - orientation 3	764		-1		-1		-1
+46	wtll	7	-1	-1	guild castle - orientation 4	764		-1		-1		-1
+46	wl	9	-1	-1	guild inside castle - orientation 1	761		-1		-1		-1
+46	wr	9	-1	-1	guild inside castle - orientation 2	760		-1		-1		-1
+46	wtlr	9	-1	-1	guild inside castle - orientation 3	764		-1		-1		-1
+46	wtll	9	-1	-1	guild inside castle - orientation 4	764		-1		-1		-1
+46	wld	9	-1	-1	guild inside castle - orientation 8	755		-1		-1		-1
+46	wrd	9	-1	-1	guild inside castle - orientation 9	754		-1		-1		-1
+46	wtr	9	-1	-1	guild inside castle - orientation 5	761		-1		-1		-1
+46	wbl	9	-1	-1	guild inside castle - orientation 6	760		-1		-1		-1
+46	wl	8	11	11	guild inside upper castle - orientation 1	772		-1		-1		-1
+46	wl	8	12	12	guild inside upper castle - orientation 1	773		-1		-1		-1
+46	wl	8	0	10	guild inside upper castle - orientation 1	761		-1		-1		-1
+46	wl	8	13	13	guild inside upper castle - orientation 1	761		-1		-1		-1
+46	wr	6	0	0	guild wagon Start	415		-1		-1		-1
+46	wr	6	2	2	guild wagon End	416		-1		-1		-1
+47	fl	10	1	1	RB_WR_B	532		-1		-1		-1
+47	fl	10	2	2	RB_WR_B	532		-1		-1		-1
+47	fl	10	18	18	RB_WBR_BW	527		-1		-1		-1
+47	fl	10	37	37	RB_WL _T	523		-1		-1		-1
+47	fl	10	41	41	RB_WL _T	523		-1		-1		-1
+47	fl	10	45	45	RB_WL _T	523		-1		-1		-1
+47	fl	10	46	46	RB_WR_T	524		-1		-1		-1
+47	fl	10	48	48	RB_WR_T	524		-1		-1		-1
+47	fl	10	56	56	RB_WBL_X	530		-1		-1		-1
+47	fl	10	59	59	RB_WL_B	531		-1		-1		-1
+47	fl	11	3	3	RB_WL _T	523		-1		-1		-1
+47	fl	11	7	7	RB_WL _T	523		-1		-1		-1
+47	fl	11	11	11	RB_WL _T	523		-1		-1		-1
+47	fl	11	15	15	RB_WL _T	523		-1		-1		-1
+47	fl	11	20	20	RB_WTR_X	528		-1		-1		-1
+47	fl	11	31	31	RB_WL_B	531		-1		-1		-1
+47	fl	11	35	35	RB_WL_B	531		-1		-1		-1
+47	fl	11	39	39	RB_WL_B	531		-1		-1		-1
+47	fl	11	42	42	RB_WTLL_TW	536		-1		-1		-1
+47	fl	11	47	47	RB_WL_B	531		-1		-1		-1
+47	fl	11	51	51	RB_WL_B	531		-1		-1		-1
+47	fl	11	55	55	RB_WL_B	531		-1		-1		-1
+47	fl	11	59	59	RB_WL_B	531		-1		-1		-1
+47	fl	12	0	0	RB_WR_B	532		-1		-1		-1
+47	fl	12	1	1	RB_WR_B	532		-1		-1		-1
+47	fl	12	2	2	River_A	520	River_C	521	River_C	522		-1
+47	fl	12	5	5	RB_WR_B	532		-1		-1		-1
+47	fl	12	6	6	RB_WTR	529		-1		-1		-1
+47	fl	12	10	10	RB_WL _T	523		-1		-1		-1
+47	fl	12	14	14	RB_WL _T	523		-1		-1		-1
+47	fl	12	24	24	RB_WBL_X	530		-1		-1		-1
+47	fl	12	27	27	RB_WTLL_TW	536		-1		-1		-1
+47	fl	12	28	28	RB_WBL	525		-1		-1		-1
+47	fl	12	31	31	RB_WR_T	524		-1		-1		-1
+47	fl	12	44	44	RB_WTLL_TW	536		-1		-1		-1
+47	fl	12	48	48	RB_WL _T	523		-1		-1		-1
+47	fl	12	49	49	RB_WTLL_TB	537		-1		-1		-1
+47	fl	12	50	50	RB_WR_B	532		-1		-1		-1
+47	fl	12	51	51	RB_WTR_X	528		-1		-1		-1
+47	fl	12	52	52	RB_WTLL_TB	537		-1		-1		-1
+47	fl	12	56	56	RB_WL_B	531		-1		-1		-1
+47	fl	12	60	60	RB_WL_B	531		-1		-1		-1
+47	fl	13	10	10	RB_WBL_X	530		-1		-1		-1
+47	fl	13	13	13	RB_WTLL_TW	536		-1		-1		-1
+47	fl	13	14	14	RB_WBL	525		-1		-1		-1
+47	fl	13	15	15	RB_WR_T	524		-1		-1		-1
+47	fl	13	16	16	RB_WR_T	524		-1		-1		-1
+47	fl	13	17	17	RB_WBR_TB	526		-1		-1		-1
+47	fl	13	29	29	RB_WR_T	524		-1		-1		-1
+47	fl	13	30	30	RB_WR_T	524		-1		-1		-1
+47	fl	13	31	31	RB_WR_B	532		-1		-1		-1
+47	fl	13	32	32	RB_WR_B	532		-1		-1		-1
+47	fl	13	33	33	RB_WR_B	532		-1		-1		-1
+47	fl	13	34	34	RB_WR_B	532		-1		-1		-1
+47	fl	13	47	47	RB_WR_B	532		-1		-1		-1
+47	fl	13	53	53	RB_WR_T	524		-1		-1		-1
+47	fl	13	54	54	RB_WL_B	531		-1		-1		-1
+47	fl	13	61	61	RB_WL _T	523		-1		-1		-1
+47	fl	14	2	2	bridgeRb	571		-1		-1		-1
+47	fl	14	3	3	bridgeRt	570		-1		-1		-1
+47	fl	14	4	4	bridgeRb	571		-1		-1		-1
+47	fl	14	5	5	bridgeRt	570		-1		-1		-1
+47	fl	14	6	6	bridgeRb	571		-1		-1		-1
+47	fl	14	7	7	bridgeRt	570		-1		-1		-1
+47	fl	14	8	8	bridgeRb	571		-1		-1		-1
+47	fl	14	9	9	bridgeRt	570		-1		-1		-1
+47	fl	14	10	10	bridgeRb	571		-1		-1		-1
+47	fl	14	11	11	bridgeRt	570		-1		-1		-1
+47	fl	14	12	12	bridgeRb	571		-1		-1		-1
+47	fl	14	13	13	bridgeRt	570		-1		-1		-1
+47	fl	14	18	18	bridgeLt	568		-1		-1		-1
+47	fl	14	19	19	bridgeLb	569		-1		-1		-1
+47	fl	14	26	26	bridgeLt	568		-1		-1		-1
+47	fl	14	27	27	bridgeLb	569		-1		-1		-1
+47	fl	14	28	28	bridgeLt	568		-1		-1		-1
+47	fl	14	29	29	bridgeLb	569		-1		-1		-1
+47	fl	44	19	19	filler	282		-1		-1		-1
+47	fl	44	20	20	T3_BT_513	579		-1		-1		-1
+47	fl	44	25	25	T3_BT_518	578		-1		-1		-1
+47	fl	44	26	26	filler	282		-1		-1		-1
+47	fl	44	31	31	filler	282		-1		-1		-1
+47	fl	44	32	32	filler	282		-1		-1		-1
+47	fl	44	36	36	T3_BT_529	577		-1		-1		-1
+47	fl	44	39	39	T3_BT_532	576		-1		-1		-1
+47	fl	44	53	53	T3_grnd01	533		534		-1		-1
+47	fl	45	7	7	A3_trc_wrstr01	666		-1		-1		-1
+47	fl	45	8	8	A3_trc_wrstr02	667		-1		-1		-1
+47	fl	45	9	9	A3_trc_wrstr03	668		-1		-1		-1
+47	fl	49	240	240	bridgeLt	568		-1		-1		-1
+47	fl	49	243	243	bridgeLb	569		-1		-1		-1
+47	fl	57	47	47	RB_WR_B	532		-1		-1		-1
+47	fl	57	51	51	RB_WR_T	524		-1		-1		-1
+47	fl	57	66	66	RB_WL _T	523		-1		-1		-1
+47	fl	57	75	75	RB_WTR_X	528		-1		-1		-1
+47	fl	57	82	82	RB_WTR_X	528		-1		-1		-1
+47	fl	57	86	86	RB_WR_B	532		-1		-1		-1
+47	fl	57	93	93	RB_WR_T	524		-1		-1		-1
+47	fl	58	0	0	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	1	1	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	2	2	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	3	3	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	4	4	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	5	5	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	6	6	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	7	7	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	8	8	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	12	12	RB_WL_B	531		-1		-1		-1
+47	fl	58	16	16	RB_WL_B	531		-1		-1		-1
+47	fl	58	20	20	RB_WTLL_TB	537		-1		-1		-1
+47	fl	58	21	21	RB_WTR_X	528		-1		-1		-1
+47	fl	58	22	22	RB_WR_B	532		-1		-1		-1
+47	fl	58	23	23	RB_WTLL_TB	537		-1		-1		-1
+47	fl	58	24	24	RB_WL _T	523		-1		-1		-1
+47	fl	58	28	28	RB_WTLL_TW	536		-1		-1		-1
+47	fl	58	40	40	RB_WR_T	524		-1		-1		-1
+47	fl	58	41	41	RB_WR_T	524		-1		-1		-1
+47	fl	58	52	52	RB_WBR_TB	526		-1		-1		-1
+47	fl	58	53	53	RB_WR_T	524		-1		-1		-1
+47	fl	58	54	54	RB_WR_T	524		-1		-1		-1
+47	fl	58	55	55	RB_WBL	525		-1		-1		-1
+47	fl	58	56	56	RB_WTLL_TW	536		-1		-1		-1
+47	fl	58	59	59	RB_WBL_X	530		-1		-1		-1
+47	fl	58	60	60	RB_WR_T	524		-1		-1		-1
+47	fl	58	63	63	RB_WBL	525		-1		-1		-1
+47	fl	58	64	64	RB_WTLL_TW	536		-1		-1		-1
+47	fl	58	67	67	RB_WBL_X	530		-1		-1		-1
+47	fl	58	76	76	RB_WL _T	523		-1		-1		-1
+47	fl	58	83	83	RB_WL_B	531		-1		-1		-1
+47	fl	58	84	84	RB_WR_T	524		-1		-1		-1
+47	fl	58	90	90	RB_WR_B	532		-1		-1		-1
+47	fl	58	107	107	RB_WL _T	523		-1		-1		-1
+47	fl	58	111	111	RB_WL _T	523		-1		-1		-1
+47	fl	58	115	115	RB_WTR	529		-1		-1		-1
+47	fl	58	116	116	RB_WR_B	532		-1		-1		-1
+47	fl	58	119	119	River_A	520	River_C	521	River_C	522		-1
+47	fl	58	120	120	RB_WR_B	532		-1		-1		-1
+47	fl	58	121	121	RB_WR_B	532		-1		-1		-1
+47	fl	58	125	125	RB_WL_B	531		-1		-1		-1
+47	fl	58	128	128	RB_WBL_X	530		-1		-1		-1
+47	fl	58	137	137	RB_WL_B	531		-1		-1		-1
+47	fl	58	141	141	RB_WL_B	531		-1		-1		-1
+47	fl	58	145	145	RB_WL_B	531		-1		-1		-1
+47	fl	58	149	149	RB_WL_B	531		-1		-1		-1
+47	fl	58	180	180	RB_WTLL_TW	536		-1		-1		-1
+47	fl	58	183	183	RB_WL_B	531		-1		-1		-1
+47	fl	58	187	187	RB_WL_B	531		-1		-1		-1
+47	fl	58	191	191	RB_WL_B	531		-1		-1		-1
+47	fl	58	202	202	RB_WTR_X	528		-1		-1		-1
+47	fl	58	206	206	RB_WL _T	523		-1		-1		-1
+47	fl	58	210	210	RB_WL _T	523		-1		-1		-1
+47	fl	58	214	214	RB_WL _T	523		-1		-1		-1
+47	fl	58	218	218	RB_WL _T	523		-1		-1		-1
+47	fl	58	224	224	bridgeLb	569		-1		-1		-1
+47	fl	58	225	225	bridgeLt	568		-1		-1		-1
+47	fl	58	226	226	bridgeLb	569		-1		-1		-1
+47	fl	58	227	227	bridgeLt	568		-1		-1		-1
+47	fl	58	234	234	bridgeLb	569		-1		-1		-1
+47	fl	58	235	235	bridgeLt	568		-1		-1		-1
+47	fl	58	240	240	bridgeRt	570		-1		-1		-1
+47	fl	58	241	241	bridgeRb	571		-1		-1		-1
+47	fl	58	242	242	bridgeRt	570		-1		-1		-1
+47	fl	58	243	243	bridgeRb	571		-1		-1		-1
+47	fl	58	244	244	bridgeRt	570		-1		-1		-1
+47	fl	58	245	245	bridgeRb	571		-1		-1		-1
+47	fl	58	246	246	bridgeRt	570		-1		-1		-1
+47	fl	58	247	247	bridgeRb	571		-1		-1		-1
+47	fl	58	248	248	bridgeRt	570		-1		-1		-1
+47	fl	58	249	249	bridgeRb	571		-1		-1		-1
+47	fl	58	250	250	bridgeRt	570		-1		-1		-1
+47	fl	58	251	251	bridgeRb	571		-1		-1		-1
+47	fl	59	6	6	RB_WBR_TB	526		-1		-1		-1
+47	fl	59	7	7	RB_WR_T	524		-1		-1		-1
+47	fl	59	8	8	RB_WR_T	524		-1		-1		-1
+47	fl	59	9	9	RB_WR_T	524		-1		-1		-1
+47	fl	59	10	10	RB_WL _T	523		-1		-1		-1
+47	fl	59	14	14	RB_WL _T	523		-1		-1		-1
+47	fl	59	18	18	RB_WL _T	523		-1		-1		-1
+47	fl	59	36	36	RB_WBR_BW	527		-1		-1		-1
+47	fl	59	49	49	RB_WR_B	532		-1		-1		-1
+47	fl	59	50	50	RB_WR_B	532		-1		-1		-1
+47	fl	59	51	51	RB_WR_B	532		-1		-1		-1
+47	fl	59	52	52	RB_WR_B	532		-1		-1		-1
+47	fl	59	67	67	RB_WR_B	532		-1		-1		-1
+47	fl	59	68	68	RB_WR_B	532		-1		-1		-1
+47	fl	59	148	148	RB_WR_B	532		-1		-1		-1
+47	fl	59	152	152	RB_WR_T	524		-1		-1		-1
+47	fl	59	167	167	RB_WL _T	523		-1		-1		-1
+47	fl	59	176	176	RB_WTR_X	528		-1		-1		-1
+47	fl	59	183	183	RB_WTR_X	528		-1		-1		-1
+47	fl	59	187	187	RB_WR_B	532		-1		-1		-1
+47	fl	59	194	194	RB_WR_T	524		-1		-1		-1
+47	fl	59	196	196	T3_BT_513	579		-1		-1		-1
+47	fl	59	197	197	filler	282		-1		-1		-1
+47	wl	0	0	0	M_WL	341		-1		-1		-1
+47	wl	0	1	1	M_WL	341		-1		-1		-1
+47	wl	0	2	2	M_WL	341		-1		-1		-1
+47	wl	0	3	3	M_WL	341		-1		-1		-1
+47	wl	0	5	5	M_WL_0_5	346		-1		-1		-1
+47	wl	0	7	7	M_WL_0_7	342		-1		-1		-1
+47	wl	1	0	0	M_WL	341		-1		-1		-1
+47	wl	1	1	1	M_WL	341		-1		-1		-1
+47	wl	1	2	2	M_WL	341		-1		-1		-1
+47	wl	1	3	3	M_WL	341		-1		-1		-1
+47	wl	2	2	2	M_WL	341		-1		-1		-1
+47	wl	2	3	3	M_WL	341		-1		-1		-1
+47	wl	40	1	1	HA_WL101	541		-1		-1		-1
+47	wl	40	2	2	HB_WL102	544		-1		-1		-1
+47	wl	40	4	4	HC_WL104	546		-1		-1		-1
+47	wl	40	8	8	AK_WL1302	557		-1		-1		-1
+47	wl	43	1	1	M_WL	341		-1		-1		-1
+47	wl	43	6	6	M_WL	341		-1		-1		-1
+47	wl	43	11	11	M_WL	341		-1		-1		-1
+47	wl	43	14	14	M_WL	341		-1		-1		-1
+47	wl	43	19	19	M_WL	341		-1		-1		-1
+47	wl	43	24	24	M_WL	341		-1		-1		-1
+47	wl	43	39	39	M_WL	341		-1		-1		-1
+47	wl	48	0	0	S WL	232		-1		-1		-1
+47	wl	48	1	1	S WL2	238		-1		-1		-1
+47	wl	48	2	2	S WL	232		-1		-1		-1
+47	wl	48	3	3	S WL	232		-1		-1		-1
+47	wl	51	0	0	S WL	232		-1		-1		-1
+47	wl	56	0	0	S WL	232		-1		-1		-1
+47	wl	56	1	1	S WL2	238		-1		-1		-1
+47	wl	56	2	2	S WL	232		-1		-1		-1
+47	wl	61	0	0	WL A	21		-1		-1		-1
+47	wl	61	1	1	WL A	21		-1		-1		-1
+47	wr	0	0	0	M_WR	340		-1		-1		-1
+47	wr	0	1	1	M_WR	340		-1		-1		-1
+47	wr	0	2	2	M_WR	340		-1		-1		-1
+47	wr	0	3	3	M_WR	340		-1		-1		-1
+47	wr	0	5	5	M_WR_0_5	352		-1		-1		-1
+47	wr	0	7	7	M_WR_0_7	344		-1		-1		-1
+47	wr	1	0	0	M_WR	340		-1		-1		-1
+47	wr	1	1	1	M_WR	340		-1		-1		-1
+47	wr	1	2	2	M_WR	340		-1		-1		-1
+47	wr	1	3	3	M_WR	340		-1		-1		-1
+47	wr	2	2	2	M_WR	340		-1		-1		-1
+47	wr	2	3	3	M_WR	340		-1		-1		-1
+47	wr	40	2	2	HB_WR102	543		-1		-1		-1
+47	wr	40	4	4	HB_WR104	542		-1		-1		-1
+47	wr	40	7	7	AK_WR1301	556		-1		-1		-1
+47	wr	43	4	4	M_WR	340		-1		-1		-1
+47	wr	43	22	22	M_WR	340		-1		-1		-1
+47	wr	43	37	37	M_WR	340		-1		-1		-1
+47	wr	48	0	0	S WR	231		-1		-1		-1
+48	wr	1	0	0	baal low rw 1 0-3	1380		-1		-1		-1
+48	wr	1	2	2	baal low rw 1 0-3	1380		-1		-1		-1
+48	wl	1	2	2	baal low lw 2 0-3	1381		-1		-1		-1
+48	wl	1	0	0	baal low lw 2 0-3	1381		-1		-1		-1
+48	wr	1	1	1	baal low rw 1 5	1382		-1		-1		-1
+48	wr	1	3	3	baal low rw 1 5	1382		-1		-1		-1
+48	wr	2	1	1	baal low rw 1 5	1382		-1		-1		-1
+48	wl	1	5	5	baal low lw 1 5	1383		-1		-1		-1
+48	wl	1	1	1	baal low lw 1 5	1383		-1		-1		-1
+48	wl	1	3	3	baal low lw 1 5	1383		-1		-1		-1
+48	wl	1	10	10	baal low lw 1 5	1383		-1		-1		-1
+48	wl	2	1	1	baal low lw 1 5	1383		-1		-1		-1
+48	wr	2	3	3	baal low col	1385		-1		-1		-1
+48	wbr	1	0	0	baal low wbr 1 0	1390		-1		-1		-1
+48	wl	2	3	3	baal low wbr 1 0	1390		-1		-1		-1
+48	wtll	1	0	0	baal low wtll	1384		-1		-1		-1
+48	wtlr	2	1	1	baal wtll tran	1393		-1		-1		-1
+48	wr	1	5	5	baal low wr 1 5	1394		-1		-1		-1
+48	wr	0	7	7	baal low wr 1 5	1394		-1		-1		-1
+48	wr	0	0	3	baal rw	1396		-1		-1		-1
+48	wl	0	0	3	baal lw	1397		-1		-1		-1
+48	wl	0	9	9	baal lw	1397		-1		-1		-1
+48	wr	0	9	9	baal rw	1396		-1		-1		-1
+48	wl	3	0	9	G_WL	81		-1		-1		-1
+48	wl	3	12	30	G_WL	81		-1		-1		-1
+48	wr	3	0	9	G_WR	80		-1		-1		-1
+48	wr	3	14	30	G_WR	80		-1		-1		-1
+48	wtlr	3	-1	-1	G_WTLL	84		-1		-1		-1
+48	wtll	3	-1	-1	G_WTLL	84		-1		-1		-1
+48	wr	3	10	10	DT Arch WR3	80		-1		-1		-1
+48	wtll	3	6	6	DT Arch WTLL3	84		-1		-1		-1
+48	wtr	3	0	0	DT Arch WTR3	83		-1		-1		-1
+48	wbl	3	0	0	DT Arch WBL3	82		-1		-1		-1
+48	wbr	3	0	0	DT Arch WBR3	85		-1		-1		-1
+48	wr	4	-1	-1	WR A	20	WR B	38		-1		-1
+48	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+48	wbr	4	-1	-1	WBR	25		-1		-1		-1
+48	wrd	4	2	2	WR A	20		-1		-1		-1
+48	wrd	4	5	5	WRD A	26		-1		-1		-1
+48	wrd	4	4	4	WR A	20		-1		-1		-1
+48	wrd	4	3	3	WRD B	27		-1		-1		-1
+48	wr	7	4	4	baal rw	1396		-1		-1		-1
+48	wl	6	0	8	baal low lw 2 0-3	1381		-1		-1		-1
+48	wr	6	5	10	baal low rw 1 0-3	1380		-1		-1		-1
+48	wr	5	2	2	worldstone rd 5 6	1497		-1		-1		-1
+48	wr	5	4	4	worldstone rd 5 8	1498		-1		-1		-1
+48	wtlr	6	0	0	PBox WTLR	84		-1		-1		-1
+48	wtll	6	0	0	PBox WTLL	84		-1		-1		-1
+48	wtr	6	0	0	PBox WTR	83		-1		-1		-1
+48	wbl	6	0	0	PBox WBL	82		-1		-1		-1
+48	wbr	6	0	0	PBox WBR	85		-1		-1		-1
+48	wr	48	18	19	dsrt ruin wr	497		-1		-1		-1
+48	wr	48	28	29	dsrt ruin wr	497		-1		-1		-1
+48	wr	48	13	20	RD_WR	100		-1		-1		-1
+48	wr	48	21	21	RD_WRD 1	114		-1		-1		-1
+48	wr	48	22	-1	RD_WR	100		-1		-1		-1
+48	wl	48	18	19	dsrt ruin wl	498		-1		-1		-1
+48	wl	48	26	26	dsrt ruin wl	498		-1		-1		-1
+48	wl	48	28	29	dsrt ruin wl	498		-1		-1		-1
+48	wl	48	0	20	RD_WL	101		-1		-1		-1
+48	wl	48	21	21	RD_WLD 1	115		-1		-1		-1
+48	wl	48	22	-1	RD_WL	101		-1		-1		-1
+48	wtlr	48	-1	-1	RD_WTLL	104		-1		-1		-1
+48	wle	30	11	11	Custom WLE	33		-1		-1		-1
+48	fl	38	33	33	D_Oasis_a	266		267		-1		-1
+48	fl	38	37	37	D_Oasis_a	266		267		-1		-1
+48	fl	39	0	0	D_Oasis_a	266		267		-1		-1
+48	fl	39	10	11	D_Oasis_a	266		267		-1		-1
+48	fl	39	22	22	D_Oasis_a	266		267		-1		-1
+48	fl	39	30	31	D_Oasis_a	266		267		-1		-1
+48	fl	39	33	34	D_Oasis_a	266		267		-1		-1
+48	fl	39	36	39	D_Oasis_a	266		267		-1		-1
+48	fl	39	40	41	D_Oasis_a	266		267		-1		-1
+48	fl	39	44	50	D_Oasis_a	266		267		-1		-1
+48	fl	40	3	3	D_Oasis_a	266		267		-1		-1
+48	fl	40	18	19	D_Oasis_a	266		267		-1		-1
+48	wl	0	6	6	DT broken left wall	1397		-1		-1		-1
+48	wl	0	7	7	DT broken wall pillar	1379		-1		-1		-1
+48	wl	1	9	9	DT tall wall pillar	1379		-1		-1		-1
+48	wl	2	0	0	DT left pillar end	1385		-1		-1		-1
+48	wr	2	0	0	DT right pillar end	1385		-1		-1		-1
+48	wtlr	0	0	0	DT upper wall corner	1392		-1		-1		-1
+48	wtlr	1	0	0	DT lower wall corner	1384		-1		-1		-1
+48	wr	6	3	3	DT low right arch	1380		-1		-1		-1
+48	co	0	2	2	baal broken col	1376		-1		-1		-1
+48	co	0	-1	-1	baal col 0 1	1379		-1		-1		-1
+48	co	48	10	12	RD_WR	100		-1		-1		-1
+49	wbr	23	0	0	Stone Pillar	1390		-1		-1		-1
+49	wl	2	0	23	wall left (fence)	13		-1		-1		-1
+49	wr	2	0	23	wall right (fence)	11		-1		-1		-1
+49	wl	50	0	18	wall left (ice cliff)	47		-1		-1		-1
+49	wr	50	2	17	wall right (ice cliff)	48		-1		-1		-1
+49	wl	3	0	8	wall left (cliff)	49		-1		-1		-1
+49	wr	3	0	8	wall right (cliff)	50		-1		-1		-1
+49	tr	0	1	1	Tree	472		-1		-1		-1
+49	tr	0	4	4	Tree	472		-1		-1		-1
+49	tr	0	7	7	Tree	472		-1		-1		-1
+49	tr	0	10	10	Tree	472		-1		-1		-1
+49	tr	0	13	13	Tree	472		-1		-1		-1
+49	tr	0	16	16	Tree	472		-1		-1		-1
+49	tr	0	19	19	Tree	472		-1		-1		-1
+49	tr	0	22	22	Tree	472		-1		-1		-1
+49	tr	0	25	25	Tree	472		-1		-1		-1
+49	co	7	10	10	akara_c10	400		-1		-1		-1
+49	co	7	11	11	akara_c11	401		-1		-1		-1
+49	co	7	12	12	akara_c12	402		-1		-1		-1
+49	wl	0	26	26	wgn1_wl026	412		-1		-1		-1
+49	wr	0	27	27	wgn2_wr027	415		-1		-1		-1
+49	wl	0	28	28	wgn1_wl028	411		-1		-1		-1
+49	wr	0	29	29	wgn2_wr029	416		-1		-1		-1
+49	wl	0	30	30	wgn1_wl030	410		-1		-1		-1
+49	wr	0	40	40	tntsm_wr040	413		-1		-1		-1
+49	wl	0	43	43	tntsm_wl043	414		-1		-1		-1
+49	wr	0	33	33	tntlrg_wr033	417		-1		-1		-1
+49	wl	0	36	36	tntlrg_wl036	418		-1		-1		-1
+49	wl	0	34	34	tntlrg_wl034	419		-1		-1		-1
+49	wr	0	36	36	smthy_wr036	420		-1		-1		-1
+49	wr	0	38	38	smthy_wr038	421		-1		-1		-1
+49	fl	1	61	61	smthy_fl161	422		-1		-1		-1
+49	wr	0	19	19	wgn3_wr021	423		-1		-1		-1
+49	wr	0	21	21	wgn3_wl020	424		-1		-1		-1
+49	wr	0	24	24	cart_wr024	425		-1		-1		-1
+49	rd	49	3	4	lower cliff right	1520		-1		-1		-1
+49	ld	49	3	4	lower cliff left	1519		-1		-1		-1
+49	fd	49	1	1	lower cliff middle	1518		-1		-1		-1
+49	fi	49	2	2	lower cliff middle	1517		-1		-1		-1
+49	rd	48	1	2	lower cliff right (glows)	1520		-1		-1		-1
+49	ld	48	1	2	lower cliff left (glows)	1519		-1		-1		-1
+49	fl	50	60	61	cliff edge floor left	1513		-1		-1		-1
+49	fl	50	62	63	cliff edge floor right	1514		-1		-1		-1
+49	fl	51	57	58	cliff edge floor left	1106		-1		-1		-1
+49	fl	51	59	60	cliff edge floor right	1107		-1		-1		-1
+49	co	7	2	6	baal pillar	1444		-1		-1		-1
+49	wr	7	1	1	baal entrance	1557		-1		-1		-1
+49	wtr	20	1	1	barb tent	1410		-1		-1		-1
+49	wbl	20	0	0	barb tent	1409		-1		-1		-1
+49	wbl	20	0	0	barb tent	1407		-1		-1		-1
+49	wl	20	0	0	barb tent	1408		-1		-1		-1
+49	fl	0	1	46	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+49	fl	3	12	15	River B A	5		-1		-1		-1
+49	fl	3	4	7	River B A	5		-1		-1		-1
+49	fl	2	8	11	River M A	6	River M B	7	River M C	8		-1
+49	fl	2	20	24	River M A	6	River M B	7	River M C	8		-1
+49	fl	2	20	24	River M A	6	River M B	7	River M C	8		-1
+49	fl	2	4	7	River T A	4		-1		-1		-1
+49	fl	2	16	19	River T A	4		-1		-1		-1
+49	wl	22	0	7	hell wall left	101		-1		-1		-1
+49	wr	22	0	7	hell wall right	100		-1		-1		-1
+49	fl	16	5	6	Pond	6		-1		-1		-1
+49	fl	16	9	10	Pond	6		-1		-1		-1
+49	fl	30	0	3	Bridge M	79		-1		-1		-1
+49	fl	30	4	4	Bridge T A	76		-1		-1		-1
+49	fl	30	5	6	Bridge M	79		-1		-1		-1
+49	fl	30	7	7	Bridge B A	73		-1		-1		-1
+49	fl	30	8	8	Bridge T B	77		-1		-1		-1
+49	fl	30	9	10	Bridge M	79		-1		-1		-1
+49	fl	30	11	11	Bridge B B	74		-1		-1		-1
+49	fl	30	12	12	Bridge T B	77		-1		-1		-1
+49	fl	30	13	14	Bridge M	79		-1		-1		-1
+49	fl	30	15	15	Bridge B B	74		-1		-1		-1
+49	fl	30	16	16	Bridge T B	77		-1		-1		-1
+49	fl	30	17	18	Bridge M	79		-1		-1		-1
+49	fl	30	19	19	Bridge B B	74		-1		-1		-1
+49	fl	30	20	21	Bridge M	79		-1		-1		-1
+49	fl	30	22	22	Bridge B B	74		-1		-1		-1
+49	fl	30	23	26	Bridge M	79		-1		-1		-1
+49	fl	30	27	27	Bridge T C	78		-1		-1		-1
+49	fl	30	28	29	Bridge M	79		-1		-1		-1
+49	fl	30	30	30	Bridge B C	75		-1		-1		-1
+49	fl	30	31	31	Bridge T B	77		-1		-1		-1
+49	fl	30	32	33	Bridge M	79		-1		-1		-1
+49	fl	30	34	34	Bridge B B	74		-1		-1		-1
+49	fl	30	35	35	Bridge T B	77		-1		-1		-1
+49	fl	30	36	37	Bridge M	79		-1		-1		-1
+49	fl	30	38	38	Bridge B B	74		-1		-1		-1
+49	fl	30	39	39	Bridge T B	77		-1		-1		-1
+49	wl	5	1	8	Burned wall left	21		-1		-1		-1
+49	wr	5	0	0	Burned tall wall right	20		-1		-1		-1
+49	wr	5	2	2	Burned tall wall right	27		-1		-1		-1
+49	wbl	5	0	0	Burned tall wall right	20		-1		-1		-1
+49	wtlr	5	0	0	Burned tall wall right	20		-1		-1		-1
+49	wl	4	1	1	Burned wall left	20		-1		-1		-1
+49	wl	4	2	2	Burned wall left	21		-1		-1		-1
+49	wl	4	0	0	Burned wall left	21		-1		-1		-1
+49	wr	14	0	7	Burned wall right	20		-1		-1		-1
+49	wr	14	0	4	Burned wall right	20		-1		-1		-1
+49	wl	14	4	6	Burned wall left	21		-1		-1		-1
+49	wtlr	14	0	0	Burned wall left	235		-1		-1		-1
+49	wtr	2	5	5	wall right (fence)	16		-1		-1		-1
+49	wtr	2	0	4	wall right (fence)	16		-1		-1		-1
+49	wr	10	0	2	Burned wall right	20		-1		-1		-1
+49	co	5	0	1	Stones	426		-1		-1		-1
+49	co	22	0	0	Hell Pillar	105		-1		-1		-1
+49	wl	10	0	8	Burned wall left	21		-1		-1		-1
+49	wtr	10	0	0	Burned wall corner	24		-1		-1		-1
+49	wtr	10	5	5	Burned wall corner	24		-1		-1		-1
+49	wr	10	5	7	Burned wall right	20		-1		-1		-1
+49	wr	10	3	3	Burned wall right door	26		-1		-1		-1
+49	wr	1	0	8	wall right	20		-1		-1		-1
+49	wtr	1	0	0	wall right corner	24		-1		-1		-1
+49	wl	1	0	6	wall left	20		-1		-1		-1
+50	wl	55	37	37	DS1 Studio	408		-1		-1		-1
+50	wtlr	55	38	38	DS1 Studio	407		-1		-1		-1
+50	wr	55	40	40	DS1 Studio	409		-1		-1		-1
+50	co	55	254	254	DS1 Studio	319		-1		-1		-1
+50	wl	2	0	3	DS1 Studio	14	DS1 Studio	13		-1		-1
+50	wl	2	22	23	DS1 Studio	14	DS1 Studio	13		-1		-1
+50	wr	2	0	2	DS1 Studio	11	DS1 Studio	12		-1		-1
+50	wr	2	4	4	DS1 Studio	18		-1		-1		-1
+50	wtlr	2	2	3	DS1 Studio	16		-1		-1		-1
+50	wl	0	38	38	DS1 Studio	408		-1		-1		-1
+50	wr	0	42	42	DS1 Studio	409		-1		-1		-1
+50	wr	58	91	91	DS1 Studio	437		-1		-1		-1
+50	wr	58	92	92	DS1 Studio	436		-1		-1		-1
+50	wld	58	0	0	DS1 Studio	186		-1		-1		-1
+50	wld	58	1	1	DS1 Studio	188		-1		-1		-1
+50	wld	58	25	25	DS1 Studio	184		-1		-1		-1
+50	wld	58	26	26	DS1 Studio	186		-1		-1		-1
+50	wrd	58	0	0	DS1 Studio	185		-1		-1		-1
+50	wrd	58	1	1	DS1 Studio	188		-1		-1		-1
+50	wrd	58	2	2	DS1 Studio	183		-1		-1		-1
+50	wbl	58	41	41	DS1 Studio	185		-1		-1		-1
+50	wbr	58	43	43	DS1 Studio	188		-1		-1		-1
+50	wr	10	7	7	DS1 Studio	436		-1		-1		-1
+50	wr	10	9	9	DS1 Studio	437		-1		-1		-1
+50	fl	59	74	74	DS1 Studio	571		-1		-1		-1
+50	fl	59	97	97	DS1 Studio	570		-1		-1		-1
+50	fl	59	4	7	DS1 Studio	571		-1		-1		-1
+50	fl	59	12	15	DS1 Studio	571		-1		-1		-1
+50	fl	59	20	23	DS1 Studio	266	DS1 Studio	267		-1		-1
+50	fl	59	24	27	DS1 Studio	570		-1		-1		-1
+50	fl	59	37	40	DS1 Studio	266	DS1 Studio	267		-1		-1
+50	fl	59	41	44	DS1 Studio	570		-1		-1		-1
+50	wl	58	38	38	DS1 Studio	184		-1		-1		-1
+50	wr	58	22	22	DS1 Studio	183		-1		-1		-1
+50	wbl	58	35	36	DS1 Studio	185		-1		-1		-1
+50	wbr	58	27	27	DS1 Studio	188		-1		-1		-1
+50	wtr	58	31	31	DS1 Studio	186		-1		-1		-1
+50	wtr	58	37	37	DS1 Studio	186		-1		-1		-1
+50	fl	59	0	3	DS1 Studio	6	DS1 Studio	7	DS1 Studio	8		-1
+50	fl	59	8	11	DS1 Studio	6	DS1 Studio	7	DS1 Studio	8		-1
+50	fl	59	16	23	DS1 Studio	6	DS1 Studio	7	DS1 Studio	8		-1
+50	fl	59	33	40	DS1 Studio	6	DS1 Studio	7	DS1 Studio	8		-1
+50	fl	59	85	85	DS1 Studio	6	DS1 Studio	7	DS1 Studio	8		-1
+50	fl	59	89	89	DS1 Studio	6	DS1 Studio	7	DS1 Studio	8		-1
+50	fl	59	93	93	DS1 Studio	6	DS1 Studio	7	DS1 Studio	8		-1
+50	fl	59	68	68	DS1 Studio	692		-1		-1		-1
+50	fl	59	72	72	DS1 Studio	692		-1		-1		-1
+50	fl	59	76	76	DS1 Studio	692		-1		-1		-1
+50	fl	59	95	95	DS1 Studio	692		-1		-1		-1
+50	fl	59	99	99	DS1 Studio	692		-1		-1		-1
+50	fl	59	101	101	DS1 Studio	0		-1		-1		-1
+50	fl	59	103	103	DS1 Studio	692		-1		-1		-1
+50	wl	59	46	46	DS1 Studio	675		-1		-1		-1
+50	wl	59	50	50	DS1 Studio	675		-1		-1		-1
+50	wl	59	56	58	DS1 Studio	675		-1		-1		-1
+50	wl	59	59	59	DS1 Studio	186		-1		-1		-1
+50	wl	59	60	63	DS1 Studio	675		-1		-1		-1
+50	wl	59	64	64	DS1 Studio	186		-1		-1		-1
+50	wl	59	55	55	DS1 Studio	675		-1		-1		-1
+50	wl	59	45	45	DS1 Studio	188		-1		-1		-1
+50	wl	59	49	49	DS1 Studio	188		-1		-1		-1
+50	wr	58	44	44	DS1 Studio	20		-1		-1		-1
+50	wtlr	58	46	46	DS1 Studio	187		-1		-1		-1
+50	wbl	58	50	50	DS1 Studio	185		-1		-1		-1
+50	wtr	58	49	49	DS1 Studio	186		-1		-1		-1
+50	wbr	58	47	47	DS1 Studio	188		-1		-1		-1
+50	wl	58	45	45	DS1 Studio	184		-1		-1		-1
+50	wl	58	52	52	DS1 Studio	184		-1		-1		-1
+50	wr	58	51	51	DS1 Studio	183		-1		-1		-1
+50	fl	58	9	9	DS1 Studio	535		-1		-1		-1
+50	wtlr	0	0	0	DS1 Studio	764		-1		-1		-1
+50	fl	54	20	20	DS1 Studio	692		-1		-1		-1
+50	wbl	56	33	33	DS1 Studio	760		-1		-1		-1
+50	wbl	56	46	46	DS1 Studio	760		-1		-1		-1
+50	wtlr	56	25	25	DS1 Studio	764		-1		-1		-1
+50	wtlr	56	51	51	DS1 Studio	764		-1		-1		-1
+50	wl	56	26	27	DS1 Studio	761		-1		-1		-1
+50	wl	56	47	47	DS1 Studio	761		-1		-1		-1
+50	wtlr	0	6	6	DS1 Studio	764		-1		-1		-1
+50	wl	0	13	13	DS1 Studio	761		-1		-1		-1
+50	wl	0	15	15	DS1 Studio	761		-1		-1		-1
+50	wr	0	2	2	DS1 Studio	766		-1		-1		-1
+50	wr	0	15	15	DS1 Studio	760		-1		-1		-1
+50	wr	56	30	31	DS1 Studio	760		-1		-1		-1
+50	wr	56	41	43	DS1 Studio	760		-1		-1		-1
+50	wrd	56	28	28	DS1 Studio	766		-1		-1		-1
+50	wrd	56	29	29	DS1 Studio	767		-1		-1		-1
+50	wrd	56	35	36	DS1 Studio	760		-1		-1		-1
+50	wrd	56	50	50	DS1 Studio	767		-1		-1		-1
+50	wl	0	2	2	DS1 Studio	768		-1		-1		-1
+50	wrd	9	1	1	DS1 Studio	767		-1		-1		-1
+50	wl	0	0	0	DS1 Studio	761		-1		-1		-1
+50	wl	0	4	5	DS1 Studio	761		-1		-1		-1
+50	wl	0	8	8	DS1 Studio	761		-1		-1		-1
+50	wl	0	11	12	DS1 Studio	761		-1		-1		-1
+50	wl	0	16	16	DS1 Studio	761		-1		-1		-1
+50	wr	0	0	1	DS1 Studio	760		-1		-1		-1
+50	wr	0	4	5	DS1 Studio	760		-1		-1		-1
+50	wr	0	11	12	DS1 Studio	760		-1		-1		-1
+50	wr	0	16	16	DS1 Studio	760		-1		-1		-1
+50	wtlr	0	4	4	DS1 Studio	764		-1		-1		-1
+50	wtlr	54	6	6	DS1 Studio	761		-1		-1		-1
+50	fl	38	0	3	DS1 Studio	692		-1		-1		-1
+50	fl	54	17	19	DS1 Studio	692		-1		-1		-1
+50	fl	3	0	11	DS1 Studio	692		-1		-1		-1
+50	fl	58	7	7	DS1 Studio	1559		-1		-1		-1
+50	wr	8	12	12	DS1 Studio	760		-1		-1		-1
+50	wtlr	57	0	0	DS1 Studio	764		-1		-1		-1
+50	wl	57	0	3	DS1 Studio	761		-1		-1		-1
+50	wl	57	5	6	DS1 Studio	761		-1		-1		-1
+50	fl	38	4	7	DS1 Studio	692		-1		-1		-1
+50	fl	54	17	20	DS1 Studio	148		-1		-1		-1
+50	fl	57	11	14	DS1 Studio	692		-1		-1		-1
+50	fl	57	16	23	DS1 Studio	692		-1		-1		-1
+50	fl	58	11	13	DS1 Studio	535		-1		-1		-1
+50	wl	0	8	10	DS1 Studio	21		-1		-1		-1
+50	wl	1	0	0	DS1 Studio	21		-1		-1		-1
+50	wl	1	2	2	DS1 Studio	28		-1		-1		-1
+50	wl	1	4	5	DS1 Studio	21		-1		-1		-1
+50	wl	1	8	9	DS1 Studio	21		-1		-1		-1
+50	wl	2	20	20	DS1 Studio	21		-1		-1		-1
+50	wl	3	0	7	DS1 Studio	21		-1		-1		-1
+50	wl	45	1	1	DS1 Studio	21		-1		-1		-1
+50	wl	45	5	7	DS1 Studio	21		-1		-1		-1
+50	wl	45	10	10	DS1 Studio	21		-1		-1		-1
+50	wl	45	12	12	DS1 Studio	21		-1		-1		-1
+50	wr	0	7	9	DS1 Studio	20		-1		-1		-1
+50	wr	0	13	13	DS1 Studio	20		-1		-1		-1
+50	wr	0	15	16	DS1 Studio	20		-1		-1		-1
+50	wr	1	2	2	DS1 Studio	34		-1		-1		-1
+50	wr	1	5	5	DS1 Studio	20		-1		-1		-1
+50	wr	1	8	8	DS1 Studio	20		-1		-1		-1
+50	wr	2	18	19	DS1 Studio	20		-1		-1		-1
+50	wr	3	0	7	DS1 Studio	20		-1		-1		-1
+50	wr	45	4	5	DS1 Studio	20		-1		-1		-1
+50	wr	45	7	7	DS1 Studio	20		-1		-1		-1
+50	wr	45	9	9	DS1 Studio	20		-1		-1		-1
+50	wtlr	0	2	2	DS1 Studio	24		-1		-1		-1
+50	wtlr	2	0	0	DS1 Studio	24		-1		-1		-1
+50	wtlr	3	0	0	DS1 Studio	24		-1		-1		-1
+50	wtlr	45	1	2	DS1 Studio	24		-1		-1		-1
+50	wtr	1	0	0	DS1 Studio	21		-1		-1		-1
+50	wtr	45	1	1	DS1 Studio	23		-1		-1		-1
+50	wtr	45	3	3	DS1 Studio	23		-1		-1		-1
+50	wbl	1	0	0	DS1 Studio	20		-1		-1		-1
+50	wbl	45	0	1	DS1 Studio	22		-1		-1		-1
+50	wbr	3	0	0	DS1 Studio	25		-1		-1		-1
+50	wbr	45	0	0	DS1 Studio	25		-1		-1		-1
+50	wbr	45	2	2	DS1 Studio	25		-1		-1		-1
+50	wrd	45	0	0	DS1 Studio	34		-1		-1		-1
+50	tr	1	6	7	DS1 Studio	1361		-1		-1		-1
+50	wl	4	1	1	DS1 Studio	21		-1		-1		-1
+50	wl	5	1	1	DS1 Studio	21		-1		-1		-1
+50	co	27	0	0	DS1 Studio	25		-1		-1		-1
+50	wl	45	0	2	DS1 Studio	21		-1		-1		-1
+50	wl	45	8	8	DS1 Studio	21		-1		-1		-1
+50	wr	30	0	0	DS1 Studio	20		-1		-1		-1
+50	wr	45	1	2	DS1 Studio	20		-1		-1		-1
+50	wtll	45	1	1	DS1 Studio	21		-1		-1		-1
+50	wbl	45	0	0	DS1 Studio	20		-1		-1		-1
+50	wbl	45	1	1	DS1 Studio	20		-1		-1		-1
+50	wld	45	0	0	DS1 Studio	35		-1		-1		-1
+50	tr	0	15	15	DS1 Studio	1361		-1		-1		-1
+50	tr	1	4	7	DS1 Studio	1361		-1		-1		-1
+50	wtll	1	6	6	DS1 Studio	21		-1		-1		-1
+50	wl	0	0	2	DS1 Studio	21		-1		-1		-1
+50	wr	0	1	2	DS1 Studio	20		-1		-1		-1
+50	wr	1	8	9	DS1 Studio	20		-1		-1		-1
+50	wr	2	0	2	Stn_WR a	11	Stn_WR b	12		-1		-1
+50	wr	2	4	4	Stn_L R E	18		-1		-1		-1
+50	wl	2	4	4	Stn_L L E	17		-1		-1		-1
+50	wtr	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+50	wtlr	2	0	4	Stn_X	16		-1		-1		-1
+50	wtll	2	0	4	Stn_X	16		-1		-1		-1
+50	wbl	2	0	4	Stn_WR a	11	Stn_WR b	12		-1		-1
+50	wl	2	0	4	Stn_WL a	13	Stn_WL b	14		-1		-1
+50	wr	2	14	23	Stn_WR a	11	Stn_WR b	12		-1		-1
+50	wl	2	14	23	Stn_WL a	13	Stn_WL b	14		-1		-1
+50	wr	3	-1	-1	Guild Outdoor Cliff - Orientation 2	46		47		48		49
+50	wl	3	-1	-1	Guild Outdoor Cliff - Orientation 1	51		52		53		54
+50	wtr	3	-1	-1	Guild Outdoor Cliff - Orientation 5	51		52		53		54
+50	wtlr	3	-1	-1	Guild Outdoor Cliff - Orientation 3	55		-1		-1		-1
+50	wtll	3	-1	-1	Guild Outdoor Cliff - Orientation 4	55		-1		-1		-1
+50	wbr	3	-1	-1	Guild Outdoor Cliff - Orientation 7	50		-1		-1		-1
+50	wbl	3	-1	-1	Guild Outdoor Cliff - Orientation 6	52		-1		-1		-1
+50	wl	15	5	-1	WL A	21		-1		-1		-1
+50	wr	15	5	-1	WR A	20		-1		-1		-1
+50	wr	45	-1	-1	WR A	20		-1		-1		-1
+50	wl	45	0	4	WL A	21		-1		-1		-1
+50	wl	45	5	6	WBR	25		-1		-1		-1
+50	wl	45	7	-1	WL A	21		-1		-1		-1
+50	wtlr	45	-1	-1	WTLL	24		-1		-1		-1
+50	wtll	45	-1	-1	WTLL	24		-1		-1		-1
+50	wbr	45	-1	-1	WBR	25		-1		-1		-1
+50	wtr	45	0	2	WTR	23		-1		-1		-1
+50	wtr	45	-1	-1	WTR	23		-1		-1		-1
+50	wbl	45	-1	-1	WBL	22		-1		-1		-1
+50	wl	2	-1	-1	WL A	21	WL B	39		-1		-1
+50	wl	4	-1	-1	WL A	21	WL B	39		-1		-1
+50	wrd	45	-1	-1	WRD 1	34		-1		-1		-1
+50	wld	45	-1	-1	WLD 1	35		-1		-1		-1
+50	fl	0	1	47	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+50	fl	0	54	54	Waypoint	307		-1		-1		-1
+50	fl	0	49	49	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+50	fl	2	8	9	Floor Path A	0	Floor Path B	1	Floor Path C	2	Floor Path D	3
+50	wl	1	0	1	Guild outside tudor, Orientation 1	21		-1		-1		-1
+50	wl	1	4	9	Guild outside tudor, Orientation 1	21		-1		-1		-1
+50	wtr	1	-1	-1	Guild outside tudor, Orientation 5	23		-1		-1		-1
+50	wr	1	0	1	Guild outside tudor, Orientation 2	20		-1		-1		-1
+50	wr	1	4	9	Guild outside tudor, Orientation 2	20		-1		-1		-1
+50	wbl	1	-1	-1	Guild outside tudor, Orientation 6	22		-1		-1		-1
+50	wl	0	0	1	Guild Inside Tudor - Orientation 1	21		-1		-1		-1
+50	wl	0	4	6	Guild Inside Tudor - Orientation 1	21		-1		-1		-1
+50	wl	0	8	16	Guild Inside Tudor - Orientation 1	21		-1		-1		-1
+50	wr	0	0	1	Guild Inside Tudor - Orientation 2	20		-1		-1		-1
+50	wr	0	4	16	Guild Inside Tudor - Orientation 2	20		-1		-1		-1
+50	wtlr	0	-1	-1	Guild Inside Tudor - Orientation 3	24		-1		-1		-1
+50	wtll	0	-1	-1	Guild Inside Tudor - Orientation 4	24		-1		-1		-1
+50	fl	45	0	8	outdoor wooden floor	692		-1		-1		-1
+50	fl	2	0	7	outdoor wooden floor	692		-1		-1		-1
+50	fl	3	0	11	inside guild floor	148		-1		-1		-1
+50	fl	6	4	4	Outdoor Guild Fireplace	405		-1		-1		-1
+50	wld	7	11	11	guild castle - orientation 8L	1398		-1		-1		-1
+50	wld	7	12	12	guild castle - orientation 8R	1399		-1		-1		-1
+50	wld	7	18	18	guild castle - orientation 8L	1398		-1		-1		-1
+50	wld	7	19	19	guild castle - orientation 8R	1399		-1		-1		-1
+50	wl	7	0	10	guild castle - orientation 1	761		-1		-1		-1
+50	wr	7	0	6	guild castle - orientation 2	760		-1		-1		-1
+50	wtlr	7	-1	-1	guild castle - orientation 3	764		-1		-1		-1
+50	wtll	7	-1	-1	guild castle - orientation 4	764		-1		-1		-1
+50	wl	9	-1	-1	guild inside castle - orientation 1	761		-1		-1		-1
+50	wr	9	-1	-1	guild inside castle - orientation 2	760		-1		-1		-1
+50	wtlr	9	-1	-1	guild inside castle - orientation 3	764		-1		-1		-1
+50	wtll	9	-1	-1	guild inside castle - orientation 4	764		-1		-1		-1
+50	wld	9	-1	-1	guild inside castle - orientation 8	755		-1		-1		-1
+50	wrd	9	-1	-1	guild inside castle - orientation 9	754		-1		-1		-1
+50	wtr	9	-1	-1	guild inside castle - orientation 5	761		-1		-1		-1
+50	wbl	9	-1	-1	guild inside castle - orientation 6	760		-1		-1		-1
+50	wl	8	11	11	guild inside upper castle - orientation 1	772		-1		-1		-1
+50	wl	8	12	12	guild inside upper castle - orientation 1	773		-1		-1		-1
+50	wl	8	0	10	guild inside upper castle - orientation 1	761		-1		-1		-1
+50	wl	8	13	13	guild inside upper castle - orientation 1	761		-1		-1		-1

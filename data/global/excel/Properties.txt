@@ -212,7 +212,7 @@ dmg-fire/time	1			18	item_fire_damagemax_bytime																									Fire Dam
 dmg-ltng/time	1			18	item_ltng_damagemax_bytime																									Lightning Damage Max / time inc.	center period	min	max	209	0
 dmg-pois/time	1			18	item_pois_damagemax_bytime																									Poison Damage Max / time inc.	center period	min	max	210	0
 res-cold/time	1			18	item_resist_cold_bytime																									Resist Cold / time inc.	center period	min	max	211	0
-res-fire/time	1			18	item_resist_fire_bytime																									Resist Fire / time inc.	center period	min	max	212	0
+map-mon-dropclassitems	1			8	map_mon_dropclassitems																													212	0
 res-ltng/time	1			18	item_resist_ltng_bytime																									Resist Lightning / time inc	center period	min	max	213	0
 res-pois/time	1			18	item_resist_pois_bytime																									Resist Poison / time inc	center period	min	max	214	0
 abs-cold/time	1			18	item_absorb_cold_bytime																									Absorb Cold / time inc.	center period	min	max	215	0
@@ -446,6 +446,14 @@ deadly-strike-multiplier	1			1	item_ds_multiplier																													44
 crit-strike-chance	1			1	item_crit_chance																													443	0
 map-glob-dropbonus	1			8	map_glob_dropbonus																													444	0
 map-glob-dropethereal	1			8	map_glob_dropethereal																													445	0
-treacherous	1			1	treacherous																													272	0
-map-mon-att	1			1	map_mon_att																													300	0
-map-glob-bossdropstreasure	1			8	map_glob_bossdropstreasure																													444	0
+treacherous	1			1	treacherous																													446	0
+map-mon-att	1			1	map_mon_att																													447	0
+map-glob-bossdropstreasure	1			8	map_glob_bossdropstreasure																													448	0
+phasing	1			8	phasing			24	state	phasing	1	1																						449	0
+zon-ear-drops	1			8	map_glob_dropbonus			8	zon_ear_drops																									450	0
+sin-ear-drops	1			8	map_glob_dropbonus			8	sin_ear_drops																									451	0
+barb-ear-drops	1			8	map_glob_dropbonus			8	barb_ear_drops																									452	0
+druid-ear-drops	1			8	map_glob_dropbonus			8	map_mon_dropclassitems																									453	0
+necro-ear-drops	1			8	map_glob_dropbonus			8	necro_ear_drops																									454	0
+paladin-ear-drops	1			8	map_glob_dropbonus			8	paladin_ear_drops																									455	0
+sorc-ear-drops	1			8	map_glob_dropbonus			8	sorc_ear_drops																									456	0

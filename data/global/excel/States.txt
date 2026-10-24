@@ -176,7 +176,7 @@ corpseexp	173																														1	1	1		1								1									18		corpsee
 whirlwind	174																																											whirlwind																											0
 fullsetgeneric	175																																											aura_fanatic																											0
 monsterset	176	3			1							1																																					fire_cast_2																1	135					0
-delerium	177	3			1						1	1																																					teleport	teleport															1	212					0
+delerium	177	3			1						2	1																																					teleport	teleport															1	212					0
 antidote	178																				1																																																		0
 thawing	179																		1																																																				0
 staminapot	180																			1																																																			0
@@ -203,7 +203,7 @@ hunger	200																																											bloodlust_state												
 passive_meditate	201																																																																						0
 immune_give	202					1				1							1	1	1																																lightresist																				0
 immune_get	203					1				1							1	1	1																																lightresist																				0
-cowset	204	3																																																															1	391					0
+cowset	204	3			1						2	1																																																					1	391					0
 bloodwarp	205																																																																						0
 poison_weakness	206																											1																poison_weakness																											0
 merc_passive_mastery	207																																																																						0
@@ -223,7 +223,7 @@ black	220																														1	1			1																							101	115				
 inferno_debuff	221																								1																			inferno_debuff																											0
 arcticblast_debuff	222																										1																	arcticblast_debuff																											0
 sacrifice_explosion	223																																																cast_undead																						0
-temp_splash	224																																																																						0
+temp_skill_buff	224																																																																						0
 deepwounds	225																																																		deep_wounds																				0
 dclone8set	226																																											dclone_aura	dclone_t8_aura																										0
 rathma8set	227																																											rathma_aura	rathma_t8_aura																										0
@@ -237,7 +237,10 @@ toppvpset	234																																											toppvp_aura													
 rakanoth_steal	235																																					1										rakanoth_steal_1			progressive_steal	1	1																		0
 poison_strike	236																																																																						0
 maxlevel8set	237																																											maxlevel_aura	maxlevel_t8_aura																										0
-progressive_mindblast	238																																					1													progressive_mindblast	1	1																		0
+progressive_mindblast	238																																																		progressive_mindblast	1	1																		0
 lucionset	239																																											lucion_aura																											0
 lucion8set	240																																											lucion_aura	lucion_t8_aura																										0
 uberscaling	241																																																																						0
+holygrail	242																																											holygrail_aura																											0
+holygrail_top3	243																																											holygrail_aura	maxlevel_t8_aura																										0
+phasing	244					1				1																																									phasing																				0
