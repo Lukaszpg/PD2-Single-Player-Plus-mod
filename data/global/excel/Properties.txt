@@ -450,10 +450,10 @@ treacherous	1			1	treacherous																													446	0
 map-mon-att	1			1	map_mon_att																													447	0
 map-glob-bossdropstreasure	1			8	map_glob_bossdropstreasure																													448	0
 phasing	1			8	phasing			24	state	phasing	1	1																						449	0
-zon-ear-drops	1			8	map_glob_dropbonus			8	zon_ear_drops																									450	0
-sin-ear-drops	1			8	map_glob_dropbonus			8	sin_ear_drops																									451	0
-barb-ear-drops	1			8	map_glob_dropbonus			8	barb_ear_drops																									452	0
-druid-ear-drops	1			8	map_glob_dropbonus			8	map_mon_dropclassitems																									453	0
-necro-ear-drops	1			8	map_glob_dropbonus			8	necro_ear_drops																									454	0
-paladin-ear-drops	1			8	map_glob_dropbonus			8	paladin_ear_drops																									455	0
-sorc-ear-drops	1			8	map_glob_dropbonus			8	sorc_ear_drops																									456	0
+zon-ear-drops	1			8	map_glob_monsterrarity			8	zon_ear_drops																									450	0
+sin-ear-drops	1			8	map_glob_monsterrarity			8	sin_ear_drops																									451	0
+barb-ear-drops	1			8	map_glob_monsterrarity			8	barb_ear_drops																									452	0
+druid-ear-drops	1			8	map_glob_monsterrarity			8	map_mon_dropclassitems																									453	0
+necro-ear-drops	1			8	map_glob_monsterrarity			8	necro_ear_drops																									454	0
+paladin-ear-drops	1			8	map_glob_monsterrarity			8	paladin_ear_drops																									455	0
+sorc-ear-drops	1			8	map_glob_monsterrarity			8	sorc_ear_drops																									456	0

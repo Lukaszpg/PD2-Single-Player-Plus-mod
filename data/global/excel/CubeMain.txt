@@ -2185,25 +2185,25 @@ Lillith's Mirror arrows (craft) elite	1			100					2	"aqv3,crf"	llmr						useitem
 Lillith's Mirror bolts (craft) elite	1			100					2	"cqv3,crf"	llmr						useitem	99		100	dye	100		4	4	mirrored	100		1	1																useitem	99		100	dye	100		21	21	mirrored	100		1	1																																													0
 map norm + ear amazon	1			2	30				2	"map,nor"	"ivez,qty=1"						useitem			100																																																																																				0
 map unique + ear amazon	1			2	30				2	"map,uni"	"ivez,qty=1"						useitem			100																																																																																				0
-map + ear amazon	1			100	18	276	0		2	map	"ivez,qty=1"						useitem			100	map-glob-monsterrarity	100		25	25	zon-ear-drops	100		55	55	treacherous	100		1	1	map-mon-att-cast-speed	100		50	50	map-mon-velocity%	100		25	25																																																											0
+map + ear amazon	1			100	18	276	0		2	map	"ivez,qty=1"						useitem			100	zon-ear-drops	100		10	10	map-glob-dropbonus	100		50	50	treacherous	100		1	1	map-mon-att-cast-speed	100		50	50	map-mon-velocity%	100		25	25																																																											0
 map norm + ear assassin	1			2	30				2	"map,nor"	"ivea,qty=1"						useitem			100																																																																																				0
 map unique + ear assassin	1			2	30				2	"map,uni"	"ivea,qty=1"						useitem			100																																																																																				0
-map + ear assassin	1			100	18	276	0		2	map	"ivea,qty=1"						useitem			100	map-glob-monsterrarity	100		25	25	sin-ear-drops	100		55	55	treacherous	100		7	7	map-mon-deadlystrike	100		10	10	map-mon-balance1	100		120	120																																																											0
+map + ear assassin	1			100	18	276	0		2	map	"ivea,qty=1"						useitem			100	sin-ear-drops	100		10	10	map-glob-dropbonus	100		50	50	treacherous	100		7	7	map-mon-deadlystrike	100		10	10	map-mon-balance1	100		120	120																																																											0
 map norm + ear barbarian	1			2	30				2	"map,nor"	"iveb,qty=1"						useitem			100																																																																																				0
 map unique + ear barbarian	1			2	30				2	"map,uni"	"iveb,qty=1"						useitem			100																																																																																				0
-map + ear barbarian	1			100	18	276	0		2	map	"iveb,qty=1"						useitem			100	map-glob-monsterrarity	100		25	25	barb-ear-drops	100		55	55	treacherous	100		5	5	map-mon-ed%	100		25	25	map-mon-crush	100		20	20																																																											0
+map + ear barbarian	1			100	18	276	0		2	map	"iveb,qty=1"						useitem			100	barb-ear-drops	100		10	10	map-glob-dropbonus	100		50	50	treacherous	100		5	5	map-mon-ed%	100		25	25	map-mon-crush	100		20	20																																																											0
 map norm + ear druid	1			2	30				2	"map,nor"	"ived,qty=1"						useitem			100																																																																																				0
 map unique + ear druid	1			2	30				2	"map,uni"	"ived,qty=1"						useitem			100																																																																																				0
-map + ear druid	1			100	18	276	0		2	map	"ived,qty=1"						useitem			100	map-glob-monsterrarity	100		25	25	druid-ear-drops	100		55	55	treacherous	100		6	6	map-mon-phys-as-extra-fire	100		25	25	map-play-res-all-max	100		-5	-5																																																											0
+map + ear druid	1			100	18	276	0		2	map	"ived,qty=1"						useitem			100	druid-ear-drops	100		10	10	map-glob-dropbonus	100		50	50	treacherous	100		6	6	map-mon-phys-as-extra-fire	100		25	25	map-play-res-all-max	100		-5	-5																																																											0
 map norm + ear necromancer	1			2	30				2	"map,nor"	"iven,qty=1"						useitem			100																																																																																				0
 map unique + ear necromancer	1			2	30				2	"map,uni"	"iven,qty=1"						useitem			100																																																																																				0
-map + ear necromancer	1			100	18	276	0		2	map	"iven,qty=1"						useitem			100	map-glob-monsterrarity	100		25	25	necro-ear-drops	100		55	55	treacherous	100		3	3	map-play-regen	100		-100	-100	map-mon-phys-as-extra-pois	100		50	50																																																											0
+map + ear necromancer	1			100	18	276	0		2	map	"iven,qty=1"						useitem			100	necro-ear-drops	100		10	10	map-glob-dropbonus	100		50	50	treacherous	100		3	3	map-play-regen	100		-100	-100	map-mon-phys-as-extra-pois	100		50	50																																																											0
 map norm + ear sorceress	1			2	30				2	"map,nor"	"ives,qty=1"						useitem			100																																																																																				0
 map unique + ear sorceress	1			2	30				2	"map,uni"	"ives,qty=1"						useitem			100																																																																																				0
-map + ear sorceress	1			100	18	276	0		2	map	"ives,qty=1"						useitem			100	map-glob-monsterrarity	100		25	25	sorc-ear-drops	100		55	55	treacherous	100		2	2	map-mon-phys-as-extra-ltng	100		50	50	map-play-res-all	100		-25	-25																																																											0
+map + ear sorceress	1			100	18	276	0		2	map	"ives,qty=1"						useitem			100	sorc-ear-drops	100		10	10	map-glob-dropbonus	100		50	50	treacherous	100		2	2	map-mon-phys-as-extra-ltng	100		50	50	map-play-res-all	100		-25	-25																																																											0
 map norm + ear paladin	1			2	30				2	"map,nor"	"ivep,qty=1"						useitem			100																																																																																				0
 map unique + ear paladin	1			2	30				2	"map,uni"	"ivep,qty=1"						useitem			100																																																																																				0
-map + ear paladin	1			100	18	276	0		2	map	"ivep,qty=1"						useitem			100	map-glob-monsterrarity	100		25	25	paladin-ear-drops	100		55	55	treacherous	100		4	4	map-play-damageresist	100		-5	-5	map-mon-att	100		50	50																																																											0
+map + ear paladin	1			100	18	276	0		2	map	"ivep,qty=1"						useitem			100	paladin-ear-drops	100		10	10	map-glob-dropbonus	100		50	50	treacherous	100		4	4	map-play-damageresist	100		-5	-5	map-mon-att	100		50	50																																																											0
 3 flawless amethysts -> perfect amethyst (no key)	1			0					1	"gzv,qty=3"							gpv			100																																																																																				0
 3 flawless rubies -> perfect ruby (no key)	1			0					1	"glr,qty=3"							gpr			100																																																																																				0
 3 flawless sapphires -> perfect sapphire (no key)	1			0					1	"glb,qty=3"							gpb			100																																																																																				0
@@ -2598,13 +2598,13 @@ GHEED'S CURIOUS BOX - PHASE 1 - ROLL																																												
 Gheed's Curious Box Roll	1	2		100	18	361	0		1	gcbx							useitem				corruptnum	100		1501	1515																																																																															0
 																																																																																																								0
 GHEED'S CURIOUS BOX - PHASE 2 - OUTCOME																																																																																																								0
-Perfect Amethysts	1			100	16	361	1502		1	gcbx							"gpvs,qty=50"																																																																																							0
-Perfets Topazes	1			100	16	361	1504		1	gcbx							"gpys,qty=50"																																																																																							0
-Perfect Skulls	1			100	16	361	1506		1	gcbx							"skzs,qty=50"																																																																																							0
-Perfect Rubys	1			100	16	361	1508		1	gcbx							"gprs,qty=50"																																																																																							0
-Perfect Diamonds	1			100	16	361	1510		1	gcbx							"gpws,qty=50"																																																																																							0
-Perfect Sapphires	1			100	16	361	1512		1	gcbx							"gpbs,qty=50"																																																																																							0
-Perfect Emeralds	1			100	16	361	1514		1	gcbx							"gpgs,qty=50"																																																																																							0
+Perfect Amethysts	1			100	16	361	1502		1	gcbx							"gpv,qty=50"																																																																																							0
+Perfets Topazes	1			100	16	361	1504		1	gcbx							"gpy,qty=50"																																																																																							0
+Perfect Skulls	1			100	16	361	1506		1	gcbx							"skz,qty=50"																																																																																							0
+Perfect Rubys	1			100	16	361	1508		1	gcbx							"gpr,qty=50"																																																																																							0
+Perfect Diamonds	1			100	16	361	1510		1	gcbx							"gpw,qty=50"																																																																																							0
+Perfect Sapphires	1			100	16	361	1512		1	gcbx							"gpb,qty=50"																																																																																							0
+Perfect Emeralds	1			100	16	361	1514		1	gcbx							"gpg,qty=50"																																																																																							0
 Jewel Fragments	1			100	16	361	1515		1	gcbx							"jewf,qty=50"																																																																																							0
 																																																																																																								0
 CIRCLET CRAFTING																																																																																																								0
@@ -2975,8 +2975,8 @@ Brilliant	1			100					3	jewf,qty=2	r14s,qty=2	gpws,qty=2					crfp,qty=2									
 Brilliant	1			100					3	jewf,qty=1	r14s,qty=1	gpws,qty=1					crfp,qty=1																																																																																							0
 																																																																																																								0
 UNCUT PRISTINE JEWEL																																																																																																								0
-Fire	1			100					2	unpj,qty=1	gprs,qty=50						Rainbow Facet Fire	99																																																																																						0
-Cold	1			100					2	unpj,qty=1	gpbs,qty=50						Rainbow Facet Cold	99																																																																																						0
-Lightning	1			100					2	unpj,qty=1	gpys,qty=50						Rainbow Facet Ltng	99																																																																																						0
-Poison	1			100					2	unpj,qty=1	gpgs,qty=50						Rainbow Facet Pois	99																																																																																						0
+Fire	1			100					2	unpj,qty=1	gpr,qty=50						Rainbow Facet Fire	99																																																																																						0
+Cold	1			100					2	unpj,qty=1	gpb,qty=50						Rainbow Facet Cold	99																																																																																						0
+Lightning	1			100					2	unpj,qty=1	gpy,qty=50						Rainbow Facet Ltng	99																																																																																						0
+Poison	1			100					2	unpj,qty=1	gpg,qty=50						Rainbow Facet Pois	99																																																																																						0
 																																																																																																								0
